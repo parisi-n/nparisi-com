@@ -1,0 +1,11 @@
+<!-- implementare type="rounded" -->
+<figure class="block-image{{if .Get "type" }} {{ .Get "type" }}{{end}}"{{ if .Get "parent-style" }} style="{{.Get "parent-style" }}"{{end}}>
+    <img src="{{if .Page.Params.baseimg }}{{ .Page.Params.baseimg | absURL }}{{end}}{{ .Params.baseimg }}{{ .Get "src" }}"
+         {{ if .Get "alt"}} alt="{{ .Get "alt" }}"{{end}}
+         {{ if .Get "class" }} class="{{ .Get "class" }}"{{end}}
+         {{ if .Get "style" }} style="{{ .Get "style" }}"{{end}}
+         >
+    <figcaption>
+        {{ .Get "caption" }}
+    </figcaption>
+</figure>

@@ -1,0 +1,58 @@
+{
+    "sto_leggendo" : {
+                        "title" :  "Chernobyl" ,
+                        "auth" : "autori vari" ,
+                        "ref" : "chernobyl100-fatti"
+                    }
+                        ,
+                        
+    "letti" : [
+                    {
+                    "sub_header" : "Tecnologia" ,
+                    "elenco" : [
+                                    {
+                                        "title" :  "Business blockchain" ,
+                                        "auth" : "Willian Mougayar" ,
+                                        "ref" : "url sito"
+                                    } ,
+                                    {
+                                        "title" :  "Data Science for Dummies" ,
+                                        "auth" : "Lillian Pierson" ,
+                                        "ref" : "data-science-dummies"
+                                    }
+                                ]
+                    } ,
+                    
+                    {
+                    "sub_header" : "Social" ,
+                    "elenco" : [
+                                    {
+                                        "title" :  "Facebook marketing" ,
+                                        "auth" : "Chiara Cini" ,
+                                        "ref" : "url sito"
+                                    } ,
+                                    {
+                                        "title" :  "Instagram marketing" ,
+                                        "auth" : "Chiara Cini" ,
+                                        "ref" : "instagram-marketing"
+                                    } ,
+                                    {
+                                        "title" :  "Codice Montemagno" ,
+                                        "auth" : "Marco Montemagno" ,
+                                        "ref" : "codice-montemagno"
+                                    }
+                                ]
+                    } ,
+                    
+                    {
+                    "sub_header" : "Arte" ,
+                    "elenco" : [
+                                    {
+                                        "title" :  "Colors XXL" ,
+                                        "auth" : "Jim Krause" ,
+                                        "ref" : "colors-xxl"
+                                    }
+                                ]
+                    }
+                ]
+}

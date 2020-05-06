@@ -1,0 +1,43 @@
+<!-- Altre icone: https://fontawesome.com/icons/ -->
+
+{{ $url := "." | absURL }}
+
+<div id="share_bar_button">
+
+    <a href="https://www.facebook.com/sharer/sharer.php?u={{ $url }}" title="Condividi su Facebook" target="_blank">
+        <div class="fa-custom-button">
+            <i class="fab fa-facebook-f fab-center-bottom"></i>
+        </div>
+    </a>
+    
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ $url }}&title=&summary=&source=" title="Condividi su Linkedin" target="_blank">
+        <div class="fa-custom-button">
+            <i class="fab fa-linkedin-in"></i>
+        </div>
+    </a>
+    
+    <a href="https://getpocket.com/save?url={{ $url }}&title={{ .Params.title }}" title="Trasferisci articolo su Pocket" target="_blank">
+        <div class="fa-custom-button">
+            <i class="fab fa-get-pocket"></i>
+        </div>
+    </a>
+    
+    <a href="https://pinterest.com/pin/create/button/?url={{ $url }}&media=&description={{ .Params.title }}" title="Condividi su Pinterest" target="_blank">
+        <div class="fa-custom-button">
+            <i class="fab fa-pinterest-p"></i>
+        </div>
+    </a>
+    
+    <a href="https://twitter.com/home?status={{ $url }}" title="Condividi su Twitter" target="_blank">
+        <div class="fa-custom-button">
+            <i class="fab fa-twitter"></i>
+        </div>
+    </a>
+    
+    <a href="whatsapp://send?text=Leggi questo post: {{ $url }}" data-action="share/whatsapp/share" class="fa-custom-button-whatsapp" title="Condividi su Whatsapp" target="_blank">
+        <div class="fa-custom-button">
+            <i class="fab fa-whatsapp"></i>
+        </div>
+    </a>
+    
+</div>

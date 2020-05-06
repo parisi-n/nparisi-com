@@ -1,0 +1,38 @@
+{{ define "body" }}
+
+<body class="post-template-default single single-post single-format-standard ct-body singular singular-post not-front standard">
+{{ end }}
+
+
+{{ define "main" }}
+
+  <div id="loop-container" class="loop-container">
+        <div class="entry-container">
+            <div class='entry-header'>
+              <h1 class='entry-title'>Pagina non trovata</h1>
+            </div>
+          
+
+        </div>
+
+          <div class="entry-content">
+            <article>
+                
+                <p style="center">La pagina che cerchi non esiste</p>
+                
+              {{ .Content }}
+            </article>              
+          </div>
+            
+<!--      <section id="comments" class="comments">         </section>-->
+
+    </div>
+
+</div>
+
+</div>
+
+<!--</div>--> <!-- .main -->
+
+
+{{ end }}

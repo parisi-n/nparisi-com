@@ -1,0 +1,29 @@
+{
+    "array" : [
+        {
+            "url_image" : "racconti-viaggio/budapest/ep-4-day-trip-belgrado/IMG_6909.jpg" ,
+            "text_title" : "Quattro giorni a Budapest: day trip a Belgrado" ,
+            "url" : "post/racconti-viaggio/budapest/ep-4-day-trip-belgrado/"
+        } ,
+        {
+            "url_image" : "racconti-viaggio/budapest/ep-3-bagni-di-szecheny/IMG_6753.jpg" ,
+            "text_title" : "Quattro giorni a Budapest: i bagni di Szechenyi" ,
+            "url" : "post/racconti-viaggio/budapest/ep-3-bagni-di-szecheny/"
+        } ,
+        {
+            "url_image" : "racconti-viaggio/budapest/ep-2-noleggiare-un-monsteroller/IMG_6553.jpg" ,
+            "text_title" : "Quattro giorni a Budapest: noleggiare un monsteroller" ,
+            "url" : "post/racconti-viaggio/budapest/ep-2-noleggiare-un-monsteroller/"
+        } ,
+        {
+            "url_image" : "racconti-viaggio/budapest/ep-1-cosa-fare-dove-andare/IMG_6088.jpg" ,
+            "text_title" : "Quattro giorni Budapest: cosa fare, dove andare e con chi (non) andare" ,
+            "url" : "post/racconti-viaggio/budapest/ep-1-cosa-fare-dove-andare/"
+        } ,
+        {
+            "url_image" : "racconti-viaggio/georgia-azerbaijan/day-5-night-train/20190927_192156.jpg" ,
+            "text_title" : "Georgia-Azerbaijan // Night train Tbilisi-Baku" ,
+            "url" : "post/racconti-viaggio/georgia-azerbaijan/day-5-night-train/"
+        }
+    ]
+}

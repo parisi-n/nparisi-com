@@ -1,0 +1,81 @@
+{{ $paginator := .Paginate (where (where .Site.Pages "Type" "post").ByDate.Reverse "IsPage" true) }}
+
+{{ if eq $paginator.PageNumber 1 }}
+<div id="start"></div>
+    <div class="header-section-index in-evidenza">
+        IN EVIDENZA
+    </div>
+    <div class="header-section-index-bottom in-evidenza" id="start"></div>
+    {{ $slider := .Site.Data.slider.array }}
+    {{ partial "slider.html" ( dict "slider" $slider ) }}
+
+    <div class="header-section-index">
+        INSTAGRAM
+    </div>
+    <div class="header-section-index-bottom"></div>
+
+    {{ partial "instagram_feed.html" }}
+
+    <div class="header-section-index">
+        ULTIMI POST
+    </div>    
+    <div class="header-section-index-bottom"></div>
+{{ end }}
+<div id="loop-container" class="loop-container">
+	{{ range $index, $element := .Paginator.Pages }}
+
+        {{ if and (isset .Params "image") .Params.image }}
+	{{ if eq (mod $index 2) 0 }}
+	<div class="post type-post odd excerpt">
+		{{ else }}
+		<div class="post type-post even excerpt">
+			{{ end }}
+			{{ else }}
+
+			<div class="post type-post odd excerpt">
+
+				{{ end }}
+                                
+                                                                            
+                                            {{$category := index (.Params.categories) 0}}
+
+                                            <!-- QUOTE -->
+                                            
+                                            {{if eq $category "quote" }}
+                                                    <div class="format-quote">
+                                                        <p>{{.Content}}</p>
+                                                    </div>
+                                            {{else}}
+
+                                                {{ if and (isset .Params "image") .Params.image }}
+                                                <a class="featured-image-link" href="{{ .Permalink }}"><div class='featured-image lazy lazy-bg-image' {{if isset .Site.Params "usepostimgfolder"}}data-background="{{ .Permalink }}{{ .Params.baseimg }}{{ .Params.image }}"{{ else }}data-background="{{ .Params.baseimg | absURL }}{{ .Params.image }}"{{ end }}></div></a>
+
+                                                {{ end }}
+                                                <div class="excerpt-container">
+                                                        <div class="excerpt-meta">
+
+                                                            <!-- POST NORMALE -->
+                                                            <span class="date">{{ .Date.Format "02 January 2006" }}</span>
+
+                                                            <span> / </span>
+                                                            <span class="category">
+                                                                    <a href="/categories/{{ $category | urlize }}">{{ humanize $category }}</a>
+                                                            </span>
+                                                            </div>
+                                                            <div class='excerpt-header'>
+                                                                    <h2 class='excerpt-title'>
+                                                                            <a href="{{ .Permalink }} "> {{ .Title }} </a>
+                                                                    </h2>
+                                                            </div>
+                                                            <div class='excerpt-content'>
+                                                                    <article>
+                                                                        <p>{{ .Summary }}</p>
+
+                                                                            <div class="more-link-wrapper"><a class="more-link" href="{{ .Permalink }}">Continua a leggere<span class="screen-reader-text">Questo è un post standard</span></a></div>
+                                                                    </article>
+                                                            </div>
+                                                </div>
+                                            {{end}}
+			</div>
+			{{ end }}
+		</div>

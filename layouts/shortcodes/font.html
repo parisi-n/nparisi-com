@@ -1,0 +1,6 @@
+{{ if eq (.Get 0) "gray" }}
+    {{ .Scratch.Set "color" "#c8c8c8" }}
+{{end}}
+<p style="color: {{.Scratch.Get "color"}}">
+    {{ .Inner | markdownify }}
+</p>

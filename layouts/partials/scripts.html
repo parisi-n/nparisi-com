@@ -1,0 +1,87 @@
+<script src="{{ "js/jquery.min.js" | absURL }}"></script>
+<script src="{{ "js/jquerymigrate.js" | absURL }}"></script>
+<script src="{{ "js/production.min.js" | absURL }}?v={{ now.Unix }}"></script>
+
+<!-- Slider -->
+<script src="{{ "assets/slick/slick.min.js" | absURL }}"></script>
+<script type="text/javascript">
+    /* Settings: https://kenwheeler.github.io/slick/ */
+    var $ = jQuery;
+    $(document).ready( function()
+    {
+        $('.slick-container').slick({
+            dots: true,
+            infinite: true,
+            speed: 500,
+            fade: true,
+            cssEase: 'ease',
+            autoplay: true,
+            autoplaySpeed: 3000
+        });
+    });
+</script>
+
+<!-- Instagram -->
+<script src="{{ "js/jquery.instagramFeed.min.js" | absURL }}"></script>
+<script>
+    /* Settings: https://www.sowecms.com/demos/jquery.instagramFeed/index.html */
+    (function($){
+        $(window).on('load', function(){
+            $.instagramFeed({
+                'username': 'npmelano',
+                'container': "#instagram-feed",
+                'display_profile': false,
+                'display_biography': false,
+                'display_gallery': true,
+                'display_igtv' : false,
+                'callback': null,
+                'styling': true,
+                'items': 5,
+                'items_per_row': 5,
+                'margin': 1 
+            });
+        });
+    })(jQuery);
+</script>
+
+<!-- Table of Content -->
+<script>
+$(document).ready(function(){
+    $("#toc-button").click(function()
+    {        
+        if($("#TableOfContents").is( ":visible" ))
+        {
+            $("#toc-button").attr( { "title" : "Espandi" } );
+            $("#TableOfContents").hide(250);
+        }
+        else
+        {
+            $("#toc-button").attr( { "title" : "Riduci" } );
+            $("#TableOfContents").show(250);
+        }
+    })
+});
+</script>
+
+<!-- SCroll to Top -->
+<script>
+//Get the button
+var mybutton = document.getElementById("scrollToTop");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function scrollToTop() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 220;
+}
+</script>

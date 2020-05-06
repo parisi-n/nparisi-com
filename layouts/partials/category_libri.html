@@ -1,0 +1,61 @@
+<div class="category-list-container">
+    <div class="entry-header">
+        <h1 class="entry-title">{{ .Title }}</h1>
+    </div>
+    
+    {{ $sto_leggendo := .Site.Data.libri.sto_leggendo }}
+    {{ $letti := .Site.Data.libri.letti }}
+    {{ $affiliate_link_array := .Site.Data.affiliate_link.array }}
+    
+    <div class="libri-header">
+        <h3>Sto leggendo</h3>
+        
+        <ul>
+        {{ $referLeggendo := index ( (where $affiliate_link_array "refer" $sto_leggendo.ref ) ) 1 }}
+
+        <li><a href="{{ $referLeggendo.url | safeHTMLAttr }}">{{ $sto_leggendo.title }}</a></li>
+        </ul>
+
+        <h3>Letti</h3>
+        
+        <div style="display: table">
+        
+        {{ range $letti }}
+        
+            <div class="libri-header-box">
+            <h4>&gt; {{ .sub_header }}</h4>
+            <ul>
+
+                {{ range .elenco }}
+                
+                    {{ $title := .title }}
+                    {{ $auth := .auth }}
+                    {{ $ref := .ref }}
+                    
+                    {{ $referLetto := (where $affiliate_link_array "refer" .ref ) }}
+                    
+                    {{ if $referLetto }}
+                        {{ range $referLetto }}
+                            {{ $.Scratch.Set "url" .url }}
+                        {{ end }}
+                    {{ else }}
+                        {{ $.Scratch.Set "url" $ref }}
+                    {{ end }}
+                    
+                     <li style="word-break: break-word;"><a href="{{ $.Scratch.Get "url" }}">{{ $title }}</a> di {{ $auth }}</li>
+                {{ end }}
+            </ul>
+            </div>
+        
+        {{ end }}
+
+        </div>
+    </div>
+
+        <div class="entry-header entry-header-2nd">
+            <h1 class="entry-title" style="margin-top: -1.7em;">Approfondimenti</h1>
+        </div>
+    
+    {{ partial "category_libri_list_posts.html" . }}
+    
+    {{ partial "pagination" . }}

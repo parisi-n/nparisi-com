@@ -1,0 +1,34 @@
+- - - - - - - - - -
+| LINK AFFILIATO
+- - - - - - - - - -
+    1. {{< affiliate_link "REFER" "TEXT LINK" >}}
+    2. Aggiungere il refer in data/affiliate_link.json
+
+- - - - - - - - - -
+| LINK SLIDER
+- - - - - - - - - -
+    1. Aggiungere lo slider in data/slider.json
+
+- - - - - - - - - -
+| SHORTCODES
+- - - - - - - - - -
+    - {{< image src="" alt="" class="" caption="" type="wide-screen" >}}
+    - {{< html >}} . . . {{< /html >}}
+    - {{< affiliate_link "refer" "text" >}}
+    - {{< quote "quote" "citazione" >}}
+    - {{< external_link "testo" "link" >}}
+    - > crea un blockquote
+    - * * * crea un separator
+
+- - - - - - - - - -
+| SOSTITUIRE IMAGE DA MARKDOWN
+- - - - - - - - - -
+\!\[(.*)]\(images\/(.*)\)
+{{< image src="$2" caption="$1" type="wide-screen" >}}
+
+
+FUNZIONI:
+    
+    {{ $copyright := index (.Site.Params.copyright) 0 }}
+
+    {{ replace INPUT OLD NEW }}

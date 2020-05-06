@@ -1,0 +1,16 @@
+  <div class="slick-container">
+    {{ range .slider }}
+    <div style="display: inline-block; vertical-align: middle">
+        <div style="background: url('{{ print "/img/" .url_image | absURL }}') no-repeat; background-size: cover; background-position: center;" class="slick-image">            
+        </div>
+        <div class="slick-content">
+            <div class="slick-title">
+                {{ .text_title }}
+            </div>
+            <div class="slick-action-button">
+                <a href="{{ .url | absURL }}" class="more-link" target="_blank">Leggi</a>
+            </div>
+        </div>
+    </div>
+    {{ end }}
+  </div>

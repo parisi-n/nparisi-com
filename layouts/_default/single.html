@@ -1,0 +1,79 @@
+{{ define "body" }}
+
+<body class="post-template-default single single-post single-format-standard ct-body singular singular-post not-front standard">
+{{ end }}
+
+
+{{ define "main" }}
+
+  <div id="loop-container" class="loop-container">
+    {{ if and (isset .Params "image") .Params.image }}
+    <div class="post type-post entry post_single">
+
+      <div class='featured-image lazy lazy-bg-image' {{ if isset .Site.Params "usepostimgfolder" }} data-background="{{ .Permalink }}{{ .Params.baseimg }}{{ .Params.image }}"{{ else }} data-background="{{ .Params.baseimg | absURL }}{{ .Params.image }}"{{ end }}>
+      </div>
+      {{ else }}
+
+      <div class="post type-post status-publish format-standard hentry category-standard category-travel entry full-without-featured odd excerpt-1">
+
+        {{ end }}
+        <div class="entry-container">
+            <div class='entry-header'>
+              <h1 class='entry-title'>{{ .Title }}</h1>
+            </div>
+            
+            <div class="entry-meta"> 
+            <span class="date" style="padding-right: 1.1em; cursor: default;"  title="Post scritto il {{ .Date.Format "02" }} {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }} {{ .Date.Format "2006" }}">
+                  {{ .Date.Format "02" }}
+                  {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }}
+                  {{ .Date.Format "2006" }}
+            </span>
+            ★
+            {{ $timeToRead := div .WordCount 220.0 }}
+            <span class="date" style="padding-left: 1.1em; cursor: default;" title="Avrai bisogno di {{math.Ceil $timeToRead }} minuti per leggere questa pagina">
+                {{math.Ceil $timeToRead }} min di lettura
+            </span>
+          
+
+        </div>
+
+          <div class="entry-content">
+            <article>
+                
+                <div class="content-category">
+                    {{ range .Params.categories }}
+                    <span class="category">
+                      <a href="/categories/{{ . | urlize }}" title="Vedi tutti gli articoli della categoria ''{{ humanize . }}''">{{ humanize . }}</a>
+                    </span>
+                    {{ end }}
+                </div>
+                
+                {{ partial "share_bar_button.html" . }}
+
+                {{ if .Params.showToc }}
+                    {{ partial "toc.html" . }}
+                {{end}}
+
+                {{ .Content }}
+            </article>
+              
+
+            {{ template "partials/disqus.html" }}
+          </div>
+            
+<!--      <section id="comments" class="comments">         </section>-->
+
+    </div>
+
+</div>
+
+</div>
+
+<!--</div>--> <!-- .main -->
+
+<!--</div>--> <!-- .main -->
+<!-- SCroll To Top Button -->
+<button onclick="scrollToTop()" id="scrollToTop" title="Torna su"><i class="fas fa-arrow-up"></i></button>
+
+
+{{ end }}
