@@ -41,7 +41,7 @@ La scelta è basata esclusivamente sul vostro gusto personale.
 
 Con una semplice ricerca su Google troverete varie alternative circa il negozio cui affidarvi per il noleggio. Nel nostro caso eravamo intenzionati a noleggiare un e-scooter, possibilmente ad una spesa contenuta ed accettabile.
 
-{{< iframe src="https://www.google.com/maps/d/u/0/embed?mid=1sLvqAMkkiz2ngwT3rMwPqa9QtyfzW8oA" width="640" height="480" >}}
+{{< itinerario "https://www.google.com/maps/d/u/0/embed?mid=1sLvqAMkkiz2ngwT3rMwPqa9QtyfzW8oA" >}}
 
 Siamo incappati in [questo noleggio](https://g.page/ictourbudapest?share) che oltre a monsteroller noleggia anche monopattini, e-bike e biciclette.
 
@@ -76,7 +76,7 @@ Nella foto in basso - lontananza - il **Ponte di Elisabetta** \[Elizabeth bridge
 
 Proseguendo dritti - verso Nord - arriverete al Parlamento.
 
-{{< image src="IMG_6274.jpg" alt="Parlamento di Budapest" caption="Parlamento" >}}
+{{< image src="IMG_6274.jpg" alt="Parlamento di Budapest" caption="Parlamento" type="wide-screen" >}}
 
 Ogni tanto però è necessario fermarsi per ricompattare il gruppo: farsi prendere dall'euforia alla guida di un monsteroller è un attimo!
 

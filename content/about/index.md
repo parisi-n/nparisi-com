@@ -1,7 +1,7 @@
 +++
 date = "2020-04-28T21:05:33+05:30"
 title = "Chi sono"
-type = "about"
+type = "page"
 +++
 {{< html >}}
 <p style="text-align: center !important; color: #f4511e; font-size: 46px !important;">
@@ -10,7 +10,7 @@ e questo è il mio blog.
 </p>
 {{< /html >}}
 
-{{< image src="/img/about/foto_profilo.png" alt="Questo sono io!" style="width: 45%" class="rounded" parent-style="text-align: center" >}}
+{{< image src="/img/about/foto_profilo.png" alt="Questo sono io!" style="width: 75%; position: initial;" class="rounded" parent-style="text-align: center" >}}
 
 Sono appassionato di informatica, di programmazione, di nuove tecnologie.
 Nel tempo libero programmo in C#, Java, PHP con mySQL, JavaScript e CSS.
@@ -27,7 +27,7 @@ Amo leggere. Manuali tecnici. Le letture da relax non fanno per me. Ultimamente 
 
 {{< html >}}
 <div style="text-align: center">
-    <img src="/img/about/general_icon.png" alt="Journal in Cloud" style="width: 25% !important" class="no-box-shadow" />
+    <img src="/img/about/general_icon.png" alt="Journal in Cloud" style="width: 45% !important; position: initial;" class="no-box-shadow" />
 </div>
 {{< /html >}}
 

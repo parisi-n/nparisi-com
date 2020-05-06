@@ -64,7 +64,7 @@ Ho parlato di alcuni degli oggetti elencati in [questo post](https://www.nparisi
 
 ## Itinerario
 
-{{< iframe width="640" height="480" src="https://www.google.com/maps/d/u/0/embed?mid=1S5iJI6INoiREDE5gmslSgmjNWRlJZYH_" >}}
+{{< itinerario "https://www.google.com/maps/d/u/0/embed?mid=1S5iJI6INoiREDE5gmslSgmjNWRlJZYH_" >}}
 
 Col senno di poi, a scriverlo, è stata una corsa continua. Son state poche le volte in cui ho dormito due notti nello stesso posto. E' croce e delizia di un viaggio in Georgia per chi ha poco tempo.
 

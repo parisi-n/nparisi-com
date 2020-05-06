@@ -17,8 +17,12 @@
     - {{< affiliate_link "refer" "text" >}}
     - {{< quote "quote" "citazione" >}}
     - {{< external_link "testo" "link" >}}
+    - {{< itinerario "src" >>}
+    - {{<< posizione "short link gmaps" >>}}
+    -   : due spazi per il <br/>
     - > crea un blockquote
     - * * * crea un separator
+    - [comment]: <> (commento qui)
 
 - - - - - - - - - -
 | SOSTITUIRE IMAGE DA MARKDOWN

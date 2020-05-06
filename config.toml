@@ -1,7 +1,8 @@
-baseURL = "http://localhost:1313"
+baseURL = "http://localhost"
 languageCode = "it-IT"
 title = "nParisi.com // il blog"
 theme = "tracks"
+publishDir = "blog"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = "nparisi-com"
@@ -10,12 +11,15 @@ googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 7 #frontpage pagination
 
-[permalinks]
-libri = "/"
 
 [taxonomy]
     category    =   "categories"
     tag         =   "tags"
+    libro       =   "libri"
+    racconti-di-viaggio =   "/post/racconti-di-viaggio"
+
+[permalinks]
+    racconti-di-viaggio = "/post/racconti-di-viaggio"
 
 [privacy]
     # Google Analytics privacy settings - https://gohugo.io/about/hugo-and-gdpr/index.html#googleanalytics
@@ -28,69 +32,71 @@ libri = "/"
         useSessionStorage = false
 
 [params]
+    author = "Nicola"
+    image  = "/img/logo_1x1.png"
     slogan = "tecnologia / medicina / viaggi / fotografia"
     copyright = [
         "&copy; 2018-YEAR NICOLA PARISI" ,
         "Tutte le foto - se non diversamente specificato - sono di mia proprietà. E' vietata la riproduzione anche parziale dei contenuti di questo blog." ,
-        "[Disclaimer](https://discl) &nbsp; | &nbsp; [Licenza](https://discl) &nbsp; | &nbsp; [Privacy](https://discl) &nbsp; | &nbsp; [Caffè?](https://discl)"
+        "[Disclaimer](/disclaimer) &nbsp; | &nbsp; [Licenza](/licenza) &nbsp; | &nbsp; [Privacy](/privacy) &nbsp; | &nbsp; [Caffè?](/caffe)"
     ]
 
-  # Nav links in the side bar
+# Nav links in the side bar
 [[menu.main]]
-  name = "Tutti i post"
-  url = "/"
-  weight = 1
+    name = "Tutti i post"
+    url = "/"
+    weight = 1
 
-  [[menu.main]]
-  name = "Travel"
-  identifier = "travel"
-  url = "tags/travel"
-  weight = 2
+    [[menu.main]]
+    name = "Travel"
+    identifier = "travel"
+    url = "tags/travel"
+    weight = 2
 
-  [[menu.main]]
-  name = "Destinazioni e racconti"
-  parent = "travel"
-  url = "categories/racconti-di-viaggio"
-  weight = 2
+    [[menu.main]]
+    name = "Destinazioni e racconti"
+    parent = "travel"
+    url = "categories/racconti-di-viaggio"
+    weight = 2
 
-  [[menu.main]]
-  name = "Travel tips"
-  parent = "travel"
-  url = "categories/travel-tips"
-  weight = 2
+    [[menu.main]]
+    name = "Travel tips"
+    parent = "travel"
+    url = "categories/travel-tips"
+    weight = 2
 
-[[menu.main]]
-  name = "Accessori"
-  url = "categories/accessori/"
-  weight = 3
+    [[menu.main]]
+    name = "Accessori"
+    url = "categories/accessori/"
+    weight = 3
 
-  [[menu.main]]
-  name = "Blog"
-  identifier = "blog"
-  url = "tags/blog"
-  weight = 5
+    [[menu.main]]
+    name = "Blog"
+    identifier = "blog"
+    url = "tags/blog"
+    weight = 5
 
-  [[menu.main]]
-  name = "Libri"
-  parent = "blog"
-  url = "categories/libri/"
-  weight = 5
+    [[menu.main]]
+    name = "Libri"
+    parent = "blog"
+    url = "categories/libri/"
+    weight = 5
 
-  [[menu.main]]
-  name = "Lifestyle"
-  parent = "blog"
-  url = "categories/lifestyle/"
-  weight = 5
+    [[menu.main]]
+    name = "Lifestyle"
+    parent = "blog"
+    url = "categories/lifestyle/"
+    weight = 5
 
-  [[menu.main]]
-  name = "Med & Tech"
-  url = "categories/med-tech/"
-  weight = 6
+    [[menu.main]]
+    name = "Med & Tech"
+    url = "categories/med-tech/"
+    weight = 6
 
-  [[menu.main]]
-  name = "Chi sono"
-  url = "about/"
-  weight = 7
+    [[menu.main]]
+    name = "Chi sono"
+    url = "about/"
+    weight = 7
 
 
 # this will also be in author bio if there is no writer.
@@ -99,6 +105,5 @@ libri = "/"
     instagram     = "https://instagram.com/npmelano"
     youtube       = "https://www.youtube.com/channel/UCz_ZsgGRbD4tC8_-4Ni78hQ"
     rss           = true
-    email         = ""
-    contatti      = "contatti/"
+    contatti      = "email/"
     telegram      = "https://t.me/nparisi"
