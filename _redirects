@@ -1,4 +1,2 @@
 # Redirects from what the browser requests to what we serve
-/blog/admin https://journal-in-cloud-blog.netlify.com/blog/admin/ 301
-/post/* https://nparisi.com/:splat 200!
-/Blog/* https://journal-in-cloud-blog.netlify.com/blog/:splat 200!
+#/post/* https://nparisi.netlify.com/:splat 200!
