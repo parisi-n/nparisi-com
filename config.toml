@@ -9,7 +9,7 @@ disqusShortname = "nparisi-com"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 preserveTaxonomyNames = true
-paginate = 7 #frontpage pagination
+paginate = 7
 
 [taxonomy]
     category    =   "categories"
