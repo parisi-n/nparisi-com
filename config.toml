@@ -11,7 +11,6 @@ googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 7 #frontpage pagination
 
-
 [taxonomy]
     category    =   "categories"
     tag         =   "tags"
