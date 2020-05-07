@@ -2,7 +2,7 @@
     "sto_leggendo" : {
                         "title" :  "Chernobyl" ,
                         "auth" : "autori vari" ,
-                        "ref" : "chernobyl100-fatti"
+                        "ref" : "chernoby-100-fatti"
                     }
                         ,
                         
@@ -13,7 +13,7 @@
                                     {
                                         "title" :  "Business blockchain" ,
                                         "auth" : "Willian Mougayar" ,
-                                        "ref" : "url sito"
+                                        "ref" : "/post/libri/blockchain-medicina/"
                                     } ,
                                     {
                                         "title" :  "Data Science for Dummies" ,
