@@ -8,7 +8,6 @@
 {{ else }}<meta name="description" content="{{ .Site.Params.description }}" />
 {{ end }}
 
-
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="all,follow">
 <meta name="googlebot" content="index,follow,snippet,archive">
@@ -25,8 +24,12 @@
 <link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title | default "" }}" />
 <link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title | default "" }}" />
 
-  <link rel="stylesheet" type="text/css" href="{{ "assets/slick/slick.css" | absURL }}?v={{ now.Unix }}"/>
-  <link rel="stylesheet" type="text/css" href="{{ "assets/slick/slick-theme.css" | absURL }}?v={{ now.Unix }}"/>
+{{/* Slider */}}
+<link rel="stylesheet" type="text/css" href="{{ "assets/slick/slick.css" | absURL }}?v={{ now.Unix }}"/>
+<link rel="stylesheet" type="text/css" href="{{ "assets/slick/slick-theme.css" | absURL }}?v={{ now.Unix }}"/>
+
+{{/* Cookie */}}
+<script src="js/cookie.js" async></script>
 
 {{ end }}
 {{ template "_internal/google_analytics_async.html" . }}

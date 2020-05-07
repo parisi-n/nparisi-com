@@ -10,6 +10,7 @@ categories : [ "racconti-di-viaggio" ]
 tags : [ "travel" ]
 
 showToc : true
+url: "/racconti-di-viaggio/budapest/cosa-fare-dove-andare"
 ---
 
 Avete qualche ora di scalo a Budapest e avete in mente di visitare la città? Oppure avete un week-end libero e volete esplorarla ma non sapete da dove partire?  

@@ -36,3 +36,5 @@ FUNZIONI:
     {{ $copyright := index (.Site.Params.copyright) 0 }}
 
     {{ replace INPUT OLD NEW }}
+
+    {{/* comments here */}}

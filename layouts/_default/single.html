@@ -59,8 +59,6 @@
               
             {{ partial "disqus.html" . }}
           </div>
-            
-<!--      <section id="comments" class="comments">         </section>-->
 
     </div>
 
@@ -68,11 +66,12 @@
 
 </div>
 
-<!--</div>--> <!-- .main -->
+<!-- Menù bar laterale -->
+<div id="boxTools">
 
-<!--</div>--> <!-- .main -->
-<!-- SCroll To Top Button -->
-<button onclick="scrollToTop()" id="scrollToTop" title="Torna su"><i class="fas fa-arrow-up"></i></button>
+    <button onclick="goToComments()" title="Vai ai commenti" class="commenti"><i class="fa fa-comment"></i></button>
 
+    <button onclick="scrollToTop()" title="Torna su"><i class="fas fa-arrow-up"></i></button>
+</div>
 
 {{ end }}

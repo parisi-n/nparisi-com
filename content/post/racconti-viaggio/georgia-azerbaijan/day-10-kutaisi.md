@@ -73,7 +73,7 @@ Scendiamo.
 
 Ed entriamo.
 
-{{< image src="IMG_5344.jpg" alt="Interno delle cave" >}}
+{{< image src="IMG_5344.jpg" alt="Interno delle cave" type="wide-screen" >}}
 
 ### Le cave
 

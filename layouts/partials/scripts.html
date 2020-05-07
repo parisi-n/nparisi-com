@@ -66,25 +66,27 @@ $(document).ready(function(){
 <!-- Scroll to Top -->
 <script>
 //Get the button
-var mybutton = document.getElementById("scrollToTop");
+var mybutton = document.getElementById("boxTools");
 
 // When the user scrolls down 20px from the top of the document, show the button
 window.onscroll = function() {
-    scrollFunction()
+    scrollFunction();
 };
 
 function scrollFunction() {
   if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400) {
-    mybutton.style.display = "block";
+    mybutton.style.display = "inline-grid";
   } else {
     mybutton.style.display = "none";
   }
 }
 
-// When the user clicks on the button, scroll to the top of the document
 function scrollToTop() {
   document.body.scrollTop = 0;
   document.documentElement.scrollTop = 320;
+}
+function goToComments() {
+  document.getElementById( "commenti-container" ).scrollIntoView();
 }
 </script>
 
@@ -98,7 +100,7 @@ $(document).ready(function(){
             disqus_target = jQuery('#disqus_thread');
 
         // Load script asynchronously only when the trigger and target exist
-        $( "#disqusIcon" ).css({opacity: 0, visibility: "visible"}).animate( {opacity: 1}, 450);
+        // $( "#disqusIcon" ).css({opacity: 0, visibility: "visible"}).animate( {opacity: 1}, 450);
         $( "#disqus_thread" ).show( 450 );
         
         if(disqus_target && disqus_trigger) {
@@ -108,7 +110,7 @@ $(document).ready(function(){
           disqus_trigger.remove();
           
           /*$( "#mostraCommenti" ).hide( 450 ); */
-          $( "#disqusIcon" ).show( 450 );
+          //$( "#disqusIcon" ).show( 450 );
           $( "#mostraCommenti" ).css( { "background" : "#4d4d4d", "border" : "0px", "cursor" : "context-menu" } );
           $( "#mostraCommenti" ).text( "COMMENTI" );
           $( "#mostraCommenti" ).off( "click" );
