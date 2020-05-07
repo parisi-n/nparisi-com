@@ -70,7 +70,8 @@ var mybutton = document.getElementById("boxTools");
 
 // When the user scrolls down 20px from the top of the document, show the button
 window.onscroll = function() {
-    scrollFunction();
+    if ( typeof mybutton !== 'undefined' )
+        scrollFunction();
 };
 
 function scrollFunction() {
