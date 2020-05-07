@@ -60,7 +60,7 @@ function eraseCookie(name) {
 }
 
 function cookieConsent() {
-  if (!getCookie('cookieApproved')) {
+  if (!getCookie('nparisiCookieApproved')) {
     document.body.innerHTML += '<div class="cookieConsentContainer article" id="cookieConsentContainer" style="color: #f8f8f8; padding: 1.5em">'
                             +   '<p style="margin-top: -0.5em">' + purecookieDesc
                             +   '</p>'
@@ -71,13 +71,14 @@ function cookieConsent() {
 }
 
 function cookieApproved() {
-  setCookie('cookieApproved','1',7);
+  setCookie('nparisiCookieApproved','1', 365);
   pureFadeOut("cookieConsentContainer");
+  startInstaFeed();
 }
 
 window.onload = function() { cookieConsent(); };
 window.onscroll = function() {
-    if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400)
+    if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200)
     {
             cookieApproved();
     } 

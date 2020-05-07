@@ -22,11 +22,22 @@
 </script>
 
 <!-- Instagram -->
-<script src="{{ "js/jquery.instagramFeed.min.js" | absURL }}"></script>
+<script src="{{ "js/instagramFeed.min.js" | absURL }}"></script>
 <script>
-    /* Settings: https://www.sowecms.com/demos/jquery.instagramFeed/index.html */
     (function($){
         $(window).on('load', function(){
+                if ( getCookie('nparisiCookieApproved') )
+                    /*
+                     * Se non ci sono cookie non carica la sezione di instagram!
+                     */
+                    startInstaFeed();
+            });
+        })(jQuery);
+
+    function startInstaFeed()
+    {
+        /* Settings: https://www.sowecms.com/demos/jquery.instagramFeed/index.html */
+        $(document).ready(function(){
             $.instagramFeed({
                 'username': 'npmelano',
                 'container': "#instagram-feed",
@@ -41,46 +52,38 @@
                 'margin': 1 
             });
         });
-    })(jQuery);
+    }
 </script>
 
 <!-- Table of Content -->
 <script>
-$(document).ready(function(){
-    $("#toc-button").click(function()
-    {        
-        if($("#TableOfContents").is( ":visible" ))
-        {
-            $("#toc-button").attr( { "title" : "Espandi" } );
-            $("#TableOfContents").hide(350);
-        }
-        else
-        {
-            $("#toc-button").attr( { "title" : "Riduci" } );
-            $("#TableOfContents").show(350);
-        }
-    })
-});
+    $(document).ready(function(){
+        $("#toc-button").click(function()
+        {        
+            if($("#TableOfContents").is( ":visible" ))
+            {
+                $("#toc-button").attr( { "title" : "Espandi" } );
+                $("#TableOfContents").hide(350);
+            }
+            else
+            {
+                $("#toc-button").attr( { "title" : "Riduci" } );
+                $("#TableOfContents").show(350);
+            }
+        })
+    });
 </script>
 
 <!-- Scroll to Top -->
 <script>
-//Get the button
-var mybutton = document.getElementById("boxTools");
 
-// When the user scrolls down 20px from the top of the document, show the button
 window.onscroll = function() {
-    if ( typeof mybutton !== 'undefined' )
-        scrollFunction();
+    if ( document.getElementById("boxTools") !== null )
+        if ( document.body.scrollTop > 400 || document.documentElement.scrollTop > 400 )
+                document.getElementById("boxTools").style.display = "inline-grid";
+            else
+                document.getElementById("boxTools").style.display = "none";
 };
-
-function scrollFunction() {
-  if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400) {
-    mybutton.style.display = "inline-grid";
-  } else {
-    mybutton.style.display = "none";
-  }
-}
 
 function scrollToTop() {
   document.body.scrollTop = 0;

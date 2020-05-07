@@ -29,7 +29,7 @@
 <link rel="stylesheet" type="text/css" href="{{ "assets/slick/slick-theme.css" | absURL }}?v={{ now.Unix }}"/>
 
 {{/* Cookie */}}
-<script src="js/cookie.js" async></script>
+<script src="{{  "js/cookie.js"| absURL }}" async></script>
 
 {{ end }}
 {{ template "_internal/google_analytics_async.html" . }}
