@@ -2,7 +2,7 @@ baseURL = "https://nparisi.netlify.app/" # https://nparisi.netlify.app/ | https:
 languageCode = "it-IT"
 title = "nParisi.com // il blog"
 theme = "tracks"
-publishDir = "blog"
+publishDir = ""
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = "nparisi-com"
