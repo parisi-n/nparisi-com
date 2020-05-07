@@ -1,4 +1,4 @@
-baseURL = "https://localhost" # https://nparisi.netlify.app/
+baseURL = "https://nparisi.netlify.app/" # https://nparisi.netlify.app/ | https://localhost
 languageCode = "it-IT"
 title = "nParisi.com // il blog"
 theme = "tracks"
