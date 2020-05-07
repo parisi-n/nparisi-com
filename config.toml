@@ -17,10 +17,10 @@ paginate = 7
     tag         =   "tags"
 
 [permalinks]
-#     post = "/:filename"
+#    post = "/:filename"
 #    page = "/:slug/"
 #    category = "/:slug"
-    post =   "/:section/:slug"
+#    post =   "/:section/:slug"
 
 [privacy]
     # Google Analytics privacy settings - https://gohugo.io/about/hugo-and-gdpr/index.html#googleanalytics
