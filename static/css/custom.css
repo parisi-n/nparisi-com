@@ -17,8 +17,9 @@
     :target { background-color: transparent; }
     a { color: #4d4d4d !important; transition: 0.2s ease !important; }
     a:hover { color: #f4511e }
-    a.more-link { background-color:#f4511e; border:1px solid #f4511e; color:#fff !important; padding:1.0em; border-radius: 3px; }
-    a.more-link:hover {  background-color: #4d4d4d; border:1px solid #4d4d4d; }
+    .more-link, .more-link:visited { background-color:#f4511e; border:1px solid #f4511e; color:#fff !important; padding:1.0em; border-radius: 3px; transition: 0.2s ease !important; }
+    .more-link:hover {  background-color: #4d4d4d; border:1px solid #4d4d4d; }
+    .more-link:focus { outline: none; }
     .design-credit a { color: #8c8c8c !important; border-bottom: 2px solid; }
     .more-link:after { width: 0px !important; } /* impedisce il formarsi della barra inferiore all'hover del link    */
     .orange-box { background-color: #f4511e; padding:1.0em; border-radius: 3px; margin: 6em 4.56% -8em; }
@@ -170,7 +171,7 @@
         /**
          * BLOCK QUOTES
          */
-        .block-verse { background-color: rgb(140, 140, 140, 0.1); border-radius: 3px; color: #4d4d4d; font-size: 120%; margin: 45px 0; padding: 1.3em; text-align: center; position: relative; line-height: 2em; word-break: initial !important; }
+        .block-verse { background-color: rgba(140, 140, 140, 0.1); border-radius: 3px; color: #4d4d4d; font-size: 120%; margin: 45px 0; padding: 1.3em; text-align: center; position: relative; line-height: 2em; word-break: initial !important; }
         .block-verse i { position: absolute; font-size: 38pt; background-color: transparent; color: #f4511e; }
         .block-verse .author { text-align: center; color: rgba(77, 77, 77, 0.4); font-style: italic; font-variant: small-caps; font-size: 15pt; letter-spacing: 1px; }
         
@@ -204,19 +205,13 @@
         .slick-content { text-align: center; left: 0; top: 17em; position: absolute; width: 100%; }
         .slick-title { font-size: 1.75em; color: #f8f8f8; width: 100%; padding: 0 10%; font-weight: 800; letter-spacing: 1px; }
         .slick-image { height: 40em !important; position: relative; filter: brightness(70%); }
-        .slick-action-button { margin: 1.3em; }        
+        .slick-action-button { margin: 1.3em; }
         
         /**
          * DISQUS
          */
-        .comments { background: white; width: 100%; }
-        div#disqus_thread {
-        background: #f8f8f8 !important;
-        margin: 0 auto !important;
-        padding: 3% !important;
-            border: 1px solid #d7d7d7;
-            border-radius: 3px;
-        }
+        .disqus-box { background-color: rgba(140, 140, 140, 0.1); border-radius: 3px; color: #4d4d4d; font-size: 120%; margin: 0; padding: 1.3em; text-align: center; position: relative; line-height: 2em; word-break: initial !important; }
+        #disqus_thread { width: 100% !important; }
         
         /**
          * INSTAGRAM
@@ -245,12 +240,6 @@
             color: #f8f8f8; border-radius: 3px;
             line-height: 1.7em;    
         }
-        
-        /*.fa-facebook-f:before { top: 8px; left: 90%; }
-        .fa-linkedin-in:before { top: 9px; left: 33%; }
-        .fa-twitter:before { top: 9px; left: 25%; }
-        .fa-pinterest-p:before { top: 8px; left: 45%; }
-        .fa-whatsapp:before { top: 7px; left: 33%; } */
 
         .fa-custom-button { height: 3em; width: 3em; background-color: #4d4d4d; display: block; margin-right: 0.7em; border-radius: 3px; transition: 0.3s ease; text-align: center }
         .fa-custom-button a { text-decoration: none; border-bottom: 0px; }
@@ -379,6 +368,7 @@
         .site-header .search-form-container + ul { margin-right: 2em !important; }
         
         #main, #title-info, #toggle-navigation, #site-header, #site-footer { margin-top: 1em !important; }
+        .header-section-index .in-evidenza { margin-top: 0em; }
         
         /**
          * POST
@@ -395,7 +385,7 @@
         
         .entry-content .wp-block-embed-flickr figcaption { width: 100% !important; }
         .alignright, .alignleft, .aligncenter, .alignnone, .size-auto, .size-full, .size-large, .size-medium, .size-thumbnail { max-width: 100% !important; }
-        .excerpt-container { padding: 0 2%; }
+        .excerpt-container { padding: 0 2%; background-color: white; }
         
         .entry-header, .entry-title, .entry-meta {  width: 100% !important; text-align: center; padding: 0px !important; letter-spacing: 2px; }
 
@@ -465,11 +455,6 @@
             /**
              * DISQUS
              */
-            .comments
-            {
-                margin: 2em 0 !important;
-                background: white;
-            }
             
             /* .sbi_item a { height: calc(-100px + 100%) !important; } */
             #sb_instagram #sbi_images { text-align: center; }
@@ -514,7 +499,7 @@
         .libri-header { padding: 0 1.3em 1.5em !important; }
     }
 
-    
+
 /**
  * - - - - - - - - - - - - - - - - - - - - -
  * SCHERMI MEDIE DIMENSIONI
@@ -522,29 +507,17 @@
  */    
     @media (min-width: 43.75em)
     {
-        #disqus_thread {
-            width: 73.66% !important;
-        }
     }
     @media (min-width: 37.5em)
     {
-        #disqus_thread {
-            width: 70.76% !important;
-        }
     }
 
     @media (max-width: 37.5em)
     {
-            div#disqus_thread {
-                    width: 94% !important;
-            }
     }
 
     @media (max-width: 30em)
     {
-            div#disqus_thread {
-            width: 94% !important;
-            }
     }
 
     @media all and (max-width: 20em)
@@ -630,7 +603,7 @@
         .wp-block-embed__wrapper img { width: 85% !important; }
         .alignright, .alignleft, .aligncenter, .alignnone, .size-auto, .size-full, .size-large, .size-medium, .size-thumbnail { max-width: 100% !important; }
 
-        .entry-container { padding: 3em 15.435% !important; }
+        .entry-container { padding: 3em 15.435% 0 !important; margin-bottom: -7em !important; }
         
         .post .entry-meta { padding-top: 7em; margin-bottom: 3em; }
         
@@ -658,7 +631,8 @@
             /**
              * DISQUS
              */
-            #disqus_thread {  background: #f8f8f8 !important; margin: 0 auto !important; padding: 3% !important; border: 1px solid #d7d7d7; border-radius: 3px; margin-top: -4.8em; }
+            #disqus_thread {  background: rgba(140, 140, 140, 0.1) !important; margin: 0 auto !important; padding: 3% 3em !important; border-radius: 3px;}
+            #disqus_thread .text-bold { color: red !important; }
         
             /**
              * INSTAGRAM

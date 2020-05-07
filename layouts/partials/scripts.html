@@ -52,18 +52,18 @@ $(document).ready(function(){
         if($("#TableOfContents").is( ":visible" ))
         {
             $("#toc-button").attr( { "title" : "Espandi" } );
-            $("#TableOfContents").hide(250);
+            $("#TableOfContents").hide(350);
         }
         else
         {
             $("#toc-button").attr( { "title" : "Riduci" } );
-            $("#TableOfContents").show(250);
+            $("#TableOfContents").show(350);
         }
     })
 });
 </script>
 
-<!-- SCroll to Top -->
+<!-- Scroll to Top -->
 <script>
 //Get the button
 var mybutton = document.getElementById("scrollToTop");
@@ -84,6 +84,36 @@ function scrollFunction() {
 // When the user clicks on the button, scroll to the top of the document
 function scrollToTop() {
   document.body.scrollTop = 0;
-  document.documentElement.scrollTop = 220;
+  document.documentElement.scrollTop = 320;
 }
+</script>
+
+<!-- Disqus -->
+<script>
+$(document).ready(function(){
+    $("#mostraCommenti").click(function()
+    {
+        $( "#mostraCommenti" ).text( "" );
+        var disqus_trigger = jQuery('#disqus_trigger'),
+            disqus_target = jQuery('#disqus_thread');
+
+        // Load script asynchronously only when the trigger and target exist
+        $( "#disqusIcon" ).css({opacity: 0, visibility: "visible"}).animate( {opacity: 1}, 450);
+        $( "#disqus_thread" ).show( 450 );
+        
+        if(disqus_target && disqus_trigger) {
+          jQuery.ajaxSetup({ cache:true });
+          jQuery.getScript('//nparisi-com.disqus.com/embed.js');
+          jQuery.ajaxSetup({ cache:false });
+          disqus_trigger.remove();
+          
+          /*$( "#mostraCommenti" ).hide( 450 ); */
+          $( "#disqusIcon" ).show( 450 );
+          $( "#mostraCommenti" ).css( { "background" : "#4d4d4d", "border" : "0px", "cursor" : "context-menu" } );
+          $( "#mostraCommenti" ).text( "COMMENTI" );
+          $( "#mostraCommenti" ).off( "click" );
+        }
+    })
+});
+
 </script>

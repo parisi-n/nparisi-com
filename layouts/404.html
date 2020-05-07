@@ -9,25 +9,24 @@
   <div id="loop-container" class="loop-container">
         <div class="entry-container">
             <div class='entry-header'>
-              <h1 class='entry-title'>Pagina non trovata</h1>
+              <h1 class='entry-title'>404</h1>
             </div>
-          
-
         </div>
 
           <div class="entry-content">
             <article>
-                
-                <p style="text-align: center">
-                    La pagina che cerchi non esiste
-                    <i class="far fa-frown" style="color: #f4511e; opacity: 0.7;"></i>
+                <h3 class='entry-title' style="text-align: center; margin-left: 0 !important;">Pagina non trovata</h1>
+                <p style="text-align: center !important;">La pagina che cerchi non esiste.</p>
+                <p style="text-align: center !important;"><i class="far fa-frown" style="color: #f4511e; opacity: 0.5; font-size: 96pt;"></i></p>
                 </p>
+                
+                <div style="text-align: center; margin-top: 2.7em; margin-bottom: -2.7em;">
+                    <a href="{{ .Params.baseURL }}" class="more-link">Torna alla Home</a>
+                </div>
                 
               {{ .Content }}
             </article>              
           </div>
-            
-<!--      <section id="comments" class="comments">         </section>-->
 
     </div>
 
