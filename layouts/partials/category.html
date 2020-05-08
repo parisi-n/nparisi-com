@@ -1,3 +1,5 @@
+{{/* $paginator è presente anche su seo.html; però lo ripeto affinchè TUTTI I POST funzioni e mostri tutti i post */}}
+{{ $paginator := .Paginate (where (where .Data.Pages "Type" "article").ByDate.Reverse "IsPage" true) }}
 <div class="category-list-container">
     <div class="entry-header">
         <h1 class="entry-title">{{ humanize .Title }}</h1>
@@ -5,21 +7,20 @@
     
     <div id="loop-container" class="loop-container">
       
-      {{/*su SEO.HTML: {{ $paginator := .Paginate (where (where .Data.Pages "Type" "article").ByDate.Reverse "IsPage" true) }}*/}}
-      {{ range $index, $element := .Paginator.Pages }}
+        {{ range $index, $element := .Paginator.Pages }}
 
                     {{ if and (isset .Params "image") .Params.image }}
                             {{ if eq (mod $index 2) 0 }}
-                                    <div class="post type-post status-publish format-standard has-post-thumbnail hentry category-design tag-memories tag-normal-post tag-standard-2 excerpt zoom full-without-featured odd excerpt">
+                                    <div class="post type-post odd excerpt">
                             {{ else }}
-                                    <div class="post type-post status-publish format-standard has-post-thumbnail hentry category-design tag-memories tag-normal-post tag-standard-2 excerpt zoom full-without-featured even excerpt">
+                                    <div class="post type-post even excerpt">
                             {{ end }}
                     {{ else }}
-                            <div class="post type-post status-publish format-standard hentry category-standard category-travel excerpt zoom full-without-featured odd excerpt">
+                            <div class="post type-post odd excerpt">
                     {{ end }}
 
                     {{ if and (isset .Params "image") .Params.image }}
-                            <a class="featured-image-link" href="{{ .Permalink }}"><div class='featured-image lazy lazy-bg-image' {{if isset .Site.Params "usepostimgfolder"}}data-background="{{ .Permalink }}{{.Params.baseimg}}{{ .Params.image }}"{{ else }}data-background="{{.Params.baseimg | absURL }}{{ .Params.image }}"{{ end }}></div></a>
+                            <a class="featured-image-link" href="{{ .Permalink }}" alt="Leggi {{ .Title }}" title="Leggi {{ .Title }}"><div class='featured-image lazy lazy-bg-image' {{if isset .Site.Params "usepostimgfolder"}}data-background="{{ .Permalink }}{{.Params.baseimg}}{{ .Params.image }}"{{ else }}data-background="{{.Params.baseimg | absURL }}{{ .Params.image }}"{{ end }}></div></a>
                     {{ end }}
 
                                     <div class="excerpt-container">
@@ -40,7 +41,7 @@
                                                                         <p>
                                                                             {{ .Params.summary }}
                                                                         </p>
-                                                                            <div class="more-link-wrapper"><a class="more-link" href="{{ .Permalink }}">Continua a leggere<span class="screen-reader-text">Questo è un post </span></a></div>
+                                                                            <div class="more-link-wrapper"><a class="more-link" href="{{ .Permalink }}" alt="Continu a leggere {{ .Title }}" title="Continua a leggere {{ .Title }}">Continua a leggere<span class="screen-reader-text">Questo è un post </span></a></div>
 
                                                                     </article>
                                                             </div>

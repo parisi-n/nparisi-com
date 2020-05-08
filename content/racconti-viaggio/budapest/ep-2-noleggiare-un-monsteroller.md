@@ -13,8 +13,10 @@ showToc : true
 type: "article"
 ---
 
-{{< font "gray" >}}_Questo post viene pubblicato in un momento difficile per l'Italia a causa dell'emergenza sanitaria causata dal coronavirus. In questo momento, più che mai, mi piace ricordare delle cose belle, di un viaggio, di una spensieratezza che forse non ci sarà più, dei problemi che in verità non erano problemi._
-
+{{< font "gray" >}}
+_Questo post viene pubblicato in un momento difficile per l'Italia a causa dell'emergenza sanitaria causata dal coronavirus. In questo momento, più che mai, mi piace ricordare delle cose belle, di un viaggio, di una spensieratezza che forse non ci sarà più, dei problemi che in verità non erano problemi._
+{{< /font >}}
+{{< font "gray" >}}
 **Torneremo a viaggiare**: di questo ne sono sicuro.
 {{< /font >}}
 

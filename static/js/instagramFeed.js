@@ -79,7 +79,7 @@
                 console.error("Instagram Feed: It looks like the profile you are trying to fetch is age restricted. See https://github.com/jsanahuja/InstagramFeed/issues/26");
                 return;
             }
-console.log( data )
+
             data = JSON.parse(data.substr(0, data.length - 1));
             data = data.entry_data.ProfilePage || data.entry_data.TagPage;
             if(typeof data === "undefined"){
@@ -183,7 +183,7 @@ console.log( data )
                         }
 
                         html += "<a href='" + url +"' class='instagram-" + type_resource + "' rel='noopener' target='_blank'>";
-                        html += "<img src='" + image + "' alt='" + escape_string(caption) + "'" + styles.gallery_image +" />";
+                        html += "<img src='" + image + "' alt='" + escape_string(caption) + "' title='" + escape_string(caption) + "'" + styles.gallery_image +" />";
                         html += "</a>";
                     }
                     html += "</div>";

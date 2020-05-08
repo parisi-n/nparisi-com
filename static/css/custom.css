@@ -36,17 +36,13 @@
     .site-description { font-weight: 800; opacity: 1 !important; color: #4d4d4d !important; text-transform: uppercase; letter-spacing: 0.8; font-size: 12pt; }
     .menupop a { color: white !important; }
     .excerpt-header:after, .entry-header:after { height: 0.25em !important; width: 5em !important; bottom: -1.05em !important; opacity: 0.90; border-radius: 3px; }
-    .excerpt-header:after { background: #4d4d4d !important; opacity: 0.47; height: 0.15 !important; }
+    .excerpt-header:after { background: #4d4d4d !important; opacity: 0.17; height: 0.15 !important; }
     .excerpt .featured-image { filter: saturate(0.7); }
     .excerpt .featured-image:hover { filter: saturate(1); }
     .sidebar-after-post-content { display: inline-block !important; }
     .widget_recent_entries, .widget_categories { display: inline-block !important; padding: 0 2%; float: left; }
     .header-section-index { font-size: 1.87em; text-transform: uppercase; color: #c7c7c7; margin-bottom: 0.8; display: inline-block; margin-top: 1em; }
     .header-section-index-bottom { height: 2px; width: 100%; background-color: #f4511e; margin-bottom: 1.4em; opacity: 0.2; border-radius: 3px; }
-    .welcome-box { left: 50%; margin-left: -50vw; margin-right: -50vw; max-width: 100vw; position: relative; right: 50%; width: 100vw; color: #525252; font-size: 18pt; font-weight: 800; text-align: center; padding: 2.8em; min-height: 87vh; }
-    .welcome-box .name { color: #f4511e; opacity: 0.9; font-size: 18pt; }
-    .welcome-box .bigger { font-size: 18pt }
-    .welcome-box .smaller { font-size: 16pt }
         
     /**
      * HOME PAGE
@@ -58,6 +54,8 @@
 
     .excerpt-meta .category a, .excerpt-title a { color: #4d4d4d !important; }
     .excerpt-meta .category a:hover, .excerpt-title a:hover { color: #f4511e !important; }
+    
+    .home .featured-image { transition: ease 0.2s; }
         
     /**
      * MENU
@@ -90,9 +88,9 @@
     p a:hover, .entry-content li a:hover { color: #f4511e !important; }
     aricle strong, article b, #wtr-content strong, article blackquote strong, p a { color: #4d4d4d !important;  font-weight: 600; }
     article .category { display: block; }
-    article .category a { background-color:#f4511e; padding: 0.7em 1.1em; margin-bottom: 2em; margin-right: 0.8em; font-weight: 800; opacity: 1 !important; text-transform: uppercase; letter-spacing: 0.8; font-size: 12pt; color: #fff !important; text-decoration: none; border-radius: 3px; }
+    article .category a { background-color:#f4511e; padding: 0.7em 1.1em; margin-bottom: 2em; margin-right: 0.8em; font-weight: 600; opacity: 1 !important; text-transform: uppercase; letter-spacing: 0.8; font-size: 13pt; color: #fff !important; text-decoration: none; border-radius: 3px; }
     article .category a:hover, .category a:nth-child(2):hover, .category a:nth-child(2):hover { background-color: #4d4d4d; }
-    
+    .entry-header .entry-title { font-variant: small-caps !important; text-transform: initial; }
     .entry-meta .wtr-time-wrap, .entry-meta { font-size: 10pt !important; }
     .entry-content img, .entry-content video { margin-bottom: -0.5em !important; }
 
@@ -166,25 +164,30 @@
     .paginator_bar .dots { color: rgb(140, 140, 140, 0.6); }
     .paginator_bar .paginator_bar_button:hover, .paginator_bar a:hover, .paginator_bar .active { background-color: #f4511e; }
     
-        /**
-         * BLOCK QUOTES
-         */
-        .block-verse { background-color: rgba(140, 140, 140, 0.1); border-radius: 3px; color: #4d4d4d; font-size: 120%; margin: 45px 0; padding: 1.3em; text-align: center; position: relative; line-height: 2em; word-break: initial !important; }
-        .block-verse i { position: absolute; font-size: 38pt; background-color: transparent; color: #f4511e; }
-        .block-verse .author { text-align: center; color: rgba(77, 77, 77, 0.4); font-style: italic; font-variant: small-caps; font-size: 15pt; letter-spacing: 1px; }
-        
-        blockquote { border-left: solid 0.75em #f4511e; }
-        
-        /**
-         * BLOCCHI A COLONNA
-         */
-        article nav a:hover { text-decoration: none !important; }
-        .wp-block-columns p { margin-bottom: 0px !important; margin-top: 0px !important; }
-        .wp-block-columns { padding-bottom: 0px !important; margin-bottom: 0px !important; }
-        .wp-block-column { padding-bottom: 0px !important; margin-bottom: 0px !important; }
-        .wp-block-column .wp-block-image figure { margin: 0px !important; }
-        .wp-block-column .wp-block-image { box-shadow: none; margin: 0px !important; max-width: 100% !important; }
+    /**
+     * BLOCK QUOTES
+     */
+    .block-verse { background-color: rgba(140, 140, 140, 0.1); border-radius: 3px; color: #4d4d4d; font-size: 120%; margin: 45px 0; padding: 1.3em; text-align: center; position: relative; line-height: 2em; word-break: initial !important; }
+    .block-verse i { position: absolute; font-size: 38pt; background-color: transparent; color: #f4511e; }
+    .block-verse .author { text-align: center; color: rgba(77, 77, 77, 0.4); font-style: italic; font-variant: small-caps; font-size: 15pt; letter-spacing: 1px; }
+
+    blockquote { border-left: solid 0.75em #f4511e; }
+
+    /**
+     * BLOCCHI A COLONNA
+     */
+    article nav a:hover { text-decoration: none !important; }
+    .wp-block-columns p { margin-bottom: 0px !important; margin-top: 0px !important; }
+    .wp-block-columns { padding-bottom: 0px !important; margin-bottom: 0px !important; }
+    .wp-block-column { padding-bottom: 0px !important; margin-bottom: 0px !important; }
+    .wp-block-column .wp-block-image figure { margin: 0px !important; }
+    .wp-block-column .wp-block-image { box-shadow: none; margin: 0px !important; max-width: 100% !important; }
     
+    /**
+     * COPYRIGHT
+     */
+    .copyright-button { margin: 0 0.371em; }
+
     /**
      * PLUGINS
      */
@@ -198,7 +201,7 @@
          * SLIDER
          */
         .slick-content { text-align: center; left: 0; top: 17em; position: absolute; width: 100%; }
-        .slick-title { font-size: 1.75em; color: #f8f8f8; width: 100%; padding: 0 10%; font-weight: 800; letter-spacing: 1px; }
+        .slick-title { font-size: 1.75em; color: #f8f8f8; width: 100%; padding: 0 10%; font-weight: 600; letter-spacing: 1px; }
         .slick-image { height: 40em !important; position: relative; filter: brightness(70%); }
         .slick-action-button { margin: 1.3em; }
         
@@ -217,11 +220,12 @@
         /**
          * INDICE
          */
-        div#toc-container { background-color: #FDFDFD;  border: 1px solid #4d4d4d; margin-top: 1.5em; margin-bottom: 2.3em; border-radius: 3px; width: 100%; display: inline-block;  padding-right: 1.2em; resize: vertical; }
+        div#toc-container { background-color: #FDFDFD;  border: 1px solid #4d4d4d; margin-top: 1.5em; margin-bottom: 2.3em; border-radius: 3px; display: inline-block;  padding-right: 1.2em; resize: vertical; }
         div#toc-container .toc-title { font-weight: 800; padding: 1.2em; display: table-cell; }
         div#toc-container #toc-button { cursor: pointer; transition: ease 0.3s; padding-left: 7em; display: table-cell; font-size: 16pt; float: right; }
         div#toc-container #TableOfContents { display: block; }
         div#toc-container #TableOfContents ul { margin-top: 0; }
+        div#toc-container #TableOfContents ul li { text-align: left; }
 
         /**
          * SHARE BUTTON
@@ -240,7 +244,7 @@
         /**
          * INSTAGRAM
          */
-        .instagram_gallery { display: inline-block; white-space: nowrap; text-align: center }
+        .instagram_gallery { display: inline-block; text-align: center }
         .instagram-image img, .instagram-video img { filter: saturate(.7) !important; transition: ease 0.2s; border-radius: 3px; }
         .instagram-image img:hover, .instagram-video img:hover { filter: saturate(1) !important; }
 
@@ -297,28 +301,8 @@
         /* Colonne responsive */
         .libri-header-box { float: left; width: 50%; }
         .libri-header-big-box::after { content: ""; display: table; clear: both; }
-        @media screen and (max-width: 700px)
-        {
-          .libri-header-box { width: 100%; }
-        }
+        @media screen and (max-width: 700px) { .libri-header-box { width: 100%; } }
         
-        /**
-         * RIMUOVE IL TITOLO DALLA PAGINA DI LANDING
-         * Settings speciali per la landing page
-         */
-        .page-id-3337 .site-header { display: none !important; }
-        .page-id-3337 img { width: auto !important; }
-        .page-id-3337 .entry-title { text-align: center !important; }
-        @media all and (max-width: 49em) { .page-id-3337 .entry-title { margin-top: -0.5em !important; } }
-        .page-id-3337 .text-big { font-size: 1.7em !important; }
-        .page-id-3337 .text-bigger { font-size: 2.4em !important; }
-        .page-id-3337 .welcome-text { line-height: 1.2em !important; margin: 0.7em; margin-bottom: 1.4em; }
-
-        /* Bottoni */
-        .wp-block-buttons { text-align: center; margin: 1.43em; }
-        .wp-block-button__link { padding: 0.7em 2.3em !important; color: #f8f8f8 !important; }
-        .wp-block-button { transition: 0.4s; }
-        .wp-block-button:hover { opacity: 0.8em; filter: brightness(70%); }
     
     /**
      * CATEGORIES
@@ -459,20 +443,7 @@
             /*
             Mostra soltanto le ultime quattro foto instagram
             */
-            .sbi_item:nth-child(5) { display: none !important; }
-
-            #sb_instagram.sbi_col_3 #sbi_images .sbi_item,
-            #sb_instagram.sbi_col_4 #sbi_images .sbi_item,
-            #sb_instagram.sbi_col_5 #sbi_images .sbi_item,
-            #sb_instagram.sbi_col_6 #sbi_images .sbi_item{
-            width: 50%;
-            }
-            #sb_instagram.sbi_col_7 #sbi_images .sbi_item,
-            #sb_instagram.sbi_col_8 #sbi_images .sbi_item,
-            #sb_instagram.sbi_col_9 #sbi_images .sbi_item,
-            #sb_instagram.sbi_col_10 #sbi_images .sbi_item{
-            width: 25%;
-            }
+            .instagram_gallery a:nth-child(5) { display: none !important; }
 
             /**
              * RELATED POSTS
@@ -482,13 +453,17 @@
 
             /**
              * SLIDER
-            */
+             */
             .wpsisac-image-slide, .wpsisac-slide-wrap { height: 125vw !important; }
             /* Imposta lo slider full-width */
             .wpsisac-slick-slider { left: 50%; margin-left: -50vw; margin-right: -50vw; max-width: 100vw; position: relative; right: 50%; width: 100vw; }
 
-            
             .widget_widget_crp { padding-left: 0.7em; }
+            
+            /**
+             * DISQUS
+             */
+            #commenti-container { margin: 5em 0% 3em; }
             
         /**
          * SEZIONE LIBRERIA
@@ -579,11 +554,7 @@
         .loop-container { margin-top: 3em; }
         
         /* Allinea il submenu della sezione Travel | Blog */
-        ul.sub-menu {
-                background-color: rgb(251, 251, 251);
-                box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-                margin: 0.18em;
-            }
+        ul.sub-menu { background-color: rgb(251, 251, 251); box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin: 0.18em; }
         .menu-item:nth-of-type(2) .sub-menu { margin-left: 5%; }
         .menu-item:nth-of-type(4) .sub-menu { margin-left: -35%; }
 
@@ -635,6 +606,7 @@
              * DISQUS
              */
             #disqus_thread {  background: rgba(140, 140, 140, 0.1) !important; margin: 0 auto !important; padding: 3% 3em !important; border-radius: 3px;}
+            #commenti-container { margin: 5em 4.56% 3em; }
             
             /**
              * INDICE

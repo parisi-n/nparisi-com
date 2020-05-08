@@ -1,11 +1,12 @@
 <div id="title-info" class="title-info">
-    <a href="{{ .Site.BaseURL | }}">
+    <a href="{{ .Site.BaseURL | }}" alt="Home page" title="Vai alla Home">
         <img class="logo" src="{{ "img/logo.png" | relURL }}" alt="nParisi.com // il blog">
     </a>
   </div>
-  <button id="toggle-navigation" class="toggle-navigation">
+  <!--
+  <button id="toggle-navigation" class="toggle-navigation" aria-label="">
     <i class="fas fa-bars"></i>
-  </button>
+  </button> -->
 
 <div class="button-logo" onclick="location.href='{{ .Site.BaseURL | }}'">
 NP&nbsp;</div>

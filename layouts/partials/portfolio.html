@@ -1,11 +1,10 @@
 {{ $paginator := .Paginate (where (where .Site.Pages "Type" "article").ByDate.Reverse "IsPage" true) }}
 
 {{ if eq $paginator.PageNumber 1 }}
-<div id="start"></div>
     <div class="header-section-index in-evidenza">
         IN EVIDENZA
     </div>
-    <div class="header-section-index-bottom in-evidenza" id="start"></div>
+    <div class="header-section-index-bottom in-evidenza"></div>
     {{ $slider := .Site.Data.slider.array }}
     {{ partial "slider.html" ( dict "slider" $slider ) }}
 
