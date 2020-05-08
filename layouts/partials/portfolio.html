@@ -1,4 +1,4 @@
-{{ $paginator := .Paginate (where (where .Site.Pages "Type" "post").ByDate.Reverse "IsPage" true) }}
+{{ $paginator := .Paginate (where (where .Site.Pages "Type" "article").ByDate.Reverse "IsPage" true) }}
 
 {{ if eq $paginator.PageNumber 1 }}
 <div id="start"></div>
@@ -14,7 +14,7 @@
     </div>
     <div class="header-section-index-bottom"></div>
 
-    {{ partial "instagram_feed.html" }}
+    {{ partial "instagram_feed.html" . }}
 
     <div class="header-section-index">
         ULTIMI POST

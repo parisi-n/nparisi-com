@@ -4,24 +4,25 @@ title = "nParisi.com // il blog"
 theme = "tracks"
 publishDir = ""
 
-disqusShortname = "nparisi-com" # Enable comments by entering your Disqus shortname
-googleAnalytics = "UA-128082042-1" # Enable Google Analytics by entering your tracking code
+disqusShortname = "nparisi-com"
+googleAnalytics = "UA-128082042-1"
+
 preserveTaxonomyNames = true
-paginate = 7 # Numero di post per pagina
+enableRobotsTXT = true
+canonifyURLs = true
+
+paginate = 7
 
 [taxonomy]
     category    =   "categories"
     tag         =   "tags"
 
 [permalinks]
-    # Non modificare
     categories = "/:slug"
     tags = "/:slug"
-    # /Non modificare
-
-#    post = "/:filename"
-#    page = "/:slug/"
-#    post =   "/:section/:slug"
+#    racconti-viaggio = "/:section/:filename"
+#    accessori = "/:section/:filename"
+#    fotografia= "/:section/:slug"
 
 [privacy]
     # Google Analytics privacy settings - https://gohugo.io/about/hugo-and-gdpr/index.html#googleanalytics
@@ -33,6 +34,9 @@ paginate = 7 # Numero di post per pagina
         anonymizeIP = true # set to true to meet General Data Protection Regulation (GDPR)
         respectDoNotTrack = true
         useSessionStorage = true
+    [privacy.youtube]
+        disable = false
+        privacyEnhanced = true
 
 [sitemap]
     changefreq = "weekly"
@@ -42,14 +46,14 @@ paginate = 7 # Numero di post per pagina
 [params]
     author = "Nicola"
     image  = "/img/logo_1x1.png"
-    slogan = "tecnologia / medicina / viaggi / fotografia"
+    slogan = "tecnologia / libri / viaggi / fotografia"
     copyright = [
         "&copy; 2018-YEAR NICOLA PARISI" ,
         "Tutte le foto - se non diversamente specificato - sono di mia proprietà. E' vietata la riproduzione anche parziale dei contenuti di questo blog." ,
         "[Disclaimer](/disclaimer) &nbsp; | &nbsp; [Licenza](/licenza) &nbsp; | &nbsp; [Privacy](/privacy) &nbsp; | &nbsp; [Caffè?](/caffe)"
     ]
+    description = "Blog personale che parla di viaggi, fotografia, tecnologia, libri"
 
-# Nav links in the side bar
 [[menu.main]]
     name = "Tutti i post"
     url = "/"
@@ -106,12 +110,10 @@ paginate = 7 # Numero di post per pagina
     url = "about/"
     weight = 7
 
-
-# this will also be in author bio if there is no writer.
 [params.social]
-    twitter       = "https://twitter.com/np_melanogaster"
-    instagram     = "https://instagram.com/npmelano"
-    youtube       = "https://www.youtube.com/channel/UCz_ZsgGRbD4tC8_-4Ni78hQ"
+    twitter       = "np_melanogaster"
+    instagram     = "npmelano"
+    youtube       = "UCz_ZsgGRbD4tC8_-4Ni78hQ"
     rss           = true
     contatti      = "email/"
-    telegram      = "https://t.me/nparisi"
+    telegram      = "nparisi"

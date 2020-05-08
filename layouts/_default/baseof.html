@@ -1,29 +1,30 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
-<head>{{ partial "head.html" . }}</head>
-{{ block "body" . }}
-<body class="home blog ct-body standard">
-{{ end }}
-  <div id="overflow-container" class="overflow-container">
-    <header id="site-header" class="site-header" role="banner">
-      <div class='top-navigation'>
-        {{ partial "topnavigation.html" . }}
-      </div>
+<html>
+  <head>
+      {{ partial "seo.html" . }}
+      {{ partial "head.html" . }}
+  </head>
 
-      <div class="container">
-        {{ partial "header.html" . }}
-      </div>
-    </header>
+    <body class="home blog ct-body standard">
+        <div id="overflow-container" class="overflow-container">
+            <header id="site-header" class="site-header" role="banner">
+                <div class='top-navigation'>
+                    {{ partial "topnavigation.html" . }}
+                </div>
 
-    <div id="main" class="main" role="main">
+                <div class="container">
+                    {{ partial "header.html" . }}
+                </div>
+            </header>
 
-      {{ block "main" . }}
-      {{ end }}
-    </div>
+            <div id="main" class="main" role="main">
+                {{ block "main" . }}
+                {{ end }}
+            </div>
 
-    {{ partial "footer.html" . }}
-  </div>
+            {{ partial "footer.html" . }}
+        </div>
 
-  {{ partial "scripts.html" . }}
-</body>
+        {{ partial "scripts.html" . }}
+    </body>
 </html>

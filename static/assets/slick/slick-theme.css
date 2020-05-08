@@ -208,10 +208,13 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     
+    transition: ease 0.2s
+    
     
 }
 .slick-dots li.slick-active button:before
 {
-    opacity: .75;
-    color: black;
+    /* Era: 0.75 e #f45113 */
+    opacity: 1;
+    color: white !important;
 }

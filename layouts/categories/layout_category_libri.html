@@ -1,6 +1,9 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
-  <head>{{ partial "head.html" . }}</head>
+<html>
+  <head>
+      {{ partial "seo.html" . }}
+      {{ partial "head.html" . }}
+  </head>
 
   <body class="home blog ct-body standard">
     <div id="overflow-container" class="overflow-container">

@@ -76,18 +76,9 @@
 
 <!-- Scroll to Top -->
 <script>
-
-window.onscroll = function() {
-    if ( document.getElementById("boxTools") !== null )
-        if ( document.body.scrollTop > 400 || document.documentElement.scrollTop > 400 )
-                document.getElementById("boxTools").style.display = "inline-grid";
-            else
-                document.getElementById("boxTools").style.display = "none";
-};
-
 function scrollToTop() {
   document.body.scrollTop = 0;
-  document.documentElement.scrollTop = 320;
+  document.documentElement.scrollTop = 240;
 }
 function goToComments() {
   document.getElementById( "commenti-container" ).scrollIntoView();
@@ -109,7 +100,7 @@ $(document).ready(function(){
         
         if(disqus_target && disqus_trigger) {
           jQuery.ajaxSetup({ cache:true });
-          jQuery.getScript('//nparisi-com.disqus.com/embed.js');
+          jQuery.getScript('//{{ .Site.DisqusShortname }}.disqus.com/embed.js');
           jQuery.ajaxSetup({ cache:false });
           disqus_trigger.remove();
           

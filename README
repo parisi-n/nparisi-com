@@ -23,6 +23,7 @@
     - > crea un blockquote
     - * * * crea un separator
     - [comment]: <> (commento qui)
+    - [testo link interno]({{< ref ".md" >}})
 
 - - - - - - - - - -
 | SOSTITUIRE IMAGE DA MARKDOWN
@@ -38,3 +39,5 @@ FUNZIONI:
     {{ replace INPUT OLD NEW }}
 
     {{/* comments here */}}
+
+    {{- FUNZIONE }} : aggiungendo il trattino si evita che venga creata una linea bianca nel codice generato (trattino attaccato a {{)

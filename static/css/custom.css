@@ -62,10 +62,6 @@
     /**
      * MENU
      */
-    @media only screen and (min-width: 900px) {
-        .menu-primary-items > li:before { content: '\00a0\00a0';}
-        .menu-primary-items > li:after { content: url('data:image/svg+xml;utf8,<svg width="1.0986mm" height="6.5425mm" version="1.1" viewBox="0 0 1.0986 6.5425" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><metadata><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/></cc:Work></rdf:RDF></metadata><g transform="translate(-29.341 -142.45)"><path d="m29.873 142.99 0.03341 5.4623v0" fill="none" stroke="#f4511e" stroke-linecap="round" stroke-width="1.065"/></g></svg>') !important; }
-    }
     .menu-primary-items a { color: #4d4d4d !important; opacity: 1 !important; }
     .menu-primary-items a:hover { color: #f4511e !important; opacity: 1 !important; }
     #header, .top-navigation, .search-icon, fa-arrow-up { background: #fcfcfc !important; }
@@ -194,9 +190,9 @@
      */
         /*
          * COOCKIE NOTICE
-         */
+         
         .cookieConsentContainer { z-index: 999; width: 550px; min-height: 20px; box-sizing: border-box; padding: 30px 30px 30px 30px; background: rgba(55, 55, 55, .9); overflow: hidden; position: fixed; bottom: 30px; right: 30px; display: none; border-radius: 3px; }
-        @media (max-width: 980px) { .cookieConsentContainer { bottom: 0px !important; left: 0px !important; width: 100%  !important; } }
+        @media (max-width: 980px) { .cookieConsentContainer { bottom: 0px !important; left: 0px !important; width: 100%  !important; } }*/
         
         /*
          * SLIDER
@@ -221,7 +217,7 @@
         /**
          * INDICE
          */
-        div#toc-container { background-color: #FDFDFD;  border: 1px solid #4d4d4d; margin-top: 3em; margin-bottom: 2.3em; border-radius: 3px; width: auto; white-space: nowrap; display: inline-block;  padding-right: 1.2em; resize: vertical; }
+        div#toc-container { background-color: #FDFDFD;  border: 1px solid #4d4d4d; margin-top: 1.5em; margin-bottom: 2.3em; border-radius: 3px; width: 100%; display: inline-block;  padding-right: 1.2em; resize: vertical; }
         div#toc-container .toc-title { font-weight: 800; padding: 1.2em; display: table-cell; }
         div#toc-container #toc-button { cursor: pointer; transition: ease 0.3s; padding-left: 7em; display: table-cell; font-size: 16pt; float: right; }
         div#toc-container #TableOfContents { display: block; }
@@ -244,9 +240,14 @@
         /**
          * INSTAGRAM
          */
-        .instagram_gallery { display: inline-block; white-space: nowrap; }
+        .instagram_gallery { display: inline-block; white-space: nowrap; text-align: center }
+        .instagram-image img, .instagram-video img { filter: saturate(.7) !important; transition: ease 0.2s; border-radius: 3px; }
+        .instagram-image img:hover, .instagram-video img:hover { filter: saturate(1) !important; }
 
-        
+        /**
+         * SCROLL TO TOP
+         */
+        #boxTools { display: none; }
         
      /**
       * MIX
@@ -379,7 +380,7 @@
         .entry-container { padding: 0 3% !important; margin-top: 0 !important; }
         .blog .main, .archive .main, .search .main { width: 96.96%; padding-top: 1em; }
         .post, .page { padding: 0 0px !important; margin-top: 2.5em !important; }
-        
+        .content-category { display: inline-flex ;}
         .entry-content .block-image, .entry-content .block-video { box-shadow: none; padding: 0; }
         
         article .category { margin-bottom: 3em; /* necessario epr i post senza indice */ }
@@ -452,11 +453,7 @@
              * INSTAGRAM
              */
             .ssba-modern-2 { margin-left: -12px; }
-            
-            /**
-             * DISQUS
-             */
-            
+
             /* .sbi_item a { height: calc(-100px + 100%) !important; } */
             #sb_instagram #sbi_images { text-align: center; }
             /*
@@ -582,8 +579,13 @@
         .loop-container { margin-top: 3em; }
         
         /* Allinea il submenu della sezione Travel | Blog */
-        .menu-item:nth-of-type(2) .sub-menu { margin-left: 1.85em; }
-        .menu-item:nth-of-type(4) .sub-menu { margin-left: -.25em; }
+        ul.sub-menu {
+                background-color: rgb(251, 251, 251);
+                box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+                margin: 0.18em;
+            }
+        .menu-item:nth-of-type(2) .sub-menu { margin-left: 5%; }
+        .menu-item:nth-of-type(4) .sub-menu { margin-left: -35%; }
 
         /**
          * POST

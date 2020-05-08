@@ -7,7 +7,7 @@
 // CONFIG //
 var linkPolicy      =   'https://...';
 var purecookieDesc  = 'In questo sito utilizzo cookie. Se continui a navigare do per scontato ti faccia piacere. '
-                    +   'Maggiori informazioni <a href="' + linkPolicy + '" class="light-link">qui</a>';
+                    +   'Maggiori informazioni <a href="' + linkPolicy + '" class="light-link">qui</a>. ';
 // /CONFIG //
 
 function pureFadeIn(elem, display){
@@ -78,8 +78,14 @@ function cookieApproved() {
 
 window.onload = function() { cookieConsent(); };
 window.onscroll = function() {
-    if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200)
-    {
+    if (!getCookie('nparisiCookieApproved'))
+        if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200)
             cookieApproved();
-    } 
+    
+    if ( document.getElementById("boxTools") !== null &&
+            window.innerWidth > 1024 )
+        if ( document.body.scrollTop > 400 || document.documentElement.scrollTop > 400 )
+                document.getElementById("boxTools").style.display = "inline-grid";
+            else
+                document.getElementById("boxTools").style.display = "none";
 }

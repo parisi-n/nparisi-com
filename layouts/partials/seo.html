@@ -1,0 +1,68 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+{{/* Guida: https://www.skcript.com/svr/perfect-seo-meta-tags-with-hugo/ */}}
+
+<title>{{if not $.IsHome}}{{ humanize .Title }}{{else}}{{ .Title }}{{end}} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}</title>
+<meta name="application-name" content="{{if not $.IsHome}}{{ humanize .Title }}{{else}}{{ . }}{{end}} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}" />
+<meta name="description" content="{{ .Site.Params.Description }}" />
+<meta name="author" content="{{ humanize .Site.Params.author }}" /> 
+<meta name="language" content="Italiano">
+<meta name="url" content="{{ .Permalink }}" />
+<meta name="robots" content="index,follow" /> 
+<meta name="googlebot" content="index,follow" />
+<meta name="news_keywords" content="{{ if isset .Params "tags" }}{{ range .Params.tags }}{{ . }},{{ end }}{{ end }}blog" />
+
+{{/* Open Graph data */}}
+<meta property="og:image" content="{{ .Params.image | absURL }}" />
+<meta property="og:title" content="{{if not $.IsHome}}{{ humanize .Title }}{{else}}{{ . }}{{end}} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}" />
+<meta property="og:description" content="{{ .Site.Params.Description }}" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:locale" content="it">
+{{- if eq .Type "article" }}
+{{/* In caso di og:article si possono specificare ulteriori parametri */}}
+<meta property="og:type" content="article" />
+<meta property="article:author" content="{{ humanize .Site.Params.author }}" />
+<meta property="article:section" content="{{ .Section }}" /> 
+<meta property="article:tags" content="{{ if isset .Params "tags" }}{{ range .Params.tags }}{{ . }},{{ end }}{{ end }}blog" /> 
+<meta property="article:published_time" content={{ .Date.Format "2006-01-02T15:04:05Z0700" | safeHTML }} /> 
+{{- end }}
+
+{{/* Twitter card */}}
+<meta name="twitter:title" content="{{if not $.IsHome}}{{ humanize .Title }}{{else}}{{ . }}{{end}} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}" />
+<meta name="twitter:description" content="{{ .Site.Params.Description }}" />
+<meta name="twitter:image" content="{{ .Site.Params.image | absURL }}" />
+<meta name="twitter:image:src" content="{{ .Site.Params.image | absURL }}" /> 
+<meta name="twitter:url" content="{{ .Permalink }}" /> 
+
+{{/* Link */}}
+<link rel="canonical" href="{{ .Permalink }}" itemprop="url" />
+<link href="http://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+<link href="{{ "css/style.css" | absURL }}?v={{ now.Unix }}" rel="stylesheet" type='text/css' media='all'>
+<link href="{{ "css/custom.css" | absURL }}?v={{ now.Unix }}" rel="stylesheet" type='text/css' media='all'>
+<link rel="shortcut icon" href="{{ "img/favicon.ico" | absURL }}" type="image/x-icon">
+<link rel="icon" href="{{ "img/favicon.ico" | absURL }}" type="image/x-icon">
+<link rel="sitemap" type="application/xml" title="Sitemap" href="{{ .Site.BaseURL }}sitemap.xml" /> 
+
+{{- if .RSSLink }}
+<link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title | default "" }}" />
+{{- end }}
+
+{{/* .Type può essere article, tags, categories, page */}}{{/* Tags solo per gli ARTICOLI */}}
+{{- if eq .Type "article" }} 
+    {{ partial "schema" . }}
+{{- else if or ( eq .Type "categories" ) ( eq .Type "tags" ) }}
+    {{- $paginator := .Paginate (where (where .Data.Pages "Type" "article").ByDate.Reverse "IsPage" true) }}
+{{- if $paginator }}
+<link rel="first" href="{{ $paginator.First.URL }}">
+{{- if $paginator.HasPrev }}
+<link rel="prev" href="{{ $paginator.Prev.URL }}">
+{{- end }}
+{{- if $paginator.HasNext }}
+<link rel="next" href="{{ $paginator.Next.URL }}">
+{{- end }}
+<link rel="last" href="{{ $paginator.Last.URL }}">
+{{- end }}
+{{- end }}

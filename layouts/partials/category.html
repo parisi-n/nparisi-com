@@ -5,7 +5,7 @@
     
     <div id="loop-container" class="loop-container">
       
-      {{ $paginator := .Paginate (where (where .Data.Pages "Section" "post").ByDate.Reverse "IsPage" true) }}
+      {{/*su SEO.HTML: {{ $paginator := .Paginate (where (where .Data.Pages "Type" "article").ByDate.Reverse "IsPage" true) }}*/}}
       {{ range $index, $element := .Paginator.Pages }}
 
                     {{ if and (isset .Params "image") .Params.image }}
