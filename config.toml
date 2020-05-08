@@ -31,8 +31,13 @@ paginate = 7 # Numero di post per pagina
     [privacy.googleAnalytics]
         disable = false # set to true to disable service 
         anonymizeIP = true # set to true to meet General Data Protection Regulation (GDPR)
-        respectDoNotTrack = false
-        useSessionStorage = false
+        respectDoNotTrack = true
+        useSessionStorage = true
+
+[sitemap]
+    changefreq = "weekly"
+    filename = "sitemap.xml"
+    priority = 0.5
 
 [params]
     author = "Nicola"

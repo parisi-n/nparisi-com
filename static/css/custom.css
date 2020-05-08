@@ -240,6 +240,11 @@
         .fa-custom-button { height: 3em; width: 3em; background-color: #4d4d4d; display: block; margin-right: 0.7em; border-radius: 3px; transition: 0.3s ease; text-align: center }
         .fa-custom-button a { text-decoration: none; border-bottom: 0px; }
         .fa-custom-button:hover { background-color: #f4511e !important; }
+        
+        /**
+         * INSTAGRAM
+         */
+        .instagram_gallery { display: inline-block; white-space: nowrap; }
 
         
         
