@@ -90,7 +90,6 @@
     article .category { display: block; }
     article .category a { background-color:#f4511e; padding: 0.7em 1.1em; margin-bottom: 2em; margin-right: 0.8em; font-weight: 600; opacity: 1 !important; text-transform: uppercase; letter-spacing: 0.8; font-size: 13pt; color: #fff !important; text-decoration: none; border-radius: 3px; }
     article .category a:hover, .category a:nth-child(2):hover, .category a:nth-child(2):hover { background-color: #4d4d4d; }
-    .entry-header .entry-title { font-variant: small-caps !important; text-transform: initial; }
     .entry-meta .wtr-time-wrap, .entry-meta { font-size: 10pt !important; }
     .entry-content img, .entry-content video { margin-bottom: -0.5em !important; }
 
