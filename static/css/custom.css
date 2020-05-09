@@ -212,12 +212,6 @@
         #disqus_thread { width: 100% !important; }
         
         /**
-         * INSTAGRAM
-         */
-        .instagram-video:nth-child(1) a img { margin-left: 0 !important; }
-        .instagram-video img { margin-right: 0 !important; }
-        
-        /**
          * INDICE
          */
         div#toc-container { background-color: #FDFDFD;  border: 1px solid #4d4d4d; margin-top: 1.5em; margin-bottom: 2.3em; border-radius: 3px; display: inline-block;  padding-right: 1.2em; resize: vertical; }
@@ -244,9 +238,12 @@
         /**
          * INSTAGRAM
          */
-        .instagram_gallery { display: inline-block; text-align: center }
-        .instagram-image img, .instagram-video img { filter: saturate(.7) !important; transition: ease 0.2s; border-radius: 3px; }
-        .instagram-image img:hover, .instagram-video img:hover { filter: saturate(1) !important; }
+        .instagram_gallery { display: inline-flex; width: 100%; justify-content: center; position: relative; }
+        .instagram-pic { filter: saturate(.7) !important; transition: ease 0.2s; border-radius: 3px; margin:1% auto; display: block; width: 94%; float: left; }
+        .instagram-pic:hover { filter: saturate(1) !important; }
+        .instagram-video:nth-child(1) a img { margin-left: 0 !important; }
+        .instagram-video { color: #fff; width: 24px; position: absolute; top: 50%; margin-top: -12px; margin-left: -10%; -webkit-filter: drop-shadow( 0 0 2px rgba(0,0,0,.4) ); filter: drop-shadow( 0 0 2px rgba(0,0,0,.4) ); }
+        .instagram-carosello { color: #fff; width: 24px; position: absolute; top: 10px; right: 23px; -webkit-filter: drop-shadow( 0 0 2px rgba(0,0,0,.4) ); filter: drop-shadow( 0 0 2px rgba(0,0,0,.4) ); }
 
         /**
          * SCROLL TO TOP

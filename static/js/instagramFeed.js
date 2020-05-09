@@ -92,50 +92,12 @@
                 options.callback(data);
                 return;
             }   
-                
-            //Setting styles
-            var styles = {
-                'profile_container': "",
-                'profile_image': "",
-                'profile_name': "",
-                'profile_biography': "",
-                'gallery_image': ""
-            };
             
-            if(options.styling){
-                styles.profile_container = " style='text-align:center;'";
-                styles.profile_image = " style='border-radius:10em;width:15%;max-width:125px;min-width:50px;'";
-                styles.profile_name = " style='font-size:1.2em;'";
-                styles.profile_biography = " style='font-size:1em;'";
+//                 var width = (100 - options.margin * 2 * options.items_per_row)/options.items_per_row;
                 
-/*                var w = window.innerWidth;
-
-                if (sbiWindowWidth < 640 && (parseInt(cols) > 2 && parseInt(cols) < 7)) returnCols = 2;
-                if (sbiWindowWidth < 640 && (parseInt(cols) > 6 && parseInt(cols) < 11)) returnCols = 4;
-                if (sbiWindowWidth <= 480 && parseInt(cols) > 2) returnCols = 1;
-  */              
-                if ( window.innerWidth > 640 )
-                    var width = (100 - options.margin * 2 * options.items_per_row)/options.items_per_row;
-                else
-                    var width = (100 - options.margin * 2 * options.items_per_row)/2;
-                styles.gallery_image = " style='margin:"+options.margin+"% "+options.margin+"%;width:"+width+"%;'";
-            }
+//                styles.gallery_image = " margin:"+options.margin+"% "+options.margin+"%;width:"+width+"%;";
 
             var html = "";
-            //Displaying profile
-            if(options.display_profile){
-                html += "<div class='instagram_profile'" +styles.profile_container +">";
-                html += "<img class='instagram_profile_image' src='"+ data.profile_pic_url +"' alt='"+ (is_tag ? data.name + " tag pic" : data.username + " profile pic") +"'"+ styles.profile_image +" />";
-                if(is_tag)
-                    html += "<p class='instagram_tag'"+ styles.profile_name +"><a href='https://www.instagram.com/explore/tags/"+ options.tag +"' rel='noopener' target='_blank'>#"+ options.tag +"</a></p>";
-                else
-                    html += "<p class='instagram_username'"+ styles.profile_name +">@"+ data.full_name +" (<a href='https://www.instagram.com/"+ options.username +"' rel='noopener' target='_blank'>@"+options.username+"</a>)</p>";
-        
-                if(!is_tag && options.display_biography)
-                    html += "<p class='instagram_biography'"+ styles.profile_biography +">"+ data.biography +"</p>";
-        
-                html += "</div>";
-            }
 
             //image size
             var image_index = typeof image_sizes[options.image_size] !== "undefined" ? image_sizes[options.image_size] : image_sizes[640];
@@ -150,19 +112,22 @@
                     html += "<div class='instagram_gallery'>";
                     for(var i = 0; i < max; i++){
                         var url = "https://www.instagram.com/p/" + imgs[i].node.shortcode,
-                            image, type_resource, caption;
+                            image, type_resource, caption, sovraimg;
 
                         switch(imgs[i].node.__typename){
                             case "GraphSidecar":
                                 type_resource = "sidecar"
                                 image = imgs[i].node.thumbnail_resources[image_index].src;
+                                sovraimg = '<svg class="instagram-carosello" aria-hidden="true" aria-label="Carosello" data-fa-proƒcessed="" data-prefix="far" data-icon="clone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M464 0H144c-26.51 0-48 21.49-48 48v48H48c-26.51 0-48 21.49-48 48v320c0 26.51 21.49 48 48 48h320c26.51 0 48-21.49 48-48v-48h48c26.51 0 48-21.49 48-48V48c0-26.51-21.49-48-48-48zM362 464H54a6 6 0 0 1-6-6V150a6 6 0 0 1 6-6h42v224c0 26.51 21.49 48 48 48h224v42a6 6 0 0 1-6 6zm96-96H150a6 6 0 0 1-6-6V54a6 6 0 0 1 6-6h308a6 6 0 0 1 6 6v308a6 6 0 0 1-6 6z"></path></svg>';
                                 break;
                             case "GraphVideo":
                                 type_resource = "video";
                                 image = imgs[i].node.thumbnail_src
+                                sovraimg = '<svg class="instagram-video" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>';
                                 break;
                             default:
                                 type_resource = "image";
+                                sovraimg = '';
                                 image = imgs[i].node.thumbnail_resources[image_index].src;
                         }
                         
@@ -182,23 +147,11 @@
                             caption = (is_tag ? data.name : data.username) + " image " + i;
                         }
 
-                        html += "<a href='" + url +"' class='instagram-" + type_resource + "' rel='noopener' target='_blank'>";
-                        html += "<img src='" + image + "' alt='" + escape_string(caption) + "' title='" + escape_string(caption) + "'" + styles.gallery_image +" />";
-                        html += "</a>";
-                    }
-                    html += "</div>";
-                }
-            }
-            
-            if(options.display_igtv && typeof data.edge_felix_video_timeline !== "undefined"){
-                var igtv = data.edge_felix_video_timeline.edges,
-                    max = (igtv.length > options.items) ? options.items : igtv.length
-                if(igtv.length > 0){
-                    html += "<div class='instagram_igtv'>";
-                    for(var i = 0; i < max; i++){
-                        html += "<a href='https://www.instagram.com/p/"+ igtv[i].node.shortcode +"' rel='noopener' target='_blank'>";
-                        html += "<img src='"+ igtv[i].node.thumbnail_src +"' alt='"+ options.username +" instagram image "+ i+"'"+styles.gallery_image+" />";
-                        html += "</a>";
+                        html += "<a href='" + url +"' rel='noopener' target='_blank'>";
+                        html += "<img class='instagram-pic' src='" + image + "' alt='" + escape_string(caption) + "' title='" + escape_string(caption) + "' />";
+                        html += sovraimg
+                        html += "</a>"
+
                     }
                     html += "</div>";
                 }
