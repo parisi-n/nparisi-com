@@ -5,9 +5,9 @@
  */
 
 // CONFIG //
-var linkPolicy      =   'https://...';
-var purecookieDesc  = 'In questo sito utilizzo cookie. Se continui a navigare do per scontato ti faccia piacere. '
-                    +   'Maggiori informazioni <a href="' + linkPolicy + '" class="light-link">qui</a>. ';
+var linkPolicy      =   'privacy';
+var purecookieDesc  = '<p>Utilizzo i cookie per essere sicuro che possa avere la migliore esperienza nel mio blog. Se continui a navigare sul blog do per scontato ne sia felice.</p>'
+                    +   '<p style="margin-top: 0.3em">Maggiori informazioni <a href="' + linkPolicy + '" class="light-link">qui</a>.</p>';
 // /CONFIG //
 
 function pureFadeIn(elem, display){
@@ -62,8 +62,8 @@ function eraseCookie(name) {
 function cookieConsent() {
   if (!getCookie('nparisiCookieApproved')) {
     document.body.innerHTML += '<div class="cookieConsentContainer article" id="cookieConsentContainer" style="color: #f8f8f8; padding: 1.5em">'
-                            +   '<p style="margin-top: -0.5em">' + purecookieDesc
-                            +   '</p>'
+                            +   '<div style="margin-top: -0.5em">' + purecookieDesc
+                            +   '</div>'
                             +   '<div style="text-align: center"><a onclick="cookieApproved();" class="more-link" style="cursor: pointer; padding: 1em 1.73em">OK</a></div>'
                             +   '</div>';
     pureFadeIn("cookieConsentContainer");
@@ -74,18 +74,4 @@ function cookieApproved() {
   setCookie('nparisiCookieApproved','1', 365);
   pureFadeOut("cookieConsentContainer");
   startInstaFeed();
-}
-
-window.onload = function() { cookieConsent(); };
-window.onscroll = function() {
-    if (!getCookie('nparisiCookieApproved'))
-        if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200)
-            cookieApproved();
-    
-    if ( document.getElementById("boxTools") !== null &&
-            window.innerWidth > 1024 )
-        if ( document.body.scrollTop > 400 || document.documentElement.scrollTop > 400 )
-                document.getElementById("boxTools").style.display = "inline-grid";
-            else
-                document.getElementById("boxTools").style.display = "none";
 }

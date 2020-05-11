@@ -1,7 +1,6 @@
 <script src="{{ "js/jquery.min.js" | absURL }}"></script>
-<script src="{{ "js/jquerymigrate.js" | absURL }}"></script>
+<script src="{{ "js/jquerymigrate.min.js" | absURL }}"></script>
 <script src="{{ "js/production.min.js" | absURL }}?v={{ now.Unix }}"></script>
-
 <!-- Slider -->
 <script src="{{ "assets/slick/slick.min.js" | absURL }}"></script>
 <script type="text/javascript">
@@ -85,6 +84,7 @@ function goToComments() {
 }
 </script>
 
+{{- if eq .Type "article" }}
 <!-- Disqus -->
 <script>
 $(document).ready(function(){
@@ -112,5 +112,108 @@ $(document).ready(function(){
         }
     })
 });
-
 </script>
+{{ end }}
+
+
+{{if eq .Type "article" }}
+<script type="text/javascript">
+
+    /*
+     * Reading bar
+     */
+    function setReadingBar()
+    {
+        var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+        var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+        var scrolled = (winScroll / height) * 100;
+        document.getElementById("my-read-bar").style.width = scrolled + "%";
+    }
+
+    $(document).on('ready', function()
+    {
+        /*
+         * Se la pagina viene aggiornata:
+         * 1) mostra comunque la boxTools
+         * 2) Imposta la read bar
+         */
+        // boxTools visibile
+        if ( document.body.scrollTop > 400 || document.documentElement.scrollTop > 400 )
+            document.getElementById("boxTools").style.display = "inline-grid";
+        
+        // Read bar
+        setReadingBar();
+
+        /*
+         * Eventi in on scroll
+         */
+        $(document).on('scroll', function()
+        {
+            /*
+             * Mostra la boxtool
+             */
+            if ( document.getElementById("boxTools") !== null &&
+                    window.innerWidth > 1024 )
+                if ( document.body.scrollTop > 400 || document.documentElement.scrollTop > 400 )
+                        document.getElementById("boxTools").style.display = "inline-grid";
+                    else
+                        document.getElementById("boxTools").style.display = "none";
+            
+            /*
+             * Reading bar
+             */
+            setReadingBar();
+            
+            /*
+             * Frecce di navigazione
+             */
+            if ( document.getElementById("nav-arrow-left") !== null )
+                if ( ( document.body.scrollTop > 800 || document.documentElement.scrollTop > 800 ) &&
+                    window.innerWidth > 1024 )
+                    document.getElementById("nav-arrow-left").style.display = "inline-flex";
+                else
+                    document.getElementById("nav-arrow-left").style.display = "none"
+            
+            if ( document.getElementById("nav-arrow-right") !== null )
+                if ( ( document.body.scrollTop > 800 || document.documentElement.scrollTop > 800 ) &&
+                    window.innerWidth > 1024 )
+                    document.getElementById("nav-arrow-right").style.display = "inline-flex";
+                else
+                    document.getElementById("nav-arrow-right").style.display = "none";
+        });
+    });
+</script>
+
+<!-- Navigation bar -->
+<script>
+    $(document).ready(function(){
+        $("#nav-arrow-left").hover( function()
+        {
+            if($("#suggestion-box-left").is( ":visible" ))
+                $("#suggestion-box-left").fadeOut(350);
+            else
+                $("#suggestion-box-left").css("display", "inline-flex").fadeIn(350);
+        });
+        
+        $("#nav-arrow-left").click( function()
+        {
+            location.href=$( "#nav-arrow-left-link" ).text();
+        });
+        
+        $("#nav-arrow-right").hover( function()
+        {
+            console.log( "hover" );
+            if($("#suggestion-box-right").is( ":visible" ))
+                $("#suggestion-box-right").fadeOut(350);
+            else
+                $("#suggestion-box-right").css("display", "inline-flex").fadeIn(350);
+        });
+        
+        $("#nav-arrow-right").click( function()
+        {
+            location.href=$( "#nav-arrow-right-link" ).text();
+        });
+    });
+</script>
+
+{{end}}

@@ -1,27 +1,23 @@
+{{- $img := (cond ( eq .Type "article") ( ( ( printf "%s/%s" .Params.baseimg .Params.image ) | absURL  ) ) ( .Site.Params.image | absURL ) ) }}
 <script type="application/ld+json">
 {
     "@context" : "http://schema.org",
-    "@type" : "BlogPosting",
+    "@type" : "{{ .Type }}",
     "mainEntityOfPage": {
          "@type": "{{ if eq .Type "article" }}Article{{else}}WebPage{{end}}",
          "@id": "{{ .Site.BaseURL }}"
     },
     "articleSection" : "{{ .Section }}",
     "name" : "{{ .Title }}",
-    "headline" : "{{ .Title }}",
     "description" : "{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Params.summary }}{{ end }}{{ end }}",
     "inLanguage" : "it",
     "author" : "{{ .Site.Params.author }}",
-    "creator" : "{{ .Site.Params.author }}",
-    "publisher": "{{ .Site.Params.author }}",
-    "accountablePerson" : "{{ .Site.Params.author }}",
     "copyrightHolder" : "{{ .Site.Params.author }}",
     "copyrightYear" : "{{ .Date.Format "2006" }}",
     "datePublished": "{{ .Date }}",
-    "dateModified" : "{{ .Date }}",
     "url" : "{{ .Permalink }}",
     "wordCount" : "{{ .WordCount }}",
-    "image" : "{{ .Params.image | absURL }}",
+    "image" : "{{ $img }}",
     "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }}"Blog" ]   
 }
 </script>

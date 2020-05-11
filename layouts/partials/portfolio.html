@@ -1,5 +1,4 @@
 {{ $paginator := .Paginate (where (where .Site.Pages "Type" "article").ByDate.Reverse "IsPage" true) }}
-
 {{ if eq $paginator.PageNumber 1 }}
     <div class="header-section-index in-evidenza">
         IN EVIDENZA
@@ -54,10 +53,14 @@
                                                         <div class="excerpt-meta">
 
                                                             <!-- POST NORMALE -->
-                                                            <span class="date">{{ .Date.Format "02 January 2006" }}</span>
+                                                            <span class="date" style="cursor: default;" title="Post scritto il {{ .Date.Format "02" }} {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }} {{ .Date.Format "2006" }}">
+                                                                  {{ .Date.Format "02" }}
+                                                                  {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }}
+                                                                  {{ .Date.Format "2006" }}
+                                                            </span>
 
                                                             <span> / </span>
-                                                            <span class="category">
+                                                            <span class="category" title="Vedi tutti i post della categoria">
                                                                     <a href="/categories/{{ $category | urlize }}">{{ humanize $category }}</a>
                                                             </span>
                                                             </div>

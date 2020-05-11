@@ -6,7 +6,14 @@
   </head>
 
     <body class="home blog ct-body standard">
-        <div id="overflow-container" class="overflow-container">
+        {{/* Reading bar */}}
+        {{- if eq .Type "article" }}
+        <div class="progress-read-container">
+          <div class="progress-read-bar" id="my-read-bar"></div>
+        </div>  
+        {{ end }}
+
+        <div id="overflow-container" class="overflow-container{{if .IsHome}} dark-background{{end}}">
             <header id="site-header" class="site-header" role="banner">
                 <div class='top-navigation'>
                     {{ partial "topnavigation.html" . }}

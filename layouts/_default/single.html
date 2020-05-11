@@ -5,7 +5,6 @@
 
 
 {{ define "main" }}
-
   <div id="loop-container" class="loop-container">
     {{ if and (isset .Params "image") .Params.image }}
     <div class="post type-post entry post_single">
@@ -19,7 +18,7 @@
         {{ end }}
         <div class="entry-container">
             <div class='entry-header'>
-              <h1 class='entry-title'>{{ .Title }}</h1>
+              <h1 class='entry-title'>{{ replace .Title "//" "<div class='ep-interspace'><br/></div>" | safeHTML }}</h1>
             </div>
             
             <div class="entry-meta"> 
@@ -57,6 +56,7 @@
                 {{ .Content }}
             </article>
               
+              
             {{ partial "disqus.html" . }}
           </div>
 
@@ -66,6 +66,9 @@
 
 </div>
 
+<!-- Frecce laterali di navigazione -->
+{{ partial "navigazione_tra_post.html" . }}
+    
 <!-- Menù bar laterale -->
 <div id="boxTools">
 

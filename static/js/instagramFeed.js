@@ -94,6 +94,7 @@
             }   
             
 //                 var width = (100 - options.margin * 2 * options.items_per_row)/options.items_per_row;
+        
                 
 //                styles.gallery_image = " margin:"+options.margin+"% "+options.margin+"%;width:"+width+"%;";
 

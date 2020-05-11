@@ -1,0 +1,24 @@
+{{ if .NextInSection }}
+<div id="nav-arrow-left" class="nav-arrow-left">
+    <i class="fas fa-chevron-left"></i>
+    <div class="suggestion-box" id="suggestion-box-left">
+        <div style="margin: auto 0">
+            {{ .NextInSection.Title }}
+        </div>
+        <span style="display: none; height: 0px; width: 0px;" id="nav-arrow-left-link">{{ .NextInSection.Permalink }}</span>
+    </div>
+</div>
+{{- end }}
+
+{{ if .PrevInSection }}
+<div id="nav-arrow-right" class="nav-arrow-right">
+    <div class="suggestion-box" id="suggestion-box-right">
+        <div style="margin: auto 0">
+            {{ .PrevInSection.Title }}
+        </div>
+        <span style="display: none; height: 0px; width: 0px;" id="nav-arrow-right-link">{{ .PrevInSection.Permalink }}</span>
+    </div>
+    
+    <i class="fas fa-chevron-right"></i>
+</div>
+{{- end }}
