@@ -138,7 +138,8 @@ $(document).ready(function(){
          * 2) Imposta la read bar
          */
         // boxTools visibile
-        if ( document.body.scrollTop > 400 || document.documentElement.scrollTop > 400 )
+        if ( ( document.body.scrollTop > 400 || document.documentElement.scrollTop > 400 ) &&
+                    window.width > 1024 )
             document.getElementById("boxTools").style.display = "inline-grid";
         
         // Read bar
@@ -166,7 +167,7 @@ $(document).ready(function(){
             
             /*
              * Frecce di navigazione
-             */
+             *
             if ( document.getElementById("nav-arrow-left") !== null )
                 if ( ( document.body.scrollTop > 800 || document.documentElement.scrollTop > 800 ) &&
                     window.innerWidth > 1024 )
@@ -179,36 +180,35 @@ $(document).ready(function(){
                     window.innerWidth > 1024 )
                     document.getElementById("nav-arrow-right").style.display = "inline-flex";
                 else
-                    document.getElementById("nav-arrow-right").style.display = "none";
+                    document.getElementById("nav-arrow-right").style.display = "none"; */
         });
     });
 </script>
 
 <!-- Navigation bar -->
-<script>
+<script type="text/javascript">
     $(document).ready(function(){
+        /*
         $("#nav-arrow-left").hover( function()
         {
-            if($("#suggestion-box-left").is( ":visible" ))
-                $("#suggestion-box-left").fadeOut(350);
+            if($("#suggestion-box").is( ":visible" ))
+                $("#suggestion-box").fadeOut(350);
             else
-                $("#suggestion-box-left").css("display", "inline-flex").fadeIn(350);
-        });
+                $("#suggestion-box").css("display", "inline").fadeIn(350);
+        });         $("#nav-arrow-right").hover( function()
+        {
+            console.log( "hover" );
+            if($("#suggestion-box").is( ":visible" ))
+                $("#suggestion-box").fadeOut(350);
+            else
+                $("#suggestion-box").css("display", "inline").fadeIn(350);
+        });*/
         
         $("#nav-arrow-left").click( function()
         {
             location.href=$( "#nav-arrow-left-link" ).text();
         });
-        
-        $("#nav-arrow-right").hover( function()
-        {
-            console.log( "hover" );
-            if($("#suggestion-box-right").is( ":visible" ))
-                $("#suggestion-box-right").fadeOut(350);
-            else
-                $("#suggestion-box-right").css("display", "inline-flex").fadeIn(350);
-        });
-        
+                
         $("#nav-arrow-right").click( function()
         {
             location.href=$( "#nav-arrow-right-link" ).text();

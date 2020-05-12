@@ -54,21 +54,20 @@
                 {{end}}
 
                 {{ .Content }}
+                
+                <!-- Frecce laterali di navigazione -->
+                {{ partial "navigazione_tra_post.html" . }}
+                
             </article>
-              
-              
+                    
             {{ partial "disqus.html" . }}
           </div>
 
     </div>
 
-</div>
-
-</div>
-
-<!-- Frecce laterali di navigazione -->
-{{ partial "navigazione_tra_post.html" . }}
-    
+    </div>
+    </div>
+</div>    
 <!-- Menù bar laterale -->
 <div id="boxTools">
 

@@ -15,14 +15,14 @@ Apprezzo quando un utente, che potrebbe entrare ed uscire dal sito dopo averlo "
 Mi piace ricevere questo tipo di feedback, perchè mi ispirano a continuare e a fare sempre meglio e a produrre sempre qualcosa di nuovo. _Gratifica_.
 Trovo che il processo di scrittura su un blog sia in qualche modo "catartico", permetta di mettere a fuoco eventuali obiettivi, pianificare l'immediato futuro o fare delle considerazioni a freddo.
 
-# Consigli per gli acquisti
+## Consigli per gli acquisti
 
 In più momenti nelle pagine di questo blog consiglio degli accessori per me essenziali oppure un acquisto piuttosto che un altro – rimandando con un link all'oggetto in vendita su varie piattaforme d'acquisto. I vari link **non sono referral** e dall'acquisto correlato al mio consiglio non mi torna in tasca nulla.
 Questo per garantire l'assoluta sincerità nell'esposizione, in un web di _recensori_ che consigliano i prodotti più disparati al solo fine di fare numeri e vendere.
 
 Sono un appassionato e scrivo per passione, per una informazione libera e gratuita.
 
-# Brave e i suoi BAT
+## Brave e i suoi BAT
 
 Questo sito è un **creator brave verificato**.
 
