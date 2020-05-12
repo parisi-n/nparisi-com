@@ -17,7 +17,7 @@ Recentemente ho acquistato [RavPowerFileHub]({{< ref "ravpower-filehub-2019.md" 
 
 A ruota ho poi deciso di acquistare il {{< affiliate_link "sandisk-extreme-pro-1tb" "SanDisk Extreme Pro da 1TB" >}} al prezzo (ottimo) di 150€ circa. Su Amazon.it lo stesso modello con la stessa capacità - al tempo dell'acquisto - stava qualche decina di euro sopra.
 
-{{< image src="IMG_1272-819x1024.jpg" alt="SSD portatile piccolo e stiloso, ben rifinito" caption="I dettagli contano" >}}
+{{< image src="IMG_1272.jpg" alt="SSD portatile piccolo e stiloso, ben rifinito" caption="I dettagli contano" >}}
 
 Il perché abbia deciso questa formula (fileHubWifi + SSD) rispetto - esempio - all’_all-in-one_ **WD Wireless My Passoport SD** è semplice: non volevo un unico dispositivo che svolgesse un'unica funzione ma volevo qualcosa di più flessibile. E il RavPower mi permette di collegare SD, HDD, SSD in momenti diversi ed accedere ai file via wifi senza la seccatura di dover cercare adattatori o cavi.
 
@@ -27,13 +27,13 @@ Quando a SanDisk hanno deciso di creare un supporto tanto piccolo, forse hanno e
 
 Le sue dimensioni sono **9.6**cm x **4.9**cm x **0.8**cm per un peso di **39**gr. Sembra resistente ma al tatto da la sensazione di "guscio vuoto", compromesso forse necessario considerata la certificazione **IP55** che dovrebbe conferirgli resistenza alla polvere ed ai getti d'acqua.
 
-{{< image src="IMG_1279-819x1024.jpg" alt="Con la sua comodo aggancio può essere legat oad un portachiavi o altro anello" caption="Piccolo e spazioso" >}}
+{{< image src="IMG_1279.jpg" alt="Con la sua comodo aggancio può essere legat oad un portachiavi o altro anello" caption="Piccolo e spazioso" >}}
 
 L'ambia capacità di carico e la velocità di trasferimento sono il suo punto forte e - associato al RavPower Filehub, permette backup rapidi ed indolori delle proprie schede.
 
 Molto avveniristico (e gradito) è il cavo fornito con esso - **type C - type C** che all'occorrenza può diventare **type A** mediante adattatore fornito nella confezione.
 
-{{< image src="IMG_1280-819x1024.jpg" alt="La natura è il suo habitat" >}}
+{{< image src="IMG_1280.jpg" alt="La natura è il suo habitat" >}}
 
 Non ho apprezzato invece il guscio di protezione che alla manipolazione appare instabile, scricchiolante, come se l'interno fosse vuoto. E - di fatto - lo è, ad eccezione della memoria di storage, per ridurre ulteriormente il peso.
 
@@ -44,7 +44,7 @@ Dimensioni, capienza e velocità sono i suoi punti forti.
 
 Non ho apprezzato tuttavia il cavo fornito in dotazione, ed il suo adattatore, entrambi a rischio di smarrimento.
 
-{{< image src="IMG_1284-819x1024.jpg" alt="SSD con la sua cover" >}}
+{{< image src="IMG_1284.jpg" alt="SSD con la sua cover" >}}
 
 Ho acquistato su **Aliexpress** una {{< affiliate_link "sandisk-extreme-pro-cover" "custodia doppio-vano" >}} per alloggiare sia l'SSD sia il suo cavo; non contento, però, ho preso anche una custodia per _HDD da 2.5"_ al cui interno riporre il _SanDisk_, _il cavo_ ma anche l'ormai famoso [RavPower Filehub](/post/ravpower-filehub-2019/) in modo da avere un unico elemento da trasportare durante gli spostamenti.
 

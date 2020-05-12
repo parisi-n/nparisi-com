@@ -21,7 +21,7 @@ type: "article"
 
 Se la risposta è **si**, allora si tratta di un acquisto obbligato. In questo post farò riferimento a {{< affiliate_link "telesin-dome" "questa dome" >}} tenendo però a mente che qualunque altro apparecchio simile potrà portare a simili risultati.
 
-{{< image src="GOPR3850.jpg" alt="Foto a mezza inquadratura sotto il mare e mezza inquadratura sopra il mare che mette in evidenza l'impermeabilità della Dome" caption="Con la Dome">}}
+{{< image src="GOPR3850.jpg" alt="Mezzo frame sott'acqua e mezzo sopra" caption="Con la Dome">}}
 
 ## Il package
 
@@ -80,7 +80,7 @@ Con la Dome, invece, la qualità **rimane ottima**.
 Questo video è stato girato con la **Go Pro Hero 7 Black**.  
 Il problema principale è che in questo modo però la qualità dei video sott'acqua ne risente incredibilmente, come verificabile:
 
-{{< vimeo src="416346419" caption="Senza la Dome" >}}
+{{< vimeo src="416346419" caption="Senza la Dome" cat="big-1">}}
 
 Grazie alla Dome, inoltre, è possibile fare sia video sia foto scenografiche come quelle a pelo dell'acqua (**50/50** o **mid-air/mid-water**) che, se fatte con alcuni accorgimenti, risultano essere estremamente gratificanti ed apprezzabili.
 

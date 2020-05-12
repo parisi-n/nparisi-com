@@ -8,7 +8,7 @@
 
 <title>{{if not $.IsHome}}{{ humanize .Title }}{{else}}{{ .Title }}{{end}} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}</title>
 <meta name="application-name" content="{{if not $.IsHome}}{{ humanize .Title }}{{else}}{{ . }}{{end}} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}" />
-<meta name="description" content="{{ .Site.Params.Description }}" />
+<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else if .IsPage}}{{ .Params.summary }}{{else}}{{ .Site.Params.Description }}{{ end }}" />
 <meta name="author" content="{{ humanize .Site.Params.author }}" /> 
 <meta name="language" content="Italiano">
 <meta name="url" content="{{ .Permalink }}" />
@@ -19,7 +19,7 @@
 {{/* Open Graph data */}}
 <meta property="og:image" content="{{ $img }}" />
 <meta property="og:title" content="{{if not $.IsHome}}{{ humanize .Title }}{{else}}{{ . }}{{end}} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}" />
-<meta property="og:description" content="{{ .Site.Params.Description }}" />
+<meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else if .IsPage}}{{ .Params.summary }}{{else}}{{ .Site.Params.Description }}{{ end }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:locale" content="it">
 {{- if eq .Type "article" }}
@@ -33,7 +33,7 @@
 
 {{/* Twitter card */}}
 <meta name="twitter:title" content="{{if not $.IsHome}}{{ humanize .Title }}{{else}}{{ . }}{{end}} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}" />
-<meta name="twitter:description" content="{{ .Site.Params.Description }}" />
+<meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else if .IsPage}}{{ .Params.summary }}{{else}}{{ .Site.Params.Description }}{{ end }}" />
 <meta name="twitter:image" content="{{ $img }}" />
 <meta name="twitter:image:src" content="{{ .Site.Params.image | absURL }}" /> 
 <meta name="twitter:url" content="{{ .Permalink }}" /> 

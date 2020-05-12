@@ -1,19 +1,25 @@
+{{/*
+ * Con la variabile cat si possono correggere (ad occhio) i video che non sono allineati al testo:
+ * big-1: per i video a risoluzione > da 1080x1920 
+ */}}
+
 {{ $caption := .Get "caption" }}
 
 {{- $pc := .Page.Site.Config.Privacy.Vimeo -}}
-{{- if not $pc.Disable -}}
-{{- if $pc.Simple -}}
-{{ template "_internal/shortcodes/vimeo_simple.html" . }}
-{{- else -}}
-<div class="block-video" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"> 
-    <iframe src="https://player.vimeo.com/video/{{ .Get "src" }}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" {{ if $caption }}title="{{ $caption }}"{{ else }}title="Video su Vimeo"{{ end }} webkitallowfullscreen mozallowfullscreen allowfullscreen>
-    </iframe>
- </div>
-{{- end -}}
 
-{{ if $caption }}
-    <figcaption>
-        {{ $caption }}
-    </figcaption>
-{{ end }}
+{{- if not $pc.Disable -}}
+    {{- if $pc.Simple -}}
+        {{ template "_internal/shortcodes/vimeo_simple.html" . }}
+    {{- else -}}
+        <div class="block-video-vimeo{{ if .Get "cat"}} {{ .Get "cat" }}{{end}}"> 
+            <iframe src="https://player.vimeo.com/video/{{ .Get "src" }}" {{ if $caption }}title="{{ $caption }}"{{ else }}title="Video su Vimeo"{{ end }} webkitallowfullscreen mozallowfullscreen allowfullscreen>
+            </iframe>
+            
+            {{ if $caption }}
+                <figcaption>
+                    {{ $caption }}
+                </figcaption>
+            {{ end }}
+        </div>
+    {{- end -}}
 {{- end -}}
