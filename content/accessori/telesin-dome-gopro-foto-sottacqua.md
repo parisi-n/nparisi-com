@@ -6,7 +6,7 @@ image: "GOPR3884.jpg"
 baseimg : "img/accessori/telesin-dome-gopro-foto-sottacqua/"
 
 summary : "Quest'estate sto portando con me un accessorio ormai famoso ed interessante, il Telesin Dome per Go Pro. Vediamo come si è comportata!"
-categories : [ "accessori" ]
+categories : [ "accessori", "fotografia" ]
 tags : [ "-" ]
 
 showToc : true

@@ -21,7 +21,7 @@ paginate = 7
 
 [permalinks]
     categories = "/:slug"
-    tags = "/:slug"
+    tags = "/tags/:slug"
 
 [privacy]
     # Google Analytics privacy settings - https://gohugo.io/about/hugo-and-gdpr/index.html#googleanalytics
@@ -64,7 +64,7 @@ paginate = 7
     [[menu.main]]
     name = "Travel"
     identifier = "travel"
-    url = "travel/"
+    url = "/tags/travel/"
     weight = 2
 
     [[menu.main]]
@@ -87,7 +87,7 @@ paginate = 7
     [[menu.main]]
     name = "Blog"
     identifier = "blog"
-    url = "blog/"
+    url = "/tags/blog/"
     weight = 5
 
     [[menu.main]]
