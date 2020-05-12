@@ -1,0 +1,34 @@
+<!-- implementare type="rounded" -->
+{{ $caption := .Get "caption" }}
+{{ $image := ( .Resources.GetMatch "IMG_6781.jpg" ) }}
+src: {{ .Get "src" }}
+immagine: {{ $image }}
+
+{{/*{{ $placeholder := $image.Resize "48x q20" }}
+
+{{ with $.Page.Resources.GetMatch (.Get "name") }}
+<figure class="block-image{{if .Get "type" }} {{ .Get "type" }}{{end}}"{{ if .Get "parent-style" }} style="{{.Get "parent-style" }}"{{end}}
+        data-imgset="{{ (.Resize "640x").RelPermalink }} 320w,
+                        {{ (.Resize "1024x").RelPermalink }} 600w,
+                        {{ (.Resize "1600x").RelPermalink }} 2x"
+                        data-src="{{ (.Resize "1600x").RelPermalink}}"
+                        >
+        {{ if .Get "href" }}<a href="{{ .Get "href" }}">{{end}}
+        <div class="placeholder">
+            <img src="{{ $placeholder.RelPermalink }}"
+                {{ if .Get "alt"}} alt="{{ .Get "alt" }}"{{end}}
+                 class="img-small {{ if .Get "class" }}{{ .Get "class" }}{{end}}"
+                {{ if .Get "style" }} style="{{ .Get "style" | safeCSS }}"{{end}}
+                >
+        </div>
+        {{ if .Get "href" }}</a>{{end}}
+         
+    {{ if $caption }}
+    <figcaption>
+        {{ $caption }}
+    </figcaption>
+    {{ end }}
+</figure>
+{{ else }}
+IMMAGINE NON TROVATA :(
+{{ end }} */}}
