@@ -1,0 +1,3 @@
+---
+layout: layout/index.html
+---

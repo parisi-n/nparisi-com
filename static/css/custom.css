@@ -25,7 +25,7 @@
     .more-link:after { width: 0px !important; } /* impedisce il formarsi della barra inferiore all'hover del link    */
     .design-credit a { color: #8c8c8c !important; border-bottom: 2px solid; }
     .orange-box { background-color: #f4511e; padding:1.0em; border-radius: 3px; margin: 6em 4.56% -8em; }
-    .orange-box p { color: #f8f8f8; font-family: "Merriweather Sans", sans-serif !important; margin: 0.7em; font-size: 1.3rem; }
+    .orange-box p { color: #f8f8f8; font-family: "Open Sans", sans-serif !important; margin: 0.7em; font-size: 1.3rem; }
     .no-box-shadow { box-shadow: initial !important; }
     
 
@@ -78,12 +78,12 @@
     .format-quote { cursor: default !important; background: #fff !important; padding: 2.3em; }
     .format-quote:before { content: url('data:image/svg+xml; utf8, <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="quote-left" class="svg-inline--fa fa-quote-left fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="39"><path fill="currentColor" d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path></svg>'); top: -6px; left: -5px; color: #4d4d4d; font-size: 25pt; opacity: 0.4; }
     .format-quote:after { content:''; display:inline-block; width:2.6em; height:100%; border-bottom:3px solid #4d4d4d; opacity: 0.6; }
-    .format-quote p { color: #4d4d4d; font-family: "Merriweather Sans", sans-serif; font-size: 16pt; padding: 0px 20px; margin: 10px 0 ; font-weight: 600; font-style: italic; text-align: center !important; }
+    .format-quote p { color: #4d4d4d; font-family: "Open Sans", sans-serif; font-size: 16pt; padding: 0px 20px; margin: 10px 0 ; font-weight: 600; font-style: italic; text-align: center !important; }
     
     /*
      * POST
      */
-    article p, article ul { font-family: "Merriweather Sans", sans-serif !important; line-height: 1.8em !important; font-size: 1.3rem; text-align: justify !important; word-spacing: -2px; }
+    article p, article ul { font-family: "Open Sans", sans-serif !important; line-height: 1.8em !important; font-size: 1.3rem; text-align: justify !important; word-spacing: -2px; }
     p a, .entry-content li a { color: #4d4d4d !important; text-decoration: none !important; -o-transition: 0.3s; transition: 0.3s; border-bottom: 3px solid ; overflow-wrap: break-word; word-break: break-word; word-wrap: break-word; padding: 2px; margin: -2px; -webkit-box-shadow: initial; box-shadow: initial; font-weight: 300; }
     p a:hover, .entry-content li a:hover { color: #f4511e !important; }
     aricle strong, article b, #wtr-content strong, article blackquote strong, p a { color: #4d4d4d !important;  font-weight: 600; }
@@ -102,7 +102,7 @@
     .author-meta a { color: #fcfcfc !important; font-weight: bold !important; }
     .author-meta a:hover { color: white !important; font-weight: bold !important; }
     
-    article h2, article h3, article h4 { font-family: "Merriweather Sans", sans-serif !important; font-weight: bolder !important; margin-top: 1.6em !important; outline: transparent; color: #242529 !important; }
+    article h2, article h3, article h4 { font-family: "Open Sans", sans-serif !important; font-weight: bolder !important; margin-top: 1.6em !important; outline: transparent; color: #242529 !important; }
     article h2::before { content: '#'; color: #f4511e; font-weight: bold; font-size: 2.3rem !important; margin-right: 0.12em; opacity: 0.5; }
     
     article nav a { color: initial !important; }
@@ -272,7 +272,7 @@
         .nav-arrow-left i, .nav-arrow-right i { font-size: 2.7rem; color: #f4511e; transition: ease 0.3s; text-shadow: 2px 2px #59595966; line-height: 82px; }
         .nav-arrow-left:hover i, .nav-arrow-right:hover i { color: #595b66; }
         .nav-arrow-left:hover .suggestion-box, .nav-arrow-right:hover .suggestion-box { background-color: #595b66; color: #f8f8f8;  transition: ease 0.2s; }
-        .suggestion-box { background: #c8c8c8; width: 100%; padding: 1.1em; font-family: "Merriweather Sans", sans-serif !important; font-size: 1rem; border-radius: 3px; font-weight: 600; color: #595b66; margin: 1.1em; text-align: center; vertical-align: middle; }
+        .suggestion-box { background: #c8c8c8; width: 100%; padding: 1.1em; font-family: "Open Sans", sans-serif !important; font-size: 1rem; border-radius: 3px; font-weight: 600; color: #595b66; margin: 1.1em; text-align: center; vertical-align: middle; }
         .super-suggestion-box { display: inline-flex; }
         .keep-reading { text-align: center; margin: .7em auto 1.3em }
 
