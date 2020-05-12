@@ -1,14 +1,9 @@
-<div class="{WPAPPBOXCSSCLASSES} compact">
-	<div class="appicon">
-		<a href="{APPLINK}"><img src="{ICON}" alt="{TITLE_ATTR}" /></a>
-	</div>
-	<a class="applinks" href="{APPLINK}"></a>
-	<div class="appdetails">
-		<div class="apptitle">{RELOADLINK}<a href="{APPLINK}" class="apptitle">{TITLE}</a></div>
-		<div class="price">
-			<span class="label"><?php _e('Price', 'wp-appbox'); ?>: </span>
-			<span class="value">{PRICE}</span> 
-			<span class="rating">{RATING}</span>
-		</div>
-	</div>
+{{ $img := .Get "img" }}
+{{ $name := .Get "name" }}
+{{ $package := .Get "package" }}
+
+<div class="appbox">
+    <img src="{{ $img }}" title="{{ $name }} ">
+    <div>{{ $name }}</div>
+    <a href="https://play.google.com/store/apps/details?id={{ $package }}" alt="Download l'app" title="Prova l'app" class="more-link" style="font-size: 14pt; padding: 0.5em 1.7em; margin: auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" target="_blank" rel="noopener noreferrer">Vai</a>
 </div>

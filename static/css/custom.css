@@ -273,6 +273,15 @@
         .suggestion-box { background: #c8c8c8; width: 100%; padding: 1.1em; font-family: "Open Sans", sans-serif !important; font-size: 1rem; border-radius: 3px; font-weight: 600; color: #595b66; margin: 1.1em; text-align: center; vertical-align: middle; }
         .super-suggestion-box { display: inline-flex; }
         .keep-reading { text-align: center; margin: .7em auto 1.3em }
+        
+        /**
+         * AppBox
+         */
+        .appbox { background: rgba(140, 140, 140, 0.1) !important; padding: 1em 3em !important; border-radius: 3px; width: auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }
+        .appbox img { width: 96px !important; height: 96px; float: left; margin-right: 2em; }
+        .appbox div { width: 100%; line-height: 96px; font-size: 1.6rem; font-weight: 600; }
+        
+
 
      /**
       * MIX
@@ -516,6 +525,14 @@
             .nav-arrow-right { right: 4.76%; }
             .nav-arrow-left i, .nav-arrow-right i { line-height: 115px; }
             
+            /**
+             * AppBox
+             */
+            
+            .appbox { display: block; text-align: center; margin: 2em auto !important; }
+            .appbox img { left: calc( 50% - 48px) !important; margin: auto !important; max-width: initial !important; right: initial !important; width: initial !important; }
+            .appbox div { display: grid; }
+            
         /**
          * SEZIONE LIBRERIA
          */
@@ -684,16 +701,21 @@
              */
             #tornaSu { display: none; }
             
-        /**
-         * NAV ARROW
-         */
-        .keep-reading { margin-top: 2.7em; }
-        .keep-reading-bottom { height: 0.25em !important; width: 55% !important; opacity: 0.75; border-radius: 3px; background: #f4511e; margin: 0 auto; margin: 5em auto; }
-        .nav-arrow-left, .nav-arrow-right  { margin: 0 4.56%; display: table; }
-        .nav-arrow-left i, .nav-arrow-right i { line-height: 91px; }
-        .nav-arrow-left { float: left; }
-        .nav-arrow-right { float: right; margin-bottom: 3em; }
-        .super-suggestion-box { vertical-align: middle; }
+            /**
+             * NAV ARROW
+             */
+            .keep-reading { margin-top: 2.7em; }
+            .keep-reading-bottom { height: 0.25em !important; width: 55% !important; opacity: 0.75; border-radius: 3px; background: #f4511e; margin: 0 auto; margin: 5em auto; }
+            .nav-arrow-left, .nav-arrow-right  { margin: 0 4.56%; display: table; }
+            .nav-arrow-left i, .nav-arrow-right i { line-height: 91px; }
+            .nav-arrow-left { float: left; }
+            .nav-arrow-right { float: right; margin-bottom: 3em; }
+            .super-suggestion-box { vertical-align: middle; }
+            
+            /**
+             * AppBox
+             */
+            .appbox { display: flex; margin: 2em 4.56%; }
     }
     
     @media all and (min-width: 70em ) and (min-height: 70em )

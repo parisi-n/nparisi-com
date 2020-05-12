@@ -71,6 +71,10 @@ Non ci sono in gioco grandi somme (al massimo pagherete 1 euro in più del reale
 
 In caso però non ne abbiate proprio voglia, **a Kutaisi (ed in generale in tutta la Georgia)** funzionano molto bene queste due app: **Bolt** e **maxim**.
 
+{{< appbox img="https://lh3.googleusercontent.com/TRCKh9Uk5mME5lVDZBAVmBMyBEiumHw4Ef9MTAnRqgcK8MEr4M8jqqBDGX_pKVBffpo=s180-rw" name="Bolt (formerly Taxify)" package="ee.mtakso.client" >}}
+
+{{< appbox img="https://lh3.googleusercontent.com/2TEmdQXkKRB4A9DayKTLlAimvyQUPenErd9ySE_CyiQWEeajxMsrgMWsRX6qFHTVwrM=s180-rw" name="maxim" package="com.taxsee.taxsee" >}}
+
 Usatele entrambe: tendenzialmente **maxim** offre un costo della corsa minore ma non sempre troverete taxisti liberi o disponibili alla corsa al prezzo stabilito dall'app; in tal caso potrete o aumentare la base d'asta per far diventare la corsa più appetibile oppure attendere. Ed in certi casi l'attesa potrebbe diventare anche lunga.
 
 {{< image src="1410-2019-0822414168797882886713-818x1024.jpeg" alt="Storico dell'app maxim" caption="Storico dell'app maxim">}}
