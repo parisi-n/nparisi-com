@@ -66,7 +66,7 @@ body {
   font-size: 100%;
   margin: 0;
   padding: 0;
-  font-family: "Merriweather Sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
   line-height: 1.5;
   color: #4d4d4d;
   background: #222;
@@ -119,7 +119,7 @@ article a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Merriweather Sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
   margin: 0;
   padding: 0;
   font-weight: 400;
@@ -311,7 +311,7 @@ textarea {
   min-height: 45px;
   outline: solid 1px #000;
   border: none;
-  font-family: "Merriweather Sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 0.813em;
   line-height: 1.85;
   border-radius: 0;
@@ -334,7 +334,7 @@ input[type="submit"] {
   min-height: 45px;
   outline: none;
   border: none;
-  font-family: "Merriweather Sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 0.813em;
   line-height: 1.85;
   border-radius: 0;
@@ -660,7 +660,7 @@ a img {
   }
   .menu-unset > ul > li,
   .menu-primary-items > li {
-    font-size: 0.913em;
+    font-size: 0.989em;
     line-height: 1.85;
   }
   .menu-unset > ul > li:after,
@@ -819,7 +819,8 @@ a img {
   color: #4d4d4d;
 }
 .excerpt-title a:link, .entry-title a:link, .excerpt-title a:visited, .entry-title a:visited {
-  color: #4d4d4d;
+    letter-spacing: 1px;
+    color: #4d4d4d;
 }
 .excerpt-title a:hover, .entry-title a:hover, .excerpt-title a:active, .entry-title a:active, .excerpt-title a:focus, .entry-title a:focus {
   color: #222;
@@ -2235,7 +2236,7 @@ li.pingback:first-child {
 .gallery-caption {
   color: #8c8c8c;
   display: block;
-  font-family: "Merriweather Sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 12px;
   padding: 0.5em 0;
 }
@@ -2634,7 +2635,7 @@ li.pingback:first-child {
   min-height: 45px;
   outline: none;
   border: none;
-  font-family: "Merriweather Sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 0.813em;
   line-height: 1.85;
   border-radius: 0;

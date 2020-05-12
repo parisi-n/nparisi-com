@@ -209,6 +209,8 @@ Non facciamo in tempo a finire di organizzare il letto, che arrivano i nostri vi
 Se non altro avremo compagni di viaggio. Il ritorno è meno solitario, più vivace. Pochi turisti, molti pendolari del luogo, molti russofoni. E mentre il treno corre nella notte, ti ricordi delle avventure di qualche anno fa nei territori freddi ex-urss, tra gli stati baltici, la bielorussa, l'ucraina.  
 E' un viaggio che ha il sapore del passato.
 
+{{< vimeo src="416347578" >}}
+
 {{< image src="20190930_073253.jpg" alt="Vagone letto al risveglio il mattino successivo" >}}
 
 ## Curiosità?

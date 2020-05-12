@@ -19,7 +19,6 @@ Il viaggio verso Kutaisi inizia con un romantico tramonto ad alta quota.
 
 Il volo da Roma FCO è arrivato in tarda notte _(in Georgia il fusorario è GMT+4_). In principio avevamo rifiutato il transfer offerto dalla struttura perché - progetto iniziale - se dev'essere un viaggio all'avventura il transfer non ci sta a fare nulla. Salvo poi decidere di richiederlo poche ore prima della partenza e...niente di più saggio e giusto.
 
-  
 Sceso dall'areo intono all'una di notte, un vento freddo ci accoglie ci da il benvenuto in Georgia.  
 **E' il solito vento dell'est, lo riconosco**: una via di mezzo tra fresco e freddo, che si fa strada quando il sole è a riposo e punge la pelle. Mi piace da impazzire.
 
@@ -28,6 +27,8 @@ Sceso dall'areo intono all'una di notte, un vento freddo ci accoglie ci da il be
 Dall'aeroporto all'ostello a gestione familiare ([La'Rooms](https://www.booking.com/hotel/ge/la-39-rooms.it.html)) scelto è un viaggio romantico di 20 minuti, in cui ci vengono regalati i primi momenti di Georgia.
 
 Se non avete la possibilità del transfer (pagato 30 lari), una corsa dall'aeroporto alla città viene dai 15 ai 20 lari.
+
+{{< vimeo src="416346249" >}}
 
 L'arrivo in ostello mi ricorda tanto l'arrivo di 4 anni fa a Vilnius, in dormitorio. Parlavo inglese, ma in certi contesti non aiuta. **E' il russo ad aprire tutte le porte**. Questa volta però ho studiato e non mi son fatto cogliere impreparato.  
 Spiego che vorremmo la colazione alle 9, che vorremmo acqua, e che pagheremo domattina poichè al momento senza cash ma solo con carta. Tutto semplice, rilassato.

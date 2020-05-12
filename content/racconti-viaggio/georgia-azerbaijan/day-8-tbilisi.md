@@ -58,8 +58,11 @@ Anche il tramonto visto dalla veranda non è niente male.
 Non siete ancora convinti?  
 Ecco qui un **timelapse**.
 
+{{< vimeo src="416347976" >}}
+
 Per sapere cosa vedere e cosa no vi rimando al [post del day #5]({{< ref "day-5-night-train.md" >}}) dove abbiamo esplorato Tbilisi (seppur per sommi capi) in poche ore.  
-**Tbilisi non è infatti una grande città ricca in attrazioni, anzi è piuttosto umile e oltre l_'old town_ offre poco**.
+
+**Tbilisi non è infatti una grande città ricca in attrazioni, anzi è piuttosto umile e oltre l'old town_ offre poco.**
 
 {{< image src="IMG_4878.jpg" alt="I love Tbilisi" type="wide-screen" >}}
 

@@ -213,7 +213,7 @@ Se non vi va di vagare per le vie di Belgrado senza un fine, fate come abbiamo f
 
 Il problema principale è che il nome di tale edificio ci era stato scritto in corsivo e non capivamo cosa ci fosse scritto! Abbiamo dovuto quindi importunare passanti ad ogni angolo per chiedere indicazioni...che alla fine, dopo più di due ore, ci hanno portato a destinazione!
 
-La nostra entrata gloriosa nelle Poste Centrali di Beograd
+{{< vimeo src="417638046" caption="Entrata gloriosa nelle Poste Centrali di Beograd" >}}
 
 Se ancora vi rimarranno energie, continuate la camminata per le vie del centro.
 

@@ -80,7 +80,7 @@ Anche se non sono mancati pasti in ristoranti tipici.
 
 Ed ovviamente non è mancato il pesce crudo, come da tradizione. Il cuoco mi ha solo chiesto se avessi qualche preferenza sui pesci esposti....**nell'acquario.**
 
-Sushi appena preparato: dall'acquario al piatto.
+{{< vimeo src="416347768" caption="Sushi appena preparato: dall'acquario al piatto." >}}
 
 Ed infine c'è **lui. Il mio ramen preferito. Il tomato ramen!**
 

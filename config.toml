@@ -36,6 +36,9 @@ paginate = 7
     [privacy.youtube]
         disable = false
         privacyEnhanced = true
+    [privacy.vimeo]
+        disable = false
+        simple = false
 
 [sitemap]
     changefreq = "monthly"

@@ -46,9 +46,7 @@
         
     /**
      * HOME PAGE
-     */
-    .site-description { font-weight: 800; opacity: 0.8 !important; color: #4d4d4d !important; text-transform: uppercase; letter-spacing: 0.8; font-size: 12pt; }
-    
+     */    
     .excerpt { opacity: 0.95; cursor: pointer; }
     .excerpt-meta { margin-bottom: 1.2em; }
 
@@ -509,7 +507,7 @@
             /**
              * TO TOP solo button
              */
-            #tornaSu { display: block }
+            #tornaSu { display: block; margin-top: 9.7em; }
             
             /**
              * NAV ARROW
@@ -689,7 +687,8 @@
         /**
          * NAV ARROW
          */
-        .keep-reading { margin-top: 5.7em; }
+        .keep-reading { margin-top: 2.7em; }
+        .keep-reading-bottom { height: 0.25em !important; width: 55% !important; opacity: 0.75; border-radius: 3px; background: #f4511e; margin: 0 auto; margin: 5em auto; }
         .nav-arrow-left, .nav-arrow-right  { margin: 0 4.56%; display: table; }
         .nav-arrow-left i, .nav-arrow-right i { line-height: 91px; }
         .nav-arrow-left { float: left; }

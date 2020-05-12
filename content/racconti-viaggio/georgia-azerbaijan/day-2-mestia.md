@@ -72,7 +72,7 @@ Finchè non si accendono i motori, e le cose si fanno serie. E quando il gioco s
 
 Qui una parte del volo in versione hyperlapse:
 
-Hyperlapse del volo
+{{< vimeo src="416347478" caption="Hyperlapse del volo" >}}
 
 Ed è un'esperienza unica, volare là sopra. Da brividi se - come è successo a me - il giorno ci sarà più di un nodo di vento. E pregherete fino all'ultimo secondo di volo, ad ogni minimo sobbalzo di quel frullatore 🥴
 
