@@ -354,6 +354,7 @@
          */
         .entry-header { width: 88%; }
         .top-navigation .container { float: right; }
+        .top-navigation { marign-top: -1em; }
         .site-header, .top-navigation
         {
             background-color: white !important;
@@ -677,7 +678,7 @@
         article p, article ul { color: #3b3d44; } 
 
     
-        .entry-content article > p:nth-of-type(1):first-letter {
+        .post .entry-content:not(.not-p-big) article > p:nth-of-type(1):first-letter {
         float: left;
         font-size: 8.4em;
         line-height: .68;

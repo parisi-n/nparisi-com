@@ -2,7 +2,7 @@ baseURL = "https://nparisi.netlify.app/" # https://nparisi.netlify.app/ | https:
 languageCode = "it-it"
 title = "nParisi.com // il blog"
 theme = "tracks"
-publishDir = ""
+publishDir = "blog"
 
 disqusShortname = "nparisi-com"
 googleAnalytics = "UA-128082042-1"
