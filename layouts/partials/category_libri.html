@@ -11,7 +11,7 @@
         <h3>Sto leggendo</h3>
         
         <ul>
-        {{ $referLeggendo := index ( (where $affiliate_link_array "refer" $sto_leggendo.ref ) ) 1 }}
+        {{ $referLeggendo := index ( (where $affiliate_link_array "refer" $sto_leggendo.ref ) ) 0 }}
 
         <li><a href="{{ $referLeggendo.url | safeHTMLAttr }}">{{ $sto_leggendo.title }}</a> di {{ $sto_leggendo.auth }}</li>
         </ul>

@@ -54,7 +54,7 @@ paginate = 7
         "Tutte le foto - se non diversamente specificato - sono di mia proprietà. E' vietata la riproduzione anche parziale dei contenuti di questo blog." ,
         "[Disclaimer](/disclaimer) &nbsp; | &nbsp; [Licenza](/licenza) &nbsp; | &nbsp; [Privacy](/privacy) &nbsp; | &nbsp; [Sorgenti](/sorgenti) &nbsp; | &nbsp; [Caffè?](/caffe)"
     ]
-    description = "Blog personale che parla di viaggi, fotografia, tecnologia, libri"
+    description = "Blog personale che parla di viaggi, fotografia, tecnologia e libri"
 
 [[menu.main]]
     name = "Tutti i post"

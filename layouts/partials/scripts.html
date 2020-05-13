@@ -10,6 +10,10 @@
     $(document).ready( function()
     {
         $('.slick-container').slick({
+            lazyLoad: 'ondemand',
+            swipeToSlide: true,
+            touchMove: true,
+            touchThreshold: 5,
             dots: true,
             infinite: true,
             speed: 1000,
@@ -216,19 +220,3 @@ $(document).ready(function(){
 </script>
 
 {{end}}
-
-<!-- Lazy load le immagini. Guida: https://varvy.com/pagespeed/defer-images.html -->
-<script type="text/javascript">
-        function init()
-        {
-            var imgDefer = document.getElementsByTagName('img');
-            for (var i=0; i<imgDefer.length; i++)
-            {
-                if(imgDefer[i].getAttribute('data-src'))
-                {
-                    imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
-                }
-            }
-        }
-        window.onload = init;
-</script>
