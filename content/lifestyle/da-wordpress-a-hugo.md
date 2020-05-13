@@ -12,6 +12,7 @@ summary : "Perchè ho scelto di approfondire R invece di Python e SAS nell'anali
 
 showToc : true
 type: "article"
+
 draft: true
 ---
 Da un po' di tempo stavo ponderando la scelta: Wordpress non andava più bene per le mie esigenze, che non sono più quelle di _scrivere & postare_, ma quelle di fornire uno spazio diverso, comodo, funzionale, a misura di utente e **non standardizzato**.

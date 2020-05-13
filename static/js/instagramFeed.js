@@ -148,7 +148,7 @@
                             caption = (is_tag ? data.name : data.username) + " image " + i;
                         }
 
-                        html += "<a href='" + url +"' rel='noopener' target='_blank'>";
+                        html += "<a href='" + url +"' target='_blank' rel='noreferrer noopener'>";
                         html += "<img class='instagram-pic' src='" + image + "' alt='" + escape_string(caption) + "' title='" + escape_string(caption) + "' />";
                         html += sovraimg
                         html += "</a>"

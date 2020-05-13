@@ -1,2 +1,4 @@
 User-agent: *
-Sitemap: https://nparisi.com/sitemap.xml
+Disallow: 404.html
+Disallow: /404/
+Sitemap: {{ "sitemap.xml" | absURL }}
