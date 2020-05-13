@@ -1,8 +1,8 @@
-  <div class="slick-container">
+<div class="slick-container">
     {{ range .slider }}
     <div style="display: inline-block; vertical-align: middle">
-        <div style="background: url('{{ print "img/" .url_image | absURL }}') no-repeat; background-size: cover; background-position: center;" class="slick-image">            
-        </div>
+        <img data-lazy="{{ print "img/" .url_image | absURL }}" class="slick-image" />
+
         <div class="slick-content">
             <div class="slick-title">
                 {{ .text_title }}

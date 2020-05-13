@@ -195,7 +195,7 @@
          */
         .slick-content { text-align: center; left: 0; position: absolute; width: 100%; }
         .slick-title { font-size: 1.75em; color: #f8f8f8; width: 100%; padding: 0 15%; font-weight: 600; letter-spacing: 1px; }
-        .slick-image { height: 40em !important; position: relative; filter: brightness(70%); }
+        .slick-image { height: 40em !important; position: relative; filter: brightness(70%); width: 100%; }
         .slick-action-button { margin: 1.3em; }
         
         /**
@@ -768,3 +768,36 @@
     bottom: 16%;
   }
 }
+
+
+.img-small {
+    filter: blur(25px);
+    border: 1px solid $light-grey;
+    border-radius: 5px;
+  }
+
+  .placeholder {
+    background-color: rgba($color: #000000, $alpha: 0);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .placeholder {
+    overflow: auto;
+    border: 1px solid $light-grey;
+    border-radius: 5px;
+  }
+
+  .placeholder .img-large {
+    transition: opacity 0.2s linear;
+  }
+
+  .placeholder img.loaded {
+    opacity: 1;
+  }
+
+  .placeholder {
+    display: block;
+  }
