@@ -20,7 +20,7 @@ window.onload = function() {
     /* COOKIE */
     cookieConsent();
     
-    /* LAZY LOADING. Guida: https://varvy.com/pagespeed/defer-images.html 
+    /* LAZY LOADING. Guida: https://varvy.com/pagespeed/defer-images.html */
     var imgDefer = document.getElementsByTagName('img');
     for (var i=0; i<imgDefer.length; i++)
     {
@@ -28,39 +28,8 @@ window.onload = function() {
         {
             imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
         }
-    }*/
-        
-};
-/* ---- BEGIN LAZY LOADING ----- */
-const observer = lozad(); // lazy loads elements with default selector as '.lozad'
-
-// Progressive section
-window.onload = function() {
-
-  var placeholder = document.querySelectorAll('.progressive_figure');
-
-  placeholder.forEach(element => {
-    var smallImage = element.getElementsByClassName('img-small')[0];
-
-    // Load placeholder image
-    var img = new Image();
-    img.src = smallImage.getAttribute('src')
-    img.onload = function () {
-      smallImage.classList.add('loaded')
-      // Load large image
-      var largeImage = new Image();
-      largeImage.srcset = element.getAttribute('data-imgset');
-      largeImage.src = element.getAttribute('data-src');
-      largeImage.classList.add('img-large')
-      largeImage.classList.add('lozad')
-      largeImage.onload = function () {
-        largeImage.classList.add('loaded');
-        smallImage.replaceWith(largeImage);
-      }
     }
-})};
-
-observer.observe();
+};
 window.onscroll = function() {
     /* COOKIE */
     try
