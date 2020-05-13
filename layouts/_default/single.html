@@ -42,7 +42,7 @@
                 <div class="content-category">
                     {{ range .Params.categories }}
                     <span class="category">
-                      <a href="/categories/{{ . | urlize }}" title="Vedi tutti gli articoli della categoria ''{{ humanize . }}''">{{ humanize . }}</a>
+                      <a href="/{{ . | urlize }}" title="Vedi tutti gli articoli della categoria ''{{ humanize . }}''">{{ humanize . }}</a>
                     </span>
                     {{ end }}
                 </div>
