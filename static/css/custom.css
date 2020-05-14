@@ -193,7 +193,7 @@
         /*
          * SLIDER
          */
-        .slick-content { text-align: center; left: 0; position: absolute; width: 100%; }
+        .slick-content { text-align: center; left: 0; position: absolute; width: 100%; top: 50%;   -ms-transform: translateY(-50%); transform: translateY(-50%); }
         .slick-title { font-size: 1.75em; color: #f8f8f8; width: 100%; padding: 0 15%; font-weight: 600; letter-spacing: 1px; }
         .slick-image { height: 40em !important; position: relative; filter: brightness(70%); width: 100%; object-fit: cover; }
         .slick-action-button { margin: 1.3em; }
@@ -201,7 +201,8 @@
         /**
          * DISQUS
          */
-        .disqus-box { background-color: rgba(140, 140, 140, 0.1); border-radius: 3px; color: #4d4d4d; font-size: 120%; margin: 0; padding: 1.3em; text-align: center; position: relative; line-height: 2em; word-break: initial !important; }
+        .disqus-box, .contact-box { background-color: rgba(140, 140, 140, 0.1); border-radius: 3px; color: #4d4d4d; font-size: 120%; margin: 0; padding: 1.3em; text-align: center; position: relative; line-height: 2em; word-break: initial !important; }
+        .contact-box { margin: auto 4.56%; }
         #disqus_thread { width: 100% !important; }
         
         /**
@@ -270,8 +271,102 @@
         .appbox img { width: 96px !important; height: 96px; float: left; margin-right: 2em; }
         .appbox div { width: 100%; line-height: 96px; font-size: 1.6rem; font-weight: 600; }
         
+        /**
+         * CONTACT FORM
+         */
 
+/* form starting stylings ------------------------------- */
+#contact-box div
+{ 
+  position:relative; 
+  margin-bottom:45px; 
+}
 
+input, textarea { font-size:18px; padding:10px 10px 10px 5px; display:block; border:none; outline: none !important; background: transparent !important; border-bottom: 0px #595b66 solid !important; }
+input { width:300px !important; }
+textarea { width: 70%; }
+textarea:focus { border-left: 3px solid #f4511e; padding-left: 15px; }
+
+input:focus, textarea:focus { outline:none; }
+
+/* LABEL ======================================= */
+label 				 {
+  color:#999; 
+  font-size:18px;
+  font-weight:normal;
+  position:absolute;
+  pointer-events:none;
+  left:5px;
+  top:10px;
+  transition:0.2s ease all; 
+  -moz-transition:0.2s ease all; 
+  -webkit-transition:0.2s ease all;
+}
+
+/* active state */
+input:focus ~ label, input:valid ~ label, textarea:focus ~ label, textarea:valid ~ label
+{
+  top:-20px;
+  font-size:14px;
+  color: #f4511e;
+  font-weight: 600;
+}
+input ~ label, textarea ~ label
+{
+    padding-left: 0.43em;
+}
+
+/* BOTTOM BARS ================================= */
+.bar 	{ position:relative; display:block; width:300px; background: #595b66; height:2px; }
+textarea ~ .bar { width: auto; }
+.bar:before, .bar:after 	{
+  content:'';
+  height:3px; 
+  width:0;
+  bottom:0px; 
+  position:absolute;
+  background:#f4511e !important; 
+  transition:0.2s ease all; 
+  -moz-transition:0.2s ease all; 
+  -webkit-transition:0.2s ease all;
+}
+.bar:before { left:50%; }
+.bar:after { right:50%; }
+
+/* active state */
+input:focus ~ .bar:before, input:focus ~ .bar:after, textarea:focus ~ .bar:before, textarea:focus ~ .bar:after { width:50%; }
+
+/* HIGHLIGHTER ================================== */
+.highlight {
+  position:absolute;
+  height:60%; 
+  width:100px; 
+  top:25%; 
+  left:0;
+  pointer-events:none;
+  opacity:0.5;
+}
+
+/* active state */
+input:focus ~ .highlight {
+  -webkit-animation:inputHighlighter 0.3s ease;
+  -moz-animation:inputHighlighter 0.3s ease;
+  animation:inputHighlighter 0.3s ease;
+}
+
+/* ANIMATIONS ================ */
+@-webkit-keyframes inputHighlighter {
+	from { background:#f4511e !important; }
+  to 	{ width:0; background:transparent; }
+}
+@-moz-keyframes inputHighlighter {
+	from { background:#f4511e; }
+  to 	{ width:0; background:transparent; }
+}
+@keyframes inputHighlighter {
+	from { background:#f4511e !important; }
+  to 	{ width:0; background:transparent; }
+}
      /**
       * MIX
       */
@@ -368,6 +463,7 @@
         .button-logo { background-color: #f4511e; font-family: "Monoton"; color: #fff; font-style: italic; border-radius: 100%; font-size: 1.5em; line-height: 0.65; margin: 0px auto; margin-bottom: -10px; position: relative; text-align: center; top: 0.3em; box-shadow: 2px 2px #CCC; width: 2.6em; height: 2.6em; display: flex; align-items: center; justify-content: center; margin-top: 0px; cursor: pointer; transition: 0.5s; left: 25px; opacity: 0.9; z-index: 1000; }
         .button-logo:hover { background-color: #f4511e; opacity: 0.45; transition: 0.5s; opacity: 0.65; }
         .site-description { text-align: center !important; margin-top: 4.8em; }
+        .site-header.toggled .menu-primary-items { margin-top: -0.5em; }
         
         .header-section-index { padding-left: 0.4em; color: #777777; }
         
@@ -411,6 +507,8 @@
         .entry-content iframe { height: 400px !important; max-height: 100%; border: 0px; }
         
         .post .entry-content:not(.not-p-big) article > p:nth-of-type(1):first-letter { float: left; font-size: 4.4em; line-height: .68; font-weight: 100; margin: .05em .1em 0 0; text-transform: uppercase; font-style: normal; }
+        
+        .post .featured-image.lazy { margin-top: -4em; }
     
         /**
          * VIDEO
@@ -503,7 +601,6 @@
              * SLIDER
              */
             .slick-image { height: 30em !important; }
-            .slick-content { top: 38%; }
             /*.wpsisac-image-slide, .wpsisac-slide-wrap { height: 125vw !important; }
             * Imposta lo slider full-width 
             .wpsisac-slick-slider { left: 50%; margin-left: -50vw; margin-right: -50vw; max-width: 100vw; position: relative; right: 50%; width: 100vw; }
@@ -670,7 +767,7 @@
         .entry-header h1 { font-size: 3rem !important; }
         article h2, article h3, article h4 { margin-left: 4.56% !important; }
         article h2 { font-size: 2.5rem !important; }
-        article h2::before { content: '#'; color: #f4511e; font-weight: bold; font-size: 2.3rem !important; margin-right: 0.12em; opacity: 0.5; margin-left: -0.729em; }
+        article h2::before { content: '#'; color: #f4511e; font-weight: bold; font-size: 2.3rem !important; margin-right: 0.12em; opacity: 0.5; margin-left: -0.8em; }
         article h3 { font-size: 2rem !important; }
         article h4 { font-size: 1.5rem !important; }
         .widget_widget_crp { padding-left: 1.2em; }
@@ -710,7 +807,6 @@
              * SLIDER
              */
             .slick-image { height: 40em !important; }
-            .slick-content { top: 38%; }
             /*.slick-dots li button:hover:before { color: #f4551e !important; }
             .slick-prev { left: -23px !important; }
             .slick-next { right: 5px !important; }

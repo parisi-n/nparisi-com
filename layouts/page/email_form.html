@@ -1,0 +1,76 @@
+{{ define "body" }}
+
+<body class="post-template-default single single-post single-format-standard ct-body singular singular-post not-front standard">
+{{ end }}
+
+
+{{ define "main" }}
+
+  <div id="loop-container" class="loop-container">
+
+    {{ if and (isset .Params "image") .Params.image }}
+        <div class="post type-post status-publish format-standard has-post-thumbnail hentry category-design tag-design tag-standard-2 tag-tagalicious tag-travel entry full-without-featured odd excerpt-1">
+
+        <div class='featured-image lazy lazy-bg-image' {{ if isset .Site.Params "usepostimgfolder" }} data-background="{{ .Permalink }}{{ .Params.image }}"{{ else }} data-background="{{ .Params.image | absURL }}"{{ end }}>
+    </div>
+    {{ else }}
+
+    <div class="page">
+
+        {{ end }}
+        <div class="entry-container">
+            <div class='entry-header' style="padding-top: 2.8em">
+                <h1 class='entry-title'> {{ .Title }}</h1>
+            </div>
+            
+            <div class="entry-content">
+                <article>
+                    {{ .Content }}
+
+                    <div id="contact-box" class="contact-box">
+                        <!-- name="contact" method="POST" data-netlify="true" autocomplete="off" -->
+                        <form >
+
+                            <div>      
+                              <input type="text" required>
+                              <span class="highlight"></span>
+                              <span class="bar"></span>
+                              <label>Nome</label>
+                            </div>
+
+                            <div>      
+                              <input type="text" required>
+                              <span class="highlight"></span>
+                              <span class="bar"></span>
+                              <label>Email</label>
+                            </div>
+
+                            <div>      
+                              <input type="text" required>
+                              <span class="highlight"></span>
+                              <span class="bar"></span>
+                              <label>Oggetto</label>
+                            </div>
+
+                            <div style="display: grid">      
+                                <textarea type="textarea" cols="72" rows="7" required></textarea>
+                              <label>Messaggio</label>
+                              <span class="highlight"></span>
+                              <span class="bar"></span>
+                            </div>
+                            
+                            <a href="javascript: parentNode.submit();" alt="Submit" class="more-link">Invia</a>
+                            
+                        </form>
+                    </div>
+                </article>
+            </div>
+
+        </div>
+        
+        
+    </div>
+
+</div>
+
+{{ end }}

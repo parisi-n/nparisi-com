@@ -1,8 +1,7 @@
 +++
-date = "2020-04-28T21:05:33+05:30"
 title = "Scrivimi una mail"
-url = "contatti"
-type = "page"
+url = "email"
+layout = "email_form"
 +++
 Hai qualche domanda?  
 Vuoi semplicemente salutarmi?  
@@ -24,17 +23,4 @@ Se vuoi costruire un tuo sito-blog come questo sfruttando le tecnologie che ho u
 Le buone maniere son qualcosa che dovrebbero essere alla base delle comunicazioni tra sconosciuti, anche se spesso mancano.
 Un semplice _bravo_, _grazie_, _prego_ son parole che hanno un valore inestimabile.
 
-[FORM CONTATTI]
-idee da https://freefrontend.com/css-input-text/ :
-–	https://codepen.io/fidalgodev/pen/bOGaVy
-–	https://codepen.io/lucasyem/pen/ZEEYKdj
-–	https://codepen.io/andreasstorm/pen/gKGbxo
-–	minimal: https://codepen.io/lewisvrobinson/pen/EyZwjR | https://codepen.io/kylelavery88/pen/adbzLQ
-–	https://codepen.io/atunnecliffe/pen/gpKzQw
-
-BOX grigio chiaro (come disqus)
-scritte dei label #f4511e; profilo label #59...
-Nome
-Email
-Oggetto
-Messaggio
+### Scrivimi
