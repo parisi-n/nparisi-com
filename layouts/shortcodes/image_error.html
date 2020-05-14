@@ -1,0 +1,20 @@
+{{ $caption := .Get "caption"}}
+{{ $classes := .Get "classes"}}
+
+{{ $image := (.Page.Resources.GetMatch (.Get "src")) }}
+
+{{ $placeholder := $image.Resize "48x q20" }}
+
+{{ with $.Page.Resources.GetMatch (.Get "src") }}
+<figure class="progressive_figure {{$classes}}" data-imgset="{{ (.Resize "640x").RelPermalink }} 320w,
+  {{ (.Resize "1024x").RelPermalink }} 600w,
+  {{ (.Resize "1600x").RelPermalink }} 2x"
+  data-src="{{ (.Resize "1600x").RelPermalink}}" >
+  <div class="placeholder">
+    <img class="img-small" src="{{ $placeholder.RelPermalink }}" alt="{{ .Get "alt"}}" />
+  </div>
+  <figcaption>{{ $caption }}</figcaption>
+</figure>
+{{ else }}
+could not find image
+{{ end }}
