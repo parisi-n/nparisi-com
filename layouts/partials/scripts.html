@@ -220,3 +220,25 @@ $(document).ready(function(){
 </script>
 
 {{end}}
+{{/* Form contatti */}}
+{{ if eq .Params.url "email" }}
+<script type="text/javascript">
+$(document).ready(function(){
+    $("input[type='text'], textarea").on("keyup", function(){
+        if($("input[type='text']").val() != "" && $("textarea").val() != "" ){
+            $("button[type='submit']").removeAttr("disabled");
+        }
+        else
+            $("button[type='submit']").attr("disabled", "disabled");
+    });
+    
+    $('button[type=submit]').click(function()
+    {
+        alert( "Mail inviata. Ti risponderò quanto prima :)" );
+        $(this).attr('disabled', 'disabled');
+        $(this).parents('contact').submit();
+    });
+    
+});
+</script>
+{{end}}

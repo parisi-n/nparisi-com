@@ -4,7 +4,7 @@ title = "Codici Sorgenti"
 url = "sorgenti"
 type = "page"
 +++
-Sono un vecchio utente Linux – e lo uso con regolarità in un secondo pc dal 2004. Prima Fedora, poi Debian, poi Kubuntu. Tutte con KDE come desktop.
+Sono un vecchio utente Linux – e lo uso con regolarità in un secondo pc dal 2004. Prima Fedora, poi Debian, poi Kubuntu. Tutte con KDE come gestore finestre.
 
 ## Il sorgente
 Nel tempo ho imparato ad apprezzare la bellezza e la naturalezza dell'open source.

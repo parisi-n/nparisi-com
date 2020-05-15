@@ -31,7 +31,7 @@ Devo essere onesto: ci ho passato quasi tre ore all'interno, nonostante la maggi
 
 ## ...tante idee
 
-Tra i pochi in inglese, nascosti tra la miriade in portoghese, lui: **[Color Index XL](https://amzn.to/2YahFMm)**. Pochi testi (_in inglese_), tanti colori abbinati in modo sapiente secondo varie logiche.
+Tra i pochi in inglese, nascosti tra la miriade in portoghese, lui: {{< affiliate_link "colori-xxl" "Color Index XL" >}}. Pochi testi (_in inglese_), tanti colori abbinati in modo sapiente secondo varie logiche.
 
 {{< image src="IMG_1396.jpg" alt="Le pagine sono plastificate, lucide, lisce" >}}
 

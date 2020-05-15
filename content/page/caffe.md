@@ -34,7 +34,7 @@ Se non sai cos'è Brave, questo è un browser basato su Chrome in rapida ascesa 
 
 In caso volessi provarlo e (perchè no) decidere di regalarmi qualche BAT – ti lascio il link qui sotto:
 
-{{< image src="/img/altro/brave_browser.png" alt="Installa Brave Browser" style="width: 75% !important; position: initial; max-width: 720px" parent-style="text-align: center" href="https://brave.com/npa885" >}}
+{{< image src="/img/altro/brave_browser.png" alt="Installa Brave Browser" style="width: 55% !important; position: initial; max-width: 720px" parent-style="text-align: center" href="https://brave.com/npa885" >}}
 
 Ti chiedo almeno di scrivermi una mail – affinchè possa ringraziarti.
 

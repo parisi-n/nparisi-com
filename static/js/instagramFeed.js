@@ -149,7 +149,7 @@
                         }
 
                         html += "<a href='" + url +"' target='_blank' rel='noreferrer noopener'>";
-                        html += "<img class='instagram-pic' src='" + image + "' alt='" + escape_string(caption) + "' title='" + escape_string(caption) + "' />";
+                        html += "<img class='instagram-pic' onerror='this.onerror=null; this.src=\'img/altro/instagram-loading.png\'' src='" + image + "' alt='" + escape_string(caption) + "' title='" + escape_string(caption) + "' />";
                         html += sovraimg
                         html += "</a>"
 

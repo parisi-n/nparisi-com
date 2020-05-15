@@ -7,27 +7,27 @@
 <div class="keep-reading-bottom"></div>
 <div class="keep-reading">Continua a leggere</div>
 
-{{ if .NextInSection }}
+{{ if .PrevInSection }}
 <div id="nav-arrow-left" class="nav-arrow-left">
-    <span style="display: none; height: 0px; width: 0px;" id="nav-arrow-left-link">{{ .NextInSection.Permalink }}</span>
+    <span style="display: none; height: 0px; width: 0px;" id="nav-arrow-left-link">{{ .PrevInSection.Permalink }}</span>
     <div class="super-suggestion-box">
         <i class="fas fa-chevron-left"></i>
         <div class="suggestion-box" id="suggestion-box">
-            {{ .NextInSection.Title }}
+            {{ .PrevInSection.Title }}
         </div>
     </div>
 </div>
 {{- end }}
         
-{{ if .PrevInSection }}
+{{ if .NextInSection }}
 <div id="nav-arrow-right" class="nav-arrow-right">
     <div class="super-suggestion-box">
         <div class="suggestion-box" id="suggestion-box">
-            {{ .PrevInSection.Title }}
+            {{ .NextInSection.Title }}
         </div>
         
         <i class="fas fa-chevron-right"></i>
     </div>
-    <span style="display: none; height: 0px; width: 0px;" id="nav-arrow-right-link">{{ .PrevInSection.Permalink }}</span>
+    <span style="display: none; height: 0px; width: 0px;" id="nav-arrow-right-link">{{ .NextInSection.Permalink }}</span>
 </div>
 {{- end }}

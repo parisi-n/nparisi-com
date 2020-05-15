@@ -27,8 +27,8 @@
                 <article>
                     {{ .Content }}
 
-                    <div id="contact-box" class="contact-box">
-                        <form name="contact" method="POST" data-netlify="true" autocomplete="off">
+                    <div id="contact-box" class="contact-box" data-netlify-recaptcha="true">
+                        <form name="contact" method="POST" data-netlify="true" autocomplete="off" >
 
                             <div>      
                               <input type="text" required>
@@ -58,8 +58,10 @@
                               <span class="bar"></span>
                             </div>
                             
-                            <a href="javascript: parentNode.submit();" alt="Submit" class="more-link">Invia</a>
+                            <div data-netlify-recaptcha="true"></div>
                             
+                            <button type="submit" alt="Invia mail" class="more-link" disabled="disabled">Invia</button>
+
                         </form>
                     </div>
                 </article>

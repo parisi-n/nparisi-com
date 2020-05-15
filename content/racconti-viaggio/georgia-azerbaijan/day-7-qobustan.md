@@ -215,7 +215,7 @@ E' un viaggio che ha il sapore del passato.
 
 ## Curiosità?
 
-Come lettura per il ritorno ho acquistato nella stazione dei treni il libro [Azerbaijan: 100 questions answered](https://amzn.to/35h4xEQ) - un libro con le domande più frequenti su uno stato non proprio conosciuto.  
+Come lettura per il ritorno ho acquistato nella stazione dei treni il libro {{< affiliate_link "azerbaijan-100-questions" "Azerbaijan: 100 questions answered" >}} - un libro con le domande più frequenti su uno stato non proprio conosciuto.  
 Ve lo consiglio.  
 Risponde alle domande più frequenti sulla cultura, sulla lingua, sulle tradizioni, sul cibo, sulla geografia, sulla storia.  
 Un bel souvenir da portarsi dietro dalla **terra dei fuochi**. Oppure per approfondire la cultura dell'Azerbaijan in vista di un prossimo viaggio.
