@@ -11,11 +11,12 @@ showToc : true
 type: "article"
 ---
 
+{{< capital_letter_open >}}
 Di recente ho acquistato un articolo apparentemente inutile: {{< affiliate_link "ravpower-filehub-2019" "RavPower FileHub 2019" >}}. Apparentemente inutile perché – al momento dell’acquisto – non ero ben cosciente delle funzioni che avesse. Diciamo che l’ho preso più per sfizio che per reale (in questi giorni) utilità…che non ho tardato a trovare.
+Acquistato solo ed esclusivamente per la funzione di backup **SD >USB** per mettere al sicuro foto e video realizzati in viaggi, son riuscito a trovarne impiego anche nella vita di tutti i giorni.
+{{< capital_letter_close >}}
 
 {{< image src="IMG_1252.jpg" alt="" >}}
-
-Acquistato solo ed esclusivamente per la funzione di backup **SD >USB** per mettere al sicuro foto e video realizzati in viaggi, son riuscito a trovarne impiego anche nella vita di tutti i giorni.
 
 ## Funzionalità
 

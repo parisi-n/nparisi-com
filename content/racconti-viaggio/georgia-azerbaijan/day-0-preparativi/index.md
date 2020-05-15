@@ -10,11 +10,12 @@ showToc : true
 type: "article"
 ---
 
+{{< capital_letter_open >}}
 La domanda è ricorrente, ad ogni nuova partenza: **cosa mi porto?**  
 Ed anche nel viaggio che mi appresto ad iniziare, la domanda ricorre in modo via via più insistente man mano che si avvicina la data della partenza.
-
 Son di ritorno da un viaggio di 10 giorni ai piedi del Caucaso, i ricordi ancora freschi, lo zaino appena disfatto, per rimettere tutto in ordine.  
 Chi mi segue su Instagram ha già avuto qualche assaggio di questa avventura.
+{{< capital_letter_close >}}
 
 Va messo ordine ai ricordi, perché è stato un susseguirsi talmente rapido di eventi ed emozioni e sicuramente qualcosa mi è sfuggito.  
 Va messo ordine ai souvenir: questa volta ho preso dei simpatici ricordi, un po' diversi dal solito, oltre invece alla solita cartolina, al solito magnete da frigo, alla solita spilla.

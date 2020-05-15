@@ -13,9 +13,10 @@ type = "article"
 
 {{< youtube id="FQEO4ML1SMg" caption="Alla fine del video c'è il riassunto di tutta la cultura di educazione ed rispetto che caratterizza il Giappone: ad atterraggio concluso e aereo in sosta nel gate, gli operatori di terra salutano e danno il bentornato all'equipaggio ed i passeggeri dell'aereo con un inchino." >}}
 
+{{< capital_letter_open >}}
 Ho deciso di suddividere il viaggio in Giappone in due post separati perchè difficile riassumere il Giappone che conosciuto a Tokyo da quello che ho conosciuto nell'estremo sud dell'arcipelago, nell'isola di Kyushu, nella città che son solito definire come "la Cagliari del Giappone". Troppo diversi.  
-  
 Il prossimo post descriverà quello che è il Giappone **oltre Tokyo.**
+{{< capital_letter_close >}}
 
 ## Tokyo
 

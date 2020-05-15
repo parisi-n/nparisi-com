@@ -15,9 +15,10 @@ type: "article"
 >
 > Inserimento delle foto del package nell'apposita sezione.
 
+{{< capital_letter_open >}}
 **Hai una Go Pro?**
-
 Se la risposta è **si**, allora si tratta di un acquisto obbligato. In questo post farò riferimento a {{< affiliate_link "telesin-dome" "questa dome" >}} tenendo però a mente che qualunque altro apparecchio simile potrà portare a simili risultati.
+{{< capital_letter_close >}}
 
 {{< image src="GOPR3850.jpg" alt="Mezzo frame sott'acqua e mezzo sopra" caption="Con la Dome">}}
 

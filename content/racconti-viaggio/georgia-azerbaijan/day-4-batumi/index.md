@@ -10,9 +10,10 @@ tags : [ "travel" ]
 showToc : true
 type: "article"
 ---
-
+{{< capital_letter_open >}}
 Ci sono viaggi in cui non tutti gli spostamenti sono "semplici e lineari", ma - un po' inconsciamente - decidi comunque di rischiare ed aggiungere emozioni alle emozioni.  
 A volte va bene, a volte no.
+{{< capital_letter_close >}}
 
 Le mattine di fine Settembre - a Mestia - son sempre fredde.
 

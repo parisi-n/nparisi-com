@@ -11,13 +11,13 @@ showToc : true
 type: "article"
 ---
 
+{{< capital_letter_open >}}
 Recentemente ho acquistato [RavPowerFileHub]({{< ref "ravpower-filehub-2019.md" >}}) per permettere il backup della scheda SD della mia mirrorless o della Go Pro in modo indolore quando, in viaggio, desideri fare un backup delle foto della giornata o mi ritrovi a corto di memoria libera (possiedo un’unica SD Card).
-
 A ruota ho poi deciso di acquistare il {{< affiliate_link "sandisk-extreme-pro-1tb" "SanDisk Extreme Pro da 1TB" >}} al prezzo (ottimo) di 150€ circa. Su Amazon.it lo stesso modello con la stessa capacità - al tempo dell'acquisto - stava qualche decina di euro sopra.
+Il perché abbia deciso questa formula (fileHubWifi + SSD) rispetto - esempio - all’_all-in-one_ **WD Wireless My Passoport SD** è semplice: non volevo un unico dispositivo che svolgesse un'unica funzione ma volevo qualcosa di più flessibile. E il RavPower mi permette di collegare SD, HDD, SSD in momenti diversi ed accedere ai file via wifi senza la seccatura di dover cercare adattatori o cavi.
+{{< capital_letter_close >}}
 
 {{< image src="IMG_1272.jpg" alt="SSD portatile piccolo e stiloso, ben rifinito" caption="I dettagli contano" >}}
-
-Il perché abbia deciso questa formula (fileHubWifi + SSD) rispetto - esempio - all’_all-in-one_ **WD Wireless My Passoport SD** è semplice: non volevo un unico dispositivo che svolgesse un'unica funzione ma volevo qualcosa di più flessibile. E il RavPower mi permette di collegare SD, HDD, SSD in momenti diversi ed accedere ai file via wifi senza la seccatura di dover cercare adattatori o cavi.
 
 ## Portatile, forse un po' troppo
 

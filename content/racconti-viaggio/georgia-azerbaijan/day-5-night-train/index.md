@@ -10,10 +10,12 @@ tags : [ "travel" ]
 showToc : true
 type: "article"
 ---
+{{< capital_letter_open >}}
 Sveglia come sempre all'alba (o quasi).  
 L'hotel di Batumi [non è stato all'altezza delle aspettative]({{< ref "day-4-batumi.md" >}}) però di bello aveva il balcone.  
 Chiamiamo un taxi con [maxim]({{< ref "day-1-kutaisi.md" >}}) ed in poco tempo siamo in stazione.  
 L'aria è fresca, c'è ancora poco traffico, poca gente per strada.
+{{< capital_letter_close >}}
 
 {{< image src="20190927_065634.jpg" alt="Alba a Batumi" >}}
 

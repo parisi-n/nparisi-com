@@ -11,7 +11,9 @@ showToc : true
 type: "article"
 ---
 
+{{< capital_letter_open >}}
 Quesito spesso non banale tra i viaggiatori, curiosi di sapere quali siano gli accessori immancabili, i gadget must-have da portare con se in viaggio. Spesso le risposte sono tra le più disparate, tra oggetti che possono davvero risultare utili (_e fare la differenza_) ed altri che invece - per il mio modo di viaggiare - sarebbero inutili 🙋.
+{{< capital_letter_close >}}
 
 Qui di seguito, la mia personale lista che mi accompagna ormai già da un po' di anni.
 
@@ -125,7 +127,7 @@ Mi sento di consigliare il portaprofumi Sefora proprio per via della loro sicure
 Di contro, il portaprofumo acquistato a pochi euro in un noto store cinese mi è durato appena un volo: arrivatoa destinazione, ho constatato con amarezza che era completamente vuoto ed il contenuto si era disperso all'interno.
 
 **Prezzo:** 10€  
-**Link:** [qui](http://www.sephora.it/Accessori/Accessori-viaggio/Vaporizzatori/Vaporizzatore-da-borsetta-/P2346042)
+**Link:** {{< affiliate_link "profumo-viaggio-sephora" "qui" >}}
 
 ## 10\. Tappi in cera 🗣
 

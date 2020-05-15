@@ -12,10 +12,12 @@ showToc : false
 type: "article"
 ---
 
+{{< capital_letter_open >}}
 Ogni stagione nell'aria pulita della Sardegna porta con se delle caratteristiche che si riflettono - tra le varie cose - anche sulle sfumature che il **sole** assume al tramonto ☀.  
 Ho deciso di collezionare tramonti, per regalarli.  
 Un po' come l'innamorato regala stelle alla propria amata. Con la differenza che sono perenni, immutabili, quasi disumane.  
 Il tramonto - invece - è più simile alle persone. Oggi è così, domani chi lo sa. Sicuramente diverso.
+{{< capital_letter_close >}}
 
 **Non esistono due tramonti uguali - così come non esistono due persone uguali.**
 

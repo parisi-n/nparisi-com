@@ -10,8 +10,9 @@ tags : [ "travel" ]
 showToc : true
 type: "article"
 ---
-
+{{< capital_letter_open >}}
 Non esattamente in cima alla lista dei viaggi che avrei voluto fare, è capitato che un amico si sia trasferito per lavoro a Sofia e finalmente dopo tanto tempo sia riuscito ad organizzare un viaggio _in un posto che altrimenti non avrei mai visto_.
+{{< capital_letter_close >}}
 
 {{< image src="20171031_132830.jpg" alt="Aeroporto di partenza: Roma Fiumicino (FCO)" type="wide-screen" >}}
 

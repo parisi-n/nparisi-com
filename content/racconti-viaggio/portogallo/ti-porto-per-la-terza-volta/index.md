@@ -11,7 +11,9 @@ showToc : true
 type: "article"
 ---
 
+{{< capital_letter_open >}}
 Eccoci qua, nuovo viaggio nuovo phototrip e nuovo post. Devo ammettere che Porto mi ha ispirato profondamente: molto fotogenica, ricca di contrasti, di colori, di profumi, di emozioni. Questa volta però, dopo esserci stato per tre volte negli ultimi tre mesi non mi son fermato a Porto ma - in compagnia di una banda di amici - ci siamo spinti fino a Nazarè, dove le onde più alte d'Europa attendono ancora qualcuno riesca a cavalcarle 🏄
+{{< capital_letter_close >}}
 
 {{< instagram BwY9_upFOo8 hidecaption >}}
 

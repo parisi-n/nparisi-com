@@ -12,8 +12,9 @@ type = "article"
 +++
 
 ## Dove eravamo arrivati?
-
+{{< capital_letter_open >}}
 Nel [precedente post]({{< ref "/racconti-viaggio/giappone/tokyo/index.md" >}}) avevo descritto a grandi linee quel che è stato il mio tour a Tokyo in compagnia di Hanta, prima collega e poi a fine avventura amico vista la cura con cui si è preso cura di me.
+{{< capital_letter_close >}}
 
 {{< image src="japan-map.jpg" caption="Tokyo e Miyazaki. Mappa da Geology.com" >}}
 

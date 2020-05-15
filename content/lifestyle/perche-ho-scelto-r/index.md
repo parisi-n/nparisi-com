@@ -16,13 +16,15 @@ Questa pagina verrà aggiornata mano a mano che troverò altre risorse interessa
   
 **Ultimo aggiornamento:** 27/01/2020
 {{< /font >}}
+
 * * *
 
 ## Perchè R?
 
+{{< capital_letter_open >}}
 I due grandi contendenti nel campo dell'analisi dei dati e del _machine learning_ sono due: R e Python. La tentazione di cimentarmi con Python, _molto più flessibile e general-purpose,_ era tanta. Sarebbe stato forse anche più semplice creare moduli di analisi e processazione di dati da implementare lato server per affiancare e potenziare l'ecosistema [Journal in Cloud](https://journ.cloud).
-
 R però mi ha intrigato fin da subito con la sua interfaccia di R Studio, che ti obbliga ad imparare un nuovo paradigma, ti insegna ad imparare un nuovo modo di concepire e programmare.
+{{< capital_letter_close >}}
 
 In passato avevo lavorato con _MedCalc_, software statistico semplice da usare ma allo stesso tempo "giusto" per quel che mi serviva, senza troppi fronzoli o funzioni aggiuntive. **Non c'era da programmare.**
 

@@ -4,11 +4,11 @@ title = "Offrimi un caffè"
 url = "caffe"
 type = "page"
 +++
+{{< capital_letter_open >}}
 Il contenuto di questo blog è frutto della mia passione, della creatività, della voglia di fare e di esplorare.
-
 Mi piace tenere una bacheca, una cronistoria delle esperienze all'estero, una raccolta fotografica che a distanza di tempo mi faccia dire "Wow, son stato anche qua, non me lo ricordavo".
-
 Mi da l'idea che le cose durino un po' più dell'istante in cui ci ritroviamo - inconsapevolmente - a consumarle.
+{{< capital_letter_close >}}
 
 Apprezzo quando un utente, che potrebbe entrare ed uscire dal sito dopo averlo "consumato" senza lasciare traccia, si prende la briga di scrivermi un'email anche solo per una chiacchierata, per chiedermi un consiglio – o per darmelo.
 

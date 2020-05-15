@@ -13,8 +13,10 @@ type: "article"
 
 {{< youtube id="zlt3ramOEKw" caption="Seoul dallo Skygarden">}}
 
+{{< capital_letter_open >}}
 L'articolo si potrebbe concludere già dopo il video di apertura.  
 Rappresenta il riassunto del mio viaggio durato 5 giorni a Seoul, una città dai forti contrasti a cui al quartier generale Samsung nel quartiere ricco si contrappone la piccola bancarella di verdura poco distante nel quartiere povero.
+{{< capital_letter_close >}}
 
 {{< image src="20171006_162944-1.jpg" alt="Quartier generale Samsung" caption="Quartier generale Samsung" type="wide-screen" >}}
 

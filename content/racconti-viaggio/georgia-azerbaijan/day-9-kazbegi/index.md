@@ -10,9 +10,10 @@ tags : [ "travel" ]
 showToc : true
 type: "article"
 ---
-
+{{< capital_letter_open >}}
 Qualunque itinerario deciderete di seguire, anche il più breve in termini di giorni, comprenderà nella maniera più assoluta il _day_ trip alla chiesa di _Tsminda Sameba_ a Kazbegi - vecchio nome in epoca staliniana - o _Stepantsminda (Santo Stefano)_\- come è attualmente chiamata.  
 Distante 150km da Tbilisi - per arrivarci è necessario percorrere quel che era chiamata la Strada Militare - l'unica strada che metteva in comunicazione la città di Tbilisi, all'epoca dell'URSS, con la Russia attraversando la catena del Caucaso.
+{{< capital_letter_close >}}
 
 A Kazbegi, piccolo paesello disperso nel Caucaso, **non c'è nulla**, ad eccezione della chiesa. E' però una destinazione da prendere in considerazione per vedere un lato della Georgia diverso, più antico, più naturalistico e più tradizionalistico, più storico.
 

@@ -11,14 +11,12 @@ summary = "Incuriosito da degli articoli apparsi su medscape.com sulla nuova tec
 showToc = false
 type = "article"
 +++
+
+{{< capital_letter_open >}}
 Incuriosito da degli articoli apparsi su [medscape.com](www.medscape.com) sulla nuova tecnologia Blockchain (e future applicazioni), ho preso in mano il libro {{< affiliate_link "blockhain-mougayar" "The #Business #Blockchain: Promise, Practice, and Application of the Next #Internet #Technology" >}} di W. Mougayar datato 2016.
-
 Ho volutamente scelto unlibro di qualche anno fa proprio per evitare di leggere proclami sensazionalistici dovuti all’hype dell’ultimo periodo su questa tecnologia.
-
-Il libro è una
-trattazione sui generis, astratta con rari esempi di applicazione al di fuori
-di quel che è il campo fertile della tecnologia: le #criptovalute. La #medicina
-si nomina per poco ed in pochi momenti.
+Il libro è una trattazione sui generis, astratta con rari esempi di applicazione al di fuori di quel che è il campo fertile della tecnologia: le #criptovalute. La #medicina si nomina per poco ed in pochi momenti.
+{{< capital_letter_close >}}
 
 Scopo del libro non è
 quello di suggerire ma quello di fornire i mezzi per capire come la tecnologia
@@ -44,5 +42,5 @@ Blockchain trova la sua forza dove servono garanzie di autenticità dell’event
 
 Vedremo.
 
-Voi idea vi siete fatti a proposito? Scrivetela nei commenti {{< hashtag "#brainstorming" >}}!
+Voi idea vi siete fatti a proposito? Scrivetela nei commenti #brainstorming!
 

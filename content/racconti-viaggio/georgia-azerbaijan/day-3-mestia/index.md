@@ -10,9 +10,10 @@ tags : [ "travel" ]
 showToc : true
 type: "article"
 ---
-
+{{< capital_letter_open >}}
 Ore 7. Sveglia.  
 Apro immediatamente le tende. Nebbia e buio. Emozionato, apro la finestra e respiro a pieni polmoni. L'aria fresca entra nella stanza e canticchio la canzone di Baglioni: "_l'aria acerba della Domenica mattina…_".
+{{< capital_letter_close >}}
 
 {{< image src="IMG_3509.jpg" alt="Aria fresca e frizzante" >}}
 

@@ -10,8 +10,9 @@ tags = [ "giappone", "medicina" ]
 showToc = false
 type = "article"
 +++
-Un anno fa in questo
-periodo ero su un volo di ritorno da Tokyo dopo tre mesi trascorsi in qualità di _visiting doctor_ in un ospedale del sud del Giappone.
+{{< capital_letter_open >}}
+Un anno fa in questo periodo ero su un volo di ritorno da Tokyo dopo tre mesi trascorsi in qualità di _visiting doctor_ in un ospedale del sud del Giappone.
+{{< capital_letter_close >}}
 
 In quei tre mesi ho approfondito (e studiato) tanti argomenti avendo la grande fortuna di poter parlare e capire come un medico giapponese
 applichi la _comune tecnologia_ nella propria vita ospedaliera. Quando si sente parlare del Giappone spesso si associa il nome a _progresso,

@@ -10,11 +10,11 @@ tags : [ "travel" ]
 showToc : true
 type: "article"
 ---
-
+{{< capital_letter_open >}}
 Se il vostro itinerario è stato più o meno simile al nostro nel [primo giorno]({{< ref "ep-1-cosa-fare-dove-andare.md" >}}) e nel [secondo giorno]({{< ref "ep-2-noleggiare-un-monsteroller.md" >}}), arriverete al terzo giorno che sarete in dubbio sul da farsi.  
-  
 Non tutto ciò che è turistico - in una città - necessita di essere visitato, visto, fotografato (e sudato, se le temperature sono elevate).  
 Paradossalmente - un giorno speso ai bagni termali - è quanto di più turistico possiate fare a Budapest. E' un turismo dei sensi e delle emozioni, del relax e del piacere delle considerazioni personali sul viaggio in un momento di pausa in cui non potete fare altro che staccarvi dal mondo e lasciarvi andare al calore dell'acqua che (soprattutto in inverno) vi coccola.
+{{< capital_letter_close >}}
 
 ## Direzione Szechenyi
 

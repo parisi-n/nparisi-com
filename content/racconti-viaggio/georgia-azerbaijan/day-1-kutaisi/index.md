@@ -10,10 +10,11 @@ tags : [ "travel" ]
 showToc : true
 type: "article"
 ---
-
+{{< capital_letter_open >}}
 Il viaggio verso Kutaisi inizia con un romantico tramonto ad alta quota.
 Il volo da Roma FCO è arrivato in tarda notte _(in Georgia il fusorario è GMT+4_).
 In principio avevamo rifiutato il transfer offerto dalla struttura perché - progetto iniziale - se dev'essere un viaggio all'avventura il transfer non ci sta a fare nulla. Salvo poi decidere di richiederlo poche ore prima della partenza e...niente di più saggio e giusto.
+{{< capital_letter_close >}}
 
 {{< image src="IMG_2982.jpg" alt="Tramonto in aereo" >}}
 

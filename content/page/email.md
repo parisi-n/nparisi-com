@@ -3,9 +3,11 @@ title = "Scrivimi una mail"
 url = "email"
 layout = "email_form"
 +++
+{{< capital_letter_open >}}
 Hai qualche domanda?  
 Vuoi semplicemente salutarmi?  
 Vuoi farmi notare qualche errore presente nel blog?
+{{< capital_letter_close >}}
 
 Sei passato su questo sito?
 

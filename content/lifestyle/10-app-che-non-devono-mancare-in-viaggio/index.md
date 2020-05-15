@@ -1,7 +1,7 @@
 ---
 title: "10 app che non devono mancare in viaggio"
 date: "2019-08-05"
-image: "images/IMG_1409-Edit.jpg"
+image: "images/IMG_1409.jpg"
 
 summary : "Una breve descrizione delle app aggiornate ad Agosto 2019 che reputo essenziali per gli spostamenti di ogni traveler."
 categories : [ "travel-tips" ]

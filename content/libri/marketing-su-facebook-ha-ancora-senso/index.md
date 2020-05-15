@@ -12,10 +12,11 @@ showToc : true
 type: "article"
 ---
 
+{{< capital_letter_open >}}
 Ho finito di leggere qualche giorno fa {{< affiliate_link "facebook-marketing" "Facebook Marketing" >}} di Chiara Cini - _APOGEO Editore_. Il libro è del 2016. 
-Al di là della passione per l'antico (questo è il [LINK DA FIXARE: secondo libro]({{< ref "medicina-giappone-1.md" >}})) del 2016 che leggo), verrebbe da chiedersi se un libro scritto due anni e mezzo fa abbia ancora valore e sia da considerarsi utile.  
-  
+Al di là della passione per l'antico (questo è il [secondo libro]({{< ref "/libri/blockchain-medicina/index.md" >}})) del 2016 che leggo), verrebbe da chiedersi se un libro scritto due anni e mezzo fa abbia ancora valore e sia da considerarsi utile.  
 Prima di finire di leggerlo ero dell'idea che _si - non fosse più da considerarsi utile se non come cimelio nella libreria._
+{{< capital_letter_close >}}
 
 **Non per il contenuto del** **libro** - quanto per il fatto che Facebook non sia più da considerarsi appetibile per chi inizia da 0 e vuole farsi conoscere - a meno che non si sia disposti ad investire in pubblicità.
 

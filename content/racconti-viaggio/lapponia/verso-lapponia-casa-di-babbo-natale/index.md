@@ -15,13 +15,13 @@ type: "article"
 
 ## Vilnius, 2015
 
+{{< capital_letter_open >}}
 2 Dicembre. All'1.30 della notte prendo il bus per **Tallin.**  
 **Da solo.**  
 Punto di incontro: centro commerciale CUP lungo la riva del fiume _Neris_.
+{{< capital_letter_close >}}
 
-{{< image src="20151126_000220.jpg" alt="Piazzale centro commerciale CUP a Vilnius" >}}
-
-Piazzale del centro commerciale CUP, lungo la riva del fiume Neris, a Vilnius
+{{< image src="20151126_000220.jpg" alt="Piazzale centro commerciale CUP a Vilnius" caption="Piazzale del centro commerciale CUP, lungo la riva del fiume Neris, a Vilnius" >}}
 
 Verso le 2 della notte il bus parte verso la prima destinazione del viaggio.
 

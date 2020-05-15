@@ -4,11 +4,11 @@ title = "Disclaimer"
 url = "disclaimer"
 type = "page"
 +++
+{{< capital_letter_open >}}
 **Questo è il mio sito e blog personale. Qualunque opinione espressa è frutto di mie considerazioni private e personali e nulla hanno a che vedere con eventuale mio ruolo professionale o di azienda.**
-
 Inoltre – le opinioni portebbero cambiare nel corso del tempo e di volta in volta in base a nuovi contesti, nuove considerazioni, nuovi eventi e sono la conseguenza di "una mente aperta".
-
 Questo blog ha la funzione di fornire uno "snapshot" dei miei pensieri di volta in volta ed è suscettibile a variazione.
+{{< capital_letter_close >}}
 
 ## Racconti di viaggio e Travel Tips
 

@@ -10,10 +10,11 @@ tags : [ "travel" ]
 showToc : true
 type: "article"
 ---
-
+{{< capital_letter_open >}}
 Verrete probabilmente svegliati dalle prime luci dell’alba, ma nessuno vi impedirà alle 6.10 di girarvi dall’altra parte e riprendere sonno.  
 A meno che non abbiate una mascherina per gli occhi per dormire - in quel caso non avrete problemi.  
 Vi perderete però la magia di essere svegliati alle prime luci dell’alba, su un treno vecchio di 40 anni, che mentre passeggia senza fretta verso Baku racconta antiche leggende.
+{{< capital_letter_close >}}
 
 Se invece siete appassionati di sunrise (come il sottoscritto),  vi gusterete il lungo e lento sorgere del sole sull’arida e polverosa pianura azera in compagnia di un tè caldo e dei biscotti offerti gentilmente dagli amici del letto opposto al nostro.
 

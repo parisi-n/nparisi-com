@@ -16,9 +16,10 @@ In questo post troverete informazioni e suggerimenti su dove mangiare, cosa vede
 
 * * *
 
-Quando organizzerete il vostro viaggio a Budapest – assicuratevi di andarci senza {{< affiliate_link "serusi-instagram" "francescoserusi" >}} o comunque senza **nessuno che ci sia andato precedentemente in Erasmus**. Il rischio che vi porti a vedere ogni minima insignificante cosa e vi faccia camminare come dei dannati (portandovi in giro a mo’ di cane al guinzaglio) – è concreto.  
-  
+{{< capital_letter_open >}}
+Quando organizzerete il vostro viaggio a Budapest – assicuratevi di andarci senza {{< affiliate_link "serusi-instagram" "francescoserusi" >}} o comunque senza **nessuno che ci sia andato precedentemente in Erasmus**. Il rischio che vi porti a vedere ogni minima insignificante cosa e vi faccia camminare come dei dannati (portandovi in giro a mo’ di cane al guinzaglio) – è concreto.
 Così è successo a me ed al mio compagno di viaggio, il buon {{< affiliate_link "mich-instagram" "@michelemich" >}} – tanto da ritrovarci a fare più di 26mila passi in poco meno di mezza giornata.
+{{< capital_letter_close >}}
 
 Al momento della pianificazione di questo post, ero indeciso se riassumere tutta l'esperienza in un unico post o dividerlo per rendere la lettura meno impegnativa e più rilassata - aggiungendo qualche foto in più.  
 Budapest è davvero fotogenica e solo per questo meriterebbe.

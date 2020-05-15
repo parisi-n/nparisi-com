@@ -13,8 +13,10 @@ type: "article"
 
 {{< youtube id="XYXuuzE39z0" caption="Un pomeriggio a Beograd">}}
 
+{{< capital_letter_open >}}
 Belgrado. Capitale della Serbia. Mai avrei creduto un giorno di visitarla. Non per pregiudizi o altri motivi, semplicemente non ero sufficientemente attratto dal punto di vista turistico per trovare la voglia, il tempo, i soldi e le energie per visitarla.  
 Ma anche (lo ammetto, con un po' di vergogna) per i tanti pregiudizi che inevitabilmente si tira dietro: "è pericoloso, è un popolo di ladri, è un popolo di irrispettosi, è un popolo pericoloso, povero e violento". Questi e tanti altri ammonimenti e consigli mi sono stati dati nel corso del tempo.
+{{< capital_letter_close >}}
 
 Eppure proprio per il velo di finto pericolo che si cela dietro il viaggio, per l'esoterismo, per il non essere main stream, forse per un senso di coraggio nel non volersi tirare indietro di fronte alla "sfida" - è accaduto per davvero: {{< affiliate_link "serusi-instagram" "@francescoserusi" >}} ed io, complice il rallentamento psicomotorio indotto dal gulash - abbiamo prenotato. I soldi nella carta ci sono e ancor prima di essere sicuri che la cosa sia fattibile avevamo già acquistato il biglietto del bus di andata e ritorno per Belgrado.
 

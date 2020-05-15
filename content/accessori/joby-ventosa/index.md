@@ -13,10 +13,11 @@ type: "article"
 
 {{< vimeo src="416347089" caption="Timelapse dalla prua di uno Zar in navigazione nelle acque di punta Sa schivoni" >}}
 
+{{< capital_letter_open >}}
 Joby è una marca americana che produce supporti per fotocamere e telefoni. Ho avuto a che fare per la prima volta con questa marca nel 2017 [durante la mia permanenza in Giappone]({{< ref "oltre-tokyo.md" >}}): cercavo un gorillapod per la Go Pro Hero 5 Black che mi permettesse non solo di farmi qualche autoscatto ma anche mi permettesse versatilità e garanzia.
-
 Optai per quello che all'epoca era l'unico Gorillapod con i piedini magnetici, per poter fissare la Go Pro liberamente su qualsiasi superficie anche verticale a patto fosse magnetica.  
 Ma del Gorillapod, magari, parlerò un'altra volta.
+{{< capital_letter_close >}}
 
 ## Joby ventosa
 

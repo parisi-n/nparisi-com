@@ -12,11 +12,11 @@ showToc : false
 type: "article"
 ---
 
+{{< capital_letter_open >}}
 **Partiamo dalla foto in copertina. Voi cosa vedete?**
-
 Io vedo il Giappone e la sua essenza.
-
-Facciamo un passo indietro: gli ospedali possono essere pubblici e privati. Ogni cittadino giapponese dispone di assicurazione sanitaria che può includere o no vari benefits, tra cui lo stare comodo e con certi accessori durante la degenza; questo include la propria privacy, il proprio televisore, il proprio spazio e varie altre cose. E’ il paziente che va in un ospedale piuttosto che un altro sulla base di come si troverà durante la degenza oltrechè le skill clinico-chirurgiche del team che lo seguirà.  
+Facciamo un passo indietro: gli ospedali possono essere pubblici e privati. Ogni cittadino giapponese dispone di assicurazione sanitaria che può includere o no vari benefits, tra cui lo stare comodo e con certi accessori durante la degenza; questo include la propria privacy, il proprio televisore, il proprio spazio e varie altre cose. E’ il paziente che va in un ospedale piuttosto che un altro sulla base di come si troverà durante la degenza oltrechè le skill clinico-chirurgiche del team che lo seguirà.
+{{< capital_letter_close >}}
 
 Il giapponese è tendenzialmente una persona solitaria, timida, individualista. Vuole i suoi spazi, è un suo diritto, e la stanza di degenza non fa eccezione.  
 

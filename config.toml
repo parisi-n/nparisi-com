@@ -10,7 +10,7 @@ googleAnalytics = "UA-128082042-1"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
 canonifyURLs = true
-
+enableEmoji = true
 disableKinds = ["taxonomyTerm"]
 
 paginate = 7

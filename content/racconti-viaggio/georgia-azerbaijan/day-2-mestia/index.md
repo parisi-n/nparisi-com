@@ -10,11 +10,11 @@ tags : [ "travel" ]
 showToc : true
 type: "article"
 ---
-
+{{< capital_letter_open >}}
 Ore 6.30. Sveglia all'alba.
-
 Da calendario, oggi dovremmo spostarci a Mestia. La valigia non è completamente disfatta e chiuderla è semplice 🤫  
 Ci documentiamo: per quanto la stazione dei bus sia a poca distanza, ci viene detto che sarà difficile trovare una marshrutka diretta verso l'aeroporto poichè la maggior parte delle persone si reca in taxi...
+{{< capital_letter_close >}}
 
 > Mestia è il paese simbolo dello Svaneti, situata sul Caucaso, a 1500mt s.l.m. Ci si può arrivare o via terra - tramite marshrutka - o via cielo - tramite un volo operato da Vanillasky dai principali centri urbani.
 

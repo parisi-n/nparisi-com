@@ -10,10 +10,11 @@ tags : [ "travel" ]
 showToc : true
 type: "article"
 ---
-
+{{< capital_letter_open >}}
 L'ultimo giorno della nostra avventura, l'epilogo di un viaggio contraddistinto da una continua corsa contro il tempo. L'aereo che ci riporterà in Italia partirà all'alba dell'indomani da Kutaisi e - per ovvie ragioni - decidiamo di trascorrere l'ultima notte a Kutaisi.  
 Per via del fatto che il lunedì non vengono effettuate visite alle Cave di Prometeo ed essendo noi arrivati di lunedì - era stata necessaria una riprogrammazione dell'itinerario.  
 Avevamo dunque deciso di effettuare il giro delle Cave e del Canyon l'ultimo giorno utile: il decimo.
+{{< capital_letter_close >}}
 
 > Sempre mediante l'agenzia [Smart Travel Georgia](https://g.page/Smarttravelgeorgia?share) siamo riusciti ad organizzare un day-trip da Tbilisi per le Cave e per il Canyon, con la possibilità di essere scaricati direttamente all'hotel di Kutaisi invece che tornare a Tbilisi insieme al restante gruppo.  
 > **Scelta che si è rivelata semplicemente eccellente.**

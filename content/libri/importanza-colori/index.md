@@ -11,11 +11,12 @@ showToc : true
 type: "article"
 ---
 
+{{< capital_letter_open >}}
 Spesso trovo due colori. Mi piacciono. Li abbino. Mi piacciono anche da abbinati e - soddisfatto - chiudo l'editor. Dopo un'ora - lo riapro. Guardo l'audace abbinamento, penso che proprio non ci siamo, e vado alla ricerca di due nuovi colori.
+Finchè non son capitato su un aereo che mi ha portato in Portogallo.
+{{< capital_letter_close >}}
 
 ## Un libro
-
-Finchè non son capitato su un aereo che mi ha portato in Portogallo.
 
 {{< image src="IMG_1407.jpg" alt="Composizione: Colors XXL, Channel Blue, Daniel Wellington, Lenovo Thinkpad x1 carbon" type="wide-screen">}}
 

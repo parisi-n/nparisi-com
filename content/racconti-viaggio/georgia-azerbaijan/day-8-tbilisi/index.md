@@ -9,8 +9,9 @@ tags : [ "travel" ]
 showToc : true
 type: "article"
 ---
-
+{{< capital_letter_open >}}
 All'alba un trambusto generale mi risveglia. Anche al ritorno sono nel letto superiore, apro un occhio e vedo passare trafilata la responsabile di vagone che verosimilmente urla qualcosa. Non ne son però certo - dato che anche questa volta ho usato dei [tappi in cera]({{< ref "10-immancabili-accessori-da-viaggio.md" >}}) per garantirmi un riposo quanto più prolungato possibile.
+{{< capital_letter_close >}}
 
 ## Controllo passaporti
 

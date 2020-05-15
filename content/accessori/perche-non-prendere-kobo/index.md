@@ -11,11 +11,12 @@ showToc : true
 type: "article"
 ---
 
+{{< capital_letter_open >}}
 Son rimasto parecchi giorni a pensare se fosse o no il caso di scrivere un articolo tanto forte. Forte perchè - a giudicare dal titolo - sarebbe un inno contro il progresso, contro la tecnologia, e quindi un po' anche contro il nostro "essere digitali".
+Eppure, negli ultimi _9 mesi_ di uso intenso del {{< affiliate_link "kobo-clara-hd" "Kobo Clara HD" >}})** me ne sono quasi del tutto convinto. Ed è con un po' di amaro in bocca, che lo dico e scrivo queste parole.
+{{< capital_letter_close >}}
 
 {{< image src="IMG_2047.jpg" alt="Piacere di lettura durante una giornata calda e soleggiata nelle spiagge della Sardegna" >}}
-
-Eppure, negli ultimi _9 mesi_ di uso intenso del {{< affiliate_link "kobo-clara-hd" "Kobo Clara HD" >}})** me ne sono quasi del tutto convinto. Ed è con un po' di amaro in bocca, che lo dico e scrivo queste parole.
 
 ## I motivi
 

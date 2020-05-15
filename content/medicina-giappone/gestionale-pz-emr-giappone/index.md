@@ -13,7 +13,9 @@ type: "article"
 
 **\*_EMR: Electronic Medical Record_**
 
+{{< capital_letter_open >}}
 Premessa: non tutti gli ospedali sono allo stesso livello di informatizzazione; gli ospedali universitari vengono usati come prova (_sandbox?_) per le nuove tecnologie e per le sperimentazioni.
+{{< capital_letter_close >}}
 
 ## Big data?
 

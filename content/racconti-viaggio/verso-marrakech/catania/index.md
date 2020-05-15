@@ -15,7 +15,9 @@ type: "article"
 
 {{< image src="IMG_0121.jpg" caption="" >}}
 
+{{< capital_letter_open >}}
 Tutto pronto: gel igienizzante, plasil, fermenti lattici, macchina fotografica. Il piano originario sarebbe dovuto essere **Cagliari > Catania > Marrakech...** Ma qualcosa è andato storto, l'Etna il pomeriggio decise di eruttare e... **bloccati a Catania!**
+{{< capital_letter_close >}}
 
 ## Riorganizzare il viaggio in poche ore
 

@@ -12,10 +12,12 @@ type: "article"
 
 draft: true
 ---
+{{< capital_letter_open >}}
 Era il [Marzo del 2016]({{< ref "ternopil.md" >}}) e mi recavo per la prima volta in questa terra un po' timoroso ed un po' incerto. Una terra a cui - forse per via dell'alfabeto oscuro - avevo timore. Ci son voluti 6 mesi di aria lituania e due corsi di russo per decidermi a varcare la soglia europea ed avventurarmi in solitaria in una terra che - da straniero - può essere contorta e ingannevole.
 E' Novembre 20219 e - come chiusa del ciclo di viaggi autunnali iniziati con la [Georgia]({{< ref "day-0-preparativi.md">}} e continuati con [Budapest]({{< ref "ep-1-cosa-fare-dove-andare.md" >}} e [Belgrado]({{< ref "ep-4-day-trip-belgrado.md" >}} - decido di visitare la capitale ucraina. Non è tra le top 10 europee - ma da tempo ho compreso che ciò che non è nelle top 10 è molto più interessante celle classiche capitali - quindi perchè no?
 Per rendere il tutto più epico - poi - aggiungo come tappa nell'ultimo giorno di viaggio un _day-tour_ a Chernobyl.
 Ed il capolavoro è servito.
+{{< capital_letter_close >}}
 
 [20191109_110657-819x1024.jpg]
 Uno dei numerosi murales distribuiti per la città

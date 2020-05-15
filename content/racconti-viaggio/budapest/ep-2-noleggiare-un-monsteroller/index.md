@@ -18,9 +18,10 @@ _Questo post viene pubblicato in un momento difficile per l'Italia a causa dell'
 **Torneremo a viaggiare**: di questo ne sono sicuro.
 {{< /font >}}
 
-{{< capital "N" >}}el [post precedente]({{< ref "ep-1-cosa-fare-dove-andare.md" >}}) vi ho raccontato di cosa poter vedere nell'arco di mezza giornata a Budapest - nel caso facciate un layover (probabile con Kiwi.com) di qualche ora o dell'intera giornata e vogliate fare un rapido tour della città e visitare le attrazioni più importanti.
-
+{{< capital_letter_open >}}
+Nel [post precedente]({{< ref "ep-1-cosa-fare-dove-andare.md" >}}) vi ho raccontato di cosa poter vedere nell'arco di mezza giornata a Budapest - nel caso facciate un layover (probabile con Kiwi.com) di qualche ora o dell'intera giornata e vogliate fare un rapido tour della città e visitare le attrazioni più importanti.
 E se invece aveste a disposizione un po' più di tempo - come due o tre giorni - cosa fare a Budapest? Qui una serie di idee simpatiche e divertenti per "riempire" il secondo ed il terzo giorno.
+{{< capital_letter_close >}}
 
 Budapest offre svariate alternative di mobilità sostenibile. Se siete stanchi dal giorno precedente (come lo eravamo noi, del resto) ma non volete precludervi la possibilità di girare il centro e la periferia della città - forse il noleggio di un e-scooter potrebbe rivelarsi una scelta vincente.
 
