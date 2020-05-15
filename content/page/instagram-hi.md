@@ -34,7 +34,7 @@ benvenuto nel mio blog
         .wp-block-button { transition: 0.4s; }
         .wp-block-button:hover { opacity: 0.8em; filter: brightness(70%); }
 
-{{< image src="/img/about/foto_profilo.png" alt="Questo sono io!" style="width: 75%; position: initial;" class="rounded" parent-style="text-align: center" >}}
+{{< image src="/about/images/foto_profilo.png" alt="Questo sono io!" style="width: 75%; position: initial;" class="rounded" parent-style="text-align: center" >}}
 
 Sono appassionato di informatica, di programmazione, di nuove tecnologie.
 Nel tempo libero programmo in C#, Java, PHP con mySQL, JavaScript e CSS.

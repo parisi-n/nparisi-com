@@ -46,7 +46,7 @@
                                             {{else}}
 
                                                 {{ if and (isset .Params "image") .Params.image }}
-                                                <a class="featured-image-link" href="{{ .Permalink }}"><div class='featured-image lazy lazy-bg-image' {{if isset .Site.Params "usepostimgfolder"}}data-background="{{ .Permalink }}{{ .Params.baseimg }}{{ .Params.image }}"{{ else }}data-background="{{ .Params.baseimg | absURL }}{{ .Params.image }}"{{ end }}></div></a>
+                                                <a class="featured-image-link" href="{{ .Permalink }}"><div class='featured-image lazy lazy-bg-image' data-background="{{ .Permalink }}{{ .Params.image }}"></div></a>
 
                                                 {{ end }}
                                                 <div class="excerpt-container">

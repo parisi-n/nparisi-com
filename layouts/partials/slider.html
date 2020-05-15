@@ -1,7 +1,7 @@
 <div class="slick-container">
     {{ range .slider }}
     <div style="display: inline-block; vertical-align: middle">
-        <img data-lazy="{{ print "img/" .url_image | absURL }}" class="slick-image" />
+        <img data-lazy="{{ ( printf "%simages/%s" .url .image ) | absURL }}" class="slick-image" />
 
         <div class="slick-content">
             <div class="slick-title">

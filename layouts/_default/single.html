@@ -6,16 +6,14 @@
 
 {{ define "main" }}
   <div id="loop-container" class="loop-container">
-    {{ if and (isset .Params "image") .Params.image }}
     <div class="post type-post entry post_single">
 
-      <div class='featured-image lazy lazy-bg-image' {{ if isset .Site.Params "usepostimgfolder" }} data-background="{{ .Permalink }}{{ .Params.baseimg }}{{ .Params.image }}"{{ else }} data-background="{{ .Params.baseimg | absURL }}{{ .Params.image }}"{{ end }}>
-      </div>
-      {{ else }}
-
+        <div class='featured-image lazy lazy-bg-image' data-background="{{ .Permalink }}{{ .Params.image }}">
+        </div>
+<!--
       <div class="post type-post entry odd excerpt-1">
 
-        {{ end }}
+         -->
         <div class="entry-container">
             <div class='entry-header'>
               <h1 class='entry-title'>{{ replace .Title "//" "<div class='ep-interspace'><br/></div>" | safeHTML }}</h1>

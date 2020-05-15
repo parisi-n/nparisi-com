@@ -1,18 +1,47 @@
 <!-- implementare type="rounded" -->
+{{ $alt := .Get "alt" }}
 {{ $caption := .Get "caption" }}
-<figure class="block-image{{if .Get "type" }} {{ .Get "type" }}{{end}}"{{ if .Get "parent-style" }} style="{{.Get "parent-style" }}"{{end}}>
-        {{ if .Get "href" }}<a href="{{ .Get "href" }}">{{end}}
-        <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
-             data-src="{{if .Page.Params.baseimg }}{{ .Page.Params.baseimg | absURL }}{{end}}{{ .Params.baseimg }}{{ .Get "src" }}"
-            {{ if .Get "alt"}} alt="{{ .Get "alt" }}"{{end}}
-            {{ if .Get "class" }} class="{{ .Get "class" }}"{{end}}
-            {{ if .Get "style" }} style="{{ .Get "style" | safeCSS }}"{{end}}
-            >
-        {{ if .Get "href" }}</a>{{end}}
-         
-    {{ if $caption }}
-    <figcaption>
-        {{ $caption }}
-    </figcaption>
-    {{ end }}
-</figure>
+{{ $class := .Get "class"}}
+{{ $style := .Get "style" }}
+{{ $type := .Get "type" }}
+{{ $parentstyle := .Get "parent-style" }}
+{{ $href := .Get "href" }}
+{{ $src := ( printf "%s/%s" "images" (.Get "src") ) }}
+
+{{ with .Page.Resources.GetMatch $src }}
+
+    {{ $image := . }}
+    {{ $placeholder := $image.Resize "48x q20" }}
+
+    <figure class="block-image"{{ if $parentstyle }} style="{{ $parentstyle }}"{{end}} style="display: block;"
+            data-imgset="{{ (.Resize "640x").RelPermalink }} 320w,
+                            {{ (.Resize "1024x").RelPermalink }} 600w,
+                            {{ (.Resize "1600x").RelPermalink }} 2x"
+            data-src="{{ (.Resize "1600x").RelPermalink}}">
+            
+            {{ if $href }}<a href="{{ $href }}">{{end}}
+            
+                <div class="placeholder{{if $type }} {{$type}}{{end}}" data-large="{{ $image.Permalink }}">
+                <img class="img-small" src="{{ $placeholder.RelPermalink }}"
+                    {{ if $alt }} alt="{{ $alt }}"{{end}}
+                    {{ if $class }} class="{{ $class }}"{{end}}
+                    {{ if $style }} style="{{ $style | safeCSS }}"{{end}}
+                    >
+                <div style="padding-bottom: {{ div (mul $image.Height 100.0) $image.Width }}%;"></div>
+                </div>
+            {{ if $href }}</a>{{end}}
+
+        {{ if $caption }}
+        <figcaption>
+            {{ $caption }}
+        </figcaption>
+        {{ end }}
+    </figure>
+{{else}}
+<div class="img-not-found">
+    <span>IMMAGINE NON TROVATA</span>
+    <span style="color: #c8c8c8;">{{$src}}</span>
+    <span>{{$alt}}</span>
+    <i class="far fa-frown" style="color: #f4511e; opacity: 0.5; font-size: 96pt;"></i>
+</div>
+{{end}}

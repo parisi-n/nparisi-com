@@ -242,3 +242,29 @@ $(document).ready(function(){
 });
 </script>
 {{end}}
+
+<script type="text/javascript">
+    (function($){
+        $(window).on('load', function()
+                {
+                var placeholder = $('.placeholder');
+
+                placeholder.each( function(index)
+                                    {
+                                        // Carica la miniatura
+                                        var smallImgElement = $(this).find('.img-small');
+                                        var img = new Image();
+                                        img.src = smallImgElement.attr('src');
+                                        img.onload = function () { smallImgElement.addClass('loaded'); };
+
+                                        // Carica l'immagine grande
+                                        var imgLarge = new Image();
+                                        imgLarge.src = $(this).data('large');
+                                        imgLarge.onload = function () { imgLarge.classList.add('loaded'); };
+                                        $(this).append(imgLarge);
+
+                                    }
+                                )
+            });
+        })(jQuery);
+</script>

@@ -1,0 +1,4 @@
+---
+type: "article"
+sitemapExclude : true
+---

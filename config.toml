@@ -47,7 +47,7 @@ paginate = 7
 
 [params]
     author = "Nicola"
-    image  = "/img/logo_1x1.png"
+    image  = "/images/logo_1x1.png"
     slogan = "tecnologia / libri / viaggi / fotografia"
     copyright = [
         "&copy; 2018-YEAR NICOLA PARISI" ,
@@ -91,7 +91,7 @@ paginate = 7
     weight = 5
 
     [[menu.main]]
-    name = "Libri"
+    name = "Libreria"
     parent = "blog"
     url = "libreria/"
     weight = 5
