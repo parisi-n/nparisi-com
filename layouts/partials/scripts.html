@@ -232,11 +232,19 @@ $(document).ready(function(){
             $("button[type='submit']").attr("disabled", "disabled");
     });
     
+    $("#contact-box").submit( function(e)
+    {
+        e.preventDefault();
+
+        var $form = $(this);
+        $.post( $form.attr( "action" ), $form.serialize() ).then( function() {
+                                                                alert("Grazie :)");
+                                                                });
+                                                        });
+
     $('button[type=submit]').click(function()
     {
-        alert( "Mail inviata. Ti risponderò quanto prima :)" );
         $(this).attr('disabled', 'disabled');
-        $(this).parents('contact').submit();
     });
     
 });

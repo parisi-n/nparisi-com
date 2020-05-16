@@ -23,11 +23,11 @@ Sceso dall'areo intono all'una di notte, un vento freddo ci accoglie ci da il be
 
 ## L'arrivo in aeroporto
 
-Dall'aeroporto all'ostello a gestione familiare ([La'Rooms](https://www.booking.com/hotel/ge/la-39-rooms.it.html)) scelto è un viaggio romantico di 20 minuti, in cui ci vengono regalati i primi momenti di Georgia.
+Dall'aeroporto all'ostello a gestione familiare ({{< external_link "https://www.booking.com/hotel/ge/la-39-rooms.it.html" "La'Rooms" >}}) scelto è un viaggio romantico di 20 minuti, in cui ci vengono regalati i primi momenti di Georgia.
 
 Se non avete la possibilità del transfer (pagato 30 lari), una corsa dall'aeroporto alla città viene dai 15 ai 20 lari.
 
-{{< vimeo src="416346249" >}}
+{{< vimeo type="vertical-9x16" src="416346249" >}}
 
 L'arrivo in ostello mi ricorda tanto l'arrivo di 4 anni fa a Vilnius, in dormitorio. Parlavo inglese, ma in certi contesti non aiuta. **E' il russo ad aprire tutte le porte**. Questa volta però ho studiato e non mi son fatto cogliere impreparato.  
 Spiego che vorremmo la colazione alle 9, che vorremmo acqua, e che pagheremo domattina poichè al momento senza cash ma solo con carta. Tutto semplice, rilassato.
@@ -59,7 +59,7 @@ Ci viene preparata in diretta da una signora dall'aspetto tipicamente sovietico 
 
 {{< image src="20190923_084332.jpg" alt="Colazione in ostello con cibo tradizionale" >}}
 
-Durante la colazione parliamo con il tizio che poche ore prima ci ha portato dall'aeroporto all'ostello (in inglese questa volta). Ci spiega che essendo lunedì le [Cave di Prometeo](https://www.tripadvisor.it/Attraction_Review-g17662889-d4246547-Reviews-Prometheus_Cave-Kumistavi_Imereti_Region.html) son chiuse e ci invita ad andare in centro.
+Durante la colazione parliamo con il tizio che poche ore prima ci ha portato dall'aeroporto all'ostello (in inglese questa volta). Ci spiega che essendo lunedì le {{< external_link "https://www.tripadvisor.it/Attraction_Review-g17662889-d4246547-Reviews-Prometheus_Cave-Kumistavi_Imereti_Region.html" "Cave di Prometeo" >}} son chiuse e ci invita ad andare in centro.
 
 ## Spostarsi a Kutaisi
 
@@ -96,7 +96,7 @@ Girovaghiamo un po' nelle stradine, un po' a caso, senza curarci di dove stiamo 
 
 {{< image src="IMG_3020.jpg" alt="Scritta su un muro per le vie di Kutaisi" type="wide-screen" >}}
 
-Però è ancora presto e decidiamo di fare un salto al [mercato centrale](https://www.tripadvisor.it/Attraction_Review-g815359-d10338717-Reviews-Kutaisi_Market-Kutaisi_Imereti_Region.html).
+Però è ancora presto e decidiamo di fare un salto al {{< external_link "https://www.tripadvisor.it/Attraction_Review-g815359-d10338717-Reviews-Kutaisi_Market-Kutaisi_Imereti_Region.html" "mercato centrale" >}}.
 
 Il mercato è uno spaccato di vita vissuta, di quotidianità, di popolo: **emoziona e colpisce.**
 
@@ -175,9 +175,9 @@ Per cena, ho tre posti da suggerire caldamente. Due li ho provati e mi son trova
 
 Vi consiglio:
 
-- [Palaty](https://www.tripadvisor.it/Restaurant_Review-g815359-d4252348-Reviews-Palaty-Kutaisi_Imereti_Region.html), in centro. Posto grazioso, internazionale.
+- {{< external_link "https://www.tripadvisor.it/Restaurant_Review-g815359-d4252348-Reviews-Palaty-Kutaisi_Imereti_Region.html" "Palaty" >}}, in centro. Posto grazioso, internazionale.
 - Georgian restaurant, nella strada tra Palaty verso Prague e AURA-caffè. Purtroppo non è presente su Google Maps.
-- [Toma's Wine Cellar](https://www.tripadvisor.it/Restaurant_Review-g815359-d13437909-Reviews-Toma_s_Wine_Cellar-Kutaisi_Imereti_Region.html). E' un po' fuori mano, ma se siete riposati ed avete due ore di tempo per un antipasto, un entrée, un primo ed un secondo, un dessert (il tutto per 40 Lari), allora questo posto merita assolutamente. La particolarità sta nel fatto che il vino servito è prodotto dal proprietario (dalle sue vigne) mentre il cibo offerto è cucinato direttamente da sua madre "al piano di sopra" (come lui orgogliosamente vi dirà).  
+- {{< external_link "https://www.tripadvisor.it/Restaurant_Review-g815359-d13437909-Reviews-Toma_s_Wine_Cellar-Kutaisi_Imereti_Region.html" "Toma's Wine Cellar" >}}. E' un po' fuori mano, ma se siete riposati ed avete due ore di tempo per un antipasto, un entrée, un primo ed un secondo, un dessert (il tutto per 40 Lari), allora questo posto merita assolutamente. La particolarità sta nel fatto che il vino servito è prodotto dal proprietario (dalle sue vigne) mentre il cibo offerto è cucinato direttamente da sua madre "al piano di sopra" (come lui orgogliosamente vi dirà).  
     Prima di farvi accomodare, Toma vi farà fare il tour della sua cantina, in cui vi spiegherà come produce il vino che di lì a poco berrete.
 
 La prima cena a Kutaisi è nel Georgian restaurant, a base di khinkali.  

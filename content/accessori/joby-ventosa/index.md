@@ -11,7 +11,7 @@ showToc : true
 type: "article"
 ---
 
-{{< vimeo src="416347089" caption="Timelapse dalla prua di uno Zar in navigazione nelle acque di punta Sa schivoni" >}}
+{{< vimeo src="416347089" type="horizontal" caption="Timelapse dalla prua di uno Zar in navigazione nelle acque di punta Sa schivoni" >}}
 
 {{< capital_letter_open >}}
 Joby è una marca americana che produce supporti per fotocamere e telefoni. Ho avuto a che fare per la prima volta con questa marca nel 2017 [durante la mia permanenza in Giappone]({{< ref "oltre-tokyo.md" >}}): cercavo un gorillapod per la Go Pro Hero 5 Black che mi permettesse non solo di farmi qualche autoscatto ma anche mi permettesse versatilità e garanzia.
@@ -23,7 +23,7 @@ Ma del Gorillapod, magari, parlerò un'altra volta.
 
 Due anni dopo, più per sfizio che per reale necessità, ho acquistato la {{< affiliate_link "joby-ventosa" "Joby ventosa" >}} approfittando di un prezzo relativamente basso che avevo trovato all'alba di una mattina di Febbraio.
 
-{{<vimeo src="416346888" caption="Direttamente dalla Go Pro, in navigazione" >}}
+{{<vimeo src="416346888" type="vertical-9x16" caption="Direttamente dalla Go Pro, in navigazione" >}}
 
 Da quella mattina il prezzo è leggermente aumentato e si è {{< affiliate_link "joby-ventosa" "stabilizzato sui 31€" >}}.
 
@@ -43,7 +43,7 @@ Quel che temevo di più, però, era che la ventosa non reggesse alle onde - e ma
 Non per mancanza di fiducia, ma come si vede dal video, ho deciso di prendermi il sicuro - tra vedere e non vedere - e legare la Go Pro con un laccio.  
 Il sistema a ventosa con sistema di **lock** tramite ghiera garantisce un buon feedback tale che ci si può rendere conto subito in caso la ventosa sia mal posizionata o non abbia aderito alla superficie.
 
-{{< vimeo src="416346135" caption="In corsa" >}}
+{{< vimeo src="416346135" type="vertical-9x16" caption="In corsa" >}}
 
 Per fortuna non c'è stato bisogno, e la ventosa, una volta adesa allo scafo e stretta saldamente tramite l'apposita ghiera, ha dimostrato una solidità impressionante.
 

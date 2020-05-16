@@ -12,8 +12,8 @@ e questo è il mio blog.
 {{< /html >}}
 
 {{< html >}}
-<div style="text-align: center">
-    <img src="images/foto_profilo.png" alt="Questo sono io!" style="width: 75% !important; position: initial;" class="rounded" />
+<div style="text-align: center; width: 55% !important; margin: auto;">
+    <img src="images/foto_profilo.png" alt="Questo sono io!" class="rounded" />
 </div>
 {{< /html >}}
 
@@ -36,7 +36,7 @@ Amo leggere. Manuali tecnici. Le letture da relax non fanno per me. Ultimamente 
 </div>
 {{< /html >}}
 
-Ho aperto un anno fa un servizio di diario della pressione su piattaforma Android per i pazienti ipertesi: Journal in Cloud (https://journ.cloud) con statistiche avanzate, consigli, suggerimenti ed indicatori completamente in cloud.
+Ho aperto un anno fa un servizio di diario della pressione su piattaforma Android per i pazienti ipertesi: Journal in Cloud ({{<external_link "https://journ.cloud" "https://journ.cloud" >}}) con statistiche avanzate, consigli, suggerimenti ed indicatori completamente in cloud.
 
 Amo le lingue, per quanto dedichi loro meno tempo di quello che dovrei. L'inglese come base, in passato mi son avvicinato al russo durante la permanenza in territorio ex-URSS. 
 

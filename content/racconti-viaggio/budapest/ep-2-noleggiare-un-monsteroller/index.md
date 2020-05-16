@@ -35,7 +35,7 @@ La scelta è basata esclusivamente sul vostro gusto personale.
 | 6-Housr: 23.90€    |  2-Hours: 34.90€  |               |
 | 3-Hours: 48.90€    |                   |               |
 
-**†** Sparsi per Budapest troverete i [monopattini Lime](https://play.google.com/store/apps/details?id=com.limebike&hl=it). Lo sblocco costa 250 fiorini e successivamente 50 fiorini ogni minuto di utilizzo
+**†** Sparsi per Budapest troverete i {{< external_link "https://play.google.com/store/apps/details?id=com.limebike&hl=it" "monopattini Lime" >}}. Lo sblocco costa 250 fiorini e successivamente 50 fiorini ogni minuto di utilizzo
 
 **‡** Non sono noleggiabili autonomamente se non all'interno di pacchetti di Tour guidati per i vari distretti della Città. I prezzi partono da _39.90€_ per un'ora e mezzo.
 
@@ -45,7 +45,7 @@ Con una semplice ricerca su Google troverete varie alternative circa il negozio 
 
 {{< itinerario "https://www.google.com/maps/d/u/0/embed?mid=1sLvqAMkkiz2ngwT3rMwPqa9QtyfzW8oA" >}}
 
-Siamo incappati in [questo noleggio](https://g.page/ictourbudapest?share) che oltre a monsteroller noleggia anche monopattini, e-bike e biciclette.
+Siamo incappati in {{ < external_link "https://g.page/ictourbudapest?share" "questo noleggio" >}} che oltre a monsteroller noleggia anche monopattini, e-bike e biciclette.
 
 Tenuto un minicorso sull'uso del mezzo, su dove sia ammesso il suo utilizzo e dove sia vietato, dopo alcune raccomandazioni di carattere generale e qualche consiglio sull'autonomia, **si parte.**
 
@@ -55,7 +55,7 @@ Un'ora di libertà e leggerezza per le vie di Budapest, quasi come _locals_, in 
 
 {{< youtube id="1_IB42d176o" caption="Tour" >}}
 
-Alla fine, visionati i prezzi, consultate le recensioni su Google Maps, abbiamo deciso di noleggiarlo presso [IC-Tour Budapest](https://g.page/ictourbudapest?share).
+Alla fine, visionati i prezzi, consultate le recensioni su Google Maps, abbiamo deciso di noleggiarlo presso {{< external_link "https://g.page/ictourbudapest?share" "IC-Tour Budapest" >}}.
 
 {{< image src="IMG_3511.jpg" alt="In sella al monsteroller siamo pronti a partire" >}}
 
@@ -109,7 +109,7 @@ Pagate _900 fiorini_ per avere indietro mezzo litro di birra fresca e squisita, 
 
 ## Il pranzo
 
-{{< font "gray" >}}_Posizione su Google Maps [qui](https://goo.gl/maps/muodGZZ4XUNKaHqM6)._{{< /font >}}
+{{< posizione "https://goo.gl/maps/muodGZZ4XUNKaHqM6" >}}
 
 E' ora di pranzo, non mangiamo da colazione e la fame inizia a farsi sentire.  
 Per quanto sia pericoloso recarsi in mercato ad ora di pranzo decidiamo comunque di sfidare la sorte ed entriamo.
@@ -157,7 +157,7 @@ Proprio dietro al Parlamento, nel suo piazzale, troverete una scalinata che si p
 
 ### Scarpe sulle rive del Danubio
 
-{{< font "gray" >}}_Posizione su Google Maps [qui](https://goo.gl/maps/xv3Yi94uLFNgjecZ8)._{{</ font >}}
+{{< posizione "https://goo.gl/maps/xv3Yi94uLFNgjecZ8">}}
 
 Memoriale dell'Olocausto, il Danubio è stato più volte spettatore silenzioso delle fucilazioni naziste effettuate lungo le sue rive e custode dei corpi che venivano trascinati dalla corrente.
 

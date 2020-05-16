@@ -1,6 +1,11 @@
 {
     "array" : [
         {
+            "image" : "copertina-wordpress-hugo.jpg" ,
+            "text_title" : "Perchè son passato da Wordpress ad un sito statico costruito con Hugo" ,
+            "url" : "lifestyle/da-wordpress-a-hugo/"
+        } ,
+        {
             "image" : "IMG_6909.jpg" ,
             "text_title" : "Quattro giorni a Budapest: day trip a Belgrado" ,
             "url" : "racconti-viaggio/budapest/ep-4-day-trip-belgrado/"

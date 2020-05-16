@@ -41,7 +41,7 @@ Una raccolta di articoli interessante, di cui un autore è diretto responsabile 
 
 L’immensa mole di bit è dislocata in numerosi backup in vari punti del Giappone, affinchè eventuali cataclismi naturali che si abbattono su una certa area non causino perdita di dati.
 
-L’intero gestionale con cui ci si interfaccia è basato su [**Filemaker Pro**](https://www.filemaker.com/it/).  Il che strappa un sorriso visto che il software è scaricabile da chiunque in cambio del pagamento della licenza (il cui prezzo è correlato al numero si client...)!  
+L’intero gestionale con cui ci si interfaccia è basato su {{< external_link "https://www.filemaker.com/it/" "Filemaker Pro" >}}.  Il che strappa un sorriso visto che il software è scaricabile da chiunque in cambio del pagamento della licenza (il cui prezzo è correlato al numero si client...)!  
 Non è un prodotto pensato da ingegneri che il personale sanitario deve subire.  
 E’ un prodotto, un interfaccia plasmata sulle esigenze del reparto.
 

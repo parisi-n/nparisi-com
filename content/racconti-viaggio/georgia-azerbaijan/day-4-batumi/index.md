@@ -24,10 +24,10 @@ Nel nostro caso - il biglietto Mestia-Batumi è costato **30Lari a testa** acqui
 
 ## La maršrutka
 
-Per chi non avesse mai preso o non sapesse cosa sia una maršrutka, ecco una descrizione più che completa presa direttamente da [Wikipedia](https://it.wikipedia.org/wiki/Maršrutka):
+Per chi non avesse mai preso o non sapesse cosa sia una maršrutka, ecco una descrizione più che completa presa direttamente da {{< external_link "https://it.wikipedia.org/wiki/Maršrutka" "Wikipedia" >}}:
 
 > (...) è un mezzo di trasporto molto comune e diffuso in vari paesi dell'Europa orientale, come Russia, Lettonia, Lituania, Bulgaria e Ucraina, nonché nelle ex repubbliche sovietiche come l'Uzbekistan.  
-> Si tratta di un servizio privato di **taxi collettivo** svolto da piccoli [bus](https://it.wikipedia.org/wiki/Autobus) (normalmente Mercedes Sprinter e GAZ "Gazelle") tipicamente di colore giallo (ma non necessariamente) che svolgono servizio su un determinato percorso (appunto dal russo "_maršrut_" significa tragitto) e che si affianca al regolare servizio di autobus di linea nelle grandi città.  
+> Si tratta di un servizio privato di **taxi collettivo** svolto da piccoli {{< external_link "https://it.wikipedia.org/wiki/Autobus" "bus" >}} (normalmente Mercedes Sprinter e GAZ "Gazelle") tipicamente di colore giallo (ma non necessariamente) che svolgono servizio su un determinato percorso (appunto dal russo "_maršrut_" significa tragitto) e che si affianca al regolare servizio di autobus di linea nelle grandi città.  
 > (...)  
 > Tali veicoli, normalmente omologati per 9 persone sono spesso modificati al fine di poter contenere 14 passeggeri.
 > 
@@ -85,7 +85,7 @@ Lo spazio vitale - per i più alti di 1.60mt - inizia a diventare poco.
 
 Il tempo - a Batumi - è più gradevole, più mite, più solare, più gioviale ma anche meno fiabesco rispetto all'atmosfera natalizia di Mestia.
 
-Cerchiamo un wifi nei pressi della stazione delle marshrutke, e con [l'app maxim]({{< ref "day-1-kutaisi.md#Spostarsi_a_Kutaisi" >}}) chiamiamo un taxi. Pochi lari e siamo all'hotel ([Irise hotel](https://www.booking.com/hotel/ge/irise-batumi1.it.html)) - in assoluto **uno dei peggiori in cui abbiamo soggiornato in Georgia**: **vecchio, senza luci, con il wc ed il lavabo rotto, con una doccia che a dir sudicia è un complimento.** Tutto ciò in totale contrasto con le recensioni generali dell'hotel - che lo vedevano ben quotato.  
+Cerchiamo un wifi nei pressi della stazione delle marshrutke, e con [l'app maxim]({{< ref "day-1-kutaisi.md#Spostarsi_a_Kutaisi" >}}) chiamiamo un taxi. Pochi lari e siamo all'hotel ({{< external_link "https://www.booking.com/hotel/ge/irise-batumi1.it.html" "Irise hotel" >}}) - in assoluto **uno dei peggiori in cui abbiamo soggiornato in Georgia**: **vecchio, senza luci, con il wc ed il lavabo rotto, con una doccia che a dir sudicia è un complimento.** Tutto ciò in totale contrasto con le recensioni generali dell'hotel - che lo vedevano ben quotato.  
 Sicuramente siamo stati sfortunati noi, ma tant'è, l'esperienza non è stata delle migliori.
 
 **Sconsigliatissimo!**
@@ -94,7 +94,7 @@ Batumi invece è davvero graziosa! Si respira aria di mare, la gente è dinamica
 
 {{< image src="20190926_144508.jpg" alt="Torre in centro a Batumi" >}}
 
-Decidiamo di recarsi a pranzo in un ristorante il cui nome è tutto un'anticipazione: **[Heart of Batumi](https://www.tripadvisor.it/Restaurant_Review-g297576-d6930955-Reviews-Heart_of_Batumi-Batumi_Adjara_Region.html)**.
+Decidiamo di recarsi a pranzo in un ristorante il cui nome è tutto un'anticipazione: {{< external_link "https://www.tripadvisor.it/Restaurant_Review-g297576-d6930955-Reviews-Heart_of_Batumi-Batumi_Adjara_Region.html" "Heart of Batumi" >}}.
 
 **Consigliatissimo!  
 Cibo buono, camerieri cordiali, location simpatica nel centro di Batumi.**
@@ -125,7 +125,7 @@ E - sempre come da rito - ho immerso ed assaggiato un dito di mare, per capire s
 
 {{< image src="IMG_3906.jpg" alt="Foto ricordo nel Mar Nero" type="wide-screen" >}}
 
-Ma la fiaba viene presto interrotta da qualche goccia d'acqua. Per fortuna niente che ci impedisca di continuare verso la destinazione finale: **[Ali e Nino](https://libreriamo.it/arte/gigantesche-statue-di-ali-e-nino-gli-amanti-sfortunati-che-si-uniscono-ogni-sera/)!**
+Ma la fiaba viene presto interrotta da qualche goccia d'acqua. Per fortuna niente che ci impedisca di continuare verso la destinazione finale: {{< external_link "https://libreriamo.it/arte/gigantesche-statue-di-ali-e-nino-gli-amanti-sfortunati-che-si-uniscono-ogni-sera/" "Ali e Nino" >}}!
 
 {{< image src="IMG_3954.jpg" alt="Dopo la pioggia vien sempre il sereno" >}}
 
@@ -137,7 +137,7 @@ E quindi camminiamo...e la gente si fa sempre più numerosa.
 
 > A differenza delle tragedie tradizionali (come Romeo e Giulietta), a separare Ali e Nino è la prima guerra mondiale e non delle famiglie in lotta. Ali, un azero musulmano, si innamora di una principessa georgiana, Nino, ma purtroppo, dopo che sono finalmente in grado di stare insieme, la guerra colpisce la sua casa e Ali muore. L’autore del romanzo è sconosciuto, accreditato con lo pseudonimo di Kurban Said. Nonostante le origini sconosciute, il titolo è diventato un classico della letteratura caucasica ed è considerato il romanzo nazionale dell’Azerbaigian.
 > 
-> cit. [_Lbreriamo_](https://libreriamo.it/arte/gigantesche-statue-di-ali-e-nino-gli-amanti-sfortunati-che-si-uniscono-ogni-sera/)
+> cit. {{< external_link "https://libreriamo.it/arte/gigantesche-statue-di-ali-e-nino-gli-amanti-sfortunati-che-si-uniscono-ogni-sera/" "_Lbreriamo_" >}}
 
 ### La marcia
 

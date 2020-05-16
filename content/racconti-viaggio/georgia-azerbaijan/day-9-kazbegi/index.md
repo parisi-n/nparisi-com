@@ -36,7 +36,7 @@ Si tratta del lago (artificiale) Zhinvali.
 
 ## Ananuri
 
-Dopo circa 70km percorsi e 2 ore di viaggio arriviamo alla **[Fortezza di Ananuri](https://it.wikipedia.org/wiki/Ananuri)** sulle rive del fiume Aragvi risalente al XVIII secolo d.C.
+Dopo circa 70km percorsi e 2 ore di viaggio arriviamo alla {{< external_link "https://it.wikipedia.org/wiki/Ananuri" "Fortezza di Ananuri" >}} sulle rive del fiume Aragvi risalente al XVIII secolo d.C.
 
 {{< image src="IMG_5024.jpg" alt="Fortezza di Ananuri" type="wide-screen" >}}
 
@@ -70,11 +70,11 @@ Si fa quasi ora di pranzo ed arriviamo a Gudauri. Da quel che ci spiega la guida
 
 {{< image src="IMG_5065.jpg" alt="In mezzo al caucaso" >}}
 
-Pranziamo al [Kudebi Restaurant](https://goo.gl/maps/GJyJJXwLUxh1kjVe7) con estrema calma. E' un viaggio di piacere, lento quando deve essere lento, veloce quando il momento lo richiede. Ed i georgiani - quando si tratta di cibo - rallentano il ritmo della giornata. Per un italiano è come sentirsi a casa propria.
+Pranziamo al {{< external_link "https://goo.gl/maps/GJyJJXwLUxh1kjVe7" "Kudebi Restaurant" >}} con estrema calma. E' un viaggio di piacere, lento quando deve essere lento, veloce quando il momento lo richiede. Ed i georgiani - quando si tratta di cibo - rallentano il ritmo della giornata. Per un italiano è come sentirsi a casa propria.
 
 {{< image src="20191001_142047.jpg" alt="Pollo alle erbe e patatine" >}}
 
-Si tratta di pollo speziato e servito con [salsa al mirtillo](https://www.georgianjournal.ge/georgian-cuisine/27873-red-tkemali--georgian-sauce-that-will-amaze-you.html) - specialità locale.  
+Si tratta di pollo speziato e servito con {{< external_link "https://www.georgianjournal.ge/georgian-cuisine/27873-red-tkemali--georgian-sauce-that-will-amaze-you.html" "salsa al mirtillo" >}} - specialità locale.  
 Arrostito direttamente fuori dal ristorante.
 
 {{< image src="IMG_5068.jpg" alt="Barbecue fuori dal ristorante" >}}
@@ -126,7 +126,7 @@ Non possiamo trattenerci ulteriormente però; la destinazione finale - Kazbegi -
 {{< image src="IMG_5316.jpg" alt="Cime del Causano a Kazbegi" type="wide-screen" >}}
 
 Arroccata sul monte Kazbegi, tra l'immensità del Caucaso, si trova la chiesa **Trinità di Gergeti** che non è raggiungibile direttamente con il minibus con cui siamo arrivati da Tbilisi.  
-Scendiamo, ci organizziamo in gruppi di 6 - e prendiamo ancora una volta posto in dei [Mitsubishi Delica 4x4](https://en.wikipedia.org/wiki/Mitsubishi_Delica), **le uniche auto capaci di sfidare le ripide salite impervie del Caucaso**.
+Scendiamo, ci organizziamo in gruppi di 6 - e prendiamo ancora una volta posto in dei {{< external_link "https://en.wikipedia.org/wiki/Mitsubishi_Delica" "Mitsubishi Delica 4x4" >}}, **le uniche auto capaci di sfidare le ripide salite impervie del Caucaso**.
 
 {{< image src="IMG_5282.jpg" alt="Trinità di Gergeti" type="wide-screen" >}}
 
@@ -156,7 +156,7 @@ A tutto il gruppo del 01/10/2019, a Smart Travel Agency per l'organizzazione **m
 
 * * *
 
-Prima di concludere vorrei consigliarvi la lettura di [questo post](https://lookingeurope.wordpress.com/2015/11/06/stepantsminda-o-kazbegi-georgia/) nel blog **Looking Europe**: interessante e completo - con i suoi dettagli può aiutarvi a capire meglio lo spirito con cui ci si dovrebbe approcciare al viaggio verso Kazbegi.
+Prima di concludere vorrei consigliarvi la lettura di {{< external_link "https://lookingeurope.wordpress.com/2015/11/06/stepantsminda-o-kazbegi-georgia/" "questo post" >}} nel blog **Looking Europe**: interessante e completo - con i suoi dettagli può aiutarvi a capire meglio lo spirito con cui ci si dovrebbe approcciare al viaggio verso Kazbegi.
 
 * * *
 

@@ -32,7 +32,7 @@ Qui il colore predominante è il grigio sabbia, e l’ambiente e le costruzioni 
 
 {{< image src="IMG_4195.jpg" alt="Distese desertiche" type="wide-screen" >}}
 
-Da appassionato delle regioni del [Turkestan](https://it.wikipedia.org/wiki/Turkestan) - vedere di persona certi paesaggi è come vivere un sogno, In verità il mio sogno sarebbe attraversarle in macchina in un futuro [Mongol Rally](https://it.wikipedia.org/wiki/Mongol_Rally) - ma anche l'esperienza in treno ha tutto un suo fascino oltre ad essere meno traumatica.
+Da appassionato delle regioni del {{< external_link "https://it.wikipedia.org/wiki/Turkestan" "Turkestan" >}} - vedere di persona certi paesaggi è come vivere un sogno, In verità il mio sogno sarebbe attraversarle in macchina in un futuro {{< external_link "https://it.wikipedia.org/wiki/Mongol_Rally" "Mongol Rally" >}} - ma anche l'esperienza in treno ha tutto un suo fascino oltre ad essere meno traumatica.
 
 {{< image src="IMG_4207.jpg" alt="Azerbaijan Railways" >}}
 
@@ -94,7 +94,7 @@ Rimango un po’ deluso invece dal **Mar Caspio**: non è un mare con spiaggia c
 
 {{< image src="IMG_4232.jpg" alt="Passeggiata lungomare" type="wide-screen" >}}
 
-Alle nostre spalle invece si stagliano in un cielo celeste e limpido le famose [Flame Towers](https://it.wikipedia.org/wiki/Flame_Towers).
+Alle nostre spalle invece si stagliano in un cielo celeste e limpido le famose {{< external_link "https://it.wikipedia.org/wiki/Flame_Towers" "Flame Towers" >}}.
 
 {{< image src="IMG_4228.jpg" alt="Passeggiata lungomare" type="wide-screen" >}}
 
@@ -120,7 +120,7 @@ Il piano di sotto è invece destinato a vari stand di carni e pesce. Non ho foto
 
 **Il tempo vola – e torniamo verso l’hotel per il pranzo.**
 
-Il ristorante scelto per il pasto è a pochi metri dall'hotel: **[Dolma restaurant](https://www.tripadvisor.it/Restaurant_Review-g293934-d12296283-Reviews-Dolma_Restaurant-Baku_Absheron_Region.html)**.
+Il ristorante scelto per il pasto è a pochi metri dall'hotel: {{< external_link "https://www.tripadvisor.it/Restaurant_Review-g293934-d12296283-Reviews-Dolma_Restaurant-Baku_Absheron_Region.html" "Dolma restaurant" >}}.
 
 Pranziamo, facciamo il check-in in hotel, doccia e si esce di nuovo: **torniamo nel lungomare**.  
 **Il mare ci richiama!**  
@@ -132,7 +132,7 @@ Da lì vediamo in lontananza i grattaceli tipici dello skyline di Baku (le **Fla
 
 {{< image src="IMG_4431.jpg" alt="Alle Flame Towers arriviamo con una tramvia" >}}
 
-Prendiamo la seggiovia (che sembra una giostra) – pochi monat - e saliamo sul promontorio sulle note di **[Lady (hear me tonight)](https://www.youtube.com/watch?v=mMfxI3r_LyA)**.
+Prendiamo la seggiovia (che sembra una giostra) – pochi monat - e saliamo sul promontorio sulle note di {{< external_link "https://www.youtube.com/watch?v=mMfxI3r_LyA" "Lady (hear me tonight)" >}}.
 
 {{< image src="IMG_4432.jpg" alt="Tramvia" >}}
 
@@ -143,7 +143,7 @@ Prendiamo la seggiovia (che sembra una giostra) – pochi monat - e saliamo sul 
 
 Seguiamo il mare e ci lasciamo alle spalle il **Four seasons hotel di Baku** - puntando verso la Torre della Vergine attraverso il cui gate si **può entrare nella old town**.  
 Sono le 20 circa.  
-Ma abbiamo ancora una missione da compiere: **trovare un tour operator** che il giorno dopo ci permetta di esplorare [la penisola del Qobustan](https://it.wikipedia.org/wiki/Riserva_statale_di_Qobustan) con i suoi hotspots.  
+Ma abbiamo ancora una missione da compiere: **trovare un tour operator** che il giorno dopo ci permetta di esplorare {{< external_link "https://it.wikipedia.org/wiki/Riserva_statale_di_Qobustan" "la penisola del Qobustan" >}} con i suoi hotspots.  
 Il tempo è tiranno e non solo dobbiamo trovare un'agenzia entro breve, ma l'orario di rientro del tour non deve superare le 19: **alle 20.40 ci aspetta nuovamente il treno notturno di ritorno in Georgia**.
 
 Troviamo una ragazza che distribuisce volantini in prossimità della **Torre della Vergine**. Ci avviciniamo e ci spiega in cosa consiste il tour e ci invita nell’ufficio per formalizzare.  
@@ -152,7 +152,7 @@ Ci era stato consigliato di prendere il pacchetto che ci ispirava più fiducia m
 Usciti dopo aver firmato - guardiamo le recensioni: poche recensioni positive (messe verosimilmente dagli amici o da loro stessi), le restanti più che negative. Ci rassegniamo con serenità: ormai i biglietti son pagati e comunque non abbiamo altre alternative…
 
 L’agenzia è Shirvanshah Tourism **e ve la sconsiglio caldamente in quando dei veri e propri disonesti.**  
-Per sapere il motivo – seguite l’avventura del giorno successivo. Oppure leggete le varie recensioni disponibili su [Google Maps](https://www.google.com/maps/place/Shirvanshah+Tourism/@40.3671299,49.8368489,15z/data=!4m5!3m4!1s0x0:0xe54e7fc983aaf6fb!8m2!3d40.3671299!4d49.8368489) o su [TripAdvisor](https://www.tripadvisor.it/Attraction_Review-g293934-d17492544-Reviews-Shirvanshah_Tourism-Baku_Absheron_Region.html)
+Per sapere il motivo – seguite l’avventura del giorno successivo. Oppure leggete le varie recensioni disponibili su {{< external_link "https://www.google.com/maps/place/Shirvanshah+Tourism/@40.3671299,49.8368489,15z/data=!4m5!3m4!1s0x0:0xe54e7fc983aaf6fb!8m2!3d40.3671299!4d49.8368489" "Google Maps" >}} o su {{< external_link "https://www.tripadvisor.it/Attraction_Review-g293934-d17492544-Reviews-Shirvanshah_Tourism-Baku_Absheron_Region.html" "TripAdvisor" >}}.
 
 Andiamo a cena nello stesso ristorante di pranzo, beviamo una birra in quel fresco sabato di inizio Ottobre in quel di Baku – e torniamo in hotel.  
 Volete vedere un sabato di ottobre che aspetto ha a Baku?  
@@ -170,4 +170,4 @@ Puoi invece leggere il [day #5 qui]({{< ref "day-5-night-train.md" >}}).
 
 * * *
 
-_musica [via](https://soundcloud.com/ikson)_
+_musica {{< external_link "https://soundcloud.com/ikson" "via" >}}_

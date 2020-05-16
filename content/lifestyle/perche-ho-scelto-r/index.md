@@ -14,7 +14,7 @@ type: "article"
 {{<font "gray">}}
 Questa pagina verrà aggiornata mano a mano che troverò altre risorse interessanti utili allo studio di R in campo medico e sanitario.  
   
-**Ultimo aggiornamento:** 27/01/2020
+**Ultimo aggiornamento:** 16/05/2020
 {{< /font >}}
 
 * * *
@@ -22,13 +22,13 @@ Questa pagina verrà aggiornata mano a mano che troverò altre risorse interessa
 ## Perchè R?
 
 {{< capital_letter_open >}}
-I due grandi contendenti nel campo dell'analisi dei dati e del _machine learning_ sono due: R e Python. La tentazione di cimentarmi con Python, _molto più flessibile e general-purpose,_ era tanta. Sarebbe stato forse anche più semplice creare moduli di analisi e processazione di dati da implementare lato server per affiancare e potenziare l'ecosistema [Journal in Cloud](https://journ.cloud).
+I due grandi contendenti nel campo dell'analisi dei dati e del _machine learning_ sono due: R e Python. La tentazione di cimentarmi con Python, _molto più flessibile e general-purpose,_ era tanta. Sarebbe stato forse anche più semplice creare moduli di analisi e processazione di dati da implementare lato server per affiancare e potenziare l'ecosistema {{< external_link "https://journ.cloud" "Journal in Cloud" >}}.
 R però mi ha intrigato fin da subito con la sua interfaccia di R Studio, che ti obbliga ad imparare un nuovo paradigma, ti insegna ad imparare un nuovo modo di concepire e programmare.
 {{< capital_letter_close >}}
 
 In passato avevo lavorato con _MedCalc_, software statistico semplice da usare ma allo stesso tempo "giusto" per quel che mi serviva, senza troppi fronzoli o funzioni aggiuntive. **Non c'era da programmare.**
 
-Avrei potuto provare [SAS](https://it.wikipedia.org/wiki/SAS_(software)) (è disponibile davvero una grande quantità di materiale, commerciale e non!) ma gli alti costi di licenza mi hanno fatto desistere.
+Avrei potuto provare {{< external_link "https://it.wikipedia.org/wiki/SAS_(software)" "SAS" >}} (è disponibile davvero una grande quantità di materiale, commerciale e non!) ma gli alti costi di licenza mi hanno fatto desistere.
 
 Da ex utente Linux, non potevo che scegliere R. L'idea di poter lavorare sia da ambiente Windows sia da ambiente Linux, il fatto che fosse meno comune e più "alternativo" (che poi, alternativo nemmeno tanto visto che si trova sempre più materiale sull'argomento e sempre più persone ne parlano) ha fatto il resto.
 
@@ -41,7 +41,7 @@ Alcuni rispondono ironicamente: la lettera tra la Q e la S. Ma non solo.
 > **R** è un linguaggio di programmazione e un ambiente di sviluppo specifico per l'analisi statistica dei dati.  
 > È un software libero in quanto viene distribuito con la licenza GNU GPL, ed è disponibile per diversi sistemi operativi (ad esempio Unix, GNU/Linux, macOS, Microsoft Windows).
 > 
-> _via [Wikipedia](https://it.wikipedia.org/wiki/R_(software))_
+> _via {{< external_link "https://it.wikipedia.org/wiki/R_(software)" "Wikipedia" >}}_
 
 Tra i proposito del nuovo anno c'era quello finalmente di mettermi sotto in un campo - quello dell'analisi dei dati - in forte ascesa rispetto al passato, ma contemporaneamente complesso ed poco documentato per quel che riguarda l'applicazione in campo sanitario. Già ci avevo provato in passato, ma con scarsa applicazione e con scarsi risultati.
 
@@ -63,7 +63,7 @@ La seconda metà del libro invece è più pedante, complice anche la maggiore di
 
 Va ben per iniziare e capire un po' di R, ma offre scarsi spunti ed esempi in campo sanitario ed epidemiologico.
 
-**Lingua:** 🇬🇧  
+**Lingua:**  {{< emojy ":gb:" >}}  
 **Costo:** paid  
 **Maggiori informazioni:** {{< affiliate_link "statistical-analysis" "qui" >}}.
 
@@ -75,9 +75,9 @@ Annualmente viene tenuto il corso di Laboratorio di Analisi dei Dati con R press
 
 E' disponibile anche il libro omonimo - Ricerca sociale in R - di cui però non è disponibile un estratto online (è disponibile a Gennaio 2020 solo _l'indice_ ed il _capitolo introduttivo_). Rimane da chiarire dunque se anche il libro sia organizzato come il sito - a mo' di wiki in italiano delle funzioni R - o ci siano affiancate anche nozioni di statistica.
 
-**Lingua:** 🇮🇹  
+**Lingua:** {{< emojy ":it:" >}}  
 **Costo:** free/paid  
-**Maggiori informazioni:** [qui](https://www.agnesevardanega.eu/metref/r).
+**Maggiori informazioni:** {{< external_link "https://www.agnesevardanega.eu/metref/r" "qui" >}}.
 
 ### Analisi dei dati in R
 
@@ -87,9 +87,9 @@ Va bene sia per iniziare e capire se R è quello che fa per voi sia per approfon
 
 Altamente consigliato.
 
-**Lingua:** 🇮🇹  
+**Lingua:** {{< emojy ":it:" >}}  
 **Costo:** free  
-**Maggiori informazioni:** [qui](https://www.agnesevardanega.eu/metref/r).
+**Maggiori informazioni:** {{< external_link "https://www.agnesevardanega.eu/metref/r" "qui" >}}.
 
 {{< image src="20200123_094212.jpg" alt="Workstation che uso per lavorare" >}}
 
@@ -102,19 +102,29 @@ Per chi come me ha bisogno di un ripasso di statistica, qui di seguito alcune fo
 Non proprio attinente ad R, ma questa risorsa curata dal Prof. Bottarelli non solo è utile ma anche orientata verso lo studio della statistica con taglio epidemiologico/sanitario. Una risorsa tutta italiana, unica nel suo genere, online dal 1998 e costantemente aggiornata.  
 Il sito è in vecchio stile - ma quel che conta è il contenuto.
 
-**Lingua:** 🇮🇹  
+**Lingua:**  {{< emojy ":it:" >}}  
 **Costo:** free  
-**Maggiori informazioni:** [qui](https://www.quadernodiepidemiologia.it/epi/HomePage.html).
+**Maggiori informazioni:** {{< external_link "https://www.quadernodiepidemiologia.it/epi/HomePage.html" "qui" >}}.
 
 ### Dispense di statistica per le professioni sanitarie
 
 Appunti di statistica medica curati dal Prof. Ferretti dell'Università degli Studi di Siena. Risorsa da affiancare ai Quaderni di Epidemiologia. Presentano alcune imprecisioni ma li ho trovati abbastanza interessanti sia per un veloce ripasso sia per l'apprendimento ex-novo.
 
-**Lingua:** 🇮🇹  
+**Lingua:**  {{< emojy ":it:" >}}  
 **Costo:** free  
-**Maggiori informazioni:** [qui](http://www.csu.unisi.it/files/Dispensa-di-statistica-medica.pdf).
+**Maggiori informazioni:** {{< external_link "http://www.csu.unisi.it/files/Dispensa-di-statistica-medica.pdf" "qui" >}}.
 
 {{< image src="20200125_124433.jpg" alt="Appunti sparsi" caption="Appunti di Statistica">}}
+
+### Telegram
+
+Canale Telegram che di tanto in tanto pubblica tutorial interessanti, strutturati come parte di un corso più ampio:
+
+{{< quote "Unleash the Power of R. This channel offers a Free Series of Top R Programming Tutorials that will ease your way into the Data Science/ML world. P.S. - The Tutorials are arranged with relevant topics next to each other so you can follow them in order." >}}
+
+**Lingua:**  {{< emojy ":gb:" >}}  
+**Costo:** free  
+**Maggiori informazioni:** {{< external_link "https://t.me/RPundits" "qui" >}}.
 
 * * *
 

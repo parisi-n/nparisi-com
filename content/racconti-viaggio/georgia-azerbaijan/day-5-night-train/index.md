@@ -21,11 +21,11 @@ L'aria è fresca, c'è ancora poco traffico, poca gente per strada.
 
 ## Batumi-Tbilisi
 
-I collegamenti da Batumi a Tbilisi son garantiti da una linea veloce servita dagli [Stadler svizzeri](https://it.wikipedia.org/wiki/Stadler_Rail) e – in caso di treno _super-veloce_ – è possibile arrivare nella capitale in appena 5 ore.
+I collegamenti da Batumi a Tbilisi son garantiti da una linea veloce servita dagli {{< external_link "https://it.wikipedia.org/wiki/Stadler_Rail" "Stadler svizzeri" >}} e – in caso di treno _super-veloce_ – è possibile arrivare nella capitale in appena 5 ore.
 
 {{< image src="20190927_073548.jpg" alt="Stadler svizzero" type="wide-screen" >}}
 
-[Qui gli orari](http://www.railway.ge/en/traffic-general-schedule/) dei collegamenti tra Batumi e Tbilisi. Nel nostro caso – dovendo prendere il famigerato e leggendario _night train_ da Tbilisi a Baku alle 20.35 e volendo comunque avere un po’ di tempo per assaporare tbilisi – **optiamo per il collegamento delle ore 7.55** con arrivo alle 12.50 (puntualissimo!).
+{{< external_link "http://www.railway.ge/en/traffic-general-schedule/" "Qui gli orari" >}} dei collegamenti tra Batumi e Tbilisi. Nel nostro caso – dovendo prendere il famigerato e leggendario _night train_ da Tbilisi a Baku alle 20.35 e volendo comunque avere un po’ di tempo per assaporare tbilisi – **optiamo per il collegamento delle ore 7.55** con arrivo alle 12.50 (puntualissimo!).
 
 {{< image src="20190927_073513.jpg" alt="Tabellone degli arrivi e delle partenza...in georgiano" >}}
 
@@ -70,7 +70,7 @@ Facciamo una passeggiata veloce per il centro di Tbilisi, qualche foto, qualche 
 
 {{< image src="IMG_4114.jpg" alt="Pianoforte in calcestruzzo" >}}
 
-A due passi dal [Ponte della Pace](https://it.wikipedia.org/wiki/Ponte_della_Pace_(Tbilisi)), la Piazza dell’Indipendenza con il suo obelisco.
+A due passi dal {{< external_link "https://it.wikipedia.org/wiki/Ponte_della_Pace_(Tbilisi)" "Ponte della Pace" >}}, la Piazza dell’Indipendenza con il suo obelisco.
 
 {{< image src="20190927_155149.jpg" alt="Piazza della Libertà" >}}
 
@@ -84,7 +84,7 @@ Il parco nel cuore di Tbilisi è un tripudio di fontane, colori, suoni e persone
 
 {{< image src="IMG_4141.jpg" alt="Parco centrale di Tbilisi, vero fiore all'occhiello" type="wide-screen" >}}
 
-Al parco si accede dal lato della Piazza dell'Indipendenza tramite ponte (anch'esso architetturalmente moderno) sul [fiume Mtkvari](https://it.wikipedia.org/wiki/Kura_(fiume)) (_lungo 1515km_).
+Al parco si accede dal lato della Piazza dell'Indipendenza tramite ponte (anch'esso architetturalmente moderno) sul {{< external_link "https://it.wikipedia.org/wiki/Kura_(fiume)" "fiume Mtkvari" >}} (_lungo 1515km_).
 
 {{< image src="IMG_4090.jpg" alt="Fiume Mtkvari" type="wide-screen" >}}
 

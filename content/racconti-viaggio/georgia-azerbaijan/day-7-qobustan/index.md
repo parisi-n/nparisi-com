@@ -19,7 +19,7 @@ Il “manager” - il giorno prima - ci ha detto sarebbe venuto nel nostro hotel
 > Tiro un sospiro di sollievo. Nel tragitto verso il minibus, però - la prima doccia fredda: “ci hanno comunicato che le burning mountains (leggi: Yanardag) oggi sono chiuse per via di lavori che stanno facendo…per aprire un ristorante, roba turistica, sai – quindi torneremo un po’ prima e riuscirete sicuramente a prendere il treno”.  
 > Perplesso, saliamo sul minibus.
 
-All’interno una coppia sulla sessantina, [@andre1000pix](https://www.instagram.com/andre1000pix/) e la sua compagna di viaggio.  
+All’interno una coppia sulla sessantina, {{< external_link "https://www.instagram.com/andre1000pix/" "@andre1000pix" >}} e la sua compagna di viaggio.  
 Parlano poco, in compenso parla la guida. Mi piacciono i suoi punti di vista politici, le sue parole trasudano patriottismo. Analizza in modo critico le usanze, le tradizioni, i costumi e le scelte politiche di un governo che – ci fa capire – è sempre più lontano dal popolo.
 
 {{< image src="IMG_4512.jpg" alt="Macchine in fila al semaforo vicino alla moschea più antica di Baku" type="wide-screen">}}
@@ -91,7 +91,7 @@ Fa tutto parte dell'esperienza: l'ultimo tratto di strada si può fare a bordo d
 
 {{< image src="20190929_114837.jpg" alt="Ingresso del parco dei petroglifici del Qobustan"  type="wide-screen">}}
 
-Non lontano dalla collina dei Vulcani di Fango – la Riserva Naturale del Qobustan diventata patrimonio UNESCO nel 2007 – con all’interno alcune tra le configurazioni rupestri più antiche databili tra 5000 e 20000 anni fa ([fonte](https://it.wikipedia.org/wiki/Riserva_statale_di_Qobustan#Arte_rupestre)) rappresentanti battaglie, carovane, insediamenti – testimonianza della vita dei primi insediamenti di vita in Azerbaijan.
+Non lontano dalla collina dei Vulcani di Fango – la Riserva Naturale del Qobustan diventata patrimonio UNESCO nel 2007 – con all’interno alcune tra le configurazioni rupestri più antiche databili tra 5000 e 20000 anni fa ({{< external_link "https://it.wikipedia.org/wiki/Riserva_statale_di_Qobustan#Arte_rupestre" "fonte" >}}) rappresentanti battaglie, carovane, insediamenti – testimonianza della vita dei primi insediamenti di vita in Azerbaijan.
 
 All'entrata - una signora prepara delle piadine. Mi avvicino per curiosare, e scopro essere un cibo tipico locale, mangiato soprattutto dai bambini (il parco pullula di scolaresche!).
 
@@ -115,7 +115,7 @@ Sono circa le 14 quando torniamo a Baku per la pausa pranzo.
 
 {{< image src="20190929_140602.jpg" alt="Bancarella in una periferia di Baku" type="wide-screen" >}}
 
-Il tour prevede pranzo a buffet presso [50 Qepik](https://goo.gl/maps/hAs5o3XPFWHp9qxD7) in cui si possono apprezzare numerose specialità locali. Per arrivarci - attraversiamo quel che sembra una periferia non proprio ricchissima di Baku, con spaccati di vita vissuta che fan riflettere e ragionare sulla cultura del luogo. Lontana dallo sfarzo del centro, ma estremamente vera.
+Il tour prevede pranzo a buffet presso {{< external_link "https://goo.gl/maps/hAs5o3XPFWHp9qxD7" "50 Qepik" >}} in cui si possono apprezzare numerose specialità locali. Per arrivarci - attraversiamo quel che sembra una periferia non proprio ricchissima di Baku, con spaccati di vita vissuta che fan riflettere e ragionare sulla cultura del luogo. Lontana dallo sfarzo del centro, ma estremamente vera.
 
 {{< image src="20190929_140601.jpg" alt="Macchina vandalizzata, specchio del quartiere?" type="wide-screen" >}}
 
@@ -162,7 +162,7 @@ Come - ad esempio - qualche sapone: potrete scegliere tra sapone di latte caprin
 
 Non ci siamo andati. Ci hanno detto fosse **"chiuso"**. L'ho inserito nella lista solo per completezza e per ricordarmi della presa per il sedere che ci è stata fatta nelle nostre 36 ore a Baku.
 
-Se volete sapere di cosa si tratta - [qui la pagina Wikipedia](https://it.wikipedia.org/wiki/Yanar_Dag) sulla **Montagna di Fuoco**.
+Se volete sapere di cosa si tratta - {{< external_link "https://it.wikipedia.org/wiki/Yanar_Dag" "qui la pagina Wikipedia" >}} sulla **Montagna di Fuoco**.
 
 ## Tour della Città di Baku
 
@@ -179,7 +179,7 @@ Il parco si trova nella parte nuova della città, quella più lussuosa e ricca, 
 
 {{< posizione "https://goo.gl/maps/D47ySr8GJfnA26bC9" >}}
 
-Si trova nel parco infinito del [Complesso Culturale Heydar Aliyev](https://it.wikipedia.org/wiki/Centro_culturale_Heydar_Aliyev) - che attira numerosissime persone, tra turisti e locali.
+Si trova nel parco infinito del {{< external_link "https://it.wikipedia.org/wiki/Centro_culturale_Heydar_Aliyev" "Complesso Culturale Heydar Aliyev" >}} - che attira numerosissime persone, tra turisti e locali.
 
 {{< image src="IMG_4776.jpg" alt="I love Baku" type="wide-screen" >}}
 
@@ -208,7 +208,7 @@ Non facciamo in tempo a finire di organizzare il letto, che arrivano i nostri vi
 Se non altro avremo compagni di viaggio. Il ritorno è meno solitario, più vivace. Pochi turisti, molti pendolari del luogo, molti russofoni. E mentre il treno corre nella notte, ti ricordi delle avventure di qualche anno fa nei territori freddi ex-urss, tra gli stati baltici, la bielorussa, l'ucraina.  
 E' un viaggio che ha il sapore del passato.
 
-{{< vimeo src="416347578" >}}
+{{< vimeo type="vertical-9x16" src="416347578" >}}
 
 {{< image src="20190930_073253.jpg" alt="Vagone letto al risveglio il mattino successivo" >}}
 

@@ -28,11 +28,11 @@ Lasciate dunque da parte i pregiudizi e - se avete un terzo giorno da trascorrer
 
 {{< image src="IMG_6661.jpg" alt="Treno antico della metro di Budapest in panning" >}}
 
-Come già accennato in precedenza alcune stazioni della metro sono state restaurate cercando di mantenere l'originale aspetto passato; il viaggio verso i [Bagni Termali di Szechenyi](https://goo.gl/maps/bgoeXt9nvkevceZW7) sarà un viaggio estetico ancor prima che sensoriale.
+Come già accennato in precedenza alcune stazioni della metro sono state restaurate cercando di mantenere l'originale aspetto passato; il viaggio verso i {{< external_link "https://goo.gl/maps/bgoeXt9nvkevceZW7" "Bagni Termali di Szechenyi" >}} sarà un viaggio estetico ancor prima che sensoriale.
 
 ## Hösök tere
 
-Uscite dalla stazione e vi ritroverete di fronte la [Piazza degli Eroi](https://goo.gl/maps/hoqPFdZGYdASLqMVA).
+Uscite dalla stazione e vi ritroverete di fronte la {{< external_link "https://goo.gl/maps/hoqPFdZGYdASLqMVA" "Piazza degli Eroi" >}}.
 
 {{< image src="IMG_6677.jpg" alt="Statua sull'obelisco della statua degli eroi" >}}
 
@@ -40,7 +40,7 @@ Date velocemente uno sguardo, scattate qualche foto e dirigetevi verso Nord perc
 
 ## Il castello di Vajdahunyad
 
-{{< font "gray" >}}_Posizione su Google Maps [qui](https://goo.gl/maps/qVsC6eQs8R23pTZX7)._{{< /font >}}
+{{< posizione "https://goo.gl/maps/qVsC6eQs8R23pTZX7" >}}
 
 {{< image src="IMG_6724.jpg" alt="Ponte d'entrata con fossato attorno al castello" >}}
 
@@ -51,7 +51,7 @@ I gabbiani in volo aumentano ancor di più il pathos che queste strutture antich
 
 > Il castello è situato su un isolotto al centro del City Park Lake. Venne eretto nel millenario del 1896 su libera ispirazione delle fortezze della Transilvania - con stile gotico, romanesco ed un tocco di barocco - il tutto interpretato con lo stile tipico ungherese del tempo.
 > 
-> via [Lonely planet](https://www.lonelyplanet.com/hungary/budapest/attractions/vajdahunyad-castle/a/poi-sig/1284775/359522)
+> via {{< external_link "https://www.lonelyplanet.com/hungary/budapest/attractions/vajdahunyad-castle/a/poi-sig/1284775/359522" "Lonely planet" >}}
 
 {{< image src="IMG_6705.jpg" alt="''Ti riporta via, come la marea, la felicità''" caption="Ti riporta via, come la marea, ca felicità.">}}
 
@@ -71,9 +71,9 @@ Concluso il tour, tornate nella realtà sulla retta via.
 
 ## Bagni Termali di Szechenyi
 
-{{< font "gray" >}}_Posizione su Google Maps [qui](https://goo.gl/maps/YrJo9onnetEmzRxp9)._{{< /font >}}
+{{< posizione "https://goo.gl/maps/YrJo9onnetEmzRxp9" >}}
 
-{{< font "gray" >}}_Maggiori informazioni [qui](http://www.szechenyibath.hu/)._{{< /font >}}
+{{< font "gray" >}}_Maggiori informazioni {{< external_link "http://www.szechenyibath.hu/" "qui" >}}._{{< /font >}}
 
 Finalmente arriviamo, non senza qualche difficoltà perchè il nostro onnisciente cicerone con difficoltà ricordava quale fosse l'ingresso.
 
@@ -126,7 +126,7 @@ Conoscendo la bontà del gulash di Huszar e l'alta richiesta - il giorno prima a
 
 ## Dove mangiare il gulash più buono di Budapest?
 
-Un posto che mi sento di consigliare per l'atmosfera e per la qualità del gulash è [Huszar Etterem](https://goo.gl/maps/FevW9zxCJ6y478Yv9).
+Un posto che mi sento di consigliare per l'atmosfera e per la qualità del gulash è {{< external_link "https://goo.gl/maps/FevW9zxCJ6y478Yv9" "Huszar Etterem" >}}.
 
 {{< image src="20191017_210652.jpg" alt="Gulash di carne, il migliore di Budapest" >}}
 

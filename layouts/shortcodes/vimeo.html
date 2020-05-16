@@ -4,6 +4,7 @@
  */}}
 
 {{ $caption := .Get "caption" }}
+{{ $type := .Get "type" }}{{/* Type: vertical; horizontal */}}
 
 {{- $pc := .Page.Site.Config.Privacy.Vimeo -}}
 
@@ -11,7 +12,7 @@
     {{- if $pc.Simple -}}
         {{ template "_internal/shortcodes/vimeo_simple.html" . }}
     {{- else -}}
-        <div class="block-video-vimeo{{ if .Get "cat"}} {{ .Get "cat" }}{{end}}"> 
+        <div class="block-video-vimeo {{ $type }}"> 
             <iframe src="https://player.vimeo.com/video/{{ .Get "src" }}" {{ if $caption }}title="{{ $caption }}"{{ else }}title="Video su Vimeo"{{ end }} webkitallowfullscreen mozallowfullscreen allowfullscreen>
             </iframe>
             

@@ -16,7 +16,7 @@ Per via del fatto che il lunedì non vengono effettuate visite alle Cave di Prom
 Avevamo dunque deciso di effettuare il giro delle Cave e del Canyon l'ultimo giorno utile: il decimo.
 {{< capital_letter_close >}}
 
-> Sempre mediante l'agenzia [Smart Travel Georgia](https://g.page/Smarttravelgeorgia?share) siamo riusciti ad organizzare un day-trip da Tbilisi per le Cave e per il Canyon, con la possibilità di essere scaricati direttamente all'hotel di Kutaisi invece che tornare a Tbilisi insieme al restante gruppo.  
+> Sempre mediante l'agenzia {{< external_link "https://g.page/Smarttravelgeorgia?share" "Smart Travel Georgia" >}} siamo riusciti ad organizzare un day-trip da Tbilisi per le Cave e per il Canyon, con la possibilità di essere scaricati direttamente all'hotel di Kutaisi invece che tornare a Tbilisi insieme al restante gruppo.  
 > **Scelta che si è rivelata semplicemente eccellente.**
 > 
 > L'organizzazione non è stata all'altezza di quella del giorno precedente, non avevamo guida, ma dal punto di vista economico è stata una scelta vincente.
@@ -190,12 +190,12 @@ Inizia a fare tardi e la luce del sole a diminuire quando arriviamo alla quarta 
 {{< image src="IMG_5726.jpg" alt="Ultima cascata - prima di andar via" type="wide-screen" >}}
 
 Torniamo alla jeep, e con la guida torniamo al nostro driver che pazientemente ci ha atteso.  
-Come da accordi - ci porta all'[hotel di Kutaisi](https://goo.gl/maps/zPsVhQofeyGiDiQJ9) (che **sconsiglio** caldamente).
+Come da accordi - ci porta all'{{< external_link "https://goo.gl/maps/zPsVhQofeyGiDiQJ9" "hotel di Kutaisi" >}} (che **sconsiglio** caldamente).
 
-> Un altro luogo particolarmente gettonato è il [Canyon di Okatse](https://www.tripadvisor.it/Attraction_Review-g12591329-d7052689-Reviews-Okatse_Canyon-Zeda_Gordi_Imereti_Region.html) in cui però noi non abbiamo fatto in tempo ad andare. Non lontano al Canyon di Martvili, il Canyon di Okatse offre panorami mozzafiato ed una lunga passeggiata lungo un ponte sopraelevato.  
+> Un altro luogo particolarmente gettonato è il {{< external_link "https://www.tripadvisor.it/Attraction_Review-g12591329-d7052689-Reviews-Okatse_Canyon-Zeda_Gordi_Imereti_Region.html" "Canyon di Okatse" >}} in cui però noi non abbiamo fatto in tempo ad andare. Non lontano al Canyon di Martvili, il Canyon di Okatse offre panorami mozzafiato ed una lunga passeggiata lungo un ponte sopraelevato.  
 > Lo inserisco per completezza e come promemoria per il futuro: chissà che riesca a visitarlo nella prossima visita in Georgia?
 
-Vi consiglio, invece, di cenare presso [Toma's Wine Cellar](https://goo.gl/maps/g3z7ZVnrXdzr5Xxf8). Toma è il proprietario del ristorante, produttore di vino che ha deciso di ampliare l'offerta fornendo - nel seminterrato della sua casa - tavoli in cui poter gustare pietanze tipiche georgiane **preparate direttamente dalla madre al piano di sopra**. Il menù completo, a Ottobre 2019, al costo di 40Lari (~13€). Purtroppo eravamo un po' di fretta e non ci siamo fermati ma, considerate le recensioni, **merita assolutamente**.  
+Vi consiglio, invece, di cenare presso {{< external_link "https://goo.gl/maps/g3z7ZVnrXdzr5Xxf8" "Toma's Wine Cellar" >}}. Toma è il proprietario del ristorante, produttore di vino che ha deciso di ampliare l'offerta fornendo - nel seminterrato della sua casa - tavoli in cui poter gustare pietanze tipiche georgiane **preparate direttamente dalla madre al piano di sopra**. Il menù completo, a Ottobre 2019, al costo di 40Lari (~13€). Purtroppo eravamo un po' di fretta e non ci siamo fermati ma, considerate le recensioni, **merita assolutamente**.  
 Tenete a mente che Toma è orgoglioso del suo ristorantino e vi accoglierà con un grande sorriso e per prima cosa vi farà fare il tour della sua cantina.
 
 * * *

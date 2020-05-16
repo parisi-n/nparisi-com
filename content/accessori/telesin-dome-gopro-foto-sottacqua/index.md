@@ -63,7 +63,7 @@ Merito anche della grossa cupola di 15cm di diametro, il tutto galleggia. Il man
 
 Tutti i video e le foto sono stati realizzati con una **Go Pro Hero 5 Black**, se non diversamente specificato.
 
-{{< vimeo src="416346573" caption="Con la Dome - Vacanze in Sardegna" >}}
+{{< vimeo src="416346573" type="vertical-4x5" caption="Con la Dome - Vacanze in Sardegna" >}}
 
 A cosa serve? **A fare foto e video sott'acqua.** La sua funzionalità potrebbe essere fuorviante.  
 La maggior parte delle action cam, infatti, vengono vendute con la certificazione **IP67** o con un **piccolo scafandro** che ne permetterebbe le immersioni senza problemi.
@@ -79,15 +79,13 @@ Con la Dome, invece, la qualità **rimane ottima**.
 Questo video è stato girato con la **Go Pro Hero 7 Black**.  
 Il problema principale è che in questo modo però la qualità dei video sott'acqua ne risente incredibilmente, come verificabile:
 
-{{< vimeo src="416346419" caption="Senza la Dome" cat="big-1">}}
+{{< vimeo src="416346419" type="vertical-4x5" caption="Senza la Dome" cat="big-1">}}
 
 Grazie alla Dome, inoltre, è possibile fare sia video sia foto scenografiche come quelle a pelo dell'acqua (**50/50** o **mid-air/mid-water**) che, se fatte con alcuni accorgimenti, risultano essere estremamente gratificanti ed apprezzabili.
 
 Senza cupola infatti non è possibile ottenere una chiara demarcazione del pelo dell'acqua: è necessaria la cupola d'aria che allontani l'interfaccia tra aria ed acqua per ottenere una netta demarcazione; in questo modo la zona è più netta perchè la lente riesce a metterla a fuoco meglio rispetto ad essere _incollata al vetrino della Go Pro._
 
-{{< vimeo src="416346708" caption="Con la Dome - Vacanze in Sardegna" >}}
-
-[Un sito inglese](https://www.spotmydive.com/en/news/gopro-dome-housing-for-split-underwater-photography) - per rendere meglio il concetto - fa l'esempio con una penna: prendete una penna, posizionatela orizzontale di fronte ad un occhio (l'altro chiudetelo) e provate a mettere a fuoco quel che sta sopra e quel che sta sotto. Sarà possibile, certo, ma la qualità sarà scadente. Man mano che allontanerete la penna dall'occhio, la superficie al di sopra della penna da quella al di sotto sarà via via sempre più chiara.
+{{< external_link "https://www.spotmydive.com/en/news/gopro-dome-housing-for-split-underwater-photography" "Un sito inglese" >}} - per rendere meglio il concetto - fa l'esempio con una penna: prendete una penna, posizionatela orizzontale di fronte ad un occhio (l'altro chiudetelo) e provate a mettere a fuoco quel che sta sopra e quel che sta sotto. Sarà possibile, certo, ma la qualità sarà scadente. Man mano che allontanerete la penna dall'occhio, la superficie al di sopra della penna da quella al di sotto sarà via via sempre più chiara.
 
 E questo stesso processo si applica alla lente della nostra Go Pro.
 
@@ -98,4 +96,4 @@ Se questo non bastasse, su alcuni gruppo Facebook alcuni utenti hanno sperimenta
 
 * * *
 
-_Musica dei video [via](https://soundcloud.com/ikson)_
+_Musica dei video {{< external_link "https://soundcloud.com/ikson" "via" >}}_

@@ -3,5 +3,5 @@
 {{ $affiliate_link := .Site.Data.affiliate_link.array }}
 {{ $refer := (where $affiliate_link "refer" $refer_passed ) }}
 {{ range $refer }} 
-<a href="{{ .url | safeHTMLAttr }}" alt="{{ $title }}" target="_blank" rel="noreferrer noopener">{{ $title }}</a>
+<a href="{{ .url | safeHTMLAttr }}" title="{{ $title }}" target="_blank" rel="noreferrer noopener">{{ $title }}</a>
 {{ end }}

@@ -25,7 +25,7 @@ Prima di finire di leggerlo ero dell'idea che _si - non fosse più da considera
 Non sono mancati - con mia grande sorpresa - riferimenti a _funnel_ e _storytelling_ _introdotti_ con una semplicità e logicità tale da essere capiti al volo.  
 Poca teoria veramente da _studiare,_ che per chi non è del campo avrebbe appesantito la lettura rendendola poco scorrevole.
 
-Il libro è più un manuale concreto - con poche teorizzazioni e solo nei primi capitoli. Non parla dell'essenza del marketing in senso stretto, non pontifica a suon di esempi; piuttosto come un manuale _how-to_ spiega passo passo come muoversi su [Facebook](https://www.facebook.com) (_creazione di una Pagina, di una Campagna e relativo management, suggerimenti sul format, come leggere gli insight etc._) senza farsi mancare qualche esempio pratico con varie immagini allegate che rafforzano quanto l'autrice spiega.
+Il libro è più un manuale concreto - con poche teorizzazioni e solo nei primi capitoli. Non parla dell'essenza del marketing in senso stretto, non pontifica a suon di esempi; piuttosto come un manuale _how-to_ spiega passo passo come muoversi su {{< external_link "https://www.facebook.com" "Facebook" >}} (_creazione di una Pagina, di una Campagna e relativo management, suggerimenti sul format, come leggere gli insight etc._) senza farsi mancare qualche esempio pratico con varie immagini allegate che rafforzano quanto l'autrice spiega.
 
 ## Può essere utile?
 

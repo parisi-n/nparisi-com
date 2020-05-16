@@ -57,7 +57,7 @@ Servitevi del bus **100E** che dall'aeroporto vi porterà in mezz'ora a **Deák 
 
 Nel nostro caso però la prima tappa non è rappresentata dall'hotel ma, essendo ora di pranzo, decidiamo di fare pausa per mangiare.
 
-Sono forse uno dei pochi esseri umani che, al posto di mangiare gulash, si fionda [dal tibetano](https://goo.gl/maps/SWZ8x3JventB5nTP6).
+Sono forse uno dei pochi esseri umani che, al posto di mangiare gulash, si fionda {{< external_link "https://goo.gl/maps/SWZ8x3JventB5nTP6" "dal tibetano" >}}.
 
 L'ambiente è carino, particolare. Viene quasi voglia di prenotare il prossimo viaggio in Tibet.
 
@@ -71,7 +71,7 @@ Impigriti dal pranzo, andiamo in ostello. Nemmeno il tempo di poggiare lo zaino 
 
 ### Spostarsi a Budapest: la metro
 
-Il **single ticket** valido per tutti i mezzi di trasporto pubblici urbani costa 350HUF (**~1.05€**) - oppure 3000HUF (~**8.90€**) per **10 single ticket**; se siete fino a 5 persone che viaggiano assieme potrete beneficiare del 24-Hours Group Travel Card al prezzo di 3000HUF come specificato [sul sito ufficiale dell'azienda trasporti](https://bkk.hu/) (disponibile anche in lingua inglese).
+Il **single ticket** valido per tutti i mezzi di trasporto pubblici urbani costa 350HUF (**~1.05€**) - oppure 3000HUF (~**8.90€**) per **10 single ticket**; se siete fino a 5 persone che viaggiano assieme potrete beneficiare del 24-Hours Group Travel Card al prezzo di 3000HUF come specificato {{< external_link "https://bkk.hu/" "sul sito ufficiale dell'azienda trasporti" >}} (disponibile anche in lingua inglese).
 
 {{< image src="IMG_5869.jpg" alt="Acquisto dei biglietti per la metro nella biglietteria automatica" >}}
 
@@ -97,7 +97,7 @@ Da questo momento è un trotterellare da una parte all'altra.
 
 ## Budapest in un giorno
 
-Da [Deak Ferenc Tér](https://goo.gl/maps/AxKjKHucMNMvSeZaA) prendiamo la metro ed arriviamo a [Corvin-negyed](https://goo.gl/maps/3wi5fyBhw3qy3vsL7). Qui troverete un piccolo centro commerciale (se confrontato con gli altri), un cinema (sempre che capiate l'ungherese) ed una banca in cui prelevare i primi fiorini (fino ad ora siamo stati mantenuti dal buon {{< affiliate_link "mich-instagram" "@michelemich" >}}).
+Da {{< external_link "https://goo.gl/maps/AxKjKHucMNMvSeZaA" "Deak Ferenc Tér" >}} prendiamo la metro ed arriviamo a {{< external_link "https://goo.gl/maps/3wi5fyBhw3qy3vsL7" "Corvin-negyed" >}}. Qui troverete un piccolo centro commerciale (se confrontato con gli altri), un cinema (sempre che capiate l'ungherese) ed una banca in cui prelevare i primi fiorini (fino ad ora siamo stati mantenuti dal buon {{< affiliate_link "mich-instagram" "@michelemich" >}}).
 
 Qui troverete anche un **Decathlon** in caso abbiate bisogno di fare acquisti contingenti al meteo in caso (come me) abbiate sbagliato a fare la valigia.
 
@@ -146,7 +146,7 @@ Tappa clou della nostra passeggiata per le vie di Budapest - nonchè icona stess
 
 Finalmente arriviamo a destinazione: di fronte a noi il **Danubio.**
 
-> E' il ponte più vecchio e indubbiamente anche il più noto di Budapest. Per collegare le due parti della città è stata scelta la soluzione di un ponte sospeso la cui campata centrale, compresa tra due [piloni](https://it.wikipedia.org/wiki/Pilone_(architettura)), era all'epoca tra le maggiori al mondo (202m di lunghezza). Il ponte è decorato all'entrata da statue di leoni, sculture che, a dispetto della tradizione, rappresentano il re degli animali senza lingua. Il traffico scorre sotto i due archi/piloni di impianto neoclassico, mentre i marciapiedi, presso i due piloni, passano dalla parte esterna degli archi appoggiandosi su mensole. Si trasforma in zona pedonale nei giorni festivi
+> E' il ponte più vecchio e indubbiamente anche il più noto di Budapest. Per collegare le due parti della città è stata scelta la soluzione di un ponte sospeso la cui campata centrale, compresa tra due {{< external_link "https://it.wikipedia.org/wiki/Pilone_(architettura)" "piloni" >}}, era all'epoca tra le maggiori al mondo (202m di lunghezza). Il ponte è decorato all'entrata da statue di leoni, sculture che, a dispetto della tradizione, rappresentano il re degli animali senza lingua. Il traffico scorre sotto i due archi/piloni di impianto neoclassico, mentre i marciapiedi, presso i due piloni, passano dalla parte esterna degli archi appoggiandosi su mensole. Si trasforma in zona pedonale nei giorni festivi
 > 
 > via Wikipedia
 
@@ -257,4 +257,4 @@ Curioso di sapere cosa potresti fare nei restanti tre giorni a disposizione? Con
 
 * * *
 
-_mappa della metro [via](http://www.andiamoabudapest.it/)._
+_mappa della metro {{ external_link "http://www.andiamoabudapest.it/" "via" >}}._

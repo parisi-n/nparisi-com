@@ -61,13 +61,13 @@ Il cielo si sta preparando e lancia le prime avvisaglie.
 
 ## 24/08/2019
 
-Lungo lo [stagno di Cabras](https://it.wikipedia.org/wiki/Stagno_di_Cabras), in ritardo per una cena tra amici, fermarsi è d'obbligo 💥.
+Lungo lo {{< external_link "https://it.wikipedia.org/wiki/Stagno_di_Cabras" "stagno di Cabras" >}}, in ritardo per una cena tra amici, fermarsi è d'obbligo 💥.
 
 {{< image src="IMG_1838.jpg" alt="Cabras famosa per la bottarga" caption="📌 Cabras">}}
 
 ## 26/08/2019
 
-[Funtanazza](https://www.tripadvisor.it/Attraction_Review-g954075-d4716747-Reviews-Funtanazza_Beach-Arbus_Province_of_Medio_Campidano_Sardinia.html) quest'anno mi ha **sorpreso** in tutti i sensi. Acqua cristallina, silenzio e pace dominano ai piedi della [vecchia colonia marina abbandonata](https://www.sardegnaabbandonata.it/funtanazza/).
+{{< external_link "https://www.tripadvisor.it/Attraction_Review-g954075-d4716747-Reviews-Funtanazza_Beach-Arbus_Province_of_Medio_Campidano_Sardinia.html" "Funtanazza" >}} quest'anno mi ha **sorpreso** in tutti i sensi. Acqua cristallina, silenzio e pace dominano ai piedi della{{< external_link "https://www.sardegnaabbandonata.it/funtanazza/" "vecchia colonia marina abbandonata" >}}.
 
 {{< image src="IMG_2074.jpg" alt="Funtanazza famosa per la fatiscente colonia" caption="📌 Funtanazza">}}
 

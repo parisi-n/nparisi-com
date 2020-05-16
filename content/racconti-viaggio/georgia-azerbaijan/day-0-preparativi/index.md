@@ -71,7 +71,7 @@ Ho parlato di alcuni degli oggetti elencati in [questo post]({{< ref "10-immanca
 Col senno di poi, a scriverlo, è stata una corsa continua. Son state poche le volte in cui ho dormito due notti nello stesso posto. E' croce e delizia di un viaggio in Georgia per chi ha poco tempo.
 
 **[Giorno #1]({{< ref "day-1-kutaisi.md" >}})**: arrivo a Kutaisi la notte prima, giro della città, pomeriggio al monastero di Gelati.  
-**[Giorno #2]({{< ref "day-2-mestia.md" >}})**: partenza la mattina per Mestia mediante turboelica messo a disposizione da [VanillaSky](https://ticket.vanillasky.ge/). Ushguli.  
+**[Giorno #2]({{< ref "day-2-mestia.md" >}})**: partenza la mattina per Mestia mediante turboelica messo a disposizione da {{< external_link "https://ticket.vanillasky.ge/" "VanillaSky" >}}. Ushguli.  
 **[Giorno #3]({{< ref "day-3-mestia.md" >}})**: Mestia ed esplorazione di Koruldi Lakes.  
 **[Giorno #4]({{< ref "day-4-batumi.md" >}})**: partenza all'alba per Batumi, giro nel lungo mare.  
 **[Giorno #5]({{< ref "day-5-night-train.md" >}})**: partenza per Tbilisi in treno, pranzo e giro in centro. Partenza per Baku (Azerbaijan) con treno notturno.  
@@ -90,7 +90,7 @@ La Georgia si gusta solo in uno **slow traveling**, senza ansia di orari, di coi
 
 ## Il visto 🇬🇪 - 🇦🇿
 
-Per l'ingresso in Georgia non occorre visto per i cittadini italiani (**Luglio 2019)**; occorre però **il visto per l'ingresso in Azerbaijan**. Il sito [Viaggiare Sicuri](http://www.viaggiaresicuri.it/#/country/AZE) è come sempre dettagliato e riporta che il visto debba essere richiesto dal sito [https://evisa.gov.az/it](https://evisa.gov.az/it/) in formato elettronico.
+Per l'ingresso in Georgia non occorre visto per i cittadini italiani (**Luglio 2019)**; occorre però **il visto per l'ingresso in Azerbaijan**. Il sito {{< external_link "http://www.viaggiaresicuri.it/#/country/AZE" "Viaggiare Sicuri" >}} è come sempre dettagliato e riporta che il visto debba essere richiesto dal sito {{< external_link "https://evisa.gov.az/it/" "https://evisa.gov.az/it" >}} in formato elettronico.
 
 La proceduta è semplice, guidata e Step-by-Step grazie alla nuova interfaccia messa a disposizione. In Italiano.
 

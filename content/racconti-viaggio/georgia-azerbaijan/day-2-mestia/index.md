@@ -38,7 +38,7 @@ L'aeroporto è davvero piccolo ma i controlli son precisi e puntuali. 10 minuti 
 ## Verso Mestia: il turboelica
 
 Leggerete su altri blog - italiani ed internazionali - che la maggior parte delle persone arriverano a Mestia via marshrutka o con auto a noleggio o con driver privato.  
-In pochi menzionano il collegamento aereo tra Kutaisi e Mestia (e viceversa), operato con un [piccolo turboelica](https://it.wikipedia.org/wiki/Let_L_410) da 16 posti da [Vanillasky](http://www.vanillasky.ge).
+In pochi menzionano il collegamento aereo tra Kutaisi e Mestia (e viceversa), operato con un {{< external_link "https://it.wikipedia.org/wiki/Let_L_410" "piccolo turboelica" >}} da 16 posti da {{< external_link "http://www.vanillasky.ge" "Vanillasky" >}}.
 
 I voli da Batumi e da Tbilisi (e viceversa) sono quasi sempre tutti prenotati con largo anticipo (già a Luglio per fine Settembre il sito non restituiva biglietti disponibili). La tratta Kutaisi-Mestia invece apparentemente è meno battuta dai turisti: quando ho prenotato - a fine Agosto - c'erano ancora biglietti disponibili.
 
@@ -70,7 +70,7 @@ Finchè non si accendono i motori, e le cose si fanno serie. E quando il gioco s
 
 Qui una parte del volo in versione hyperlapse:
 
-{{< vimeo src="416347478" caption="Hyperlapse del volo" >}}
+{{< vimeo src="416347478" type="horizontal" caption="Hyperlapse del volo" >}}
 
 Ed è un'esperienza unica, volare là sopra. Da brividi se - come è successo a me - il giorno ci sarà più di un nodo di vento. E pregherete fino all'ultimo secondo di volo, ad ogni minimo sobbalzo di quel frullatore 🥴
 
@@ -106,7 +106,7 @@ Il paesaggio che percorriamo è estremamente rado, paradossalmente polveroso, ab
 
 {{< image src="IMG_3342.jpg" alt="Centro di Mestia" >}}
 
-Ci avviamo di buona lena verso il centro, lo attraversiamo e cerchiamo [l'affittacamere](https://www.booking.com/hotel/ge/galerea.it.html).  
+Ci avviamo di buona lena verso il centro, lo attraversiamo e cerchiamo {{< external_link "https://www.booking.com/hotel/ge/galerea.it.html" "l'affittacamere" >}}.  
 Un po' nascosto, ma dopo poco lo troviamo. Entriamo.
 
 Niente inglese anche questa volta, solo russo. _нет проблем_, nessun problema. Ci da e prendo le chiavi, saliamo al terzo piano senza ascensore. L'affittacamere ha una veranda. Mollo i bagagli in stanza e salgo all'ultimo piano.
@@ -129,8 +129,8 @@ L'esperienza in tale ristorante rasenta una delle peggiori avute in Georgia: ris
 
 ## 36 ore a Mestia. Cosa fare?
 
-Sono le 16, la giornata volge quasi al termine. Andiamo all'ufficio turistico, chiediamo cosa possiamo fare il giorno e quello dopo. Poche indicazioni confuse: in pomeriggio - se troviamo un driver - potremmo tentare di andare verso i ghiacciai ([Chalaadi glacier](https://www.tripadvisor.it/Attraction_Review-g1902860-d6856861-Reviews-Chaladi_Glacier-Mestia_Upper_Svaneti_Samegrelo_Zemo_Svaneti_Region.html)).  
-Il giorno dopo viene consigliato [Koruldi lakes](https://www.tripadvisor.it/Attraction_Review-g1902860-d6781718-Reviews-Koruldi_Lakes-Mestia_Upper_Svaneti_Samegrelo_Zemo_Svaneti_Region.html). Ci sarebbero tanti altri spot da visitare ([Ushguli](https://it.wikipedia.org/wiki/Ushguli)), ma il tempo è poco e bisogna scendere a compromessi.
+Sono le 16, la giornata volge quasi al termine. Andiamo all'ufficio turistico, chiediamo cosa possiamo fare il giorno e quello dopo. Poche indicazioni confuse: in pomeriggio - se troviamo un driver - potremmo tentare di andare verso i ghiacciai ({{< external_link "https://www.tripadvisor.it/Attraction_Review-g1902860-d6856861-Reviews-Chaladi_Glacier-Mestia_Upper_Svaneti_Samegrelo_Zemo_Svaneti_Region.html" "Chalaadi glacier" >}}).  
+Il giorno dopo viene consigliato {{< external_link "https://www.tripadvisor.it/Attraction_Review-g1902860-d6781718-Reviews-Koruldi_Lakes-Mestia_Upper_Svaneti_Samegrelo_Zemo_Svaneti_Region.html" "Koruldi lakes" >}}. Ci sarebbero tanti altri spot da visitare ({{< external_link "https://it.wikipedia.org/wiki/Ushguli" "Ushguli" >}}), ma il tempo è poco e bisogna scendere a compromessi.
 
 Non troviamo alcun driver per i ghiacciai (e sfido, vista l'ora); decidiamo di tentare la "passeggiata" a piedi, in fondo sono "solo 12km" e il clima lo consente senza sforzi.
 
@@ -172,7 +172,7 @@ Arriviamo all'entrata di Mestia che son quasi le 20. Le mucche che prima popolav
 
 Decisi più che mai a tornare in hotel e cercare qualche posto in cui cenare da lì, ci imbattiamo in un localino sulla cui terrazza stanno arrostendo. Non resistiamo ed entriamo. E ceniamo.
 
-Se non sapete dove andare - [Lushnu Qor](https://www.tripadvisor.com.au/Restaurant_Review-g1902860-d14168073-Reviews-Restaurant_Lushnu_Qor-Mestia_Upper_Svaneti_Samegrelo_Zemo_Svaneti_Region.html) merita una chance.
+Se non sapete dove andare - {{< external_link "https://www.tripadvisor.com.au/Restaurant_Review-g1902860-d14168073-Reviews-Restaurant_Lushnu_Qor-Mestia_Upper_Svaneti_Samegrelo_Zemo_Svaneti_Region.html" "Lushnu Qor" >}} merita una chance.
 
 {{< image src="IMG_3506.jpg" alt="Veranda di Lushnu Qor a Mestia" type="wide-screen" >}}
 

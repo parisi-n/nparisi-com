@@ -23,7 +23,7 @@ Il treno arriva pigramente in stazione alle 9 passate. Scendiamo. La vista della
 
 {{< image src="20190927_125642.jpg" alt="Di nuovo nella stazione dei treni di Tbilisi dopo la trasfera azera" type="wide-screen" >}}
 
-"La corsa è finita" - dico ancora una volta tra me e me: ora ci aspettano due giorni pieni senza dover cambiare letto. Usciamo ed andiamo verso [l'appartamento](https://goo.gl/maps/Zi8KQFj4sk3yJjyv8): carino ma estremamente fuori mano.
+"La corsa è finita" - dico ancora una volta tra me e me: ora ci aspettano due giorni pieni senza dover cambiare letto. Usciamo ed andiamo verso {{< external_link "https://goo.gl/maps/Zi8KQFj4sk3yJjyv8" "l'appartamento" >}}: carino ma estremamente fuori mano.
 
 ## Tbilisi
 
@@ -39,7 +39,7 @@ Notiamo che nei pressi dell'appartamento ci sono due o tre ristorantini tipici l
 
 {{< image src="20190930_140236.jpg" alt="Traffico" type="wide-screen" >}}
 
-Finchè non incappiamo in una lunga fila di persone in attesa del proprio turno in un panificio ([georgian bakery](https://goo.gl/maps/4mgT2uMDPwg7uNjK6)). **Ci mettiamo in fila.**  
+Finchè non incappiamo in una lunga fila di persone in attesa del proprio turno in un panificio ({{< external_link "https://goo.gl/maps/4mgT2uMDPwg7uNjK6" "georgian bakery" >}}). **Ci mettiamo in fila.**  
 Se siete in quella zona - ve lo consiglio caldamente: specialità locali, **economico e buono**.
 
 {{< image src="20190930_142452.jpg" alt="Datteri" >}}
@@ -57,7 +57,7 @@ Anche il tramonto visto dalla veranda non è niente male.
 Non siete ancora convinti?  
 Ecco qui un **timelapse**.
 
-{{< vimeo src="416347976" >}}
+{{< vimeo type="horizontal" src="416347976" >}}
 
 Per sapere cosa vedere e cosa no vi rimando al [post del day #5]({{< ref "day-5-night-train.md" >}}) dove abbiamo esplorato Tbilisi (seppur per sommi capi) in poche ore.  
 
@@ -69,7 +69,7 @@ Per sapere cosa vedere e cosa no vi rimando al [post del day #5]({{< ref "day-5-
 
 Prima che faccia notte però **abbiamo una missione**: trovare un tour operator per un trip di una giornata per Kazbegi. Avevamo già fatto un giro la volta precedente ma - memori della pessima esperienza avuta in Azerbaijan - questa volta decidiamo di controllare prima su Google.
 
-Decidiamo di affidarci all'agenzia [Smart Travel](https://g.page/Smarttravelgeorgia?share).  
+Decidiamo di affidarci all'agenzia {{< external_link "https://g.page/Smarttravelgeorgia?share" "Smart Travel" >}}.  
 Persone serie ed un tour - quello di Kazbegi - che si rivelerà un successone per come è organizzato. Inoltre - fanno spesso delle promozioni: a noi hanno fatto il 15% di sconto nel tour del giorno successivo.  
 **Consigliatissimo!**
 
@@ -103,7 +103,7 @@ Qui un breve video:
 
 ### Piazza dell'Indipendenza - Maidan square
 
-_Posizione su Google Maps [qui](https://g.page/vip-translations?share)._
+{{< posizione "https://g.page/vip-translations?share" >}}
 
 Molto simile a quella di Kiev.
 
@@ -113,7 +113,7 @@ Molto simile a quella di Kiev.
 
 {{< posizione "https://goo.gl/maps/ZMrZ4sA2saBtQcSy9" >}}
 
-La fortezza che si staglia a ridosso della collina è la [Narikala](https://goo.gl/maps/kjYjfTJoAxnXyzXr5). Fortezza o - _in lingua russa_ - **cremlino**. Da qui si può accedere mediante passaggio panoramico con tante bancarelle alla [Kartlis Deda](https://goo.gl/maps/SUuV6PrJpQdARxd17) - statua di una donna alta 30metri in abiti tradizionali georgiani che dovrebbe rappresentare il vero carattere dei georgiani: nella mano destra eregge un calice di vino - per brindare con coloro che vengono come amici; nella mano sinistra regge una spada, per combattere coloro che vengono come nemici.
+La fortezza che si staglia a ridosso della collina è la {{< external_link "https://goo.gl/maps/kjYjfTJoAxnXyzXr5" "Narikala" >}}. Fortezza o - _in lingua russa_ - **cremlino**. Da qui si può accedere mediante passaggio panoramico con tante bancarelle alla {{< external_link "https://goo.gl/maps/SUuV6PrJpQdARxd17" "Kartlis Deda" >}} - statua di una donna alta 30metri in abiti tradizionali georgiani che dovrebbe rappresentare il vero carattere dei georgiani: nella mano destra eregge un calice di vino - per brindare con coloro che vengono come amici; nella mano sinistra regge una spada, per combattere coloro che vengono come nemici.
 
 Saliamo sulla fortezza tramite scalini e ci godiamo lo skyline notturno che Tbilisi offre. L'aria è fresca e piacevole, alcuni artisti di strada rallegrano le vie sulla sommità.
 

@@ -26,7 +26,7 @@ Eppure proprio per il velo di finto pericolo che si cela dietro il viaggio, per 
 ## Come arrivarci e come spostarsi
 
 Ad Ottobre 2019 l'ingresso all'interno della _Repubblica di Serbia_ è permesso con la **carta d'identità** valida per l'espatrio o il **passaporto** per i cittadini dello Stato Italiano.  
-Vi consiglio comunque di dare una controllata al sito [viaggiaresicuri.it](http://www.viaggiaresicuri.it/country/SRB) per essere informati sulle ultime direttive in materia di ingresso nella Repubblica di Serbia
+Vi consiglio comunque di dare una controllata al sito {{< external_link "http://www.viaggiaresicuri.it/country/SRB" "viaggiaresicuri.it" >}} per essere informati sulle ultime direttive in materia di ingresso nella Repubblica di Serbia
 
 {{< image src="IMG_6781.jpg" alt="Autostrada che da Budapest porta a belgrado" >}}
 
@@ -105,7 +105,7 @@ Tirate a destra (al momento della visita bisognava passare attraverso **un grand
 
 La nostra priorità assoluta era (oltrechè mangiare) - come prima cosa - trovare un ATM per prelevare cash per i vari servizi (_non sapevamo ancora che potevamo pagare il ticket in modo smart_).
 
-In caso sia anche la vostra priorità - troverete il primo [ATM qui](https://goo.gl/maps/4Nf2cTH6Eepp31Jq9).
+In caso sia anche la vostra priorità - troverete il primo {{< external_link "https://goo.gl/maps/4Nf2cTH6Eepp31Jq9" "ATM qui" >}}.
 
 {{< image src="20191019_144652.jpg" alt="L'ATM più vicino alla stazione dei bus" type="wide-screen" >}}
 
@@ -125,7 +125,7 @@ Il centro e le vie dello shopping - in quanto specchio della città - sono inecc
 
 Una volta prelevato, l'ora di pranzo inizia ad essere un lontano ricordo. Vogliamo però mangiare qualcosa di buono e sfizioso e ci affidiamo al buon Google Maps.
 
-Non lontano dall'ATM troverete [Zavičaj (Завичај)](https://goo.gl/maps/Tac8Sf5M2dgA2qz77). Locale grazioso, sembra quasi di essere in un agriturismo in campagna. Pietanze tradizionali locali portate in piatti di terracotta completano il quadro in un locale al centro della città.
+Non lontano dall'ATM troverete {{< external_link "https://goo.gl/maps/Tac8Sf5M2dgA2qz77" "Zavičaj (Завичај)" >}}. Locale grazioso, sembra quasi di essere in un agriturismo in campagna. Pietanze tradizionali locali portate in piatti di terracotta completano il quadro in un locale al centro della città.
 
 Ho optato per una birra chiara locale, dell'insalata mista e delle braciole di maiale che - a giudicare dall'aspetto e dal colore - parevano completamente crude. Eppure non solo erano cotte ma erano anche deliziose!  
 Il mio compagno di viaggio, patito ormai del gulash, ha optato per...il **gulash serbo**: completamente diverso da quello ungherese ma sempre molto buono.
@@ -140,7 +140,7 @@ Con la speranza in spalla, iniziamo. Ci muoviamo in modo _poco tech e molto old_
 
 ### Stadio della Stella Rossa/Marakana
 
-{{< font "gray" >}}_Posizione su Google Maps [qui](https://g.page/rajko-mitic-stadium?share)._{{< /font >}}
+{{< posizione "https://g.page/rajko-mitic-stadium?share" >}}
 
 Dalla stazione centrale prendete il bus 69 ed avviatevi verso il famosissimo stadio di Rajko Mitić. Al momento della nostra visita non era aperto e non ci è stato possibile visitarlo dall'interno.
 
@@ -164,7 +164,7 @@ Curiosissimo il carrarmato (presente da Agosto 2019) posto all'ingresso dello st
 
 ### Lo stadio del Partizan Belgrado
 
-{{< font "gray" >}}_Posizione su Google Maps [qui](https://goo.gl/maps/R8FtXnubzyFGp8Jm9)._{{< /font >}}
+{{< posizione "https://goo.gl/maps/R8FtXnubzyFGp8Jm9" >}}
 
 Non essendo particolarmente interessato al secondo stadio - le strade si dividono per me e {{< affiliate_link "serusi-instagram" "@francescoserusi" >}}.
 
@@ -193,7 +193,7 @@ Riusciremo prima dell'alba a incontrarci di nuovo? Chissà.
 
 ### Il tempio di San Sava
 
-{{< font "gray" >}}_Posizione su Google Maps [qui](https://goo.gl/maps/WMmDE7By7oSGTWDm7)._{{< /font >}}
+{{< posizione "https://goo.gl/maps/WMmDE7By7oSGTWDm7" >}}
 
 Si trova tra i sightseeing di Belgrado. Dallo stadio della Stella Rossa prendete il 73 e aiutatevi con Google Maps per capire dove vi conviene scendere.
 
@@ -213,11 +213,11 @@ E' comunque un sabato sera e numerose persone affollano le vie.
 
 ### Le Poste Centrali
 
-Se non vi va di vagare per le vie di Belgrado senza un fine, fate come abbiamo fatto noi: abbiamo cercato le cartoline e poi - su consiglio di una ragazza in una cartolibreria (alle 22 di notte!) **ci siamo messi a cercare le [Poste Centrali](https://goo.gl/maps/SW9gGuWFBTN6DnPu9)** (in teoria aperte tutta la notte).
+Se non vi va di vagare per le vie di Belgrado senza un fine, fate come abbiamo fatto noi: abbiamo cercato le cartoline e poi - su consiglio di una ragazza in una cartolibreria (alle 22 di notte!) **ci siamo messi a cercare le {{< external_link "https://goo.gl/maps/SW9gGuWFBTN6DnPu9" "Poste Centrali" >}}** (in teoria aperte tutta la notte).
 
 Il problema principale è che il nome di tale edificio ci era stato scritto in corsivo e non capivamo cosa ci fosse scritto! Abbiamo dovuto quindi importunare passanti ad ogni angolo per chiedere indicazioni...che alla fine, dopo più di due ore, ci hanno portato a destinazione!
 
-{{< vimeo src="417638046" caption="Entrata gloriosa nelle Poste Centrali di Beograd" >}}
+{{< vimeo src="417638046" type="vertical-9x16" caption="Entrata gloriosa nelle Poste Centrali di Beograd" >}}
 
 Se ancora vi rimarranno energie, continuate la camminata per le vie del centro.
 
@@ -268,7 +268,7 @@ Quando abbiamo prenotato, noi, credevamo fosse un errore di Maps.
 
 In verità non lo era.
 
-Il botel in questione si chiama [Compass - City river](https://goo.gl/maps/ah9izCmQvNFC6wdS8). Non è un 5 stelle, ma per una notte va più che bene. Ma anche fosse stato peggio, è l'esperienza e la sorpresa che ci siamo trovati davanti a renderlo un posto consigliato - **sebbene sia molto distante dalla stazione dei bus** (circa 3.5km).
+Il botel in questione si chiama {{< external_link "https://goo.gl/maps/ah9izCmQvNFC6wdS8" "Compass - City river" >}}. Non è un 5 stelle, ma per una notte va più che bene. Ma anche fosse stato peggio, è l'esperienza e la sorpresa che ci siamo trovati davanti a renderlo un posto consigliato - **sebbene sia molto distante dalla stazione dei bus** (circa 3.5km).
 
 {{< image src="IMG_6959.jpg" alt="Corridoio esterno del botel" >}}
 
