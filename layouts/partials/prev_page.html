@@ -1,0 +1,16 @@
+{{ with .Prev }}
+    {{ if and (eq .Params.Type "article") (ne .Params.sitemapExclude) }}
+        <div id="nav-arrow-left" class="nav-arrow-left">
+        <span style="display: none; height: 0px; width: 0px;" id="nav-arrow-left-link">{{ .Permalink }}</span>
+            <div class="super-suggestion-box">
+                <i class="fas fa-chevron-left"></i>
+                <div class="suggestion-box" id="suggestion-box">
+                {{ .Title }}
+                </div>
+            </div>
+        </div>
+    {{ else }}
+        {{ partial "prev_page" . }}
+    {{ end }}
+{{ end }}
+
