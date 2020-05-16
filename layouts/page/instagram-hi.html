@@ -31,22 +31,23 @@
                                     </p>
                                     
                                     <div style="display:grid; justify-content: center;">
-
+                                       
                                         {{$mysection := (where .Site.Pages "Type" "article") }}
                                         {{ range first 1 $mysection }}
                                             <a href="{{ .RelPermalink | absURL }}" class="button green margin-right">Ultimo post</a>
                                         {{ end }}
                                         
-                                        <a href="{{ "tags/travel/" | absURL }}" class="button orange margin-left">Viaggi</a>
+                                        <a href="{{ "/" | absURL }}" class="button brown margin-left">Home</a>
                                         
-                                        <a href="{{ "accessori/" | absURL }}" class="button light-blue margin-right">Accessori</a>
+                                        <a href="{{ "tags/travel/" | absURL }}" class="button orange margin-right">Viaggi</a>
                                         
-                                        <a href="{{ "libreria/" | absURL }}" class="button yellow margin-left">Libreria</a>
+                                        <a href="{{ "accessori/" | absURL }}" class="button light-blue margin-left">Accessori</a>
                                         
-                                        <a href="https://www.youtube.com/channel/{{ .Site.Params.social.youtube }}" class="button red margin-right">YouTube</a>
+                                        <a href="{{ "libreria/" | absURL }}" class="button yellow margin-right">Libreria</a>
                                         
-                                        <a href="https://instagram.com/{{ .Site.Params.social.instagram }}" class="button plumb margin-left">Instagram</a>
+                                        <a href="https://www.youtube.com/channel/{{ .Site.Params.social.youtube }}" class="button red margin-left">YouTube</a>
                                         
+                                        <a href="https://instagram.com/{{ .Site.Params.social.instagram }}" class="button plumb margin-right">Instagram</a>
 
                                     </div>
 
