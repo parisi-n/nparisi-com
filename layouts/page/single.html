@@ -1,37 +1,37 @@
 {{ define "body" }}
 
-<body class="post-template-default single single-post single-format-standard ct-body singular singular-post not-front standard">
+<body class="single-post">
 {{ end }}
 
 
 {{ define "main" }}
 
-  <div id="loop-container" class="loop-container">
+<div id="loop-container" class="loop-container">
     {{ if and (isset .Params "image") .Params.image }}
-    <div class="post type-post status-publish format-standard has-post-thumbnail hentry category-design tag-design tag-standard-2 tag-tagalicious tag-travel entry full-without-featured odd excerpt-1">
+    <div class="post entry">
 
-      <div class='featured-image lazy lazy-bg-image' {{ if isset .Site.Params "usepostimgfolder" }} data-background="{{ .Permalink }}{{ .Params.image }}"{{ else }} data-background="{{ .Params.image | absURL }}"{{ end }}>
-      </div>
-      {{ else }}
+        <div class='featured-image lazy lazy-bg-image' {{ if isset .Site.Params "usepostimgfolder" }} data-background="{{ .Permalink }}{{ .Params.image }}"{{ else }} data-background="{{ .Params.image | absURL }}"{{ end }}>
+    </div>
+    {{ else }}
 
-      <div class="post type-post page entry">
+    <div class="post type-post page entry">
 
         {{ end }}
         <div class="entry-container">
             <div class='entry-header' style="padding-top: 2.8em">
-          <h1 class='entry-title'> {{ .Title }}</h1>
-        </div>
-            
-          <div class="entry-content not-p-big">
-            <article>
-              {{ .Content }}
-            </article>
-          </div>
+                <h1 class='entry-title'> {{ .Title }}</h1>
+            </div>
 
-</div>
-        
-        
-</div>
+            <div class="entry-content not-p-big">
+                <article>
+                    {{ .Content }}
+                </article>
+            </div>
+
+        </div>
+
+
+    </div>
 
 </div>
 

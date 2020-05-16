@@ -1,6 +1,6 @@
 ---
 title: "Perchè son migrato da Wordpress a Hugo: sentimenti di base"
-date: "2020-05-09"
+date: "2020-05-16"
 image: "images/copertina-wordpress-hugo.jpg"
 
 categories : [ "Lifestyle" ]

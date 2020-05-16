@@ -16,21 +16,20 @@
 
 {{- /* Onscroll event */}}
 <script type="text/javascript">
-window.onload = function() {
+window.onload = function () {
     /* COOKIE */
     cookieConsent();
 };
-window.onscroll = function() {
+window.onscroll = function () {
     /* COOKIE */
     try
     {
         if (!getCookie('nparisiCookieApproved'))
-        if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400)
-            cookieApproved();
-    }
-    catch(error)
+            if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400)
+                cookieApproved();
+    } catch (error)
     {
-        console.log( "Cookie già creato" );
+        console.log("Cookie già creato");
     }
 }
 </script>

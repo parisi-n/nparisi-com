@@ -160,7 +160,7 @@
      */
     .block-video-vimeo iframe { border: 0; }
     .block-video-vimeo.vertical-4x5, .block-video-vimeo.vertical-9x16 { display: block; position: relative; margin: -3% 4.56% 0; }
-    .block-video-vimeo.horizontal { display: bock; position: relative; margin: -3% 4.56% 0; }
+    .block-video-vimeo.horizontal { display: block; position: relative; margin: 3% 4.56% 0; }
     
     /**
      * BLOCK QUOTES
@@ -185,6 +185,30 @@
      * COPYRIGHT
      */
     .copyright-button { margin: 0 0.371em; }
+    
+    /**
+     * INSTAGRAM HI - LANDING PAGE
+     */
+    .instagram-hi { padding-bottom: 0em; }
+    .instagram-hi .container { margin: 2% 5% !important; }
+    .instagram-hi .main { margin-top: 3%; overflow-x: hidden }
+    .instagram-hi p { text-align: center !important; margin: 0.75em !important; }
+    .instagram-hi .profile-pic { width: 55% !important; }
+    .instagram-hi .button { padding: 15px; width: 13em; text-align: center; border-radius: 0.5em; font-weight: 800; color: #fff !important; transition: .4s; letter-spacing: 1px; font-family: "Open Sans", sans-serif !important; font-size: 1.13rem; margin: 0.84em 0;  -webkit-filter: brightness(100%); }
+    .instagram-hi .button.green { background-color: #048d79; }
+    .instagram-hi .button.green:hover { background-color: #036355; }
+    .instagram-hi .button.orange { background-color: #f46c02; }
+    .instagram-hi .button.orange:hover { background-color: #ca5902; }
+    .instagram-hi .button.light-blue { background-color: #3097bf; }
+    .instagram-hi .button.light-blue:hover { background-color: #1f607a; }
+    .instagram-hi .button.yellow { background-color: #fcbc05; }
+    .instagram-hi .button.yellow:hover { background-color: #e3a702; }
+    .instagram-hi .button.red { background-color: #ea4136; }
+    .instagram-hi .button.red:hover { background-color: #b91e13; }
+    .instagram-hi .button.plumb { background-color: #bfcac4; }
+    .instagram-hi .button.plumb:hover { background-color: #82978b; }
+    .instagram-hi .margin-left { }
+    .instagram-hi .margin-right { }
 
     /**
      * PLUGINS
@@ -450,7 +474,7 @@
         .entry-content { margin-top: 1em !important; }
         .entry-content p, .entry-content ul { width: auto; }
         .entry-container { padding: 0 3% !important; margin-top: 0 !important; }
-        .blog .main, .archive .main, .search .main { width: 96.96%; padding-top: 1em; }
+        .blog .main, .archive .main, .search .main { width: 96.96%; padding-top: 0.5em; }
         .post, .page { padding: 0 0px !important; margin-top: 2.5em !important; }
         .content-category { display: flex; overflow-x: auto; padding-top: 1em;}
         .entry-content .block-image, .entry-content .block-video-youtube, .entry-content .block-video-vimeo { box-shadow: none; padding: 0; }
@@ -526,7 +550,6 @@
         
         .category-list-container { margin-top: -1.85em; }
 
-        
         /**
          * MENU
          */
@@ -538,6 +561,12 @@
          * FOOTER
          */
         #site-footer { margin-top: -5em !important; }
+        
+        /**
+         * INSTAGRAM HI - LANDING PAGE
+         */
+        .instagram-hi .margin-left { width: 13.76em; }
+        .instagram-hi .margin-right { width: 17.76em; }
         
         /**
          * PLUGINS
@@ -758,6 +787,14 @@
         iframe.instagram-media { max-width: none !important; width: 91.88% !important; margin: 3em 4.56% !important; }
         .block-image figcaption, .block-video-youtube figcaption, .block-video-vimeo figcaption { width: 100%; }
         .block-video-youtube figcaption, .block-video-vimeo figcaption { text-align: center; }
+        
+        /**
+         * INSTAGRAM HI - LANDING PAGE
+         */
+        .instagram-hi .button { width: 23em; margin: 1.23em; }
+        .instagram-hi .profile-pic { width: 35% !important; }
+        .instagram-hi .margin-left { margin-left: 3.65em; }
+        .instagram-hi .margin-right { margin-right: 5.65em; }
         
         /**
          * PLUGINS
