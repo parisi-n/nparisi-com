@@ -14,8 +14,8 @@ L'open source è come chiudere un cerchio. Si basa sulla libertà di accede al "
 Con le opportune competenze questo codice può essere modificato, ampliato, migliorato, adattato (mantenendo sempre i riferimenti all'autore, naturalmente) alle proprie necessità.
 Quel che uno sviluppatore produce diventa materia prima per il successivo – e così vorrei succedesse anche per questo sito.
 
-Per questo il codice sorgente da cui questo sito è generato è **liberamente consultabile** sul {{< external_link "https://github.com/parisi-n/nparisi-com" "repository di GitHub" >}}, in cui aggiorno i file con le ultime modifiche prima che queste siano _elaborate_ da {{< external_link "www.netlify.com" "Netlify" >}} (su cui questo sito è hostato) che "assembla" il sito e lo rende fruibile com'è.
+Per questo il codice sorgente da cui questo sito è generato è **liberamente consultabile** sul {{< external_link "https://github.com/parisi-n/nparisi-com" "repository di GitHub" >}}, in cui aggiorno i file con le ultime modifiche prima che queste siano _elaborate_ da {{< external_link "https://www.netlify.com" "Netlify" >}} (su cui questo sito è hostato) che "assembla" il sito e lo rende fruibile com'è.
 
 ## Hugo
 Il sito è costruito interamente con {{< external_link "https://gohugo.io" "Hugo" >}}  con HTML, CSS ed un pizzico di Javascript per le funzioni base.
-Fino a qualche tempo fa il sito era basato su {{< external_link "wordpress.org" "Wordpress" >}}, a cui ho rinunciato perchè troppo complesso dal punto di vista strutturale e...**lento** per gli hosting comuni.
+Fino a qualche tempo fa il sito era basato su {{< external_link "https://wordpress.org" "Wordpress" >}}, a cui ho rinunciato perchè troppo complesso dal punto di vista strutturale e...**lento** per gli hosting comuni.

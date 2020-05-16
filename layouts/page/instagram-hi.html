@@ -7,56 +7,56 @@
 
     <body class="home blog main instagram-hi">
         <div class="main">
-                            <div class='entry-header'>
-                                <h1 class='entry-title'> {{ .Title }}</h1>
-                            </div>
+            <div class='entry-header'>
+                <h1 class='entry-title'> {{ .Title }}</h1>
+            </div>
 
-                            <div class="container">
-                                <article>
-                                    <div style="text-align: center; margin: auto;">
-                                        <img src="/about/images/foto_profilo.png" alt="Questo sono io!" class="profile-pic rounded" />
-                                    </div>
+            <div class="container">
+                <article>
+                    <div style="text-align: center; margin: auto;">
+                        <img src="/about/images/foto_profilo.png" alt="Questo sono io!" class="profile-pic rounded" />
+                    </div>
 
-                                    <p style="color: #f4511e; font-size: 1.7em !important; font-weight: 800;">
-                                        Sono Nicola
-                                    </p>
+                    <p style="color: #f4511e; font-size: 1.7em !important; font-weight: 800;">
+                        Sono Nicola
+                    </p>
 
-                                    <p style="color: #abb8c3">
-                                        medico / viaggiatore / sognatore <br/>content creator
-                                    </p>
-                                    
-                                    <p style="color: #595b66; font-size: 2.4em !important;">
-                                        <strong>Benvenuto</strong><br/>
-                                        <strong>nel mio blog</strong>
-                                    </p>
-                                    
-                                    <div style="display:grid; justify-content: center;">
-                                       
-                                        {{$mysection := (where .Site.Pages "Type" "article") }}
-                                        {{ range first 1 $mysection }}
-                                            <a href="{{ .RelPermalink | absURL }}" class="button green margin-right">Ultimo post</a>
-                                        {{ end }}
-                                        
-                                        <a href="{{ "/" | absURL }}" class="button brown margin-left">Home</a>
-                                        
-                                        <a href="{{ "tags/travel/" | absURL }}" class="button orange margin-right">Viaggi</a>
-                                        
-                                        <a href="{{ "accessori/" | absURL }}" class="button light-blue margin-left">Accessori</a>
-                                        
-                                        <a href="{{ "libreria/" | absURL }}" class="button yellow margin-right">Libreria</a>
-                                        
-                                        <a href="https://www.youtube.com/channel/{{ .Site.Params.social.youtube }}" class="button red margin-left">YouTube</a>
-                                        
-                                        <a href="https://instagram.com/{{ .Site.Params.social.instagram }}" class="button plumb margin-right">Instagram</a>
+                    <p style="color: #abb8c3">
+                        medico / viaggiatore / sognatore <br/>content creator
+                    </p>
 
-                                    </div>
+                    <p style="color: #595b66; font-size: 2.4em !important;">
+                        <strong>Benvenuto</strong><br/>
+                        <strong>nel mio blog</strong>
+                    </p>
 
-                                </article>
-                            </div>
-                        </div>
-            {{ partial "footer.html" . }}
+                    <div style="display:grid; justify-content: center;">
+
+                        {{$mysection := (where .Site.Pages "Type" "article") }}
+                        {{ range first 1 $mysection }}
+                        <a href="{{ .RelPermalink | absURL }}" class="button green margin-right">Ultimo post</a>
+                        {{ end }}
+
+                        <a href="{{ "/" | absURL }}" class="button brown margin-left">Home</a>
+
+                        <a href="{{ "tags/travel/" | absURL }}" class="button orange margin-right">Viaggi</a>
+
+                        <a href="{{ "accessori/" | absURL }}" class="button light-blue margin-left">Accessori</a>
+
+                        <a href="{{ "libreria/" | absURL }}" class="button yellow margin-right">Libreria</a>
+
+                        <a href="https://www.youtube.com/channel/{{ .Site.Params.social.youtube }}" class="button red margin-left">YouTube</a>
+
+                        <a href="https://instagram.com/{{ .Site.Params.social.instagram }}" class="button plumb margin-right">Instagram</a>
+
+                    </div>
+
+                </article>
+            </div>
         </div>
+        {{ partial "footer.html" . }}
+    </div>
 
-        {{ partial "scripts.html" . }}
+    {{ partial "scripts.html" . }}
 </body>
 </html>

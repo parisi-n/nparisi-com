@@ -1,74 +1,70 @@
 {{ define "body" }}
 
 <body class="post-template-default single-post">
-{{ end }}
+    {{ end }}
 
 
-{{ define "main" }}
-  <div id="loop-container" class="loop-container">
-    <div class="post entry post_single">
+    {{ define "main" }}
+    <div id="loop-container" class="loop-container">
+        <div class="post entry post_single">
 
-        <div class='featured-image lazy lazy-bg-image' data-background="{{ .Permalink }}{{ .Params.image }}">
-        </div>
-<!--
-      <div class="post type-post entry odd excerpt-1">
+            <div class='featured-image lazy lazy-bg-image' data-background="{{ .Permalink }}{{ .Params.image }}"></div>
 
-         -->
-        <div class="entry-container">
-            <div class='entry-header'>
-              <h1 class='entry-title'>{{ replace .Title "//" "<div class='ep-interspace'><br/></div>" | safeHTML }}</h1>
-            </div>
-            
-            <div class="entry-meta"> 
-            <span class="date" style="padding-right: 1.1em; cursor: default;"  title="Post scritto il {{ .Date.Format "02" }} {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }} {{ .Date.Format "2006" }}">
-                  {{ .Date.Format "02" }}
-                  {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }}
-                  {{ .Date.Format "2006" }}
-            </span>
-            ★
-            {{ $timeToRead := div .WordCount 220.0 }}
-            <span class="date" style="padding-left: 1.1em; cursor: default;" title="Avrai bisogno di {{math.Ceil $timeToRead }} minuti per leggere questa pagina">
-                {{math.Ceil $timeToRead }} min di lettura
-            </span>
-          
-
-        </div>
-
-          <div class="entry-content">
-            <article>
-                
-                <div class="content-category">
-                    {{ range .Params.categories }}
-                    <span class="category">
-                      <a href="/{{ . | urlize }}" title="Vedi tutti gli articoli della categoria ''{{ humanize . }}''">{{ humanize . }}</a>
-                    </span>
-                    {{ end }}
+            <div class="entry-container">
+                <div class='entry-header'>
+                    <h1 class='entry-title'>{{ replace .Title "//" "<div class='ep-interspace'><br/></div>" | safeHTML }}</h1>
                 </div>
-                
-                {{ partial "share_bar_button.html" . }}
 
-                {{ if .Params.showToc }}
-                    {{ partial "toc.html" . }}
-                {{end}}
+                <div class="entry-meta"> 
+                    <span class="date" style="padding-right: 1.1em; cursor: default;"  title="Post scritto il {{ .Date.Format "02" }} {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }} {{ .Date.Format "2006" }}">
+                        {{ .Date.Format "02" }}
+                        {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }}
+                        {{ .Date.Format "2006" }}
+                    </span>
+                    ★
+                    {{ $timeToRead := div .WordCount 220.0 }}
+                    <span class="date" style="padding-left: 1.1em; cursor: default;" title="Avrai bisogno di {{math.Ceil $timeToRead }} minuti per leggere questa pagina">
+                        {{math.Ceil $timeToRead }} min di lettura
+                    </span>
 
-                {{ .Content }}
-                
-                <!-- Frecce laterali di navigazione -->
-                {{ partial "navigazione_tra_post.html" . }}
-                
-            </article>
-          </div>
-          {{ partial "disqus.html" . }}
-    </div>
 
-    </div>
+                </div>
+
+                <div class="entry-content">
+                    <article>
+                        <div class="content-category">
+                            {{ range .Params.categories }}
+                            <span class="category">
+                                <a href="/{{ . | urlize }}" title="Vedi tutti gli articoli della categoria ''{{ humanize . }}''">{{ humanize . }}</a>
+                            </span>
+                            {{ end }}
+                        </div>
+
+                        <!-- Social share bar -->
+                        {{ partial "share_bar_button.html" . }}
+
+                        <!-- Indice della pagina --> 
+                        {{ if .Params.showToc }}
+                            {{ partial "toc.html" . }}
+                        {{end}}
+
+                        {{ .Content }}
+
+                        <!-- Frecce laterali di navigazione -->
+                        {{ partial "navigazione_tra_post.html" . }}
+
+                    </article>
+                </div>
+                {{ partial "disqus.html" . }}
+            </div>
+
+        </div>
     </div>
 </div>    
+
 <!-- Menù bar laterale -->
 <div id="boxTools">
-
     <button onclick="goToComments()" title="Vai ai commenti" class="commenti"><i class="fa fa-comment"></i></button>
-
     <button onclick="scrollToTop()" title="Torna su"><i class="fas fa-arrow-up"></i></button>
 </div>
 

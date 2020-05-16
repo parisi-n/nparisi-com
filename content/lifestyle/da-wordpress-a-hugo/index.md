@@ -81,9 +81,9 @@ I post vanno scritti in {{< external_link "https://it.wikipedia.org/wiki/Markdow
 Il SEO andrà fatto manualmente. Il che non è un male visto che vi obbliga a studiarne le basi. Il risultato finale a seconda dei casi sarà migliore che con wordpress (forse)
 
 ### Pro
-Tutto il resto. I _contro_ sono derivati dall'errore di basedi considerare Hugo con gli occhi di chi è abituato a lavorare con Wordpress. Per quanto essenzialmente portino ad un risultato estetico a seconda dei casi simile, il procedimento alla base è completamente opposto e mal si adatta ad un blogger poco smanettone.
+Tutto il resto. I _contro_ sono derivati dall'errore di base di considerare Hugo con gli occhi di chi è abituato a lavorare con Wordpress. Per quanto essenzialmente portino ad un risultato estetico a seconda dei casi simile, il procedimento alla base è completamente opposto e mal si adatta ad un blogger poco smanettone.
 
-In rete molti hanno fatto il salto opposto, ovvero da Hugo con passati a Wordpress per concentrarsi maggiormente sull'attività di _blogging_ pittusto che di _webmaster_.
+In rete molti hanno fatto il salto opposto, ovvero da Hugo son passati a Wordpress per concentrarsi maggiormente sull'attività di _blogging_ pittusto che di _webmaster_.
 
 Il sito prodotto è **rapidissimo**. E' ordinato. Tutto ha una logica ed una posizione. In caso di problemi in una determinata porzione di pagina saprete esattamente dove mettere le mani.
 

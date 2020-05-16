@@ -1,27 +1,27 @@
 {{ $pag := $.Paginator }}
 
 {{ if gt $pag.TotalPages 1 }}
-<nav class="navigation pagination" role="navigation">
-	<div class="paginator_bar">
-            
+    <nav class="navigation pagination" role="navigation">
+        <div class="paginator_bar">
+
             <span>
-		{{ if $pag.HasPrev }}
-			<a class="direction_button" href="{{ $pag.Prev.URL }}"><i class="fas fa-caret-left"></i></a>
-		{{ end }}    
+                {{ if $pag.HasPrev }}
+                    <a class="direction_button" href="{{ $pag.Prev.URL }}"><i class="fas fa-caret-left"></i></a>
+                {{ end }}    
 
                 {{ range $pag.Pagers }}
                     {{ if eq . $pag }}
                         <!-- Current Page -->
                         <span class="paginator_bar_button active">{{ .PageNumber }}</span>
-                    {{ else if and (ge .PageNumber (sub $pag.PageNumber 1)) (le .PageNumber (add $pag.PageNumber 1)) }}
+                        {{ else if and (ge .PageNumber (sub $pag.PageNumber 1)) (le .PageNumber (add $pag.PageNumber 1)) }}
                         {{ $.Scratch.Set "dot_rendered" false }} 
                         <!-- Render prev 2 page and next 2 pages -->
                         <a href="{{ .URL }}" class="intermediate">{{ .PageNumber }}</a>
-                    {{ else if and (ge .PageNumber (sub $pag.PageNumber 2)) (le .PageNumber (add $pag.PageNumber 2)) }}
+                        {{ else if and (ge .PageNumber (sub $pag.PageNumber 2)) (le .PageNumber (add $pag.PageNumber 2)) }}
                         {{ $.Scratch.Set "dot_rendered" false }} 
                         <!-- Render prev 2 page and next 2 pages -->
                         <a href="{{ .URL }}" class="intermediate_2">{{ .PageNumber }}</a>
-                    {{ else if eq ($.Scratch.Get "dot_rendered") false }} 
+                        {{ else if eq ($.Scratch.Get "dot_rendered") false }} 
                         <!-- render skip pages -->
                         {{ $.Scratch.Set "dot_rendered" true }}
                         <i class="fas fa-ellipsis-h dots" ></i>
@@ -29,9 +29,9 @@
                 {{ end }}
 
                 {{ if $pag.HasNext }}
-			<a class="direction_button" href="{{ $pag.Next.URL }}"><i class="fas fa-caret-right"></i></a>
-		{{ end }}
+                    <a class="direction_button" href="{{ $pag.Next.URL }}"><i class="fas fa-caret-right"></i></a>
+                {{ end }}
             </span>
-	</div>
-</nav>
+        </div>
+    </nav>
 {{ end }}

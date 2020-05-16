@@ -5,28 +5,30 @@
 </div>
 
 <div class="keep-reading-bottom"></div>
+
 <div class="keep-reading">Continua a leggere</div>
-{{ if .PrevInSection }}
-<div id="nav-arrow-left" class="nav-arrow-left">
-    <span style="display: none; height: 0px; width: 0px;" id="nav-arrow-left-link">{{ .PrevInSection.Permalink }}</span>
-    <div class="super-suggestion-box">
-        <i class="fas fa-chevron-left"></i>
-        <div class="suggestion-box" id="suggestion-box">
-            {{ .PrevInSection.Title }}
+
+{{ if .PrevPage }}
+    <div id="nav-arrow-left" class="nav-arrow-left">
+        <span style="display: none; height: 0px; width: 0px;" id="nav-arrow-left-link">{{ .PrevPage.Permalink }}</span>
+        <div class="super-suggestion-box">
+            <i class="fas fa-chevron-left"></i>
+            <div class="suggestion-box" id="suggestion-box">
+                {{ .PrevPage.Title }}
+            </div>
         </div>
     </div>
-</div>
 {{- end }}
-        
-{{ if .NextInSection }}
-<div id="nav-arrow-right" class="nav-arrow-right">
-    <div class="super-suggestion-box">
-        <div class="suggestion-box" id="suggestion-box">
-            {{ .NextInSection.Title }}
+
+{{ if .NextPage }}
+    <div id="nav-arrow-right" class="nav-arrow-right">
+        <div class="super-suggestion-box">
+            <div class="suggestion-box" id="suggestion-box">
+                {{ .NextPage.Title }}
+            </div>
+
+            <i class="fas fa-chevron-right"></i>
         </div>
-        
-        <i class="fas fa-chevron-right"></i>
+        <span style="display: none; height: 0px; width: 0px;" id="nav-arrow-right-link">{{ .NextPage.Permalink }}</span>
     </div>
-    <span style="display: none; height: 0px; width: 0px;" id="nav-arrow-right-link">{{ .NextInSection.Permalink }}</span>
-</div>
 {{- end }}

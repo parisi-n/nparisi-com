@@ -2,7 +2,7 @@
     <div class="design-credit">
         {{ $copyright := index (.Site.Params.copyright) 0 }}
         {{ $year := now.Format "2006" }}
-                
+
         <p style="opacity: 1.8">{{ replace $copyright "YEAR" $year | markdownify }}</p>
         <p style="opacity: 0.3; font-size: 10pt !important;">{{ index (.Site.Params.copyright) 1 |  markdownify }}</p>
         <p style="opacity: 1.8; font-size: 10pt !important;">{{ index (.Site.Params.copyright) 2 |  markdownify }}</p>
