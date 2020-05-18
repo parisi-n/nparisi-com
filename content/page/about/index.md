@@ -13,7 +13,7 @@ e questo è il mio blog.
 
 {{< html >}}
 <div style="text-align: center; margin: auto;">
-    <img src="images/foto_profilo.png" alt="Questo sono io!" class="rounded" style="position: initial; width: 65% !important;" />
+    <img src="images/foto_profilo.jpg" alt="Questo sono io!" class="rounded" style="position: initial; width: 65% !important;" />
 </div>
 {{< /html >}}
 
