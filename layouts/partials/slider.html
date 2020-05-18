@@ -2,7 +2,7 @@
     {{ range .slider }}
         {{ $boardpage := $.outerScope.GetPage .url }}
 
-            {{ $scaled := ( $boardpage.Resources.GetMatch ( printf "images/%s" .image ) ).Resize "1280x q70" }}
+            {{ $scaled := ( $boardpage.Resources.GetMatch ( printf "images/%s" .image ) ).Resize "1920x q70" }}
             
         <div style="display: inline-block; vertical-align: middle">
             <div style="background: url('{{ $scaled.Permalink }}') no-repeat; background-size: cover; background-position: center;" class="slick-image">            
