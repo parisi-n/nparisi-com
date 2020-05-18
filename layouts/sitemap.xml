@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{{ range .Data.Pages }}
-       {{/* In questo modo escludo la categorie delle Quote direttamente dalla sitemap */}}
-       {{ if and (not .Params.sitemapExclude) ( not ( in .Permalink "quote" ) ) }}
+{{- range .Data.Pages }}
+       {{- /* In questo modo escludo la categorie delle Quote direttamente dalla sitemap */}}
+       {{- if and (not .Params.sitemapExclude) ( not ( in .Permalink "quote" ) ) }}
                 <url>
                   <loc>{{ .Permalink }}</loc>
                   <lastmod>{{ .Date.Format "2006-01-02" }}</lastmod>
@@ -13,6 +12,6 @@
                   <priority>{{ .Sitemap.Priority }}</priority>
                   {{- end }}
                 </url>
-       {{ end }}
-{{ end }}
+       {{- end }}
+{{- end }}
 </urlset>
