@@ -34,7 +34,7 @@
     .site-title {  opacity: 1; }
     .site-description { font-weight: 800; opacity: 1 !important; color: #4d4d4d !important; text-transform: uppercase; letter-spacing: 0.8; font-size: 12pt; }
     .menupop a { color: white !important; }
-    .excerpt-header:after, .entry-header:after { height: 0.25em !important; width: 5em !important; bottom: -1.05em !important; opacity: 0.90; border-radius: 3px; }
+    .excerpt-header:after, .entry-header:after { height: 0.25em !important; width: 5em !important; bottom: -1.05em !important; opacity: 0.90; border-radius: 3px; background: #f5411e !important; }
     .excerpt-header:after { background: #4d4d4d !important; opacity: 0.17; height: 0.15 !important; }
     .excerpt .featured-image { filter: saturate(0.7); }
     .excerpt .featured-image:hover { filter: saturate(1); }
