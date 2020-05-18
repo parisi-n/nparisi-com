@@ -13,20 +13,16 @@
 
     {{ $placeholder := .Resize "48x q20" }}
 
-    <figure class="block-image {{$parentclass}}" style="display: block;{{ $parentstyle }}"
-            data-imgset="{{ ( .Resize "640x q60").RelPermalink }} 320w,
-                            {{ (.Resize "1024x q60").RelPermalink }} 600w,
-                            {{ (.Resize "1600x q60").RelPermalink }} 2x"
-            data-src="{{ (.Resize "1600x").RelPermalink}}">
+    <figure class="block-image {{$parentclass}}" style="display: block;{{ $parentstyle }}">
             
             {{ if $href }}<a href="{{ $href }}">{{end}}
             
-                <div class="placeholder{{if $type }} {{$type}}{{end}}" data-large="{{ (.Resize "1600x q60").RelPermalink }}">
-                <img class="img-small" src="{{ $placeholder.RelPermalink }}"
+                <div class="placeholder{{if $type }} {{$type}}{{end}}" data-large="{{ .Permalink }}">
+                <img class="img-small" src="data:image/jpeg;base64,{{ $placeholder.Content | base64Encode }}"
                     {{ if $alt }} alt="{{ $alt }}"{{end}}
                     {{ if $class }} class="{{ $class }}"{{end}}
                     {{ if $style }} style="{{ $style | safeCSS }}"{{end}}
-                    onerror="this.src='images/image-not-found.svg'; this.onerror='';\"
+                    onerror="this.src='images/image-not-found.svg'; this.onerror='';"
                     >
                 <div style="padding-bottom: {{ div (mul .Height 100.0) .Width }}%;"></div>
                 </div>
@@ -39,6 +35,7 @@
         {{ end }}
     </figure>
 {{else}}
+    {{/* Se non trova l'immagine dentro il bundle controlla la cartella /static */}}
     {{ $static_img := printf "static/%s" $src }}
     {{ if fileExists ( $static_img ) }}
         <div class="block-image"{{ if $parentstyle }} style="{{ $parentstyle }}"{{end}}>
@@ -50,6 +47,7 @@
                 {{ if $href }}</a>{{end}}
         </div>
     {{else}}
+    {{/* Nessuna immagine trovata; genera l'errore */}}
         <div class="img-not-found">
             <span>IMMAGINE NON TROVATA</span>
             <span style="color: #c8c8c8;">Src: {{$src}}</span>
