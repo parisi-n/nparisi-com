@@ -19,9 +19,11 @@ Da un po' di tempo stavo ponderando la scelta: Wordpress non andava più bene pe
 
 L'esperienza utente da Wordpress sul mio hosting non era delle migliori. Il sito era lento, pesante. Navigarci all'interno era faticoso per l'esperienza che forniva, ovvero abbastanza standard e _piatta_.
 
-{{< image src="speed.jpg" alt="86 pagespeed score VS 37 pagespeed score" caption="Differenza di punteggio Lighthouse tra le due versioni del sito" parent-class="no-box-shadow" >}}
+{{< image src="wordpress.png" alt="Punteggio del blog su wordpress" caption="Punteggio LightHouse del vecchio blog su wordpress" parent-class="no-box-shadow" >}}
 
-Google PageSpeed Insights riprotava una _Performance_ di **37** (in realtà in vari test il risultato è stato di circa 22) per il mobile e **86** per il Desktop.
+Google PageSpeed Insights riprotava una _Performance_ di **44** (in realtà in vari test il risultato è stato di circa 22) per il mobile e **94** per la **versione mobile**.
+
+{{< image src="netlify.png" alt="Punteggio del blog su wordpress" caption="Punteggio LightHouse del vecchio blog su wordpress" parent-class="no-box-shadow" >}}
 
 Tutto è iniziato quando mi son reso conto che la lentezza del blog non era correlata alla mia connessione ma _al sito stesso_. Il paradosso che ne segue è solo una conseguenza: per velocizzare una cosa lenta devo installare un plugin che lo velocizza; per poi installare un alto plugin che velocizza il precedente.
 
