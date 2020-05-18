@@ -1,5 +1,6 @@
 {{ with .Next }}
-        {{ if and (eq .Params.Type "article") (ne .Params.sitemapExclude) }}
+    {{ if isset .Params "categories" }}
+        {{ if ne ( index .Params.categories 0 ) "quote" }}
         <div id="nav-arrow-right" class="nav-arrow-right">
             <div class="super-suggestion-box">
                 <div class="suggestion-box" id="suggestion-box">
@@ -10,6 +11,9 @@
             </div>
         <span style="display: none; height: 0px; width: 0px;" id="nav-arrow-right-link">{{ .Permalink }}</span>
         </div>
+        {{ else }}
+            {{ partial "next_page" . }}
+        {{ end }}
     {{ else }}
         {{ partial "next_page" . }}
     {{ end }}
