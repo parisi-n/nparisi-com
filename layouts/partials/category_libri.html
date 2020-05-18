@@ -8,13 +8,16 @@
     {{ $affiliate_link_array := .Site.Data.affiliate_link.array }}
     
     <div class="libri-header">
-        <h3>Sto leggendo</h3>
-        
-        <ul>
         {{ $referLeggendo := index ( (where $affiliate_link_array "refer" $sto_leggendo.ref ) ) 0 }}
+        {{ if ne $sto_leggendo.title "" }}
+            <h3>Sto leggendo</h3>
 
-        <li><a href="{{ $referLeggendo.url | safeHTMLAttr }}">{{ $sto_leggendo.title }}</a> di {{ $sto_leggendo.auth }}</li>
-        </ul>
+            <ul>
+
+
+            <li><a href="{{ $referLeggendo.url | safeHTMLAttr }}">{{ $sto_leggendo.title }}</a> di {{ $sto_leggendo.auth }}</li>
+            </ul>
+        {{ end }}
 
         <h3>Ti consiglio</h3>
         
