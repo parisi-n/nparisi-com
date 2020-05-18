@@ -23,7 +23,7 @@ L'esperienza utente da Wordpress sul mio hosting non era delle migliori. Il sito
 
 Google PageSpeed Insights riprotava una _Performance_ di **44** (in realtà in vari test il risultato è stato di circa 22) per il mobile e **94** per la **versione mobile**.
 
-{{< image src="netlify.png" alt="Punteggio del blog su wordpress" caption="Punteggio LightHouse del vecchio blog su wordpress" parent-class="no-box-shadow" >}}
+{{< image src="netlify.png" alt="Punteggio del nuovo blog statico creato da Hugo" caption="Punteggio LightHouse del vecchio blog su wordpress" parent-class="no-box-shadow" >}}
 
 Tutto è iniziato quando mi son reso conto che la lentezza del blog non era correlata alla mia connessione ma _al sito stesso_. Il paradosso che ne segue è solo una conseguenza: per velocizzare una cosa lenta devo installare un plugin che lo velocizza; per poi installare un alto plugin che velocizza il precedente.
 
