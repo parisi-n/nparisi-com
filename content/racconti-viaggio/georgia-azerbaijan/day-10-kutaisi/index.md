@@ -213,5 +213,5 @@ Ne tornerete arricchiti, con qualche avventura in più da raccontare e con qualc
 
 Qui finisce il mio **ultimo giorno in Georgia.**
 
-Se vuoi leggere dei preparativi del viaggio puoi farlo su [questo post]({{< ref "day-0-preparativi.md" >}}).  
-Puoi invece leggere il [day #9 qui]({{< ref "day-9-kazbegi.md" >}}).
+Se vuoi leggere dei preparativi del viaggio puoi farlo su [questo post]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-0-preparativi/index.md" >}}).  
+Puoi invece leggere il [day #9 qui]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-9-kazbegi/index.md" >}}).

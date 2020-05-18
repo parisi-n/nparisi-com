@@ -253,7 +253,7 @@ Non è una vera e propria attrazione, ma non è il caso di rischiare e tornare a
 
 In poco meno di mezza giornata abbiamo girato la maggior parte dei sightseeings che Budapest ha da offrire.
 
-Curioso di sapere cosa potresti fare nei restanti tre giorni a disposizione? Continua a leggere il [prossimo post]({{< ref "ep-2-noleggiare-un-monsteroller.md" >}}) per scoprire come impegnare i giorni successivi.  
+Curioso di sapere cosa potresti fare nei restanti tre giorni a disposizione? Continua a leggere il [prossimo post]({{< ref "/racconti-viaggio/budapest/ep-2-noleggiare-un-monsteroller/index.md" >}}) per scoprire come impegnare i giorni successivi.  
 
 * * *
 

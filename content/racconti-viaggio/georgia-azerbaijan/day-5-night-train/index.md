@@ -200,6 +200,6 @@ A mezzanotte e mezzo circa le luci del vagone diminuiranno di intensità, e potr
 
 Qui finisce il mio **day #5 in Georgia.**
 
-Nel [day #6]({{< ref "day-6-baku.md" >}}) arriveremo a Baku e faremo un giro generale, esplorando la città, la cultura ed un po' di tradizioni.  
-Se vuoi leggere dei preparativi del viaggio puoi farlo su [questo post]({{< ref "day-0-preparativi.md" >}}).  
-Puoi invece leggere il [day #4 qui]({{< ref "day-4-batumi.md" >}}).
+Nel [day #6]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-6-baku/index.md" >}}) arriveremo a Baku e faremo un giro generale, esplorando la città, la cultura ed un po' di tradizioni.  
+Se vuoi leggere dei preparativi del viaggio puoi farlo su [questo post]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-0-preparativi/index.md" >}}).  
+Puoi invece leggere il [day #4 qui]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-4-batumi/index.md" >}}).

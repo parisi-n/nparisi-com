@@ -11,7 +11,7 @@ showToc : true
 type: "article"
 ---
 {{< capital_letter_open >}}
-Se il vostro itinerario è stato più o meno simile al nostro nel [primo giorno]({{< ref "ep-1-cosa-fare-dove-andare.md" >}}) e nel [secondo giorno]({{< ref "ep-2-noleggiare-un-monsteroller.md" >}}), arriverete al terzo giorno che sarete in dubbio sul da farsi.  
+Se il vostro itinerario è stato più o meno simile al nostro nel [primo giorno]({{< ref "/racconti-viaggio/budapest/ep-1-cosa-fare-dove-andare/index.md" >}}) e nel [secondo giorno]({{< ref "/racconti-viaggio/budapest/ep-2-noleggiare-un-monsteroller/index.md" >}}), arriverete al terzo giorno che sarete in dubbio sul da farsi.  
 Non tutto ciò che è turistico - in una città - necessita di essere visitato, visto, fotografato (e sudato, se le temperature sono elevate).  
 Paradossalmente - un giorno speso ai bagni termali - è quanto di più turistico possiate fare a Budapest. E' un turismo dei sensi e delle emozioni, del relax e del piacere delle considerazioni personali sul viaggio in un momento di pausa in cui non potete fare altro che staccarvi dal mondo e lasciarvi andare al calore dell'acqua che (soprattutto in inverno) vi coccola.
 {{< capital_letter_close >}}
@@ -132,4 +132,4 @@ Un posto che mi sento di consigliare per l'atmosfera e per la qualità del gulas
 
 Ed è tra un cucchiaio e l'altro di gulash che sorge la fatidica domanda: "**domani che facciamo?"**.
 
-Guardiamo i bus in partenza da Budapest e senza pensarci eccessivamente, con leggerezza, prenotiamo: **["domani si va a Belgrado"]({{< ref "ep-4-day-trip-belgrado.md" >}})**.
+Guardiamo i bus in partenza da Budapest e senza pensarci eccessivamente, con leggerezza, prenotiamo: **["domani si va a Belgrado"]({{< ref "/racconti-viaggio/budapest/ep-4-day-trip-belgrado/index.md" >}})**.

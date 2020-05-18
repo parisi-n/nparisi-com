@@ -55,7 +55,7 @@ Per questo ho stilato un elenco dei testi che sto trovando utili per lo studio.
 
 ### Statistical analysis with R for dummies
 
-Immancabile il libro della famosissima saga "for Dummies" - a malincuore devo ammettere che due [eccetto uno]({{< ref "perche-non-prendere-kobo.md" >}})/) non sono mai riuscito a finire un loro libro. Trovo la prima metà del libro estremamente entusiasmante, quasi avvincente. L'autore vi spiegherà prima la statistica che c'è alla base, poi la applicherà su R con esempi pratici.
+Immancabile il libro della famosissima saga "for Dummies" - a malincuore devo ammettere che due [eccetto uno]({{< ref "/accessori/perche-non-prendere-kobo/index.md" >}})/) non sono mai riuscito a finire un loro libro. Trovo la prima metà del libro estremamente entusiasmante, quasi avvincente. L'autore vi spiegherà prima la statistica che c'è alla base, poi la applicherà su R con esempi pratici.
 
 {{< image src="20200123_094524.jpg" alt="Statistical Analysis with R" >}}
 

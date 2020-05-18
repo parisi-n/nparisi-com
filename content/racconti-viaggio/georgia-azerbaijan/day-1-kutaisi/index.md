@@ -199,5 +199,5 @@ Accompagnati da birra chiara georgiana. Se decidete di provare il vino, in Georg
 
 Così si conlude il **day #1 in Georgia.**
 
-Continua a leggere [qui]({{< ref "day-2-mestia.md" >}}) le avventure del **day #2**, ovvero del viaggio sul turboelica (😱) Vanillasky da Kutaisi a Mestia e del primo giorno nel caucaso 🤩  
-Se vuoi leggere dei preparativi del viaggio - invece - puoi farlo su [questo post]({{< ref "day-0-preparativi.md" >}}).  
+Continua a leggere [qui]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-2-mestia/index.md" >}}) le avventure del **day #2**, ovvero del viaggio sul turboelica (😱) Vanillasky da Kutaisi a Mestia e del primo giorno nel caucaso 🤩  
+Se vuoi leggere dei preparativi del viaggio - invece - puoi farlo su [questo post]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-0-preparativi/index.md" >}}).  

@@ -162,8 +162,8 @@ Prima di concludere vorrei consigliarvi la lettura di {{< external_link "https:/
 
 Qui finisce il **day #9 in Georgia.** Il penultimo giorno. Il countdown è iniziato.
 
-Il **[day #10]({{< ref "day-10-kutaisi.md" >}})** è frutto di una meticolosa organizzazione logistica, poichè nei piani originari avremmo dovuto visitare le Cave di Prometeo e il Canyon Martvili il primo giorno appena arrivati.  
+Il **[day #10]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-10-kutaisi/index.md" >}})** è frutto di una meticolosa organizzazione logistica, poichè nei piani originari avremmo dovuto visitare le Cave di Prometeo e il Canyon Martvili il primo giorno appena arrivati.  
 Avevamo però scoperto che **il Lunedì non vengono organizzati tour poichè le Cave sono chiuse**.
 
-Se vuoi leggere dei preparativi del viaggio puoi farlo su [questo post]({{< ref "day-0-preparativi.md" >}}).  
-Puoi invece leggere il [day #8 qui]({{< ref "day-8-tbilisi.md" >}}).
+Se vuoi leggere dei preparativi del viaggio puoi farlo su [questo post]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-0-preparativi/index.md" >}}).  
+Puoi invece leggere il [day #8 qui]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-8-tbilisi/index.md" >}}).

@@ -109,7 +109,7 @@ Avendo però a disposizione **7 giorni,** dopo aver esplorato Catania in lungo 
 
 ## Aci Castello, Aci Trezza, Acireale...Taormina
 
-E così abbiam deciso di noleggiare una _Smart_\-ina (ovviamente di che colore? **arancione!** 😍) ed avviarci subito dopo pranzo verso **Taormina** 🚗.
+E così abbiam deciso di noleggiare una _Smartina_ (ovviamente di che colore? **arancione!** 😍) ed avviarci subito dopo pranzo verso **Taormina** 🚗.
 
 {{< image src="IMG_0214.jpg" alt="Smart For Four arancione" >}}
 

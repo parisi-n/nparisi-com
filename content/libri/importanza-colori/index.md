@@ -22,7 +22,7 @@ Finchè non son capitato su un aereo che mi ha portato in Portogallo.
 
 Argomento spesso sottovalutato, eppure non così scontato come potrebbe sembrare.
 
-Nell'ultimo [viaggio a Porto]({{< ref "ti-porto-per-la-terza-volta.md" >}}) ho avuto il piacere di visitare la **Libreria** "**Lello"**. Il biglietto di ingresso non è altro che un buono sconto spendibile all'interno per l'acquisto di qualunque libro.
+Nell'ultimo [viaggio a Porto]({{< ref "/racconti-viaggio/portogallo/ti-porto-per-la-terza-volta/index.md" >}}) ho avuto il piacere di visitare la **Libreria** "**Lello"**. Il biglietto di ingresso non è altro che un buono sconto spendibile all'interno per l'acquisto di qualunque libro.
 
 {{< image src="IMG_1398.jpg" alt="La copertina è spessa ma flessibile, plastificata" >}}
 

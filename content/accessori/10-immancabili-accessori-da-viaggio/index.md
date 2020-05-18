@@ -84,7 +84,7 @@ All'interno ha l'alloggiamento per due card.
 
 ## 6. Portacarte di credito RFID 💳
 
-L'avevo visto per la prima volta in [Giappone]({{< ref "tokyo.md" >}}) (**patria di questo tipo di accessori**), e non ho tardato ad acquistarne uno simile.
+L'avevo visto per la prima volta in [Giappone]({{< ref "/racconti-viaggio/giappone/tokyo/index.md" >}}) (**patria di questo tipo di accessori**), e non ho tardato ad acquistarne uno simile.
 
 Normalmente giro con un'unica carta, all'interno del portafogli, e lascio le restanti che normalmente mi porto dietro in albergo, al sicuro, dentro questo comodo portacard. Il colore lo rende anche facilmente individuabile all'interno della valigia.
 

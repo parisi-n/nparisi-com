@@ -66,6 +66,6 @@ L'ebook reader è più indicato per letture sotto l'ombrellone, rilassanti e sen
 * * *
 
 Le foto risalgono a **quest'ultima estate** trascorsa sulle bellissime coste sarde, mentre - sotto l'ombrellone - approfondivo l'argomento BigData e Data science.  
-In questo senso - se siete interessati all'argomento e state muovendo i primi passi - vi consiglio la lettura di [questo post]({{< ref "perche-ho-scelto-r.md" >}}) sulla programmazione R.
+In questo senso - se siete interessati all'argomento e state muovendo i primi passi - vi consiglio la lettura di [questo post]({{< ref "/lifestyle/perche-ho-scelto-r/index.md" >}}) sulla programmazione R.
 
 E voi? Per cosa usate il vostro ebook reader di fiducia?

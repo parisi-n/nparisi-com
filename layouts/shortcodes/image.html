@@ -11,24 +11,24 @@
 
 {{ with .Page.Resources.GetMatch $src }}
 
-    {{ $image := . }}
-    {{ $placeholder := $image.Resize "48x q20" }}
+    {{ $placeholder := .Resize "48x q20" }}
 
     <figure class="block-image {{$parentclass}}" style="display: block;{{ $parentstyle }}"
-            data-imgset="{{ (.Resize "640x").RelPermalink }} 320w,
-                            {{ (.Resize "1024x").RelPermalink }} 600w,
-                            {{ (.Resize "1600x").RelPermalink }} 2x"
+            data-imgset="{{ ( .Resize "640x q60").RelPermalink }} 320w,
+                            {{ (.Resize "1024x q60").RelPermalink }} 600w,
+                            {{ (.Resize "1600x q60").RelPermalink }} 2x"
             data-src="{{ (.Resize "1600x").RelPermalink}}">
             
             {{ if $href }}<a href="{{ $href }}">{{end}}
             
-                <div class="placeholder{{if $type }} {{$type}}{{end}}" data-large="{{ $image.Permalink }}">
+                <div class="placeholder{{if $type }} {{$type}}{{end}}" data-large="{{ (.Resize "1600x q60").RelPermalink }}">
                 <img class="img-small" src="{{ $placeholder.RelPermalink }}"
                     {{ if $alt }} alt="{{ $alt }}"{{end}}
                     {{ if $class }} class="{{ $class }}"{{end}}
                     {{ if $style }} style="{{ $style | safeCSS }}"{{end}}
+                    onerror="this.src='images/image-not-found.svg'; this.onerror='';\"
                     >
-                <div style="padding-bottom: {{ div (mul $image.Height 100.0) $image.Width }}%;"></div>
+                <div style="padding-bottom: {{ div (mul .Height 100.0) .Width }}%;"></div>
                 </div>
             {{ if $href }}</a>{{end}}
 

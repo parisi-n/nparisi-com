@@ -188,8 +188,8 @@ Ma le emozioni non erano ancora finite: a Mestia vi potrebbe capitare anche di i
 
 Ed ecco la notte del **day #2 in Georgia.**
 
-Nel **[day #3]({{< ref "day-3-mestia.md" >}})** ci aspetta l'arrampicata sul Caucaso alla scoperta dei laghi di Koruldi. Ma questo - il giorno prima - ancora non lo sapevamo...  
-Se vuoi leggere dei preparativi del viaggio puoi farlo su [questo post]({{< ref "day-0-preparativi.md" >}}).  
+Nel **[day #3]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-3-mestia/index.md" >}})** ci aspetta l'arrampicata sul Caucaso alla scoperta dei laghi di Koruldi. Ma questo - il giorno prima - ancora non lo sapevamo...  
+Se vuoi leggere dei preparativi del viaggio puoi farlo su [questo post]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-0-preparativi/index.md" >}}).  
 Puoi invece leggere il [day #1 qui]({{< ref "day-1-kutaisi.md" >}}).  
 
 * * *

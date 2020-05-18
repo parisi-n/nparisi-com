@@ -149,6 +149,6 @@ Finisce pigramente il **day #8 del viaggio in Georgia.**
 
 Sembravano tantissimi, eppure uno dopo l'altro i giorni son passati: sembra un mese fa che volavamo sul Caucaso con quell'inaffidabile turboelica oppure lo scalavamo per raggiungere i Koruldi lakes! Invece sono appena 4 giorni...**quattro giorni vissuti a pieno regime**.
 
-Nel [day #9]({{< ref "day-9-kazbegi.md" >}}) ci aspetta il tour verso Kazbegi con la guida più cool che incontrerete sicuramente in tutti i vostri viaggi: Jimmy!  
-Se vuoi leggere dei preparativi del viaggio puoi farlo su [questo post]({{< ref "day-0-preparativi.md" >}}).  
-Puoi invece leggere il [day #7 qui]({{< ref "day-7-qobustan.md" >}}).
+Nel [day #9]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-9-kazbegi/index.md" >}}) ci aspetta il tour verso Kazbegi con la guida più cool che incontrerete sicuramente in tutti i vostri viaggi: Jimmy!  
+Se vuoi leggere dei preparativi del viaggio puoi farlo su [questo post]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-0-preparativi/index.md" >}}).  
+Puoi invece leggere il [day #7 qui]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-7-qobustan/index.md" >}}).

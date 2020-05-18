@@ -70,16 +70,16 @@ Ho parlato di alcuni degli oggetti elencati in [questo post]({{< ref "10-immanca
 
 Col senno di poi, a scriverlo, è stata una corsa continua. Son state poche le volte in cui ho dormito due notti nello stesso posto. E' croce e delizia di un viaggio in Georgia per chi ha poco tempo.
 
-**[Giorno #1]({{< ref "day-1-kutaisi.md" >}})**: arrivo a Kutaisi la notte prima, giro della città, pomeriggio al monastero di Gelati.  
-**[Giorno #2]({{< ref "day-2-mestia.md" >}})**: partenza la mattina per Mestia mediante turboelica messo a disposizione da {{< external_link "https://ticket.vanillasky.ge/" "VanillaSky" >}}. Ushguli.  
-**[Giorno #3]({{< ref "day-3-mestia.md" >}})**: Mestia ed esplorazione di Koruldi Lakes.  
-**[Giorno #4]({{< ref "day-4-batumi.md" >}})**: partenza all'alba per Batumi, giro nel lungo mare.  
-**[Giorno #5]({{< ref "day-5-night-train.md" >}})**: partenza per Tbilisi in treno, pranzo e giro in centro. Partenza per Baku (Azerbaijan) con treno notturno.  
-**[Giorno #6]({{< ref "day-6-baku.md" >}})**: giro in centro per Baku e notte.  
-**[Giorno #7]({{< ref "day-7-qobustan.md" >}})**: tour organizzato della penisola del Qobustan e partenza nella notte in treno per Tbilisi.  
-**[Giorno #8]({{< ref "day-8-tbilisi.md" >}})**: Tbilisi, tour della città.  
-**[Giorno #9]({{< ref "day-9-kazbegi.md" >}})**: tour da Tbilisi per Kazbegi.  
-**[Giorno #10]({{< ref "day-10-kutaisi.md" >}})**: tour (da Tbilisi) per le cave di Prometeo ed il Canion Martvili, notte a Kutaisi.  
+**[Giorno #1]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-1-kutaisi/index.md" >}})**: arrivo a Kutaisi la notte prima, giro della città, pomeriggio al monastero di Gelati.  
+**[Giorno #2]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-2-mestia/index.md" >}})**: partenza la mattina per Mestia mediante turboelica messo a disposizione da {{< external_link "https://ticket.vanillasky.ge/" "VanillaSky" >}}. Ushguli.  
+**[Giorno #3]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-3-mestia/index.md" >}})**: Mestia ed esplorazione di Koruldi Lakes.  
+**[Giorno #4]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-4-batumi/index.md" >}})**: partenza all'alba per Batumi, giro nel lungo mare.  
+**[Giorno #5]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-5-night-train/index.md" >}})**: partenza per Tbilisi in treno, pranzo e giro in centro. Partenza per Baku (Azerbaijan) con treno notturno.  
+**[Giorno #6]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-6-baku/index.md" >}})**: giro in centro per Baku e notte.  
+**[Giorno #7]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-7-qobustan/index.md" >}})**: tour organizzato della penisola del Qobustan e partenza nella notte in treno per Tbilisi.  
+**[Giorno #8]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-8-tbilisi/index.md" >}})**: Tbilisi, tour della città.  
+**[Giorno #9]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-9-kazbegi/index.md" >}})**: tour da Tbilisi per Kazbegi.  
+**[Giorno #10]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-10-kutaisi/index.md" >}})**: tour (da Tbilisi) per le cave di Prometeo ed il Canion Martvili, notte a Kutaisi.  
 _Giorno #11:_ all'alba, la partenza.
 
 In 10 giorni, questo è stato il massimo che son riuscito a fare. Sono cosciente di aver saltato molte cose, ma sono più che soddisfatto di questo _assaggio di Georgia._

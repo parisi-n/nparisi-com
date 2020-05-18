@@ -215,6 +215,6 @@ Se solo penso che a Batumi non ci volevo nemmeno venire...niente di più sbaglia
 
 Qui finisce il mio **day #4 in Georgia.**
 
-Nel [day #5]({{< ref "day-5-night-train.md" >}}): l'arrivo a Tbilisi e i preparativi per la partenza sul night train in direzione Baku.  
-Se vuoi leggere dei preparativi del viaggio puoi farlo su [questo post]({{< ref "day-0-preparativi.md" >}}).  
-Puoi invece leggere il day #3 [qui]({{< ref "day-3-mestia.md" >}}).  
+Nel [day #5]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-5-night-train/index.md" >}}): l'arrivo a Tbilisi e i preparativi per la partenza sul night train in direzione Baku.  
+Se vuoi leggere dei preparativi del viaggio puoi farlo su [questo post]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-0-preparativi/index.md" >}}).  
+Puoi invece leggere il day #3 [qui]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-3-mestia/index.md" >}}).  

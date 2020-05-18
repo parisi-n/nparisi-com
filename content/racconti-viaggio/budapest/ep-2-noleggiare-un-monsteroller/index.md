@@ -19,7 +19,7 @@ _Questo post viene pubblicato in un momento difficile per l'Italia a causa dell'
 {{< /font >}}
 
 {{< capital_letter_open >}}
-Nel [post precedente]({{< ref "ep-1-cosa-fare-dove-andare.md" >}}) vi ho raccontato di cosa poter vedere nell'arco di mezza giornata a Budapest - nel caso facciate un layover (probabile con Kiwi.com) di qualche ora o dell'intera giornata e vogliate fare un rapido tour della città e visitare le attrazioni più importanti.
+Nel [post precedente]({{< ref "/racconti-viaggio/budapest/ep-1-cosa-fare-dove-andare/index.md" >}}) vi ho raccontato di cosa poter vedere nell'arco di mezza giornata a Budapest - nel caso facciate un layover (probabile con Kiwi.com) di qualche ora o dell'intera giornata e vogliate fare un rapido tour della città e visitare le attrazioni più importanti.
 E se invece aveste a disposizione un po' più di tempo - come due o tre giorni - cosa fare a Budapest? Qui una serie di idee simpatiche e divertenti per "riempire" il secondo ed il terzo giorno.
 {{< capital_letter_close >}}
 
@@ -32,7 +32,7 @@ La scelta è basata esclusivamente sul vostro gusto personale.
 | **Monopattino** †  | **Monsteroller**  | **Segway** ‡  |
 | -------------------|-------------------|---------------|
 | 3-Hours: 19.90€    |   1-Hour: 23.90€  |1.5Hour: 39.90€|
-| 6-Housr: 23.90€    |  2-Hours: 34.90€  |               |
+| 6-Hours: 23.90€    |  2-Hours: 34.90€  |               |
 | 3-Hours: 48.90€    |                   |               |
 
 **†** Sparsi per Budapest troverete i {{< external_link "https://play.google.com/store/apps/details?id=com.limebike&hl=it" "monopattini Lime" >}}. Lo sblocco costa 250 fiorini e successivamente 50 fiorini ogni minuto di utilizzo
@@ -211,4 +211,4 @@ Dal punto di vista turistico non ci sarebbe nient'altro da visitare. Abbiamo vis
 
 Il terzo giorno - dunque - ce lo terremo per rilassarci e fare il punto della situazione. Quel che è passato ormai è andato, il presente siamo noi in una stanza di ostello, stanchi ma contenti. Il futuro è quello che importa.
 
-Siete curiosi di sapere dove prendervi un'intera giornata off per rilassarvi a Budapest? [Continuate a leggere]({{< ref "ep-3-bagni-di-szecheny.md" >}}).
+Siete curiosi di sapere dove prendervi un'intera giornata off per rilassarvi a Budapest? [Continuate a leggere]({{< ref "/racconti-viaggio/budapest/ep-3-bagni-di-szecheny/index.md" >}}).

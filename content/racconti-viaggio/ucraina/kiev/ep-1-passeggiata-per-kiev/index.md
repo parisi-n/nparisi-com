@@ -13,8 +13,8 @@ type: "article"
 draft: true
 ---
 {{< capital_letter_open >}}
-Era il [Marzo del 2016]({{< ref "ternopil.md" >}}) e mi recavo per la prima volta in questa terra un po' timoroso ed un po' incerto. Una terra a cui - forse per via dell'alfabeto oscuro - avevo timore. Ci son voluti 6 mesi di aria lituania e due corsi di russo per decidermi a varcare la soglia europea ed avventurarmi in solitaria in una terra che - da straniero - può essere contorta e ingannevole.
-E' Novembre 20219 e - come chiusa del ciclo di viaggi autunnali iniziati con la [Georgia]({{< ref "day-0-preparativi.md">}} e continuati con [Budapest]({{< ref "ep-1-cosa-fare-dove-andare.md" >}} e [Belgrado]({{< ref "ep-4-day-trip-belgrado.md" >}} - decido di visitare la capitale ucraina. Non è tra le top 10 europee - ma da tempo ho compreso che ciò che non è nelle top 10 è molto più interessante celle classiche capitali - quindi perchè no?
+Era il [Marzo del 2016]({{< ref "/racconti-viaggio/ucraina/ternopil/index.md" >}}) e mi recavo per la prima volta in questa terra un po' timoroso ed un po' incerto. Una terra a cui - forse per via dell'alfabeto oscuro - avevo timore. Ci son voluti 6 mesi di aria lituania e due corsi di russo per decidermi a varcare la soglia europea ed avventurarmi in solitaria in una terra che - da straniero - può essere contorta e ingannevole.
+E' Novembre 20219 e - come chiusa del ciclo di viaggi autunnali iniziati con la [Georgia]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-0-preparativi/index.md">}} e continuati con [Budapest]({{< ref "/racconti-viaggio/budapest/ep-1-cosa-fare-dove-andare/index.md" >}} e [Belgrado]({{< ref "/racconti-viaggio/budapest/ep-4-day-trip-belgrado/index.md" >}} - decido di visitare la capitale ucraina. Non è tra le top 10 europee - ma da tempo ho compreso che ciò che non è nelle top 10 è molto più interessante celle classiche capitali - quindi perchè no?
 Per rendere il tutto più epico - poi - aggiungo come tappa nell'ultimo giorno di viaggio un _day-tour_ a Chernobyl.
 Ed il capolavoro è servito.
 {{< capital_letter_close >}}
@@ -25,7 +25,7 @@ Uno dei numerosi murales distribuiti per la città
 ## I preparativi
 A Novembre 2019 - non è (ancora) necessario visto d'ingresso per i cittadini italiano in possesso di passaporto italiano con almeno 6 mesi di validità al momento dell'ingresso. Trovate maggiori informazioni {{< external_link "http://www.viaggiaresicuri.it/country/UKR" "qui" >}}.
 Assicuratevi di mettere in valigia abbigliamento caldo. Kiev - per quanto **goda di un clima leggermente più "caldo" (è vera questa cosa?)** rispetto alla campagna ma sa essere spietata in quanto ad abbassamenti repentini di temperatura - come solo chi ha vissuto in queste terre con clima continentale sa. Oggi l'esterno è ancora agibile; il giorno dopo diventa un inferno di ghiaccio. Se volete conoscere quanto sia spietata la natura e di quanto (simbolicamente) l'uomo combatta con essa - fate un viaggio ad Est - nei territori ex-URSS.
-Se volete ricevere qualche suggerimento su cosa portarvi potete dare uno sguardo a [quali accessori da viaggio reputo immancabili]({{< ref "10-immancabili-accessori-da-viaggio.md" >}} ) oppure quel che ho portato dietro [nel viaggio in Georgia]({{< ref "day-0-preparativi.md" >}}).
+Se volete ricevere qualche suggerimento su cosa portarvi potete dare uno sguardo a [quali accessori da viaggio reputo immancabili]({{< ref "/accessori/10-immancabili-accessori-da-viaggio/index.md" >}} ) oppure quel che ho portato dietro [nel viaggio in Georgia]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-0-preparativi/index.md" >}}).
 
 ## Come muoversi
 
@@ -143,7 +143,7 @@ Vi consiglio di provare, oltre all'intramontabile Borsch, anche ...COSA CONSIGLI
 * * *
 Volutamente in questi post sto trascurando il lato turistico del tour: muoversi a Kiev è tutt'altro che difficile. Non è mia intenzione fornire un vademecum sui sightseeings della città che potete trovare sulla prima guida.
 La mia intenzione è trasmettere gli #ukrainianvibes, unici ed autentici, di una cultura, di una società di un posto spesso non considerato come meta turistica perchè consierato "terzo mondo" o "pericoloso".
-L'Ucraina è una grande terra, ricca in storia e virtù, in leggende ed in sacrificio del passato. Kiev è una bomboniera che si mostra bella ed incommentabile - diversa dalla periferia campestre [che ebbi la fortuna di visitare alcuni anni fa]({{< ref "ternopil.md" >}}), più lussosa (e lussuriosa), più metropoli.
+L'Ucraina è una grande terra, ricca in storia e virtù, in leggende ed in sacrificio del passato. Kiev è una bomboniera che si mostra bella ed incommentabile - diversa dalla periferia campestre [che ebbi la fortuna di visitare alcuni anni fa]({{< ref "/racconti-viaggio/ucraina/ternopil/index.md" >}}), più lussosa (e lussuriosa), più metropoli.
 Ma non per questo dimentica ciò che è stato e la sua storia.
 Storia che si riflette sulla consuetudine tra i patriotici ucraini salutarsi:
 | | | | |

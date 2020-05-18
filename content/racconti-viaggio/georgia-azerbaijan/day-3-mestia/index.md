@@ -108,6 +108,6 @@ Non so però come funzioni in Italia il mercato dell'_import_ e suppongo rimarr�
 
 Qui finisce il mio **day #3 in Georgia.**
 
-Nel [day #4]({{< ref "day-4-batumi.md" >}}) ci avrebbero aspettato 130km di curve da fare in più di 6h in marshrutka per arrivare a Batumi - ovvero la seconda fase critica del viaggio.  
-Se vuoi leggere dei preparativi del viaggio puoi farlo su [questo post]({{< ref "day-0-preparativi.md" >}}).  
-Puoi invece leggere il [day #2 qui]({{< ref "day-2-mestia.md" >}}).
+Nel [day #4]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-4-batumi/index.md" >}}) ci avrebbero aspettato 130km di curve da fare in più di 6h in marshrutka per arrivare a Batumi - ovvero la seconda fase critica del viaggio.  
+Se vuoi leggere dei preparativi del viaggio puoi farlo su [questo post]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-0-preparativi/index.md" >}}).  
+Puoi invece leggere il [day #2 qui]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-2-mestia/index.md" >}}).

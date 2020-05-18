@@ -72,7 +72,7 @@ Se la vostra carta è abilitata per i **pagamenti contactless** - potrete pagare
 
 {{< appbox img="https://lh3.googleusercontent.com/TRCKh9Uk5mME5lVDZBAVmBMyBEiumHw4Ef9MTAnRqgcK8MEr4M8jqqBDGX_pKVBffpo=s180-rw" name="Bolt (formerly Taxify)" package="ee.mtakso.client" >}}
 
-App già presentata nel [viaggio in Georgia]({{< ref "day-1-kutaisi.md" >}}). Anche a Belgrado funziona ma - ad Ottobre 2019 - ha ancora molto da migliorare, ad iniziare dalla stima del costo della percorrenza prevista. Dal centro all'hotei ci siamo ritrovati a pagare più del doppio.
+App già presentata nel [viaggio in Georgia]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-1-kutaisi/index.md" >}}). Anche a Belgrado funziona ma - ad Ottobre 2019 - ha ancora molto da migliorare, ad iniziare dalla stima del costo della percorrenza prevista. Dal centro all'hotei ci siamo ritrovati a pagare più del doppio.
 
 Contattato successivamente il Customer Care - ci è stato rilasciato un buono da usare entro un mese. Ciò non toglie che - nel momento - in ristrettezze di cash - ce la siamo visti brutta.
 

@@ -164,9 +164,9 @@ Ecco qui il timelapse.
 
 Qui finisce il mio **day #6 in Georgia.**
 
-Nel [day #7]({{< ref "day-7-qobustan.md" >}}) gireremo la penisola del Qobustan con l'agenzia trovata la sera. Il tour sarà all'altezza delle aspettative? Riusciremo ad essere a Baku per le 20.40 per prendere il treno notturno e tornare in Georgia come da itinerario originario?  
-Se vuoi leggere dei preparativi del viaggio puoi farlo su [questo post]({{< ref "day-0-preparativi.md" >}}).  
-Puoi invece leggere il [day #5 qui]({{< ref "day-5-night-train.md" >}}).  
+Nel [day #7]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-7-qobustan/index.md" >}}) gireremo la penisola del Qobustan con l'agenzia trovata la sera. Il tour sarà all'altezza delle aspettative? Riusciremo ad essere a Baku per le 20.40 per prendere il treno notturno e tornare in Georgia come da itinerario originario?  
+Se vuoi leggere dei preparativi del viaggio puoi farlo su [questo post]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-0-preparativi/index.md" >}}).  
+Puoi invece leggere il [day #5 qui]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-5-night-train/index.md" >}}).  
 
 * * *
 

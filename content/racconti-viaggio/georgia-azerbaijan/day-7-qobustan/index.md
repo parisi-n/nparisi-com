@@ -226,6 +226,6 @@ Si conclude ufficialmente il **day #7 del viaggio alla scoperta della Georgia e 
 E' stata una **corsa continua**, ma **ne è valsa davvero la pena**.  
 Forse un giorno in più sarebbe stato meglio, ma siamo sicuri che Baku avrebbe mantenuto lo stesso grado di stupore e le stesse impressioni (positive) che ci ha regalato invece in questa visita lampo?
 
-Nel [day #8]({{< ref "day-8-tbilisi.md" >}}) finalmente con un po' più di calma esploreremo la capitale georgiana.  
-Se vuoi leggere dei preparativi del viaggio puoi farlo su [questo post]({{< ref "day-0-preparativi.md" >}}).  
-Puoi invece leggere il [day #6 qui]({{< ref "day-6-baku.md" >}}).
+Nel [day #8]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-8-tbilisi/index.md" >}}) finalmente con un po' più di calma esploreremo la capitale georgiana.  
+Se vuoi leggere dei preparativi del viaggio puoi farlo su [questo post]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-0-preparativi/index.md" >}}).  
+Puoi invece leggere il [day #6 qui]({{< ref "/racconti-viaggio/georgia-azerbaijan/day-6-baku/index.md" >}}).

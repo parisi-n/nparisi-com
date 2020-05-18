@@ -31,7 +31,7 @@ La funzione di Backup consente di avere una copia di riserva delle spese salvate
 
 ## 2. Kiwi.com
 
-Nonostante in occasione dell'[ultimo viaggio in Marocco]({{< ref "catania.md" >}}) l'assistenza di Kiwi.com non mi abbia fornito l'assistenza di cui avevo effettivamente bisogno (riconosco però la complessità della situazione e che - onestamente - ci sarebbe stato poco da fare), mi sento di consigliare caldamente l'app di Kiwi.com.  
+Nonostante in occasione dell'[ultimo viaggio in Marocco]({{< ref "/racconti-viaggio/verso-marrakech/catania/index.md" >}}) l'assistenza di Kiwi.com non mi abbia fornito l'assistenza di cui avevo effettivamente bisogno (riconosco però la complessità della situazione e che - onestamente - ci sarebbe stato poco da fare), mi sento di consigliare caldamente l'app di Kiwi.com.  
 Certe volte i prezzi proposti _non sono aggiornati,_ il che può essere un bene o un male, sia in difetto che in eccesso, ma la possibilità di acquistare l'assicurazione sanitaria con **Axa** direttamente dal pannello del viaggio, a prezzo scontato, **gli scali garantiti kiwi,** la possibilità di poter prenotare più voli con scalo con un'unica prenotazione **me lo fanno consigliare.**
 
 {{< appbox img="https://lh3.googleusercontent.com/ZpMnPiuWZBFaXufESUYx5eIDYc9_txSQK7LNyynfYq6CezmmgFJ_6VeQ5A7oZr4J_Q=s180-rw" name="Kiwi.com: offerte viaggi: voli, auto" package="com.skypicker.main" >}}
@@ -120,7 +120,7 @@ Non sono un grand estimatore di AirBnb. A dire il vero, l'ho usato giusto un pai
 
 ## 9. TripAdvisor
 
-Essenziale quando si avvicina ora di pranzo o di cena e si è indecisi se mangiare o no in un certo posto. A [Porto e Nazarè]({{< ref "ti-porto-per-la-terza-volta.md" >}}) **ci ha fatto fare dei pranzi e delle cene eccellenti**. Utile anche in fase di pianificazione, quando si vuole capire quali sono gli hotspot e sightseeing immancabili nell'itinerario (per questo solitamente consulto la guida turistica cartacea del posto - **DK Eyewitness** [tradotta in Italia da **Mondadori**](https://www.mondadoristore.it/guide-viaggio-mondadori/) sono le mie preferite). Peccato che capiterà che per le località meno blasonate la guida non sia disponibile, quindi...TripAdvisor sarà strategico 😃
+Essenziale quando si avvicina ora di pranzo o di cena e si è indecisi se mangiare o no in un certo posto. A [Porto e Nazarè]({{< ref "/racconti-viaggio/portogallo/ti-porto-per-la-terza-volta.md" >}}) **ci ha fatto fare dei pranzi e delle cene eccellenti**. Utile anche in fase di pianificazione, quando si vuole capire quali sono gli hotspot e sightseeing immancabili nell'itinerario (per questo solitamente consulto la guida turistica cartacea del posto - **DK Eyewitness** [tradotta in Italia da **Mondadori**](https://www.mondadoristore.it/guide-viaggio-mondadori/) sono le mie preferite). Peccato che capiterà che per le località meno blasonate la guida non sia disponibile, quindi...TripAdvisor sarà strategico 😃
 
 {{< appbox img="https://lh3.googleusercontent.com/BUq362FJqVrEpn38qwon1QQgFq6oUOTXRo79Lu0zqnc4PNIgOdjkWiQ2mBTJs95JoO8I=s180-rw" name="Tripadvisor Hotel Voli Ristoranti" package="com.tripadvisor.tripadvisor" >}}
 

@@ -1,16 +1,20 @@
 <div class="slick-container">
     {{ range .slider }}
-    <div style="display: inline-block; vertical-align: middle">
-        <img data-lazy="{{ ( printf "%simages/%s" .url .image ) | absURL }}" class="slick-image" />
+        {{ $boardpage := $.outerScope.GetPage .url }}
 
-        <div class="slick-content">
-            <div class="slick-title">
-                {{ .text_title }}
+            {{ $scaled := ( $boardpage.Resources.GetMatch ( printf "images/%s" .image ) ).Resize "1280x q50" }}
+            
+        <div style="display: inline-block; vertical-align: middle">
+            <div style="background: url('{{ $scaled.Permalink }}') no-repeat; background-size: cover; background-position: center;" class="slick-image">            
             </div>
-            <div class="slick-action-button">
-                <a href="{{ .url | absURL }}" class="more-link">Leggi</a>
+            <div class="slick-content">
+                <div class="slick-title">
+                    {{ .text_title }}
+                </div>
+                <div class="slick-action-button">
+                    <a href="{{ .url | absURL }}" class="more-link">Leggi</a>
+                </div>
             </div>
         </div>
-    </div>
-    {{ end }}
-</div>
+        {{end}}
+  </div>
