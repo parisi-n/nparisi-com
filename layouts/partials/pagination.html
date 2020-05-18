@@ -6,7 +6,7 @@
 
             <span>
                 {{ if $pag.HasPrev }}
-                    <a class="direction_button" href="{{ $pag.Prev.URL }}"><i class="fas fa-caret-left"></i></a>
+                    <a class="direction_button" href="{{ $pag.Prev.URL }}"><i class="fas fa-caret-left" alt="Pagina precedente"></i></a>
                 {{ end }}    
 
                 {{ range $pag.Pagers }}
@@ -29,7 +29,7 @@
                 {{ end }}
 
                 {{ if $pag.HasNext }}
-                    <a class="direction_button" href="{{ $pag.Next.URL }}"><i class="fas fa-caret-right"></i></a>
+                    <a class="direction_button" href="{{ $pag.Next.URL }}" alt="Pagina successiva"><i class="fas fa-caret-right"></i></a>
                 {{ end }}
             </span>
         </div>

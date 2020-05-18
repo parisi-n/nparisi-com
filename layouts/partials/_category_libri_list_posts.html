@@ -5,7 +5,7 @@
         <div class="post has-post-thumbnail excerpt zoom full-without-featured odd excerpt">
 
             {{ if and (isset .Params "image") .Params.image }}
-                <a class="featured-image-link" href="{{ .Permalink }}"><div class='featured-image lazy lazy-bg-image' data-background="{{ .Permalink }}{{ .Params.image }}"></div></a>
+                <a class="featured-image-link" href="{{ .Permalink }}" alt="Leggi il post"><div class='featured-image lazy lazy-bg-image' data-background="{{ .Permalink }}{{ .Params.image }}"></div></a>
             {{ end }}
 
             <div class="excerpt-container">

@@ -54,7 +54,7 @@
                 {{ $cover := .Resources.GetMatch .Params.image }}
                 {{with $cover }}
                     {{ $scaled := .Resize "1280x q50" }}
-                    <a class="featured-image-link" href="{{ .Permalink }}"><div class='featured-image lazy lazy-bg-image' data-background="{{ $scaled.Permalink }}"></div></a>
+                    <a class="featured-image-link" href="{{ .Permalink }}" alt="Leggi il post"><div class='featured-image lazy lazy-bg-image' data-background="{{ $scaled.Permalink }}"></div></a>
                 {{ end }}
             {{ end }}
             <div class="excerpt-container">
