@@ -1,0 +1,91 @@
+{{ $paginator := .Paginate (where (where .Site.Pages "Type" "article").ByDate.Reverse "IsPage" true) }}
+{{/* Se si tratta della home / prima pagina - i primi campi "in evidenza" e "insta feed" */}}
+{{ if eq $paginator.PageNumber 1 }}
+    <div class="header-section-index in-evidenza">
+        IN EVIDENZA
+    </div>
+    <div class="header-section-index-bottom in-evidenza"></div>
+    {{/* partial "slider.html" ( dict "innerScope" . "outerScope" $ ) */}}
+    
+    <!-- -->
+{{ $slider := .Site.Data.slider.array }}
+    {{ partial "slider.html" ( dict "slider" $slider "outerScope" $ ) }}
+
+
+<!-- -->
+    <div class="header-section-index">
+        INSTAGRAM
+    </div>
+    <div class="header-section-index-bottom"></div>
+
+    {{ partial "instagram_feed.html" . }}
+
+    <div class="header-section-index">
+        ULTIMI POST
+    </div>    
+    <div class="header-section-index-bottom"></div>
+{{ end }}
+
+<div id="loop-container" class="loop-container">
+    {{ range $index, $element := .Paginator.Pages }}
+
+        {{ if and (isset .Params "image") .Params.image }}
+            {{ if eq (mod $index 2) 0 }}
+                <div class="post type-post odd excerpt">
+            {{ else }}
+                <div class="post type-post even excerpt">
+            {{ end }}
+        {{ else }}
+            <div class="post type-post odd excerpt">
+        {{ end }}
+
+
+        {{$category := index (.Params.categories) 0}}
+
+        {{/* QUOTE */}}
+        {{if eq $category "quote" }}
+            <div class="format-quote">
+                <p>{{.Content}}</p>
+            </div>
+        {{else}}
+            {{/* POST */}}
+            {{ if and (isset .Params "image") .Params.image }}
+
+                {{ $cover := .Resources.GetMatch .Params.image }}
+                {{with $cover }}
+                    {{ $scaled := .Resize "1280x q50" }}
+                    <a class="featured-image-link" href="{{ .Permalink }}"><div class='featured-image lazy lazy-bg-image' data-background="{{ $scaled.Permalink }}"></div></a>
+                {{ end }}
+            {{ end }}
+            <div class="excerpt-container">
+                <div class="excerpt-meta">
+
+                    <!-- POST NORMALE -->
+                    <span class="date" style="cursor: default;" title="Post scritto il {{ .Date.Format "02" }} {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }} {{ .Date.Format "2006" }}">
+                        {{ .Date.Format "02" }}
+                        {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }}
+                        {{ .Date.Format "2006" }}
+                    </span>
+
+                    <span> / </span>
+                    <span class="category" title="Vedi tutti i post della categoria">
+                        <a href="/{{ $category | urlize }}">{{ humanize $category }}</a>
+                    </span>
+                </div>
+                <div class='excerpt-header'>
+                    <h2 class='excerpt-title'>
+                        <a href="{{ .Permalink }} "> {{ .Title }} </a>
+                    </h2>
+                </div>
+                <div class='excerpt-content'>
+                    <article>
+                        <p>{{ .Params.summary }}</p>
+
+                        <div class="more-link-wrapper"><a class="more-link" href="{{ .Permalink }}">Continua a leggere<span class="screen-reader-text">Questo è un post standard</span></a></div>
+                    </article>
+                </div>
+            </div>
+        {{end}}
+        </div>
+    {{ end }}
+</div>

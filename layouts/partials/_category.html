@@ -1,0 +1,55 @@
+{{/* $paginator è presente anche su seo.html; però lo ripeto affinchè TUTTI I POST funzioni e mostri tutti i post */}}
+{{ $paginator := .Paginate (where (where .Data.Pages "Type" "article").ByDate.Reverse "IsPage" true) }}
+<div class="category-list-container">
+    <div class="entry-header">
+        <h1 class="entry-title">{{ humanize .Title }}</h1>
+    </div>
+
+    <div id="loop-container" class="loop-container">
+
+        {{ range $index, $element := .Paginator.Pages }}
+
+        {{ if and (isset .Params "image") .Params.image }}
+        {{ if eq (mod $index 2) 0 }}
+        <div class="post type-post odd excerpt">
+            {{ else }}
+            <div class="post type-post even excerpt">
+                {{ end }}
+                {{ else }}
+                <div class="post type-post odd excerpt">
+                    {{ end }}
+
+                    {{ if and (isset .Params "image") .Params.image }}
+                    <a class="featured-image-link" href="{{ .Permalink }}" alt="Leggi {{ .Title }}" title="Leggi {{ .Title }}"><div class='featured-image lazy lazy-bg-image' data-background="{{ .Permalink }}{{ .Params.image }}"></div></a>
+                    {{ end }}        
+
+                    <div class="excerpt-container">
+                        <div class="excerpt-meta">
+                            <span class="date" style="cursor: default;"  title="Post scritto il {{ .Date.Format "02" }} {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }} {{ .Date.Format "2006" }}">
+                                {{ .Date.Format "02" }}
+                                {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }}
+                                {{ .Date.Format "2006" }}
+                            </span>
+                        </div>
+                        <div class='excerpt-header'>
+                            <h2 class='excerpt-title'>
+                                <a href="{{ .Permalink }}"> {{ .Title }} </a>
+                            </h2>
+                        </div>
+                        <div class='excerpt-content'>
+                            <article>
+                                <p>
+                                    {{ .Params.summary }}
+                                </p>
+                                <div class="more-link-wrapper"><a class="more-link" href="{{ .Permalink }}" alt="Continu a leggere {{ .Title }}" title="Continua a leggere {{ .Title }}">Continua a leggere<span class="screen-reader-text">Questo è un post </span></a></div>
+
+                            </article>
+                        </div>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+
+        </div>
+
+        {{ partial "pagination" . }}

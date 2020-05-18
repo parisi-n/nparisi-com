@@ -1,0 +1,62 @@
+<!-- implementare type="rounded" -->
+{{ $alt := .Get "alt" }}
+{{ $caption := .Get "caption" }}
+{{ $class := .Get "class"}}
+{{ $style := .Get "style" }}
+{{ $type := .Get "type" }}
+{{ $parentstyle := .Get "parent-style" }}
+{{ $href := .Get "href" }}
+{{ $src := ( printf "%s/%s" "images" (.Get "src") ) }}
+{{ $parentclass := .Get "parent-class" }}
+
+{{ with .Page.Resources.GetMatch $src }}
+
+    {{ $image := . }}
+    {{ $placeholder := $image.Resize "48x q20" }}
+
+    <figure class="block-image {{$parentclass}}" style="display: block;{{ $parentstyle }}"
+            data-imgset="{{ ( .Resize "640x q60").RelPermalink }} 320w,
+                            {{ (.Resize "1024x q60").RelPermalink }} 600w,
+                            {{ (.Resize "1600x q60").RelPermalink }} 2x"
+            data-src="{{ (.Resize "1600x").RelPermalink}}">
+            
+            {{ if $href }}<a href="{{ $href }}">{{end}}
+            
+                <div class="placeholder{{if $type }} {{$type}}{{end}}" data-large="{{ $image.Permalink }}">
+                <img class="img-small" src="{{ $placeholder.RelPermalink }}"
+                    {{ if $alt }} alt="{{ $alt }}"{{end}}
+                    {{ if $class }} class="{{ $class }}"{{end}}
+                    {{ if $style }} style="{{ $style | safeCSS }}"{{end}}
+                    onerror="this.src='images/image-not-found.svg'; this.onerror='';\"
+                    >
+                <div style="padding-bottom: {{ div (mul .Height 100.0) .Width }}%;"></div>
+                </div>
+            {{ if $href }}</a>{{end}}
+
+        {{ if $caption }}
+        <figcaption>
+            {{ $caption }}
+        </figcaption>
+        {{ end }}
+    </figure>
+{{else}}
+    {{ $static_img := printf "static/%s" $src }}
+    {{ if fileExists ( $static_img ) }}
+        <div class="block-image"{{ if $parentstyle }} style="{{ $parentstyle }}"{{end}}>
+             {{ if $href }}<a href="{{ $href }}">{{end}}
+                <img src="{{ $src | absURL }}" 
+                    {{ if $class }} class="{{ $class }}"{{end}}
+                    {{ if $style }} style="{{ $style | safeCSS }}"{{end}}
+                    />
+                {{ if $href }}</a>{{end}}
+        </div>
+    {{else}}
+        <div class="img-not-found">
+            <span>IMMAGINE NON TROVATA</span>
+            <span style="color: #c8c8c8;">Src: {{$src}}</span>
+            <span style="color: #c8c8c8;">Static: {{$static_img}}</span>
+            <span>{{$alt}}</span>
+            <i class="far fa-frown" style="color: #f4511e; opacity: 0.5; font-size: 96pt;"></i>
+        </div>
+    {{end}}
+{{end}}
