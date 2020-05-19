@@ -76,7 +76,16 @@
     .format-quote:before { content: url('data:image/svg+xml; utf8, <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="quote-left" class="svg-inline--fa fa-quote-left fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="39"><path fill="currentColor" d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path></svg>'); top: -6px; left: -5px; color: #4d4d4d; font-size: 25pt; opacity: 0.4; }
     .format-quote:after { content:''; display:inline-block; width:2.6em; height:100%; border-bottom:3px solid #4d4d4d; opacity: 0.6; }
     .format-quote p { color: #4d4d4d; font-family: "Open Sans", sans-serif; font-size: 16pt; padding: 0px 20px; margin: 10px 0 ; font-weight: 600; font-style: italic; text-align: center !important; }
-    .post-box, .slick-container  { box-shadow: 0 15px 30px 0 rgba(0,0,0,.11), 0 5px 15px 0 rgba(0,0,0,.08);  }
+    
+    /*
+     * Ombra degli oggetti
+     .post-box, .slick-container  { box-shadow: 0 10px 10px 0 rgba(0,0,0,.11); }
+     .instagram-pic { box-shadow: 0 10px 10px 0 rgba(0,0,0,.11); }
+     */
+    
+
+    
+    
     /*
      * POST
      */
@@ -252,8 +261,7 @@
          * Lo splitter delle colonne e le icone in base al tipo di contenuto sono nei media per le varie risoluzioni
          */
         .instagram_gallery { display: flex; width: 100%; justify-content: center;flex-wrap: wrap; }
-        .instagram-pic { filter: saturate(.7) !important; transition: all 0.45s ease; border-radius: 3px; margin:1% auto; display: block; width: 100%;
-                        box-shadow: 0 15px 30px 0 rgba(0,0,0,.11), 0 5px 15px 0 rgba(0,0,0,.08); }
+        .instagram-pic { filter: saturate(.7) !important; transition: all 0.45s ease; border-radius: 3px; margin:1% auto; display: block; width: 100%; }
         .instagram-pic:hover { filter: saturate(1) !important; }
         .instagram-video:nth-child(1) a { margin-left: 0 !important; }
         .instagram-video { color: #fff; width: 32px; position: absolute; top: calc( 50% - 16px); left: calc( 50% - 16px); -webkit-filter: drop-shadow( 0 0 2px rgba(0,0,0,.4) ); filter: drop-shadow( 0 0 2px rgba(0,0,0,.4) ); }
