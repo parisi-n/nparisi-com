@@ -148,9 +148,9 @@
                             caption = (is_tag ? data.name : data.username) + " image " + i;
                         }
 
-                        html += "<a href='" + url +"' target='_blank' rel='noreferrer noopener'>";
-                        html += "<img class='instagram-pic " + ( ( i%2 == 0 ) ? 'padding-right' : 'padding-left' ) +  "' src='" + image + "' alt='" + escape_string(caption) + "' title='" + escape_string(caption) + "' "
-                             +  "onerror=\"this.src='images/instagram-loading.png'; this.onerror='';\" />";
+                        html += "<a href='" + url +"' target='_blank' rel='noreferrer noopener' class='" + ( ( i%2 == 0 ) ? 'padding-right' : 'padding-left' ) +  "'>";
+                        html += "<img class='instagram-pic' src='" + image + "' alt='" + escape_string(caption) + "' title='" + escape_string(caption) + "' "
+                             +  "onerror=\"this.src='/images/instagram-loading.png'; this.onerror='';\" />";
                         html += sovraimg
                         html += "</a>"
 

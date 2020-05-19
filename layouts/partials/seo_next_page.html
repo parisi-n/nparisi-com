@@ -1,0 +1,11 @@
+{{- with .Next }}
+    {{- if isset .Params "categories" }}
+        {{- if ne ( index .Params.categories 0 ) "quote" }}
+<link rel="next" href="{{ .Permalink }}">
+        {{- else }}
+            {{- partial "seo_next_page" . }}
+        {{- end }}
+    {{- else }}
+        {{- partial "seo_next_page" . }}
+    {{- end }}
+{{- end }}

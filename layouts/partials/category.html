@@ -9,15 +9,15 @@
 
         {{ range $index, $element := .Paginator.Pages }}
 
-        {{ if and (isset .Params "image") .Params.image }}
-        {{ if eq (mod $index 2) 0 }}
-        <div class="post type-post odd excerpt">
-            {{ else }}
-            <div class="post type-post even excerpt">
-                {{ end }}
+            {{ if and (isset .Params "image") .Params.image }}
+                {{ if eq (mod $index 2) 0 }}
+                    <div class="post type-post odd excerpt post-box">
                 {{ else }}
-                <div class="post type-post odd excerpt">
-                    {{ end }}
+                    <div class="post type-post even excerpt post-box">
+                {{ end }}
+            {{ else }}
+                <div class="post type-post odd excerpt post-box">
+            {{ end }}
 
                     {{ if and (isset .Params "image") .Params.image }}
                         {{ $cover := .Resources.GetMatch .Params.image }}

@@ -31,12 +31,12 @@
 
         {{ if and (isset .Params "image") .Params.image }}
             {{ if eq (mod $index 2) 0 }}
-                <div class="post type-post odd excerpt">
+                <div class="post type-post odd excerpt post-box">
             {{ else }}
-                <div class="post type-post even excerpt">
+                <div class="post type-post even excerpt post-box">
             {{ end }}
         {{ else }}
-            <div class="post type-post odd excerpt">
+            <div class="post type-post odd excerpt post-box">
         {{ end }}
 
 

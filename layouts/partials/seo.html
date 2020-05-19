@@ -4,7 +4,7 @@
 
 {{/* Guida: https://www.skcript.com/svr/perfect-seo-meta-tags-with-hugo/ */}}
 
-{{ $img := (cond ( eq .Type "article") ( ( ( printf "%s/%s" .Params.baseimg .Params.image ) | absURL  ) ) ( .Site.Params.image | absURL ) ) }}
+{{ $img := (cond ( eq .Type "article") ( ( ( printf "%s/%s" .Permalink .Params.image ) ) ) ( .Site.Params.image | absURL ) ) }}
 
 <title>{{if not $.IsHome}}{{ humanize .Title }}{{else}}{{ .Title }}{{end}} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}</title>
 <meta name="application-name" content="{{if not $.IsHome}}{{ humanize .Title }}{{else}}{{ . }}{{end}} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}" />
@@ -35,7 +35,7 @@
 <meta name="twitter:title" content="{{if not $.IsHome}}{{ humanize .Title }}{{else}}{{ . }}{{end}} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}" />
 <meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else if .IsPage}}{{ .Params.summary }}{{else}}{{ .Site.Params.Description }}{{ end }}" />
 <meta name="twitter:image" content="{{ $img }}" />
-<meta name="twitter:image:src" content="{{ .Site.Params.image | absURL }}" /> 
+{{/* <meta name="twitter:image:src" content=" $img " />*/}}
 <meta name="twitter:url" content="{{ .Permalink }}" /> 
 
 {{/* Link */}}
@@ -48,19 +48,10 @@
 <link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title | default "" }}" />
 {{- end }}
 
-{{/* .Type può essere article, tags, categories, page */}}{{/* Tags solo per gli ARTICOLI */}}
-{{- if eq .Type "article" }} 
-    {{ partial "schema" . }}
-{{- else if or ( eq .Type "categories" ) ( eq .Type "tags" ) }}
-{{- $paginator := .Paginate (where (where .Data.Pages "Type" "article").ByDate.Reverse "IsPage" true) }}
-{{- if $paginator }}
-<link rel="first" href="{{ $paginator.First.URL }}">
-{{- if $paginator.HasPrev }}
-<link rel="prev" href="{{ $paginator.Prev.URL }}">
-{{- end }}
-{{- if $paginator.HasNext }}
-<link rel="next" href="{{ $paginator.Next.URL }}">
-{{- end }}
-<link rel="last" href="{{ $paginator.Last.URL }}">
-{{- end }}
+{{- /* .Type può essere article, tags, categories, page */}}
+{{- /* Tags solo per gli ARTICOLI */}}
+{{ if eq .Type "article" }} 
+    {{- partial "schema" . }}
+    {{- partial "seo_prev_page" . }}
+    {{- partial "seo_next_page" . }}
 {{- end }}

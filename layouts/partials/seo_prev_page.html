@@ -1,0 +1,11 @@
+{{- with .Prev }}
+    {{- if isset .Params "categories" }}
+        {{- if ne ( index .Params.categories 0 ) "quote" }}
+<link rel="prev" href="{{ .Permalink }}">
+        {{- else }}
+            {{- partial "seo_prev_page" . }}
+        {{- end }}
+    {{- else }}
+        {{- partial "seo_prev_page" . }}
+    {{- end }}
+{{- end }}

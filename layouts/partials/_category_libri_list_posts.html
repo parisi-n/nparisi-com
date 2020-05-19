@@ -2,7 +2,7 @@
         {{/* $paginator := .Paginate (where (where .Data.Pages "Section" "post").ByDate.Reverse "IsPage" true) */}}
         {{ range $index, $element := .Paginator.Pages }}
 
-        <div class="post has-post-thumbnail excerpt zoom full-without-featured odd excerpt">
+        <div class="post has-post-thumbnail excerpt zoom full-without-featured odd excerpt post-box">
 
             {{ if and (isset .Params "image") .Params.image }}
                 <a class="featured-image-link" href="{{ .Permalink }}" alt="Leggi il post"><div class='featured-image lazy lazy-bg-image' data-background="{{ .Permalink }}{{ .Params.image }}"></div></a>
