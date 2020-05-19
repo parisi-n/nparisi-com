@@ -455,7 +455,7 @@
         .post .featured-image.lazy { margin-top: -4em; }
         
          article .category { margin-bottom: 3em; /* necessario epr i post senza indice */ }
-         article p, article ul { color: #595b66; text-align: left !important; font-size: 1.145rem; } 
+         article p, article ul { color: #595b66; text-align: left !important; font-size: 1.19rem; } 
         
         .alignright, .alignleft, .aligncenter, .alignnone, .size-auto, .size-full, .size-large, .size-medium, .size-thumbnail { max-width: 100% !important; }
         .excerpt-container { padding: 0 2%; background-color: white; }
