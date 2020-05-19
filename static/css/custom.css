@@ -386,7 +386,7 @@
      * SCROLLBAR
      */
     /* width */
-    ::-webkit-scrollbar { width: 23px; }
+    ::-webkit-scrollbar { width: 21px; }
     /* Track */
     ::-webkit-scrollbar-track { background: #f8f8f8; }
      /* Handle */
@@ -447,7 +447,8 @@
          */
         .entry-content { margin-top: 1em !important; }
         .entry-content p, .entry-content ul { width: auto; }
-        .entry-container { padding: 0 3% !important; margin-top: 0 !important; }
+        .entry-content p { margin: 1.1em 0 1.5em !important; }
+        .entry-container { padding: 0 2.7% !important; margin-top: 0 !important; }
         .blog .main, .archive .main, .search .main { width: 96.96%; padding-top: 0.5em; }
         .post, .page { padding: 0 0px !important; margin-top: 2.5em !important; }
         .content-category { display: flex; overflow-x: auto; padding-top: 1em;}
@@ -455,7 +456,7 @@
         .post .featured-image.lazy { margin-top: -4em; }
         
          article .category { margin-bottom: 3em; /* necessario epr i post senza indice */ }
-         article p, article ul { color: #595b66; text-align: left !important; font-size: 1.19rem; } 
+         article p, article ul { color: #595b66; text-align: left !important; font-size: 1.19rem; line-height: 1.6em !important; } 
         
         .alignright, .alignleft, .aligncenter, .alignnone, .size-auto, .size-full, .size-large, .size-medium, .size-thumbnail { max-width: 100% !important; }
         .excerpt-container { padding: 0 2%; background-color: white; }
@@ -481,6 +482,7 @@
         .block-video-vimeo.vertical-4x5 .fluid-width-video-wrapper { padding-top: 127% !important; }
         .block-video-vimeo.vertical-9x16 .fluid-width-video-wrapper { padding-top: 177% !important; }
         .block-video-vimeo.horizontal .fluid-width-video-wrapper { padding-top: 56.25% !important; /* ratio corretto: 56.25% */ }
+        .block-image figcaption, .block-video-youtube figcaption, .block-video-vimeo figcaption { margin-bottom: 2.3em; }
         
         .wp-block-column { flex-basis: calc(-16px + 25%) !important; margin: 0.4em !important; }
         /* Reseta le impostazioni di block-image img precedente */
@@ -496,7 +498,7 @@
         
         .rounded { padding: 15px; }
         
-        article h2, article h3, article h4 { margin-left: 0 !important; }
+        article h2, article h3, article h4 { margin: 1.37em 0 0 !important; }
         article h2 { font-size: 2.5rem !important; }
         article h3 { font-size: 2rem !important; }
         article h4 { font-size: 1.5rem !important; }
