@@ -81,8 +81,7 @@
      * Ombra degli oggetti
 
      */
-     .post-box, .slick-container  { box-shadow: 0 10px 10px 0 rgba(0,0,0,.11); }
-     .instagram-pic { box-shadow: 0 10px 10px 0 rgba(0,0,0,.11); }      
+     .post-box, .slick-container, .instagram-pic, #disqus_thread  { box-shadow: 0 10px 10px 0 rgba(0,0,0,.11); }
     
     /*
      * POST
@@ -238,6 +237,8 @@
         div#toc-container #TableOfContents { display: block; }
         div#toc-container #TableOfContents ul { margin-top: 0; }
         div#toc-container #TableOfContents ul li { text-align: left; }
+        div#toc-container a { border-bottom: 0px; font-weight: 600; }
+
         article ul, article ol { padding: 0 0 0 4.56%; }
 
         /**
@@ -562,7 +563,7 @@
             /**
              * INDICE
              */
-            div#toc-container { min-width: 85%; width: auto; max-width: 95%; }
+/*            div#toc-container { min-width: 90%; width: auto; }*/
 
             /**
              * SLIDER
