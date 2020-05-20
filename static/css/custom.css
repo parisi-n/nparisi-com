@@ -450,7 +450,7 @@
         .entry-content p { margin: 1.1em 0 1.5em !important; }
         .entry-container { padding: 0 2.7% !important; margin-top: 0 !important; }
         .blog .main, .archive .main, .search .main { width: 96.96%; padding-top: 0.5em; }
-        .post, .page { padding: 0 0px !important; margin-top: 2.5em !important; }
+        .post, .page { padding: 0 0px !important; margin-top: 1.5em !important; }
         .content-category { display: flex; overflow-x: auto; padding-top: 1em;}
         .entry-content .block-image, .entry-content .block-video-youtube, .entry-content .block-video-vimeo { box-shadow: none; padding: 0; }
         .post .featured-image.lazy { margin-top: -2.4em; }
