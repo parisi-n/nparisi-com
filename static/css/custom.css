@@ -454,7 +454,7 @@
         .post, .page { padding: 0 0px !important; margin-top: 2.5em !important; }
         .content-category { display: flex; overflow-x: auto; padding-top: 1em;}
         .entry-content .block-image, .entry-content .block-video-youtube, .entry-content .block-video-vimeo { box-shadow: none; padding: 0; }
-        .post .featured-image.lazy { margin-top: -4em; }
+        .post .featured-image.lazy { margin-top: -2.4em; }
         
          article .category { margin-bottom: 3em; /* necessario epr i post senza indice */ }
          article p, article ul { color: #595b66; text-align: left !important; font-size: 1.19rem; line-height: 1.6em !important; } 
