@@ -79,9 +79,8 @@
     
     /*
      * Ombra degli oggetti
-
      */
-     .post-box, .slick-container, .instagram-pic, #disqus_thread  { box-shadow: 0 10px 10px 0 rgba(0,0,0,.11); }
+     .post-box, .slick-container, .instagram-pic, #disqus_thread  { box-shadow: 0 5px 12px 0 rgba(0,0,0,0.07); }
     
     /*
      * POST
@@ -441,7 +440,7 @@
         .img-not-found { margin: 3%; }
         
         /* Padding per l'ombra dei post e dello slider' */
-        .home #main { padding: 0 0.4em; }
+        .home #main { padding: 0 0.2em; }
         
         /**
          * POST
