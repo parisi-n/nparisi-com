@@ -263,7 +263,7 @@
         .instagram-pic:hover { filter: saturate(1) !important; }
         .instagram-video:nth-child(1) a { margin-left: 0 !important; }
         .instagram-video { color: #fff; width: 32px; position: absolute; top: calc( 50% - 16px); left: calc( 50% - 16px); -webkit-filter: drop-shadow( 0 0 2px rgba(0,0,0,.4) ); filter: drop-shadow( 0 0 2px rgba(0,0,0,.4) ); }
-        .instagram-carosello { color: #fff; width: 30px; position: absolute; top: calc( 10% - 15px); right: calc( 11% - 15px); -webkit-filter: drop-shadow( 0 0 2px rgba(0,0,0,.4) ); filter: drop-shadow( 0 0 2px rgba(0,0,0,.4) ); }
+        .instagram-carosello { color: #fff; width: 26px; position: absolute; top: calc( 10% - 14px); right: calc( 11% - 14px); -webkit-filter: drop-shadow( 0 0 2px rgba(0,0,0,.4) ); filter: drop-shadow( 0 0 2px rgba(0,0,0,.4) ); }
 
         /**
          * SCROLL TO TOP
