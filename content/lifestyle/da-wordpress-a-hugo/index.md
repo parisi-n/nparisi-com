@@ -21,7 +21,7 @@ L'esperienza utente da Wordpress sul mio hosting non era delle migliori. Il sito
 
 {{< image src="wordpress.png" alt="Punteggio del blog su wordpress" caption="Punteggio LightHouse del vecchio blog su wordpress" parent-class="no-box-shadow" >}}
 
-Google PageSpeed Insights riprotava una _Performance_ di **44** (in realtà in vari test il risultato è stato di circa 22) per il mobile e **94** per la **versione mobile**.
+Google PageSpeed Insights riportava una _Performance_ di **44** (in realtà in vari test il risultato è stato di circa 22) per il mobile e **94** per la **versione mobile**.
 
 {{< image src="netlify.png" alt="Punteggio del nuovo blog statico creato da Hugo" caption="Punteggio LightHouse del nuovo blog statico basato su Hugo" parent-class="no-box-shadow" >}}
 
