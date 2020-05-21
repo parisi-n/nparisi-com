@@ -521,6 +521,7 @@
         .format-quote { margin: 0; }
         
         .category-list-container { margin-top: -1.85em; }
+        .about-profile-pic { position: initial; width: 65% !important; }
 
         /**
          * MENU
@@ -747,6 +748,8 @@
         .img-not-found { margin: 4.56%; }
         
         .post table { width: 91.88%; margin: 3em 4.56%; }
+        
+        .about-profile-pic { position: initial; width: 45% !important; }
         
         /* Immagini, video, instagram embed */
         iframe.instagram-media { max-width: none !important; width: 91.88% !important; margin: 3em 4.56% !important; }
