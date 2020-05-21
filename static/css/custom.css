@@ -273,7 +273,7 @@
         /**
          * READING BAR
          */
-        .progress-read-container { width: 100%; height: 8px; background: #ccc; position: fixed; top: 0; z-index: 1; width: 100%; background-color: #f1f1f1; }
+        .progress-read-container { width: 100%; height: 8px; background: #ccc; position: fixed; top: 0; z-index: 1; width: 100%; background-color: #fff; }
         .progress-read-bar { height: 8px; background: #f4511e; width: 0%; }
 
         /**

@@ -131,6 +131,9 @@ $(document).ready(function(){
         var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
         var scrolled = (winScroll / height) * 100;
         document.getElementById("my-read-bar").style.width = scrolled + "%";
+        
+        /* Cambia il background della barra a seconda della % */
+        document.getElementById("my-read-bar-container").style.backgroundColor = ( scrolled > 1 ) ? "#f1f1f1" : "#fff";
     }
 
     $(document).on('ready', function()
