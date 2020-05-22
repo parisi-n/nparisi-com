@@ -61,7 +61,7 @@ Quel che c'è da sapere però è – in caso vogliate fare solo poche modifiche 
 
 In caso vogliate invece _customizzare_ il tema, aggiungendo feature, modificandole, rendendo il sito _più vostro e più originale_, avrete leggermente da penare. Nessun problema che nel forum ufficiale però non sia mai stato trattato e risolto.
 
-Potete esportare i vostri post potete usare {{< external_link "https://github.com/lonekorean/wordpress-export-to-markdown" "questo plugin" >}}
+Potete esportare i vostri post potete usare {{< external_link "https://github.com/lonekorean/wordpress-export-to-markdown" "questo plugin" >}}.
 
 Una volta "_compilato_" il vostro sito non dovrete fare altro che caricarlo sul vostro hosting e sarà accessibile.
 

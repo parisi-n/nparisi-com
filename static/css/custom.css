@@ -130,8 +130,10 @@
     .post table { border-radius: 3px; border: 0px; margin-bottom: 3em; margin-top: 3em; }
     .post table th, .post table td { border: 0px; }
     .post table thead { background-color: #d8d8d8; }
-    .post table tbody tr:nth-child(odd) { background-color: #fdfdfd; border-radius: 3px; }
-    .post table tbody tr:nth-child(even) { background-color: #f2f2f2; border-radius: 3px; }
+    .post table:not(.custom-table) tbody tr:nth-child(odd) { background-color: #fdfdfd; border-radius: 3px; }
+    .post table:not(.custom-table) tbody tr:nth-child(even) { background-color: #f2f2f2; border-radius: 3px; }
+    .post table.color-columns td:nth-child(odd) { background-color: #fdfdfd; }
+    .post table.color-columns td:nth-child(even) { background-color: #f2f2f2; }
     /* Nasconde l'header in caso sia vuoto' */
     .post table tr th:empty { display: none; }
     
@@ -498,9 +500,9 @@
         
         .rounded { padding: 15px; }
         
-        article h2 { font-size: 2.5rem !important; margin: 1.37em 0 0 !important; }
-        article h3 { font-size: 2rem !important; }
-        article h4 { font-size: 1.5rem !important; }
+        article h2 { font-size: 2.9rem !important; margin: 1.37em 0 0 !important; }
+        article h3 { font-size: 2.3rem !important; }
+        article h4 { font-size: 1.8rem !important; }
         article h3, article h4 { margin: 1.1em 0 -0.3em !important; }
         
         /*
@@ -739,7 +741,7 @@
         .content-category { margin-left: 4.56%; margin-bottom: 2em; display: inline-flex ;}
         blockquote { margin-left: 4.56%; }
         
-        .entry-content .block-image, .entry-content .block-video-youtube { box-shadow: none; padding: 0; }
+        .entry-content .block-image, .entry-content .block-video-youtube { box-shadow: none; padding: 0 4.56%; margin: 2.37em 0; }
         
         article p, article ul { color: #3b3d44; } 
     
