@@ -150,7 +150,7 @@
 
                         html += "<a href='" + url +"' target='_blank' rel='noreferrer noopener' class='" + ( ( i%2 == 0 ) ? 'padding-right' : 'padding-left' ) +  "'>";
                         html += "<img class='instagram-pic' src='" + image + "' alt='" + escape_string(caption) + "' title='" + escape_string(caption) + "' "
-                             +  "onerror=\"this.src='/images/instagram-loading.png'; this.onerror='';\" />";
+                             +  "onerror=\"this.src='/images/image-not-found.svg'; this.onerror='';\" />";
                         html += sovraimg
                         html += "</a>"
 

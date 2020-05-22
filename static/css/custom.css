@@ -80,12 +80,12 @@
     /*
      * Ombra degli oggetti
      */
-     .post-box, .slick-container, .instagram-pic, #disqus_thread  { box-shadow: 0 5px 12px 0 rgba(0,0,0,0.07); }
+     .post-box, .slick-container, .instagram-pic, #disqus_thread, .appbox, .block-image img, .block-image div, .entry-content img  { box-shadow: 0 5px 12px 0 rgba(0,0,0,0.07); }
     
     /*
      * POST
      */
-    article p, article ul { font-family: "Open Sans", sans-serif !important; line-height: 1.8em !important; font-size: 1.3rem; text-align: justify !important; word-spacing: -2px; }
+    article p, article ul { font-family: "Open Sans", sans-serif !important; line-height: 1.8em !important; font-size: 1.32rem; text-align: justify !important; word-spacing: -2px; }
     p a, .entry-content li a { color: #4d4d4d !important; text-decoration: none !important; -o-transition: 0.45s; transition: 0.45s; border-bottom: 3px solid ; overflow-wrap: break-word; word-break: break-word; word-wrap: break-word; padding: 2px; margin: -2px; -webkit-box-shadow: initial; box-shadow: initial; font-weight: 300; }
     p a:hover, .entry-content li a:hover { color: #f4511e !important; }
     aricle strong, article b, #wtr-content strong, article blackquote strong, p a { color: #4d4d4d !important;  font-weight: 600; }
@@ -290,7 +290,7 @@
         /**
          * AppBox
          */
-        .appbox { background: rgba(140, 140, 140, 0.1) !important; padding: 1em 3em !important; border-radius: 3px; width: auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }
+        .appbox { background: rgba(140, 140, 140, 0.1) !important; padding: 1em 3em !important; border-radius: 3px; width: auto; }
         .appbox img { width: 96px !important; height: 96px; float: left; margin-right: 2em; box-shadow: initial !important; margin-bottom: 0.15em !important; }
         .appbox div { width: 100%; font-size: 1.6rem; font-weight: 600; display: flex; flex-direction: column; justify-content: center; }
         
@@ -456,7 +456,7 @@
         .post .featured-image.lazy { }
         
          article .category { margin-bottom: 3em; /* necessario epr i post senza indice */ }
-         article p, article ul { color: #5D656C; text-align: left !important; font-size: 1.279rem; line-height: 1.63em !important; } 
+         article p, article ul { color: #5D656C; text-align: left !important; font-size: 1.269rem; line-height: 1.63em !important; } 
         
         .alignright, .alignleft, .aligncenter, .alignnone, .size-auto, .size-full, .size-large, .size-medium, .size-thumbnail { max-width: 100% !important; }
         .excerpt-container { padding: 0 2%; background-color: white; }
@@ -595,9 +595,9 @@
             /**
              * APPBOX
              */
-            .appbox { display: block; text-align: center; margin: 2em auto !important; }
-            .appbox img { left: calc( 50% - 48px) !important; margin: auto !important; max-width: initial !important; right: initial !important; width: initial !important; }
-            .appbox div { display: grid; }
+            .appbox { display: block; text-align: center; margin: 2em auto !important; padding: 1.73em; }
+            .appbox img { left: calc( 50% - 48px) !important; margin: 0 auto 1.31em !important; max-width: initial !important; right: initial !important; width: initial !important; }
+            .appbox div { display: grid; margin-bottom: 1.73em; }
             
             /**
              * LAZY LOADING
@@ -713,13 +713,13 @@
         /**
          * POST
          */
+        article p, .block-verse { margin: 1.11em 0; font-size: 1.32rem !important; }
         .post, .page { margin-top: 1.3em !important; }
-        .entry-content p, .block-verse { font-size: 1.45rem !important; }
         .entry-meta { top: -5em !important; position: relative; margin-bottom: -5em; }
         .entry-content p, .entry-content ul, .entry-content .normal-text { font-size: 15pt; padding: 0 4.56%; }
         .has-huge-font-size, .has-larger-font-size { font-size: 42px !important; }
         .entry-content { margin: 3em -4em; }
-        .block-image div, .entry-content img { text-align: center; box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); width: 100%; }
+        .block-image div, .entry-content img { text-align: center; width: 100%; }
         .entry-content .itinerario-gmaps { width: 100%; height: 450px !important; border: 0px; }
 
         .block-verse { margin: 45px 4.56% !important; }
@@ -731,7 +731,7 @@
         .sidebar-after-post-content { width: 115% !important; text-align: left !important; margin-left: -4em; }
 
         .entry-header h1 { font-size: 3rem !important; }
-        article h2, article h3, article h4 { margin-left: 4.56% !important; }
+        article h2, article h3, article h4 { margin-left: 4.56% !important; letter-spacing: 1.25px; }
         article h2 { font-size: 2.5rem !important; position: relative; }
         article h2::before { content: '#'; color: #f4511e; font-weight: bold; font-size: 2.3rem !important; margin-right: 0.12em; opacity: 0.5; position: absolute; right: calc(100% + 1px); }
         article h3 { font-size: 2rem !important; }

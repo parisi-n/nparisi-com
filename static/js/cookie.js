@@ -6,7 +6,7 @@
 
 // CONFIG //
 var linkPolicy      =   'privacy';
-var purecookieDesc  = '<p>Utilizzo i cookie per essere sicuro che possa avere la migliore esperienza nel mio blog. Se continui a navigare sul blog do per scontato ne sia felice.</p>'
+var purecookieDesc  = '<p>Uso cookie. Se continui a navigare do per scontato ne sia felice.</p>'
                     +   '<p style="margin-top: 0.3em">Maggiori informazioni <a href="' + linkPolicy + '" class="light-link">qui</a>.</p>';
 // /CONFIG //
 
