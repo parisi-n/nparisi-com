@@ -2,20 +2,28 @@
 <div class="slick-container">
     {{ range .slider }}
         {{ $boardpage := $.outerScope.GetPage .url }}
+        {{ $text_title := .text_title }}
+        {{ $url := .url | absURL }}
+        
+            {{ if .image }}
+                {{ $img := printf "images/%s" .image }}
 
-            {{ $scaled := ( $boardpage.Resources.GetMatch ( printf "images/%s" .image ) ).Resize "1920x q70" }}
-            
-        <div style="display: inline-block; vertical-align: middle">
-            <div style="background: url('{{ $scaled.Permalink }}') no-repeat; background-size: cover; background-position: center;" class="slick-image">            
-            </div>
-            <div class="slick-content">
-                <div class="slick-title">
-                    {{ .text_title }}
-                </div>
-                <div class="slick-action-button">
-                    <a href="{{ .url | absURL }}" class="more-link">Leggi</a>
-                </div>
-            </div>
-        </div>
+                {{ with $boardpage.Resources.GetMatch $img }}
+                    {{ $scaled := .Resize "1920x q70" }}
+
+                    <div style="display: inline-block; vertical-align: middle">
+                        <div style="background: url('{{ $scaled.Permalink }}') no-repeat; background-size: cover; background-position: center;" class="slick-image">            
+                        </div>
+                        <div class="slick-content">
+                            <div class="slick-title">
+                                {{ $text_title }}
+                            </div>
+                            <div class="slick-action-button">
+                                <a href="{{ $url }}" class="more-link">Leggi</a>
+                            </div>
+                        </div>
+                    </div>
+                    {{ end }}
+            {{end}}
         {{end}}
   </div>
