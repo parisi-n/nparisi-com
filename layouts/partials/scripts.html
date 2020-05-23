@@ -223,7 +223,56 @@ $(document).ready(function(){
     });
 </script>
 
+<!-- Image gallery full screen -->
+<script type="text/javascript">
+    // Image to Lightbox Overlay 
+    $(document).ready(function(){
+        var width = $(window).width();
+        
+        if ( width < 784 )
+        {      
+            /*div.wide-screen, */
+            $('div.wide-screen, .block-image .resize').click( 
+                function()
+                {
+                    if (event.target == this)
+                        src = $(this).parent().find('img')[1].src;
+                    else
+                        src = $(this, 'div' ).find('img')[1].src;
+                    
+                    $('#overlay').css( {
+                                        backgroundImage: 'url(' + src + ')',
+                                        transform: 'rotate(90deg) scale(1.75)'
+                                    } )
+                                .addClass('open')
+                                .one('click', function() {
+                                        $(this).removeClass('open');
+                                        $('#bg').removeClass('open');
+                                        $('#exit-button').removeClass('open');
+                                    });
+
+                    $('#exit-button').one('click', function() {
+                                        $('#overlay').removeClass('open');
+                                        $('#bg').removeClass('open');
+                                        $('#exit-button').removeClass('open');
+                                    });
+                    $('#exit-button').addClass('open');
+                    $('#bg').addClass('open');
+                }
+            );
+        }
+    });
+</script>
+<div id="bg">
+    <div style="color: #fff; text-align: center; font-variant: small-caps; font-weight: 600; margin-top: 1.4em;">
+        &copy; 2018- {{ now.Format "2006" }}
+    </div>
+</div>
+<div id="exit-button"><i class="fas fa-times"></i></div>
+<div id="overlay"></div>
+
 {{end}}
+
 {{/* Form contatti */}}
 {{ if eq .Params.url "email" }}
 <script type="text/javascript">

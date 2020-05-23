@@ -28,15 +28,11 @@ Spesso mi sento fortunato ad esserlo.
 
 Ho vissuto un anno in Lituania. In quell'anno ho capito che il mondo è grande e vario, e merita di essere interpretato, vissuto. Per quello, appena ho potuto, son partito in Giappone. A fare il medico. Dopo l'esperienza lituana, in cui ho vissuto a -20°C, l'esperienza giapponese è quella che mi ha arricchito di più. 
 
-Amo leggere. Manuali tecnici. Le letture da relax non fanno per me. Ultimamente mi sto appassionando all'intelligenza artificiale, al data science.
+Amo leggere. Manuali tecnici. Le letture da relax non fanno per me. Ultimamente mi sto appassionando all'_intelligenza artificiale, al data science_.
 
-{{< html >}}
-<div style="text-align: center">
-    <img src="images/general_icon.png" alt="Journal in Cloud" style="width: 45% !important; position: initial;" class="no-box-shadow" />
-</div>
-{{< /html >}}
-
-Ho aperto un anno fa un servizio di diario della pressione su piattaforma Android per i pazienti ipertesi: Journal in Cloud ({{<external_link "https://journ.cloud" "https://journ.cloud" >}}) con statistiche avanzate, consigli, suggerimenti ed indicatori completamente in cloud.
+L'_autunno_ è la mia stagione preferita per viaggiare, e cerco di concentrare i viaggi il più possibile in quella parte dell'anno. Mi piacciono i colori che porta, l'aria fresca e frizzante, la maggiore vivibilità delel giornate che sono ancora sufficientemente lunghe per poter esplorare in lungo e largo nuovi luoghi.  
+Preferisco un viaggio avventuroso ad una vacanza, sebbene non disdegni queste ultime. Semplicemente - non fanno per me - ma se mi dovesse capitare l'occasione non rifiuterei.
+Il viaggio avventuroso mi offre più possibilità di crescita, di invenzione, di novità.
 
 Amo le lingue, per quanto dedichi loro meno tempo di quello che dovrei. L'inglese come base, in passato mi son avvicinato al russo durante la permanenza in territorio ex-URSS. 
 

@@ -51,7 +51,7 @@ timeout = 60000
     author = "Nicola"
     image  = "/images/logo_1x1.png"
     slogan = "tecnologia / libri / viaggi / fotografia"
-    copyright = [
+    copyright = [ # esiste un copyright anche in scripts.html nella gallery full screen
         "&copy; 2018-YEAR NICOLA PARISI" ,
         "Tutte le foto - se non diversamente specificato - sono di mia proprietà. E' vietata la riproduzione anche parziale dei contenuti di questo blog." ,
         "[Disclaimer](/disclaimer) &nbsp; | &nbsp; [Licenza](/licenza) &nbsp; | &nbsp; [Privacy](/privacy) &nbsp; | &nbsp; [Sorgenti](/sorgenti) &nbsp; | &nbsp; [Caffè?](/caffe)"
