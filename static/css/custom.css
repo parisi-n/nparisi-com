@@ -104,12 +104,12 @@
     .author-meta a { color: #fcfcfc !important; font-weight: bold !important; }
     .author-meta a:hover { color: white !important; font-weight: bold !important; }
     
-    article h2, article h3, article h4 { font-family: 'Source Sans Pro', sans-serif; font-weight: 900 !important; margin-top: 1.6em !important; outline: transparent; color: #3b3d44 !important; }
+    article h2, article h3, article h4 { font-family: 'Montserrat', sans-serif; font-weight: 900 !important; margin-top: 1.6em !important; outline: transparent; color: #3b3d44 !important; }
     
     article nav a { color: initial !important; }
     .nav-links .current { color: #f4511e !important; }
 
-    .block-image figcaption, .block-video-youtube figcaption, .block-video-vimeo figcaption { color: #8c8c8c; padding-top: 25px; font-family: Source Sans Pro; font-size: 13pt !important; font-variant: small-caps; font-weight: 600 !important; text-transform: lowercase; letter-spacing: 1px; text-align: center; }
+    .block-image figcaption, .block-video-youtube figcaption, .block-video-vimeo figcaption { color: #8c8c8c; padding-top: 25px; font-family: Source Sans Pro; font-size: 13pt !important; font-variant: small-caps; font-weight: 600 !important; text-transform: lowercase; letter-spacing: 1.25px; text-align: center; }
     
     .alignright, .alignleft, .aligncenter, .alignnone, .size-auto, .size-full, .size-large, .size-medium, .size-thumbnail { max-width: 100% !important; }
 
@@ -145,6 +145,13 @@
     /* Capital letter - impostazioni generali */
     .big-first-letter::first-letter { float: left; margin: .05em .1em 0 -1.01%; text-transform: uppercase; font-style: normal; font-weight: 800; }
     
+    /**
+     * VIDEO COVER
+     */
+    .video-cover { position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; pointer-events: none; overflow: hidden; }
+    .video-cover iframe { width: 100vw; position: absolute; top: 50%; left: 50%; }
+    .video-cover iframe.single-post { transform: translate(-50%, -50%); height: 70vw; min-width: 177.77vh;  }
+
         
     /**
      * PAGINATOR
@@ -444,6 +451,8 @@
         /* Padding per l'ombra dei post e dello slider' */
         .home #main { padding: 0 0.2em; }
         
+        .video-cover iframe.category { transform: translate(-50%, -50%); }
+        
         /**
          * POST
          */
@@ -500,9 +509,9 @@
         
         .rounded { padding: 15px; }
         
-        article h2 { font-size: 2.9rem !important; margin: 1.37em 0 0 !important; }
-        article h3 { font-size: 2.3rem !important; }
-        article h4 { font-size: 1.8rem !important; }
+        article h2 { font-size: 2.5rem !important; margin: 1.37em 0 0 !important; }
+        article h3 { font-size: 2.0rem !important; }
+        article h4 { font-size: 1.5rem !important; }
         article h3, article h4 { margin: 1.1em 0 -0.3em !important; }
         
         /*
@@ -675,6 +684,9 @@
         
         .sticky-header { position: fixed; top: 0; width: 100%; background-color: #fcfcfc; -moz-box-shadow: 0px 1px 3px 1px #d7d7d7; -webkit-box-shadow: 0px 1px 3px 1px #d7d7d7; box-shadow: 0px 1px 3px 1px #d7d7d7; padding-top: 10px; padding-bottom: 0px; transition: lal 0.5s ease; margin-top: -15px; }
         .hidden-element { display: none !important; }
+        
+        .odd .video-cover iframe.category { transform: translate(-33%, -50%) !important; min-height: 85vh; height: 100%; }
+        .even .video-cover iframe.category { transform: translate(-68%, -50%) !important; min-height: 85vh; height: 100%; }
    
         /**
          * VIDEO
@@ -733,7 +745,7 @@
         .sidebar-after-post-content { width: 115% !important; text-align: left !important; margin-left: -4em; }
 
         .entry-header h1 { font-size: 3rem !important; }
-        article h2, article h3, article h4 { margin-left: 4.56% !important; letter-spacing: 1.25px; }
+        article h2, article h3, article h4 { margin-left: 4.56% !important; }
         article h2 { font-size: 2.5rem !important; position: relative; }
         article h2::before { content: '#'; color: #f4511e; font-weight: bold; font-size: 2.3rem !important; margin-right: 0.12em; opacity: 0.5; position: absolute; right: calc(100% + 1px); }
         article h3 { font-size: 2rem !important; }
@@ -745,7 +757,7 @@
         
         article p, article ul { color: #3b3d44; } 
     
-        .big-first-letter::first-letter { font-size: 5.6em; line-height: .68;  }
+        .big-first-letter::first-letter { font-size: 5.6em; line-height: .85;  }
         
         .img-not-found { margin: 4.56%; }
         

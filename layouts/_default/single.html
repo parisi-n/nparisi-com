@@ -8,7 +8,16 @@
     <div id="loop-container" class="loop-container">
         <div class="post entry post_single">
 
-            <div class='featured-image lazy lazy-bg-image' data-background="{{ .Permalink }}{{ .Params.image }}"></div>
+            {{ if and (isset .Params "image") .Params.image }}
+                {{ $cover := .Resources.GetMatch .Params.image }}
+                {{ if $cover }}
+                    <div class='featured-image lazy lazy-bg-image' data-background="{{ .Permalink }}{{ .Params.image }}"></div>
+                {{ else }}
+                    <div class="featured-image lazy lazy-bg-image video-cover" style="position: fixed; top: 0; width: 100%; height: 100%; z-index: 0;">
+                        <iframe src="https://player.vimeo.com/video/{{ .Params.image }}?background=1&autoplay=1&loop=1&byline=0&title=0" frameborder="0" class="single-post" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                    </div>
+                {{ end }}
+            {{ end }}
 
             <div class="entry-container">
                 <div class='entry-header'>
