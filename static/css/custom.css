@@ -750,7 +750,7 @@
         .entry-header h1 { font-size: 3rem !important; }
         article h2, article h3, article h4 { margin-left: 4.56% !important; }
         article h2 { font-size: 2.5rem !important; position: relative; }
-        article h2::before { content: '#'; color: #f4511e; font-weight: bold; font-size: 2.3rem !important; margin-right: 0.12em; opacity: 0.5; position: absolute; right: calc(100% + 1px); }
+        article h2::before { content: '#'; color: #f4511e; font-weight: bold; font-size: 2.5rem !important; margin-right: 0.12em; opacity: 1; position: absolute; right: calc(100% + 1px); }
         article h3 { font-size: 2rem !important; }
         article h4 { font-size: 1.5rem !important; }
         .content-category { margin-left: 4.56%; margin-bottom: 2em; display: inline-flex ;}

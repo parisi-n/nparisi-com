@@ -134,6 +134,7 @@ $(document).ready(function(){
         
         /* Cambia il background della barra a seconda della % */
         document.getElementById("my-read-bar-container").style.backgroundColor = ( scrolled > 1 ) ? "#f1f1f1" : "#fff";
+        document.getElementById("my-read-bar-container").style.boxShadow = ( scrolled > 1 ) ? "0 5px 12px 0 rgba(0,0,0,0.07)" : "none";
     }
 
     $(document).on('ready', function()
