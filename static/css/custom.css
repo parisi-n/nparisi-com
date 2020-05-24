@@ -629,11 +629,11 @@
             /**
              * IMG FULL SCREEN
              */
-            #overlay, #bg { position: fixed; top:0; left:0; width:100%; height:100%; background: rgba(0,0,0,0) none 50% / contain no-repeat; cursor: pointer; transition: 0.3s; visibility: hidden; opacity: 0; display: block; z-index: 11; }
+            #overlay, #bg { position: fixed; top:0; left:0; width:100%; height:100%; background: rgba(0,0,0,0) none 50% / contain no-repeat; cursor: pointer; transition: ease 0.3s; visibility: hidden; opacity: 0; display: block; z-index: 11; }
             #bg { background: rgba(0,0,0,0.91) none 50% / contain no-repeat; }
-            #overlay.open, #bg.open, #exit-button.open { visibility: visible; opacity: 1; }
+            #overlay.open, #bg.open, #exit-button.open { visibility: visible; opacity: 1; transation: ease 0.3s; }
             #exit-button { position: fixed; bottom: 26px; right: 26px; visibility: hidden;z-index: 12; }
-            #exit-button i { color:#fff; font-size: 3em; font-weight: 800; cursor: pointer; transition: ease 0.3s; }
+            #exit-button i { color:#fff; font-size: 3em; font-weight: 800; cursor: pointer; }
             #exit-button i:hover { color: #f4511e; }
             
         /**
@@ -860,14 +860,12 @@
              */
             .placeholder img { position: absolute; opacity: 0; top: 0; left: 0; width: 100%; transition: opacity 1s linear; }
             div.wide-screen { left: 50%; margin-left: -50vw; margin-right: -50vw; max-width: 100vw; position: relative; right: 50%; width: 100vw; z-index: 5; transition: opacity 1s linear; }
-            
-            .entry-content .block-image .resize { visibility: visible; color: white; position: absolute; top: 13px; right: 23px; font-size: 1.7em; opacity: 0.7; transition: ease 0.4s }
-            .entry-content .block-image .resize:hover { color: #f4511e; }
-            
+                        
             /**
              * IMG FULL SCREEN
              */
             #overlay, #bg, #exit-button { visibility: hidden; display: none; }
+            .entry-content .block-image .resize { visibility: hidden; display: none; font-size: 1px; }
     }
     
     @media all and (min-width: 70em ) and (min-height: 70em )
