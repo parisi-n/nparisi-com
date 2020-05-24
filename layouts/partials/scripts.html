@@ -244,18 +244,17 @@ $(document).ready(function(){
                                         backgroundImage: 'url(' + src + ')',
                                         transform: 'rotate(90deg) scale(1.75)'
                                     } )
-                                .addClass('open')
-                                .one('click', function() {
-                                        $(this).removeClass('open');
-                                        $('#bg').removeClass('open');
-                                        $('#exit-button').removeClass('open');
-                                    });
+                                .addClass('open');
 
-                    $('#exit-button').one('click', function() {
+                    $('#exit-button, #overlay').one('click', function() {
+                                        $('#overlay').css( {
+                                                            transform: 'rotate(0deg) scale(1)'
+                                                        } )
+                                        $('#exit-button').removeClass('open');
                                         $('#overlay').removeClass('open');
                                         $('#bg').removeClass('open');
-                                        $('#exit-button').removeClass('open');
                                     });
+
                     $('#exit-button').addClass('open');
                     $('#bg').addClass('open');
                 }
