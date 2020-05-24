@@ -463,7 +463,9 @@
         .entry-content p { margin: 0.9em 0 1.2em !important; }
         .entry-container { padding: 0 2.7% !important; margin-top: 0 !important; }
         .blog .main, .archive .main, .search .main { width: 96.96%; padding-top: 0.5em; }
-        .post, .page { padding: 0 0px !important; margin-top: -1em !important; }
+        .post, .page { padding: 0 0px !important; }
+        .page { margin-top: -1em !important; }
+        .post { margin-top: 0em !important; }
         .content-category { display: flex; overflow-x: auto; padding-top: 1em;}
         .entry-content .block-image, .entry-content .block-video-youtube, .entry-content .block-video-vimeo { box-shadow: none; padding: 0; }
         .post .featured-image.lazy { }
@@ -475,6 +477,7 @@
         .excerpt-container { padding: 0 2%; background-color: white; }
         
         .entry-header, .entry-title, .entry-meta {  width: 100% !important; text-align: center; padding: 0px !important; letter-spacing: 2px; }
+        .entry-title { padding: 1.31em 0px 0px !important; }
 
         .post .entry-meta { margin: 0 auto 6em auto; }
 
@@ -618,7 +621,7 @@
             .placeholder img { top: 0; position: absolute; opacity: 0; transition: opacity 1s linear; }
             .entry-content .block-image { top: 0; left: 50% !important; margin-left: -50vw !important; margin-right: -50vw !important; max-width: 100vw !important; position: relative; right: 50% !important; width: 100vw !important; }
             /* Mostra l'immagine di resize */
-            .entry-content .block-image .resize { visibility: visible; color: white; position: absolute; top: 13px; right: 13px; font-size: 1.7em; opacity: 0.7; transition: ease 0.4s; }
+            .entry-content .block-image .resize { visibility: visible; color: white; position: absolute; top: 13px; right: 1.3px; font-size: 1.7em; opacity: 0.7; transition: ease 0.4s; }
             .entry-content .block-image .wide-screen { cursor: pointer; }
             .entry-content .block-image .resize { cursor: pointer; width: 1.11em; color: #fff; }
             .entry-content .block-image .resize:hover { color: #f4511e; }
