@@ -207,7 +207,7 @@ La sua capienza è di 10 mila persone. Purtroppo al mio arrivo era chiusa e non 
 
 Passeggiare per il centro a sera inoltrata ha tutto un suo fascino. La città è diversa, è più misteriosa. Passiamo in rassegna giardini, vie, edifici imponenti e maestosi - sfortunatamente senza conoscerne nomi o storia.
 
-{{< image src="photo5778649206100177514.jpg" type="wide-screen" alt="" >}}
+{{< image src="IMG_6978.jpg" alt="Piazza di Belgrado in versione notturna" type="wide-screen">}}
 
 E' comunque un sabato sera e numerose persone affollano le vie.
 
@@ -221,9 +221,7 @@ Il problema principale è che il nome di tale edificio ci era stato scritto in c
 
 Se ancora vi rimarranno energie, continuate la camminata per le vie del centro.
 
-{{< image src="IMG_6978.jpg" alt="Piazza di Belgrado in versione notturna" type="wide-screen">}}
-
-Ma ciò che più salta all'occhio ed affascina in questo scenario urbano è il fortissimo contrasto tra architetture anche vicine tra loro.
+Ciò che più salta all'occhio ed affascina in questo scenario urbano è il fortissimo contrasto tra architetture anche vicine tra loro.
 
 Classici edifici dallo stile austero e sovietico ci ricordano la storia.
 
