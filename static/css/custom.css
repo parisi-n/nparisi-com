@@ -465,7 +465,7 @@
         .blog .main, .archive .main, .search .main { width: 96.96%; padding-top: 0.5em; }
         .post, .page { padding: 0 0px !important; }
         .page { margin-top: -1em !important; }
-        .post { margin-top: 0em !important; }
+        .post_single { margin-top: -1em !important; }
         .content-category { display: flex; overflow-x: auto; padding-top: 1em;}
         .entry-content .block-image, .entry-content .block-video-youtube, .entry-content .block-video-vimeo { box-shadow: none; padding: 0; }
         .post .featured-image.lazy { }
@@ -633,7 +633,7 @@
             #bg { background: rgba(0,0,0,0.91) none 50% / contain no-repeat; }
             #overlay.open, #bg.open, #exit-button.open { visibility: visible; opacity: 1; }
             #exit-button { position: fixed; bottom: 26px; right: 26px; visibility: hidden;z-index: 12; }
-            #exit-button i { color:#fff; font-size: 3em; font-weight: 800; cursor: pointer; transition: ease 0.4s; }
+            #exit-button i { color:#fff; font-size: 3em; font-weight: 800; cursor: pointer; transition: ease 0.3s; }
             #exit-button i:hover { color: #f4511e; }
             
         /**
