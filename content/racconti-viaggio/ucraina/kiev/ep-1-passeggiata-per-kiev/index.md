@@ -1,7 +1,7 @@
 ---
 title: "Una passeggiata per Kiev: un arrivo inaspettato // Ep. 1"
 date: "2020-05-25"
-image: "images/IMG_7454.jpg"
+image: "images/cover_ep1_passeggiata_kiev.jpg"
 
 summary : "Una città - Kiev - che sorprende. Sottovalutata da tutti e snobbata da molti, riesce a far innamorare, a far sognare: dietro la sua lingua dura ed il suo clima freddo si nasconde un cuore illuso e incantato."
 categories : [ "racconti-di-viaggio" ]

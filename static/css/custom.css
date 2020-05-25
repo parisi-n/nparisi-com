@@ -825,7 +825,7 @@
             /**
              * SLIDER
              */
-            .slick-image { height: 40em !important; }
+            .slick-image { height: 40em !important; transform: scale(1.1); }
             
             /**
              * SCROLL TO TOP BUTTON
