@@ -1,6 +1,11 @@
 {
     "array" : [
         {
+            "image" : "IMG_7454.jpg" ,
+            "text_title" : "Una passeggiata per Kiev: un arrivo inaspettato // Ep. 1" ,
+            "url" : "racconti-viaggio/ucraina/kiev/ep-1-passeggiata-per-kiev/"
+        } ,
+        {
             "image" : "copertina-wordpress-hugo.jpg" ,
             "text_title" : "Perchè son passato da Wordpress ad un sito statico costruito con Hugo" ,
             "url" : "lifestyle/da-wordpress-a-hugo/"
