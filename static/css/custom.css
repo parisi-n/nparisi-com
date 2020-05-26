@@ -570,6 +570,8 @@
             .instagram-pic { margin: 2.5% auto; }
             .instagram_gallery a.padding-left { margin-left: 1.25%; padding-right: 0; }
             .instagram_gallery a.padding-right { margin-right: 1.25%; padding-left: 0; }
+            .instagram-main-buttons { margin: 1em auto; width: 13em; }
+            @media all and (max-width: 28em) { .instagram-main-buttons { margin: 1em auto; width: 10em; } }
 
             /**
              * RELATED POSTS
