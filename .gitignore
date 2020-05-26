@@ -1,7 +1,7 @@
 hugo.exe
 COMANDI_DI_BASE
 /blog/
-/nbproject/*
+nbproject/
 
 /content/racconti-viaggio/ucraina/kiev/ep-2-museo-guerra-grotte/
 /content/racconti-viaggio/ucraina/kiev/ep-3-tour-chernobyl/
