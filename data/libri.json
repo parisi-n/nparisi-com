@@ -13,7 +13,7 @@
                                     {
                                         "title" :  "Business blockchain" ,
                                         "auth" : "Willian Mougayar" ,
-                                        "ref" : "/post/libri/blockchain-medicina/"
+                                        "ref" : "/libri/blockchain-medicina/"
                                     } ,
                                     {
                                         "title" :  "Data Science for Dummies" ,
@@ -50,7 +50,7 @@
                                     {
                                         "title" :  "Colors XXL" ,
                                         "auth" : "Jim Krause" ,
-                                        "ref" : "colors-xxl"
+                                        "ref" : "/libri/importanza-colori/"
                                     }
                                 ]
                     }
