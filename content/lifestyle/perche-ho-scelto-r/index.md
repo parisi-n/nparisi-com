@@ -77,7 +77,7 @@ E' disponibile anche il libro omonimo - Ricerca sociale in R - di cui però non 
 
 **Lingua:** {{< emojy ":it:" >}}  
 **Costo:** free/paid  
-**Maggiori informazioni:** {{< external_link "https://www.agnesevardanega.eu/metref/r" "qui" >}}.
+**Maggiori informazioni:** {{< external_link "https://www.agnesevardanega.eu/metref" "qui" >}}.
 
 ### Analisi dei dati in R
 

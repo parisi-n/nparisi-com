@@ -19,7 +19,7 @@ L'Ucraina - con i suoi contrasti, con la sua cultura, con la sua lingua dura, co
 ## L'8 Marzo 2016
 
 {{< capital_letter_open >}}
-Ricordo ancora le date. Ero partito l'8 Marzo del 2016 su un bus {{< external_link "Eurolines" "https://www.eurolines.lt/lt/" >}} intorno alle 17 da **Vilnius**. La tratta non è tra le più gettonate e di conseguenza anche le compagnie che la offrono non son portate a fornire un servizio di buona qualità. Il bus era un bus normale: niente bagno interno, niente sedili reclinabili, niente macchinetta del caffè. Solo tanta gente.
+Ricordo ancora le date. Ero partito l'8 Marzo del 2016 su un bus {{< external_link "https://www.eurolines.lt/lt/" "Eurolines" >}} intorno alle 17 da **Vilnius**. La tratta non è tra le più gettonate e di conseguenza anche le compagnie che la offrono non son portate a fornire un servizio di buona qualità. Il bus era un bus normale: niente bagno interno, niente sedili reclinabili, niente macchinetta del caffè. Solo tanta gente.
 Cambio qualche euro nella banca dell'autostazione di Vilnius, e salgo.
 {{< capital_letter_close >}}
 

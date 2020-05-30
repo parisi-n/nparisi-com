@@ -18,7 +18,7 @@ Esso è configurato in modo tale che l'IP sia mascherato, non vengano installati
 Se vai ad esplorare la tab **TAB CHROME** durante la navigazione ti renderai conto che nessun cookie di tracciamento o profilazione è presente sul sito.
 Le implementazioni di YouTube sono impostate per non creare alcun cookie nel browser dell'utente, ciò significa che non viene creato un ID univoco della tua persona al fine di tracciarti.
 
-Puoi usare un tool online come {{< external_link "www.cookiemetrix.com" "Cookie Metrix" >}} per verificare quanti e quali cookie vengono generati durante la navigazione ed essere sicuro.
+Puoi usare un tool online come {{< external_link "https://www.cookiemetrix.com" "Cookie Metrix" >}} per verificare quanti e quali cookie vengono generati durante la navigazione ed essere sicuro.
 
 **Youtube** e **Vimeo** creano cookie in fase di esecuzione dei video, così come il **feed di instagram** nella home page e **Disqus** per i commenti.
 

@@ -34,7 +34,7 @@ La sua funzione è semplice quanto banale: crea una rete wireless all’interno 
 
 E già l’uso domestico quotidiano potrebbe finire qui: si collega l'hard disk, una pennina, quello che è; si accende; ci si collega alla rete che il RavPower FileHub crea. Se poi non si vuole rinunciare ad usare la propria rete Wireless domestica durante l’uso del File Hub, basta configurare il dispositivo per il bridging della rete tramite le funzionalità offerte di **Access Point.**
 
-Per farlo basta collegarsi all’indirizzo [http://10.10.10.254](http://10.10.10.254) , fare il login come **Admin** e password vuota e da lì configurare la funzionalità di bridging.
+Per farlo basta collegarsi all’indirizzo **http://10.10.10.254** , fare il login come **Admin** e password vuota e da lì configurare la funzionalità di bridging.
 
 In contesto domestico capiterà poco di usarlo come powebank, anzi più spesso capiterà la necessità di doverlo caricare (collegato ad un HDD meccanico WD MyPassport 4TB ha una durata di circa 3 ore).
 

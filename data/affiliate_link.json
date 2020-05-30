@@ -144,11 +144,21 @@
         } ,
         {
             "refer" : "bigdata-gal" ,
-            "url" : "https://www.instagram.com/bigdatagal"
+            "url" : "https://www.instagram.com/strategy_gal/"
         } ,
         {
             "refer" : "azerbaijan-100-questions" ,
             "url" : "https://www.amazon.it/gp/product/9952806809/"
-        }
+        } ,
+        {
+            "refer" : "sandisk-usb-typea-typec" ,
+            "url" : "https://www.aliexpress.com/item/4000474048239.html"
+        } ,
+        {
+            "refer" : "hp-usb-typea-typec" ,
+            "url" : "https://www.aliexpress.com/item/32967264940.html"
+        }        
+        
+        
     ]
 }

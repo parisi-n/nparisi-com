@@ -1,0 +1,9 @@
+<div class="
+     {{- if eq ( .Get 0 ) "orange" -}}
+     orange-box
+     {{- end -}}">
+<p style="color: #fff; text-align: center !important; font-weight: 600;">{{ .Get 1 }}</p>
+
+{{ .Inner | markdownify }}
+
+</div>

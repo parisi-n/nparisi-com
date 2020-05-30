@@ -244,6 +244,7 @@ $(document).ready(function(){
                                         transform: 'rotate(90deg) scale(1.75)'
                                     } )
                                 .addClass('open');
+                    $("body").css("overflow", "hidden");
 
                     $('#exit-button, #overlay').one('click', function() {
                                         $('#overlay').css( {
@@ -252,6 +253,7 @@ $(document).ready(function(){
                                         $('#exit-button').removeClass('open');
                                         $('#overlay').removeClass('open');
                                         $('#bg').removeClass('open');
+                                        $("body").css("overflow", "initial");
                                     });
 
                     $('#exit-button').addClass('open');

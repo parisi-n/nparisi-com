@@ -28,7 +28,7 @@
     .more-link:focus { outline: none; }
     .more-link:after { width: 0px !important; } /* impedisce il formarsi della barra inferiore all'hover del link    */
     .design-credit a { color: #8c8c8c !important; border-bottom: 2px solid; }
-    .orange-box { background-color: #f4511e; padding:1.0em; border-radius: 3px; margin: 6em 4.56% -8em; }
+    .orange-box { background-color: #f4511e; padding:1.0em; border-radius: 3px; margin: 1.1em 4.56%; }
     .orange-box p { color: #f8f8f8; font-family: "Open Sans", sans-serif !important; margin: 0.7em; font-size: 1.3rem; }
     .no-box-shadow, .no-box-shadow div { box-shadow: initial !important; }
 
@@ -148,6 +148,8 @@
     
     /* Capital letter - impostazioni generali */
     .big-first-letter::first-letter { float: left; margin: .05em .1em 0 -1.01%; text-transform: uppercase; font-style: normal; font-weight: 800; }
+    
+    code { background-color: transparent; }
     
     /**
      * VIDEO COVER
@@ -489,7 +491,7 @@
         .post .entry-meta .category a { color: #fafafa !important; }
         .post .entry-meta .category a:hover { color: #f4511e !important; }
 
-        .entry-content img, .block-video-youtube, .block-video-vimeo, .itinerario-gmaps, iframe.instagram-media { left: 50% !important; margin-left: -50vw !important; margin-right: -50vw !important; max-width: 100vw !important; position: relative; right: 50% !important; width: 100vw !important; border: 0px; }
+        .block-video-youtube, .block-video-vimeo, .itinerario-gmaps, iframe.instagram-media { left: 50% !important; margin-left: -50vw !important; margin-right: -50vw !important; max-width: 100vw !important; position: relative; right: 50% !important; width: 100vw !important; border: 0px; }
 
         /* Capital letter - aggiustamento per piccoli schermi */
         .big-first-letter::first-letter { font-size: 3.4em; line-height: .88;  }
@@ -517,7 +519,7 @@
         
         .post-template-default .featured-image { height: 73vh; }
         
-        .rounded { padding: 15px; }
+        .rounded { padding: 0px; }
         
         article h2 { font-size: 2.5rem !important; margin: 1.37em 0 0 !important; }
         article h3 { font-size: 2.0rem !important; }

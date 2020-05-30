@@ -27,7 +27,7 @@ Google PageSpeed Insights riportava una _Performance_ di **44** (in realtà in v
 
 Tutto è iniziato quando mi son reso conto che la lentezza del blog non era correlata alla mia connessione ma _al sito stesso_. Il paradosso che ne segue è solo una conseguenza: per velocizzare una cosa lenta devo installare un plugin che lo velocizza; per poi installare un alto plugin che velocizza il precedente.
 
-Secondo {{< external_link "https://wp-rocket.me/blog/wordpress-plugins-many/ " "un post del famoso plugin WP Rocket" >}} per un hosting condiviso (come quello di _nparisi.com_) il numero di plugin consigliato è tra 0 – 5 .
+Secondo {{< external_link "https://wp-rocket.me/blog/wordpress-plugins-many/" "un post del famoso plugin WP Rocket" >}} per un hosting condiviso (come quello di _nparisi.com_) il numero di plugin consigliato è tra 0 – 5 .
 
 **Io ne avevo 22**.
 
@@ -72,7 +72,7 @@ Oppure: fare un _commit_ su {{< external_link "https://github.com" "GitHub" >}} 
 Di difetti ne ho trovati tanti; ma erano essenzialmente ciò che – provenendo da Wordpress – era inevitabile vedessi, **trascurando tutti i pro**.
 
 ### Contro
-Dimenticate la comoda interfaccia admin di Wordpress. A meno di "accrocchi" particolari non potrete gestire il sito come eravate abituati a fare dal _pannello admin_ di Wordpress. Non potrete quindi scrivere post da qualunque postazione siate o lavorare al sito da una postazione diversa da quella solita. Esistono però dei pacchetti da _implementare_ come {{< external_link "netlify-cms" "https://www.netlifycms.org/" >}} o {{< external_link "https://forestry.io/" "forestry.io" >}}.
+Dimenticate la comoda interfaccia admin di Wordpress. A meno di "accrocchi" particolari non potrete gestire il sito come eravate abituati a fare dal _pannello admin_ di Wordpress. Non potrete quindi scrivere post da qualunque postazione siate o lavorare al sito da una postazione diversa da quella solita. Esistono però dei pacchetti da _implementare_ come {{< external_link "https://www.netlifycms.org/" "netlify-cms" >}} o {{< external_link "https://forestry.io/" "forestry.io" >}}.
 
 Se volete implementare una funzionalità non ci sono plugin da installare: dovrete andare in giro per il web alla ricerca di qualche pacchetto javascript/html/css ed implementarlo secondo i vostri gusti, sia di estetica sia di programmazione. Aggiungere il bannerino di avviso cookie può diventare un inferno.
 
