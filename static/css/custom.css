@@ -96,7 +96,7 @@
     article .category { display: block; }
     article .category a { background-color:#f4511e; padding: 0.7em 1.1em; margin-bottom: 2em; margin-right: 0.8em; font-weight: 600; opacity: 1 !important; text-transform: uppercase; letter-spacing: 0.8; font-size: 13pt; color: #fff !important; text-decoration: none; border-radius: 3px; }
     article .category a:hover, .category a:nth-child(2):hover { background-color: #4d4d4d; }
-    .entry-meta { font-size: 13pt !important; }
+    .entry-meta { font-size: 11pt !important; }
     .entry-content img, .entry-content video { margin-bottom: -0.5em !important; }
     .ep-interspace { margin: -13px; }
     .entry-content figcaption { text-align: center; padding-bottom: 0em; font-size: 11pt; font-weight: normal; width: 80%; margin: 0 auto; }
@@ -477,9 +477,7 @@
         .entry-content .block-image, .entry-content .block-video-youtube, .entry-content .block-video-vimeo { box-shadow: none; padding: 0; }
         .post .featured-image.lazy { }
         
-        .entry-meta { font-size: 11pt !important; }
-        
-        .entry-meta { font-size: 11pt !important; }
+        .entry-meta { }
         
          article .category { margin-bottom: 3em; /* necessario epr i post senza indice */ }
          article p, article ul { color: #5D656C; text-align: left !important; font-size: 1.32rem; line-height: 1.80em !important; } 
