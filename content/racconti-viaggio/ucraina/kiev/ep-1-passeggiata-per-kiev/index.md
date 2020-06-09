@@ -204,5 +204,3 @@ Storia che si riflette sulla consuetudine tra i patriotici ucraini salutarsi:
 {{< /table >}}
 
 * * *
-
-Se non siete ancora stanchi e volete continuare il tour di Kiev, [qui c'è il continuo]({{< ref "/racconti-viaggio/ucraina/kiev/ep-2-museo-guerra-grotte/index.md" >}}).
