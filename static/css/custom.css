@@ -100,7 +100,7 @@
     .entry-content img, .entry-content video { margin-bottom: -0.5em !important; }
     .ep-interspace { margin: -13px; }
     .entry-content figcaption { text-align: center; padding-bottom: 0em; font-size: 11pt; font-weight: normal; width: 80%; margin: 0 auto; }
-    .entry-title { font-family: 'Montserrat', sans-serif; font-weight: 900 !important; font-size: 2.1rem !important; margin-bottom: 1.9em; color: black; }
+    .entry-title { font-family: 'Montserrat', sans-serif; font-weight: 900 !important; font-size: 2.1rem !important; margin-bottom: 1.9em; color: #3b3d44; }
     .page .entry-title { margin-bottom: 2.8em; margin-top: 1.7em; color: black; }
 
     .author-meta { background: #f4511e !important; }
@@ -308,7 +308,7 @@
          * AppBox
          */
         .appbox { background: rgba(140, 140, 140, 0.1) !important; padding: 1em 3em !important; border-radius: 3px; width: auto; }
-        .appbox img { width: 96px !important; height: 96px; float: left; margin-right: 2em; box-shadow: initial !important; margin-bottom: 0.15em !important; }
+        .appbox img { width: 96px !important; height: 96px; margin-right: 2em; box-shadow: initial !important; margin-bottom: 0.15em !important; }
         .appbox div { width: 100%; font-size: 1.6rem; font-weight: 600; display: flex; flex-direction: column; justify-content: center; }
         
         /**
@@ -776,7 +776,7 @@
         
         .sidebar-after-post-content { width: 115% !important; text-align: left !important; margin-left: -4em; }
 
-        .entry-header h1 { font-size: 3rem !important; }
+        .entry-header h1 { font-size: 3rem !important; margin-top: 0.9em; }
         article h2, article h3, article h4 { margin-left: 4.56% !important; }
         article h2 { font-size: 2.5rem !important; position: relative; }
         article h2::before { content: '#'; color: #f4511e; font-weight: bold; font-size: 2.5rem !important; margin-right: 0.12em; opacity: 1; position: absolute; right: calc(100% + 1px); }
@@ -865,6 +865,7 @@
              * AppBox
              */
             .appbox { display: flex; margin: 2em 4.56%; }
+            .appbox img { float: left; }
             
             /**
              * LAZY LOADING
