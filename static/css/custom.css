@@ -647,6 +647,11 @@
             #exit-button i { color:#fff; font-size: 3em; font-weight: 800; cursor: pointer; }
             #exit-button i:hover { color: #f4511e; }
             
+            /**
+             * PAGINATOR
+             */
+            .paginator_bar { margin-bottom: 3.59em !important; }
+            
         /**
          * SEZIONE LIBRERIA
          */
@@ -753,8 +758,9 @@
         
         /* Allinea il submenu della sezione Travel | Blog */
         ul.sub-menu { background-color: rgb(251, 251, 251); box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin: 0.18em; font-size: .810rem; }
-        .menu-item:nth-of-type(2) .sub-menu { margin-left: 26%; }
-        .menu-item:nth-of-type(4) .sub-menu { margin-left: -5%; }
+        .menu-item:nth-of-type(2) .sub-menu { margin-left: 6%; }
+        .menu-item:nth-of-type(4) .sub-menu { margin-left: -26%; }
+        ul ul, ol ol, ul ol, ol ul, li li { font-size: 0.91rem !important; }
 
         /**
          * POST
