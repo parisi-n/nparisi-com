@@ -147,7 +147,7 @@
     .posizione_gmaps a { opacity: 0.6 }
     
     /* Capital letter - impostazioni generali */
-    .big-first-letter::first-letter { float: left; margin: .05em .1em 0 -1.01%; text-transform: uppercase; font-style: normal; font-weight: 800; }
+    .big-first-letter::first-letter { float: left; margin: .09em .1em 0 -1.01%; text-transform: uppercase; font-style: normal; font-weight: 800; }
     
     code { background-color: transparent; }
     
@@ -457,7 +457,7 @@
         .img-not-found { margin: 3%; }
         
         /* Padding per l'ombra dei post e dello slider' */
-        .home #main { padding: 0 0.2em; }
+        .home #main { padding: 0; }
         
         .video-cover iframe.category { transform: translate(-50%, -50%); }
         
@@ -468,7 +468,7 @@
         .entry-content p, .entry-content ul { width: auto; }
         .entry-content p { margin: 0.9em 0 1.2em !important; }
         .entry-container { padding: 0 2.7% !important; margin-top: 0 !important; }
-        .blog .main, .archive .main, .search .main { width: 96.96%; padding-top: 0.5em; }
+        .blog .main, .archive .main, .search .main { width: 100%; padding-top: 0.5em; }
         .post, .page { padding: 0 0px !important; }
         .page { margin-top: -1em !important; }
         .post { margin-top: -0.8em !important; }
