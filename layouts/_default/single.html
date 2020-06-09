@@ -40,28 +40,29 @@
                 </div>
 
                 <div class="entry-content">
-                    <div class="content-category">
-                        {{ range .Params.categories }}
-                        <span class="category">
-                            <a href="/{{ . | urlize }}" title="Vedi tutti gli articoli della categoria ''{{ humanize . }}''">{{ humanize . }}</a>
-                        </span>
-                        {{ end }}
-                    </div>
-
-                    <!-- Social share bar -->
-                    {{ partial "share_bar_button.html" . }}
-
-                    <!-- Indice della pagina --> 
-                    {{ if .Params.showToc }}
-                        {{ partial "toc.html" . }}
-                    {{end}}
-
                     <article>
+                        <div class="content-category">
+                            {{ range .Params.categories }}
+                            <span class="category">
+                                <a href="/{{ . | urlize }}" title="Vedi tutti gli articoli della categoria ''{{ humanize . }}''">{{ humanize . }}</a>
+                            </span>
+                            {{ end }}
+                        </div>
+
+                        <!-- Social share bar -->
+                        {{ partial "share_bar_button.html" . }}
+
+                        <!-- Indice della pagina --> 
+                        {{ if .Params.showToc }}
+                            {{ partial "toc.html" . }}
+                        {{end}}
+
                         {{ .Content }}
+
+                        <!-- Frecce laterali di navigazione -->
+                        {{ partial "navigazione_tra_post.html" . }}
+
                     </article>
-                    
-                    <!-- Frecce laterali di navigazione -->
-                    {{ partial "navigazione_tra_post.html" . }}
                 </div>
                 {{ partial "disqus.html" . }}
             </div>
