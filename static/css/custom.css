@@ -451,6 +451,7 @@
         .dark-background .loop-container, .dark-background .main, .dark-background { background-color: #e8e8e8 !important; }
         .main { border-radius: 3px; }
         
+        .excerpt { margin-bottom: 2.13em; }
         .excerpt-content { padding: 1.5em 0.9em 2.73em; }
         .excerpt-content p { word-spacing:-2px; }
         
