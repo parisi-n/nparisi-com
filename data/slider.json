@@ -1,14 +1,14 @@
 {
     "array" : [
         {
+            "image" : "cover.jpg" ,
+            "text_title" : "Una passeggiata per Kiev: la madrepatria, il museo della guerra e le grotte // Ep. 2" ,
+            "url" : "racconti-viaggio/ucraina/kiev/ep-2-museo-guerra-grotte/"
+        } ,
+        {
             "image" : "cover_ep1_passeggiata_kiev.jpg" ,
             "text_title" : "Una passeggiata per Kiev: un arrivo inaspettato // Ep. 1" ,
             "url" : "racconti-viaggio/ucraina/kiev/ep-1-passeggiata-per-kiev/"
-        } ,
-        {
-            "image" : "copertina-wordpress-hugo.jpg" ,
-            "text_title" : "Perchè son passato da Wordpress ad un sito statico costruito con Hugo" ,
-            "url" : "lifestyle/da-wordpress-a-hugo/"
         } ,
         {
             "image" : "IMG_6909.jpg" ,
