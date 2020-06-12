@@ -815,6 +815,7 @@
         /**
          * INSTAGRAM HI - LANDING PAGE
          */
+        .instagram-hi .container { padding-top: 5% !important; }
         .instagram-hi .button { width: 23em; margin: 1.23em; }
         .instagram-hi .profile-pic { width: 35% !important; }
         .instagram-hi .margin-left { margin-left: 5.65em; }
