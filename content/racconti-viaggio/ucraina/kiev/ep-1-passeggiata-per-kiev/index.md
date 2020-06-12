@@ -20,7 +20,7 @@ Per rendere il tutto più epico - poi - aggiungo come tappa nell'ultimo giorno d
 Ed il capolavoro è servito.
 {{< capital_letter_close >}}
 
-{{< image src="20191109_110657.jpg" alt="Murales in un muro della città" caption="Uno dei numerosi murales distribuiti per la città" >}}
+{{< image src="20191109_110657.jpg" alt="Murales in un muro della città" caption="Uno dei numerosi murales presenti in la città" >}}
 
 ## I preparativi
 A Novembre 2019 - non è (ancora) necessario visto d'ingresso per i cittadini italiano in possesso di passaporto italiani con almeno 6 mesi di validità al momento dell'ingresso.
@@ -135,7 +135,10 @@ In lontananza il Museo Internazionale della Cultura e delle Arti e la terrazza-o
 
 ## La via Khreschatyk
 
-Da questa piazza che rappresenta il cuore (battente e ferito) di Kiev e dell'Ucraina tutta inizia la __via Khreschatyk__ - nota per i negozi e per il fatto che la notte viene chiusa al traffico (si tratta di una strada a 6 corsie che potete vedere nella copertina di questo post) venendo di fatto restituita alle persone che ci possono camminare liberamente.
+Da questa piazza che rappresenta il cuore (battente e ferito) di Kiev e dell'Ucraina tutta inizia la __via Khreschatyk__.
+
+Lunga 1km, ha subito duramente gli insulti della Seconda Guerra Mondiale: i suoi edifici son stati per la maggior parte distrutti nel 1941 e quelli presenti oggi - pur ispirandosi agli edifici presenti al tempo - non sono che ricostruzioni; solo alcuni sono rimasti integri.
+E' nota per i negozi e per il fatto che la notte viene chiusa al traffico (si tratta di una strada a 6 corsie che potete vedere nella copertina di questo post) venendo di fatto restituita alle persone che ci possono camminare liberamente.
 
 {{< image src="IMG_7448.jpg" alt="Kiev scritta gigante" caption="K-I-E-V" type="wide-screen" >}}
 
@@ -204,3 +207,5 @@ Storia che si riflette sulla consuetudine tra i patriotici ucraini salutarsi:
 {{< /table >}}
 
 * * *
+
+Se non siete ancora stanchi e volete continuare il tour di Kiev, [qui c'è il continuo]({{< ref "/racconti-viaggio/ucraina/kiev/ep-2-museo-guerra-grotte/index.md" >}}).

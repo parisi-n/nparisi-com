@@ -774,7 +774,7 @@
         .entry-meta { top: -5em !important; position: relative; margin-bottom: -5em; }
         .entry-content p, .entry-content ul, .entry-content .normal-text { font-size: 15pt; padding: 0 4.56%; }
         .has-huge-font-size, .has-larger-font-size { font-size: 42px !important; }
-        .entry-content { margin: 3em -4em; }
+        .entry-content { margin: -2em -4em 3em; }
         .block-image div, .entry-content img { text-align: center; width: 100%; }
         .entry-content .itinerario-gmaps { width: 100%; height: 450px !important; border: 0px; }
 
