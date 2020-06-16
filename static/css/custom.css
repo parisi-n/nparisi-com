@@ -28,8 +28,12 @@
     .more-link:focus { outline: none; }
     .more-link:after { width: 0px !important; } /* impedisce il formarsi della barra inferiore all'hover del link    */
     .design-credit a { color: #8c8c8c !important; border-bottom: 2px solid; }
-    .orange-box { background-color: #f4511e; padding:1.0em; border-radius: 3px; margin: 1.1em 4.56%; }
-    .orange-box p { color: #f8f8f8; font-family: "Open Sans", sans-serif !important; margin: 0.7em; font-size: 1.3rem; }
+    .color-box { padding:1.0em; border-radius: 3px; margin: 1.1em 4.56%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }
+    .orange-box { background-color: rgba(244, 81, 30, 1); }
+    .green-box { background-color: rgb(4, 141, 121, 1 ); }
+    .color-box p { color: #f8f8f8; font-family: "Open Sans", sans-serif !important; margin: 0.7em; font-size: 1.25rem; word-spacing: -1px; }
+    .color-box a, .color-box a:visited { color: white !important; font-style: initial; font-weight: initial; border-bottom: 2px solid #ffffff; }
+    .color-box a:hover { color: white !important; border-bottom: 2px dotted #ffffff !important; }
     .no-box-shadow, .no-box-shadow div { box-shadow: initial !important; }
 
     /**
@@ -502,7 +506,7 @@
         
         .post table { width: 100%; }
         
-        .post .orange-box { margin: initial; padding: 1em 2.9em; }
+        .orange-box, .green-box { margin: initial; margin-left: 0em; margin-right: 0em; padding: 1em 1.3em; }
     
         /**
          * VIDEO
@@ -654,7 +658,7 @@
             /**
              * PAGINATOR
              */
-            .paginator_bar { margin-bottom: 3.75em !important; }
+            .paginator_bar { margin-top: 2.5em !important; margin-bottom: 3.75em !important; }
             
         /**
          * SEZIONE LIBRERIA
@@ -815,7 +819,7 @@
         /**
          * INSTAGRAM HI - LANDING PAGE
          */
-        .instagram-hi .container { padding-top: 5% !important; }
+        .instagram-hi .container { padding-top: 5%; }
         .instagram-hi .button { width: 23em; margin: 1.23em; }
         .instagram-hi .profile-pic { width: 35% !important; }
         .instagram-hi .margin-left { margin-left: 5.65em; }

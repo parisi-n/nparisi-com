@@ -11,13 +11,11 @@ summary : "Perchè ho scelto di approfondire R invece di Python e SAS nell'anali
 showToc : true
 type: "article"
 ---
-{{<font "gray">}}
-Questa pagina verrà aggiornata mano a mano che troverò altre risorse interessanti utili allo studio di R in campo medico e sanitario.  
+{{< box "green" "Update" >}}
+Questa pagina verrà aggiornata ogniqualvolta troverò risorse interessanti utili allo studio di R in campo medico e sanitario.  
   
 **Ultimo aggiornamento:** 16/05/2020
-{{< /font >}}
-
-* * *
+{{< /box >}}
 
 ## Perchè R?
 

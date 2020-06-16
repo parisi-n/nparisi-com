@@ -1,8 +1,12 @@
 <div class="
      {{- if eq ( .Get 0 ) "orange" -}}
-     orange-box
+     color-box orange-box
+     {{- else if eq ( .Get 0 ) "green" }}
+     color-box green-box
      {{- end -}}">
-<p style="color: #fff; text-align: center !important; font-weight: 600;">{{ .Get 1 }}</p>
+    {{- if ne ( .Get 1 ) "" -}}
+        <p style="color: #fff; text-align: center !important; font-weight: 600;">{{ .Get 1 }}</p>
+    {{- end -}}
 
 {{ .Inner | markdownify }}
 

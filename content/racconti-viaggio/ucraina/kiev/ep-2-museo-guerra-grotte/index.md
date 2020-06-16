@@ -31,7 +31,7 @@ Noi ci siamo arrivati a piedi, dopo un’abbondante colazione da {{< external_li
 
 {{< image src="IMG_7488.jpg" alt="" caption="" >}}
 
-Potete decidere di entrare – con un prezzo che varia in base al numero di attrazioni che deisderate visitare; potete limitarvi al solo giardino o acquistare anche l’ingresso alle varie strutture del complesso.
+Potete decidere di entrare – con un prezzo che varia in base al numero di attrazioni che desiderate visitare; potete limitarvi al solo giardino o acquistare anche l’ingresso alle varie strutture del complesso.
 
 {{< image src="IMG_7496.jpg" alt="" caption="" type="wide-screen" >}}
 
@@ -102,7 +102,7 @@ Per prendere il bus abbiamo raggiunto la fermata di {{< external_link "https://g
 
 Riconoscerete la fermata del bus dalla chiesa sulla destra.
 
-{{< image src="IMG_7643.jpg" alt="" caption="" >}}]
+{{< image src="IMG_7643.jpg" alt="" caption="" >}}
 
 ### La statua della Madre Patria
 
