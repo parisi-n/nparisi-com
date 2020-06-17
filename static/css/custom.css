@@ -31,6 +31,7 @@
     .color-box { padding:1.0em; border-radius: 3px; margin: 1.1em 4.56%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }
     .orange-box { background-color: rgba(244, 81, 30, 1); }
     .green-box { background-color: rgb(4, 141, 121, 1 ); }
+    .blue-box { background-color: #3097bf; color: #fff; }
     .color-box p { color: #f8f8f8; font-family: "Open Sans", sans-serif !important; margin: 0.7em; font-size: 1.25rem; word-spacing: -1px; }
     .color-box a, .color-box a:visited { color: white !important; font-style: initial; font-weight: initial; border-bottom: 2px solid #ffffff; }
     .color-box a:hover { color: white !important; border-bottom: 2px dotted #ffffff !important; }
@@ -505,6 +506,7 @@
         .big-first-letter::first-letter { font-size: 3.4em; line-height: .88; margin: .09em .1em 0 -1.01%; }
         
         .post table { width: 100%; }
+        .page { margin-top: -4.4em !important; }
         
         .orange-box, .green-box { margin: initial; margin-left: 0em; margin-right: 0em; padding: 1em 1.3em; }
     
@@ -729,6 +731,8 @@
         .sticky-header { position: fixed; top: 0; width: 100%; background-color: #fcfcfc; -moz-box-shadow: 0px 1px 3px 1px #d7d7d7; -webkit-box-shadow: 0px 1px 3px 1px #d7d7d7; box-shadow: 0px 1px 3px 1px #d7d7d7; padding-top: 10px; padding-bottom: 0px; transition: lal 0.5s ease; margin-top: -15px; }
         .hidden-element { display: none !important; }
         
+        .entry-header { margin-bottom: 0em !important; }
+        
         /*.odd .video-cover iframe.category { transform: translate(-33%, -50%) !important; min-height: 85vh; height: 100%; }
         .even .video-cover iframe.category { transform: translate(-68%, -50%) !important; min-height: 85vh; height: 100%; }*/
 
@@ -774,7 +778,7 @@
          * POST
          */
         article p, .block-verse { margin: 1.11em 0; font-size: 1.32rem !important; }
-        .post, .page { margin-top: 1.3em !important; }
+        .page { margin-top: 1.3em !important; }
         .entry-meta { top: -5em !important; position: relative; margin-bottom: -5em; }
         .entry-content p, .entry-content ul, .entry-content .normal-text { font-size: 15pt; padding: 0 4.56%; }
         .has-huge-font-size, .has-larger-font-size { font-size: 42px !important; }
@@ -810,6 +814,8 @@
         .post table { width: 91.88%; margin: 3em 4.56%; }
         
         .about-profile-pic { position: initial; width: 45% !important; }
+        
+        .color-box { font-size: 1.25rem; }
         
         /* Immagini, video, instagram embed */
         iframe.instagram-media { max-width: none !important; width: 91.88% !important; margin: 3em 4.56% !important; }

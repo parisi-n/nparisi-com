@@ -1,8 +1,11 @@
+{{/* Orange: alert - Green: update - Blue - infobox */}}
 <div class="
      {{- if eq ( .Get 0 ) "orange" -}}
      color-box orange-box
      {{- else if eq ( .Get 0 ) "green" }}
      color-box green-box
+     {{- else if eq ( .Get 0 ) "blue" }}
+     color-box blue-box
      {{- end -}}">
     {{- if ne ( .Get 1 ) "" -}}
         <p style="color: #fff; text-align: center !important; font-weight: 600;">{{ .Get 1 }}</p>
