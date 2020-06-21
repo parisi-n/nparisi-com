@@ -1,6 +1,11 @@
 {
     "array" : [
         {
+            "image" : "cover-chernobyl-pripyat.jpg" ,
+            "text_title" : "Day-tour nella città  post-apocalitica: Chernobyl e Pripyat // Ep. 3" ,
+            "url" : "racconti-viaggio/ucraina/kiev/ep-3-tour-chernobyl/"
+        } ,
+        {
             "image" : "cover.jpg" ,
             "text_title" : "Una passeggiata per Kiev: la madrepatria, il museo della guerra e le grotte // Ep. 2" ,
             "url" : "racconti-viaggio/ucraina/kiev/ep-2-museo-guerra-grotte/"
@@ -19,16 +24,6 @@
             "image" : "IMG_6753.jpg" ,
             "text_title" : "Quattro giorni a Budapest: i bagni di Szechenyi" ,
             "url" : "racconti-viaggio/budapest/ep-3-bagni-di-szecheny/"
-        } ,
-        {
-            "image" : "IMG_6553.jpg" ,
-            "text_title" : "Quattro giorni a Budapest: noleggiare un monsteroller" ,
-            "url" : "racconti-viaggio/budapest/ep-2-noleggiare-un-monsteroller/"
-        } ,
-        {
-            "image" : "IMG_6088.jpg" ,
-            "text_title" : "Quattro giorni Budapest: cosa fare, dove andare e con chi (non) andare" ,
-            "url" : "racconti-viaggio/budapest/ep-1-cosa-fare-dove-andare/"
         } ,
         {
             "image" : "20190927_192156.jpg" ,

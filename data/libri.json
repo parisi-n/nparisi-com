@@ -1,6 +1,6 @@
 {
     "sto_leggendo" : {
-                        "title" :  "Chernobyl" ,
+                        "title" :  "" ,
                         "auth" : "autori vari" ,
                         "ref" : "chernobyl-100-fatti"
                     }
@@ -51,6 +51,16 @@
                                         "title" :  "Colors XXL" ,
                                         "auth" : "Jim Krause" ,
                                         "ref" : "/libri/importanza-colori/"
+                                    }
+                                ]
+                    } ,
+                    {
+                    "sub_header" : "Viaggio" ,
+                   "elenco" : [
+                                    {
+                                        "title" :  "Chernobyl" ,
+                                        "auth" : "autori vari" ,
+                                        "ref" : "chernobyl-100-fatti"
                                     }
                                 ]
                     }
