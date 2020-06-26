@@ -106,7 +106,7 @@
     .ep-interspace { margin: -13px; }
     .entry-content figcaption { text-align: center; padding-bottom: 0em; font-size: 11pt; font-weight: normal; width: 80%; margin: 0 auto; }
     .entry-title { font-family: 'Montserrat', sans-serif; font-weight: 900 !important; font-size: 2.1rem !important; margin-bottom: 1.9em; color: #3b3d44; }
-    .page .entry-title { margin-bottom: 2.8em; margin-top: 1.7em; color: black; }
+    .page .entry-title { margin-bottom: 2.8em; margin-top: 1.7em; color: #3b3d44; }
 
     .author-meta { background: #f4511e !important; }
     .author-meta p { font-size: 14pt !important; }
@@ -493,7 +493,7 @@
         .excerpt-container { padding: 0 2%; background-color: white; }
         
         .entry-header, .entry-title, .entry-meta {  width: 100% !important; text-align: center; padding: 0px !important; letter-spacing: 2px; }
-        .entry-title { padding: 1.31em 0px 0px !important; }
+        .entry-title { padding: 0px 0px !important; }
 
         .post .entry-meta { margin: 0 auto 6em auto; }
 
@@ -506,9 +506,12 @@
         .big-first-letter::first-letter { font-size: 3.4em; line-height: .88; margin: .09em .1em 0 -1.01%; }
         
         .post table { width: 100%; }
-        .page { margin-top: -4.4em !important; }
+        .page { margin-top: 0em !important; }
         
         .orange-box, .green-box { margin: initial; margin-left: 0em; margin-right: 0em; padding: 1em 1.3em; }
+        
+        /* PAGE */
+        .page .entry-container { margin-top: -2.55em !important; }
     
         /**
          * VIDEO
@@ -555,7 +558,7 @@
         .format-quote .excerpt-container { color: #f4511e; background: #fff !important; }
         .format-quote { margin: 0; }
         
-        .category-list-container { margin-top: -1.85em; }
+        .category-list-container { margin-top: 0em; }
         .about-profile-pic { position: initial; width: 65% !important; }
         
         /**
