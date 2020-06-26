@@ -157,7 +157,15 @@
         {
             "refer" : "hp-usb-typea-typec" ,
             "url" : "https://www.aliexpress.com/item/32967264940.html"
-        }        
+        } ,
+        {
+            "refer" : "mastering-bitcoin" ,
+            "url" : "https://www.amazon.it/Mastering-Bitcoin-Unlocking-Digital-Cryptocurrencies/dp/1449374042"
+        } ,
+        {
+            "refer" : "mastering-ethereum" ,
+            "url" : "https://www.amazon.it/Mastering-Ethereum-Building-Smart-Contracts/dp/1491971940/"
+        }
         
         
     ]

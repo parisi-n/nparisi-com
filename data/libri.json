@@ -1,8 +1,8 @@
 {
     "sto_leggendo" : {
-                        "title" :  "" ,
-                        "auth" : "autori vari" ,
-                        "ref" : "chernobyl-100-fatti"
+                        "title" :  "Mastering Ethereum: Building Smart Contracts and Dapps" ,
+                        "auth" : "Andreas M. Antonopopulos" ,
+                        "ref" : "mastering-ethereum"
                     }
                         ,
                         
@@ -19,6 +19,11 @@
                                         "title" :  "Data Science for Dummies" ,
                                         "auth" : "Lillian Pierson" ,
                                         "ref" : "data-science-dummies"
+                                    } ,
+                                    {
+                                        "title" :  "Mastering Bitcoin: Unlocking Digital Cryptocurrencies" ,
+                                        "auth" : "Andreas M. Antonopopulos" ,
+                                        "ref" : "mastering-bitcoin"
                                     }
                                 ]
                     } ,
