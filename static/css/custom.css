@@ -494,6 +494,7 @@
         
         .entry-header, .entry-title, .entry-meta {  width: 100% !important; text-align: center; padding: 0px !important; letter-spacing: 2px; }
         .entry-title { padding: 0px 0px !important; }
+        .post_single .entry-title { padding-top: 1.3em !important; }
 
         .post .entry-meta { margin: 0 auto 6em auto; }
 
