@@ -1,7 +1,7 @@
 ---
 title: "100 fatti su Chernobyl (che sicuramente non conosci)"
 date: "2020-10-17"
-image: "images/cover.jpg"
+image: "images/cover-100-facts-chernobyl.jpg"
 
 categories : [ "Libri", "Lifestyle" ]
 tags : [ "blog" ]

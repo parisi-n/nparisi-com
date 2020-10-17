@@ -1,6 +1,11 @@
 {
     "array" : [
         {
+            "image" : "cover-100-facts-chernobyl.jpg" ,
+            "text_title" : "100 fatti su Chernobyl (che sicuramente non conosci)" ,
+            "url" : "libri/100-fatti-chernobyl/"
+        } ,
+        {
             "image" : "cover-chernobyl-pripyat.jpg" ,
             "text_title" : "Day-tour nella città  post-apocalitica: Chernobyl e Pripyat // Ep. 3" ,
             "url" : "racconti-viaggio/ucraina/kiev/ep-3-tour-chernobyl/"
