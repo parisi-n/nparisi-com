@@ -6,6 +6,8 @@ publishDir = ""
 
 disqusShortname = "nparisi-com"
 googleAnalytics = "UA-128082042-1"
+instagramAppId  = "920191248729471"
+instagramClientToken    = "5a4d16aa5e39c88d96f2e44b5a8716a8"
 
 preserveTaxonomyNames = true
 enableRobotsTXT = true
