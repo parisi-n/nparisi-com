@@ -6,8 +6,6 @@ publishDir = ""
 
 disqusShortname = "nparisi-com"
 googleAnalytics = "UA-128082042-1"
-instagramAppId  = "920191248729471"
-instagramClientToken    = "5a4d16aa5e39c88d96f2e44b5a8716a8"
 
 preserveTaxonomyNames = true
 enableRobotsTXT = true
@@ -59,6 +57,9 @@ timeout = 60000
         "[Disclaimer](/disclaimer) &nbsp; | &nbsp; [Licenza](/licenza) &nbsp; | &nbsp; [Privacy](/privacy) &nbsp; | &nbsp; [Sorgenti](/sorgenti) &nbsp; | &nbsp; [Caffè?](/caffe)"
     ]
     description = "Blog personale che parla di viaggi, fotografia, tecnologia e libri"
+
+    instagramAppId  = "920191248729471"
+    instagramClientToken    = "5a4d16aa5e39c88d96f2e44b5a8716a8"
 
 [[menu.main]]
     name = "Tutti i post"
