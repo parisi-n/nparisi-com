@@ -5,19 +5,19 @@
     "@type" : "{{ .Type }}",
     "mainEntityOfPage": {
          "@type": "{{ if eq .Type "article" }}Article{{else}}WebPage{{end}}",
-         "@id": "{{ .Site.BaseURL }}"
+         "@id": {{ .Site.BaseURL | safeHTML }}
     },
     "articleSection" : "{{ .Section }}",
     "name" : "{{ .Title }}",
-    "description" : "{{ if .Description }}{{ .Description }}{{ else if .IsPage}}{{ .Params.summary }}{{else}}{{ .Site.Params.Description }}{{ end }}",
+    "description" : {{ if .Description }}{{ printf "%s" .Description | safeJS }}{{ else if .IsPage}}{{ printf "%s" .Params.summary }}{{else}}{{ printf "%s" .Site.Params.Description | safeJS }}{{ end }},
     "inLanguage" : "it",
     "author" : "{{ .Site.Params.author }}",
     "copyrightHolder" : "{{ .Site.Params.author }}",
     "copyrightYear" : "{{ .Date.Format "2006" }}",
-    "datePublished": "{{ .Date }}",
-    "url" : "{{ .Permalink }}",
+    "datePublished": "{{ .Date.Format "2006-01-02" }}",
+    "url" : {{ .Permalink | safeHTML }},
     "wordCount" : "{{ .WordCount }}",
-    "image" : "{{ $img }}",
+    "image" : {{ $img | safeHTML }},
     "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }}"Blog" ]   
 }
 </script>
