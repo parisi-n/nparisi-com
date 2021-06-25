@@ -22,7 +22,7 @@ La versione 2019 risulta pertanto essere l'ultima prodotta.
 ` `  
 
 {{< capital_letter_open >}}
-Avevo parlato qui del RavPower FileHub 2019, quasi lodandone le sue capacità e la sua utilità in un'ottica di mobilità in viaggio per le sue multiple capacità che riepilogo; capacità di fare backup delle SD direttamente su un secondo supporto (HDD, SSD, pendrive...).
+Avevo parlato precedentemente del [RavPower FileHub 2019]({{< ref "/accessori/ravpower-filehub-2019/index.md">}}), quasi lodandone le sue capacità e la sua utilità in un'ottica di mobilità in viaggio per le sue multiple capacità che riepilogo; capacità di fare backup delle SD direttamente su un secondo supporto (HDD, SSD, pendrive...).
 {{< capital_letter_close >}}
 
 
