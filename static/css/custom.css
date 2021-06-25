@@ -794,7 +794,7 @@
 
         .entry-container { padding: 3em 15.435% 0 !important; margin-bottom: -7em !important; }
         
-        .post .entry-meta { padding-top: 7em; margin-bottom: 3em; }
+        .post .entry-meta { padding-top: 5.8em; margin-bottom: 3em; } // padding-top portato da 7 a 5.8 perche' altrimenti la data ed il tempo di lettura risultavano troppo in basso.
         
         .sidebar-after-post-content { width: 115% !important; text-align: left !important; margin-left: -4em; }
 

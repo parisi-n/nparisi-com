@@ -126,6 +126,22 @@
             "url" : "https://www.amazon.it/Statistical-Analysis-Dummies-Joseph-Schmuller/dp/1119337062"
         } ,
         {
+            "refer" : "canon-m50" ,
+            "url" : "https://www.amazon.it/Canon-Italia-Fotocamera-Mirrorless-Lunghezza/dp/B07B37N1LJ"
+        },
+        {
+            "refer" : "gopro5" ,
+            "url" : "https://www.amazon.it/GoPro-Argento-Fotocamera-impermeabile-stabilizzazione/dp/B07GTD4ZD9"
+        },
+        {
+            "refer" : "sd-samsung" ,
+            "url" : "https://www.amazon.it/SAMSUNG-Memoria-Flash-MicroSDXC-Classe"
+        },
+        {
+            "refer" : "GIVE-A-TRY" ,
+            "url" : "https://not-empty"
+        },
+        {
             "refer" : "GIVE-A-TRY" ,
             "url" : "https://not-empty"
         },
