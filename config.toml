@@ -122,5 +122,5 @@ timeout = 60000
     instagram     = "npmelano"
     youtube       = "UCz_ZsgGRbD4tC8_-4Ni78hQ"
     rss           = true
-    contatti      = "mailto:email@nparisi.com" #"email/"
+    contatti      = "email/"
     telegram      = ""#"nparisi"
