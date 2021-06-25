@@ -1,4 +1,4 @@
-{{- $img := (cond ( eq .Type "article") ( ( ( printf "%s/%s" .Params.baseimg .Params.image ) | absURL  ) ) ( .Site.Params.image | absURL ) ) }}
+{{- $img := (cond ( eq .Type "article") ( ( ( printf "%s" .Params.image ) | absURL ) ) ( .Site.Params.image | absURL ) ) }}
 <script type="application/ld+json">
 {
     "@context" : "http://schema.org",

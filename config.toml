@@ -56,7 +56,7 @@ timeout = 60000
         "Tutte le foto - se non diversamente specificato - sono di mia proprietà. E' vietata la riproduzione anche parziale dei contenuti di questo blog." ,
         "[Disclaimer](/disclaimer) &nbsp; | &nbsp; [Licenza](/licenza) &nbsp; | &nbsp; [Privacy](/privacy) &nbsp; | &nbsp; [Sorgenti](/sorgenti) &nbsp; | &nbsp; [Caffè?](/caffe)"
     ]
-    description = "Blog personale che parla di viaggi, fotografia, tecnologia e libri"
+    description = "Un blog, un diario, una raccolta di foto che parlano di viaggi, fotografia, avventure, tecnologia e libri."
 
     instagramAppId  = "5697953803609352"
     instagramClientToken    = "5a4d16aa5e39c88d96f2e44b5a8716a8"
