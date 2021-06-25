@@ -1,6 +1,5 @@
 +++
 title = "Mail inviata"
 url = "email/inviata"
-layout = "email_form"
+layout = "email_inviata"
 +++
-Mail inviata

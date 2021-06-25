@@ -1,0 +1,37 @@
+{{ define "body" }}
+
+<body class="post-template-default single single-post single-format-standard ct-body singular singular-post not-front standard">
+{{ end }}
+
+
+{{ define "main" }}
+
+  <div id="loop-container" class="loop-container">
+        <div class="entry-container">
+            <div class='entry-header'>
+              <h1 class='entry-title'>{{ .Title }}</h1>
+            </div>
+        </div>
+
+          <div class="entry-content">
+            <article>
+                <br/>
+                <p style="text-align: center !important;">Grazie per avermi contattato!</p>
+                <p style="text-align: center !important;"><i class="fas fa-paper-plane" style="color: #f4511e; opacity: 0.5; font-size: 96pt;"></i></p>
+                <br/>
+                <div style="text-align: center; margin-top: 2.7em; margin-bottom: -2.7em;">
+                    <a href="{{ .Site.BaseURL }}" class="more-link">Torna alla Home</a>
+                </div>
+            </article>              
+          </div>
+
+    </div>
+
+</div>
+
+</div>
+
+<!--</div>--> <!-- .main -->
+
+
+{{ end }}
