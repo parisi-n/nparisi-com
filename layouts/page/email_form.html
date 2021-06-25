@@ -15,40 +15,43 @@
                 <article>
                     {{ .Content }}
 
-                    <div id="contact-box" class="contact-box">
                         <form name="contact" method="POST" data-netlify="true" autocomplete="off" action="email/inviata" data-netlify-honeypot="bot-field" data-netlify-recaptcha="true">
+                            
+                            <div id="contact-box" class="contact-box">
 
-                            <div>      
-                                <input type="text" name="nome" required>
-                                <span class="highlight"></span>
-                                <span class="bar"></span>
-                                <label>Nome</label>
-                            </div>
+                                <div>      
+                                    <input type="text" name="nome" required>
+                                    <span class="highlight"></span>
+                                    <span class="bar"></span>
+                                    <label>Nome</label>
+                                </div>
 
-                            <div>      
-                                <input type="email" name="email" required>
-                                <span class="highlight"></span>
-                                <span class="bar"></span>
-                                <label>Email</label>
-                            </div>
+                                <div>      
+                                    <input type="email" name="email" required>
+                                    <span class="highlight"></span>
+                                    <span class="bar"></span>
+                                    <label>Email</label>
+                                </div>
 
-                            <div>      
-                                <input type="text" name="oggetto" required>
-                                <span class="highlight"></span>
-                                <span class="bar"></span>
-                                <label>Oggetto</label>
-                            </div>
+                                <div>      
+                                    <input type="text" name="oggetto" required>
+                                    <span class="highlight"></span>
+                                    <span class="bar"></span>
+                                    <label>Oggetto</label>
+                                </div>
 
-                            <div style="display: grid">      
-                                <textarea type="textarea" cols="72" rows="7" name="messaggio" required></textarea>
-                                <label>Messaggio</label>
-                                <span class="highlight"></span>
-                                <span class="bar"></span>
-                            </div>
+                                <div style="display: grid">      
+                                    <textarea type="textarea" cols="72" rows="7" name="messaggio" required></textarea>
+                                    <label>Messaggio</label>
+                                    <span class="highlight"></span>
+                                    <span class="bar"></span>
+                                </div>
 
                                 <div data-netlify-recaptcha="true"></div>
 
-                            <button type="submit" alt="Invia mail" class="more-link">Invia</button>
+                                <button type="submit" alt="Invia mail" class="more-link">Invia</button>
+                                
+                            <div id="contact-box" class="contact-box">
 
                         </form>
                     </div>
