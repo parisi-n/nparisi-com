@@ -19,28 +19,28 @@
                         <form name="contact" method="POST" data-netlify="true" autocomplete="off" action="email/inviata">
 
                             <div>      
-                                <input type="text" required>
+                                <input type="text" name="nome" required>
                                 <span class="highlight"></span>
                                 <span class="bar"></span>
                                 <label>Nome</label>
                             </div>
 
                             <div>      
-                                <input type="text" required>
+                                <input type="email" name="email" required>
                                 <span class="highlight"></span>
                                 <span class="bar"></span>
                                 <label>Email</label>
                             </div>
 
                             <div>      
-                                <input type="text" required>
+                                <input type="text" name="oggetto" required>
                                 <span class="highlight"></span>
                                 <span class="bar"></span>
                                 <label>Oggetto</label>
                             </div>
 
                             <div style="display: grid">      
-                                <textarea type="textarea" cols="72" rows="7" required></textarea>
+                                <textarea type="textarea" cols="72" rows="7" name="messaggio" required></textarea>
                                 <label>Messaggio</label>
                                 <span class="highlight"></span>
                                 <span class="bar"></span>
