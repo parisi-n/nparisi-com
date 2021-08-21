@@ -13,7 +13,7 @@ type: "article"
 {{< capital_letter_open >}}
 Con un po’ di ansia, su quello che sarà o non sarà il nostro giorno, ci svegliamo.  
 Il sole – seppur siano appena le 7.15 – è già alto nel cielo.  
-Il “manager” - il giorno prima - ci ha detto sarebbe venuto nel nostro hotel alle 8.50 per prenderci… Facciamo colazione all’interno dell’hotel, ed alle 8.50 effettivamente il ragazzo è nella hall al piano terra aspettandoci.
+Il “manager” - il giorno prima - ci ha detto sarebbe venuto nel nostro hotel alle 8.50 per prenderci… Facciamo colazione all’interno dell’hotel, ed alle 8.50 effettivamente il ragazzo è nella hall al piano terra ad aspettarci.
 {{< capital_letter_close >}}
 
 > Tiro un sospiro di sollievo. Nel tragitto verso il minibus, però - la prima doccia fredda: “ci hanno comunicato che le burning mountains (leggi: Yanardag) oggi sono chiuse per via di lavori che stanno facendo…per aprire un ristorante, roba turistica, sai – quindi torneremo un po’ prima e riuscirete sicuramente a prendere il treno”.  
