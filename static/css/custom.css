@@ -169,7 +169,7 @@
     /**
      * PAGINATOR
      */
-    .paginator_bar { width: 85%; margin: 3.7em auto -1em; }
+    .paginator_bar { margin: 3.7em auto -1em; } /* Navigation bar, se lasciato con width: 85% posiziona la freccia Avanti nella linea sotto  */
     .paginator_bar .paginator_bar_button, .paginator_bar a { padding: 1em 1.2em; border-radius: 3px; color: #f8f8f8 !important; font-weight: 800; margin: .2em; transition: all 0.45s ease; }
     .paginator_bar .direction_button { background-color: rgb(140, 140, 140, 0.4); }
     .paginator_bar .intermediate { background-color: rgb(140, 140, 140, 0.8); }
