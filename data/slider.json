@@ -1,6 +1,11 @@
 {
     "array" : [
         {
+            "image" : "cover-back-tallinn.jpg" ,
+            "text_title" : "Tallinn-Riga: ritorno a casa // Ep. 1" ,
+            "url" : "racconti-viaggio/tallinn-riga/ritorno-a-casa/"
+        } ,
+        {
             "image" : "cover-100-facts-chernobyl.jpg" ,
             "text_title" : "100 fatti su Chernobyl (che sicuramente non conosci)" ,
             "url" : "libri/100-fatti-chernobyl/"
