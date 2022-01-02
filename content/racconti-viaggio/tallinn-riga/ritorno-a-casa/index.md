@@ -14,7 +14,7 @@ type: "article"
 # Un po' di storia
 
 Approcciare il viaggio che viene è un vivere del tutto personale, quasi privato. Ognuno ha il suo, personale, insindacabile.
-Mi piace cercare di spiegare il mio punto di vista, affinchè sia da background e possa (in parte) spiegare il perchè di certe considerazioni, talvolta ridicole anche ai miei stessi occhi.
+Mi piace cercare di spiegare il mio punto di vista, affinchè sia da background e possa (in parte) spiegare il perché di certe considerazioni, talvolta ridicole anche ai miei stessi occhi.
 
 ## Coming home?
 
@@ -28,7 +28,7 @@ Fino a Ottobre.
 
 Mentre sfogliavo pigramente le offerte sui voli alla ricerca di qualcosa di appetitoso, l'occhio cade su Tallinn.
 
-Tallinn, a Dicembre, si veste di bianco e diventa incantata: le luci calde ed arancioni che riflettono sulla neve opaca, il vin brulè, il freddo che scalda il cuore e sfredda mani e piedi ma, soprattutto, **i mercatini di Natale**.
+Tallinn, a Dicembre, si veste di bianco e diventa incantata: le luci calde ed arancioni che riflettono sulla neve opaca, il vin brulé, il freddo che scalda il cuore e sfredda mani e piedi ma, soprattutto, **i mercatini di Natale**.
 
 Dal pensiero all'azione passa ben poco. Prendo il telefono e scrivo a **G.**; il resto dell'avventura sta dietro le parole di questo e dei post successivi.
 
@@ -47,7 +47,7 @@ E poi, sentir parlare russo ad ogni angolo, mi ricorda tanto di _the times we ha
 
 Solitamente scrivo in differita, a viaggio concluso e, spesso, ad emozioni metabolizzate. Che poco hanno di reale, di emozione sincera, che vanno dritte al cuore ed allo stomaco.
 
-Questa volta, peroò, mi sono impegnato.
+Questa volta, però, mi sono impegnato.
 
 Ho allestito una _writing station_ dotata di schermo (Note 10.1) e tastierina BT. Roba misera, poco instagrammabile. Però mi ha permesso di scrivere considerazioni ed emozioni a caldo. Forse banali, ma almeno sincere.
 
@@ -72,9 +72,9 @@ Indeciso fino all'ultimo sullo zaino da portare - ho optato per il nuovo acquist
 
 Il vecchio zaino delle avventure obiettivamente non permetteva un comfort adeguato soprattutto una volta caricato per bene.
 
-Questo zaino offre tutto ciò di cui avrei avuto necessità: il comodo organizer interno che si sfila permette una buona organizzazione (e facilità) del vestiario e del suo contenuto, senza compromettere la rapidità con cui eè possibile accedervi.
+Questo zaino offre tutto ciò di cui avrei avuto necessità: il comodo organizer interno che si sfila permette una buona organizzazione (e facilità) del vestiario e del suo contenuto, senza compromettere la rapidità con cui è possibile accedervi.
 
-Lo scomparto per il laptop alloggia tranquillamente il mio vecchio (ma perfetto per il mio uso) Note 10.1 2014.
+Lo scomparto per il laptop alloggia tranquillamente il mio vecchio (ma perfetto per il mio uso) __Samsung Note 10.1 2014__.
 
 La particolarità dello zaino sta nel poterlo ampliare tramite il roll-up superiore che permette di guadagnare spazio extra qualora ne abbiate necessità (fin troppo grande). In viaggio c'è sempre qualcosa che non ci sta nello zaino: con questo sistema avete (quasi) del tutto risolto.
 
@@ -98,7 +98,7 @@ Da usare a vostro rischio e pericolo come __small bag__ per i viaggi.
 ## Canon M50
 
 Ormai fedele compagna di viaggio. Piccola, compatta, qualità di tutto rispetto. Non sono un fotografo, non mi intendo di fotografia. Ho solo il piacere di immortalare qualche scatto durante i viaggi e, all'occorrenza, avere la possibilità di stamparli.
-Permette unq qualità comunque superiore rispetto alle foto scattate col telefono (un "vecchio" ma ancora produttivo Note 9) eliminando tutta la parte di post-produzione _AI-based_ fatta dal microprocessore.
+Permette una qualità comunque superiore rispetto alle foto scattate col telefono (un "vecchio" ma ancora produttivo Note 9) eliminando tutta la parte di post-produzione _AI-based_ fatta dal microprocessore.
 
 {{< image src="canon_m50.jpg" alt="Canon M50 ed il suo obiettivo 32mm f1.4" caption="Canon M50 ed il suo obiettivo 32mm f1.4" >}}
 
@@ -112,11 +112,11 @@ Dimensioni adeguate per ospitare il corpo macchina Canon M50 con l'obiettivo Can
 
 ## Crypto.com Card
 
-Ero indeciso fino all'ultimo se inserirla tra l'equipaggiamento o no. Quando si trattano questo tipo di argomenti, si finisce sempre per passare per il "venditore di'aria fritta di turno".
+Ero indeciso fino all'ultimo se inserirla tra l'equipaggiamento o no. Quando si trattano questo tipo di argomenti, si finisce sempre per passare per il "venditore d'aria fritta di turno".
 
 Ebbene, dopo la Norvegia ho provato la carta Ruby (la base) che permette un cashback del 2% su tutte le spese effettuate tramite carta.
 
-Durante il viaggio ho praticamente pagato tutto con carta: dal caffè, ai biglietti del bus/tram, al vin brulè nei mercatini di Tallinn, ai souvenir, all'hotel.
+Durante il viaggio ho praticamente pagato tutto con carta: dal caffè, ai biglietti del bus/tram, al vin brulé nei mercatini di Tallinn, ai souvenir, all'hotel.
 
 {{< image src="crypto.jpg" alt="Carta Ruby - Crypto.com" caption="Crypto.com VISA Debit Card - Ruby" >}}
 
