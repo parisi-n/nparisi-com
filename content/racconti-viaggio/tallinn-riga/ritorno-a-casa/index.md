@@ -68,13 +68,17 @@ Questa volta però niente trolley ma un normale zaino dalle dimensioni leggermen
 
 Indeciso fino all'ultimo sullo zaino da portare - ho optato per il nuovo acquisto Thule Subterra 34L.
 
+{{< image src="thule.jpg" alt="Thule Subterra 34L" caption="Thule Subterra 34L indossato" >}}
+
 Il vecchio zaino delle avventure obiettivamente non permetteva un comfort adeguato soprattutto una volta caricato per bene.
 
 Questo zaino offre tutto ciò di cui avrei avuto necessità: il comodo organizer interno che si sfila permette una buona organizzazione (e facilità) del vestiario e del suo contenuto, senza compromettere la rapidità con cui eè possibile accedervi.
 
 Lo scomparto per il laptop alloggia tranquillamente il mio vecchio (ma perfetto per il mio uso) Note 10.1 2014.
 
-{{< image src="thule.jpg" alt="Thule Subterra 32L" caption="Thule Subterra 34L" >}}
+La particolarità dello zaino sta nel poterlo ampliare tramite il roll-up superiore che permette di guadagnare spazio extra qualora ne abbiate necessità (fin troppo grande). In viaggio c'è sempre qualcosa che non ci sta nello zaino: con questo sistema avete (quasi) del tutto risolto.
+
+{{< image src="thule_2.jpg" alt="Thule Subterra 34L aperto" caption="Thule Subterra 34L aperto" >}}
 
 ### Le dimensioni
 
