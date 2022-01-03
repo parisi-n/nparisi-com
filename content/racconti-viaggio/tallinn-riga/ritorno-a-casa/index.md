@@ -13,8 +13,10 @@ type: "article"
 
 # Un po' di storia
 
+{{< capital_letter_open >}}
 Approcciare il viaggio che viene è un vivere del tutto personale, quasi privato. Ognuno ha il suo, personale, insindacabile.
 Mi piace cercare di spiegare il mio punto di vista, affinchè sia da background e possa (in parte) spiegare il perché di certe considerazioni, talvolta ridicole anche ai miei stessi occhi.
+{{< capital_letter_close >}}
 
 ## Coming home?
 
