@@ -20,9 +20,9 @@ Mi piace cercare di spiegare il mio punto di vista, affinchè sia da background 
 
 ## Coming home?
 
-Erano i primi di Dicembre del 2015 quando, con altri studenti provenienti dalle piu' strane parti del mondo, transitai per un piccolo pomeriggio a Tallinn, in attesa del traghetto che ci avrebbe portato a Helsinki.
+Erano i primi di Dicembre del 2015 quando, con altri studenti provenienti dalle più strane parti del mondo, transitai per un piccolo pomeriggio a Tallinn, in attesa del traghetto che ci avrebbe portato a Helsinki.
 
-Nel frattempo ci; che chiamano Vita si è frapposta tra me e quello che definisco "la mia seconda casa" (nel senso lato del termine).
+Nel frattempo ciò che chiamano Vita si è frapposta tra me e quello che definisco "la mia seconda casa" (nel senso lato del termine).
 
 Fino a Ottobre.
 
