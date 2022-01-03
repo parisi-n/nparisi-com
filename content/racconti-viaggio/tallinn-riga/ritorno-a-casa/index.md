@@ -18,9 +18,9 @@ Mi piace cercare di spiegare il mio punto di vista, affinchè sia da background 
 
 ## Coming home?
 
-Erano i primi di Dicembre del 2015 quando, con altri studenti provenienti dalle piu' strane parti del mondo, transitai per un piccolo pomeriggio a Tallinn, in attesa del traghetto che ci avrebbe trasportato a Helsinki.
+Erano i primi di Dicembre del 2015 quando, con altri studenti provenienti dalle piu' strane parti del mondo, transitai per un piccolo pomeriggio a Tallinn, in attesa del traghetto che ci avrebbe portato a Helsinki.
 
-Nel frattempo quel che chiamano Vita si è frapposta tra me e quel che definisco "la mia seconda casa" (nel senso lato del termine).
+Nel frattempo ci; che chiamano Vita si è frapposta tra me e quello che definisco "la mia seconda casa" (nel senso lato del termine).
 
 Fino a Ottobre.
 
@@ -37,9 +37,9 @@ Dal pensiero all'azione passa ben poco. Prendo il telefono e scrivo a **G.**; il
 Nulla di particolarmente elaborato o da mal di testa: arrivo a Tallinn la notte, {{< external_link "https://www.booking.com/hotel/ee/old-town-baltic-antique-lai-street-privat-entrance-tallinn1.it.html" "l'appartamento" >}} prenotato tramite {{< external_link "https://www.booking.com/" "Booking.com" >}} in centro (che vi sconsiglio nei mesi invernali in quanto decisamente non organizzato per il freddo tallinese).
 
 Giorno intero a Tallinn e partenza l'indomani all'alba per Riga (tramite LuxExpress ❤️).
-Pranzo e resto della giornata a Riga, e partenza l'indomani per il ritorno in Italia.
+Pranzo, resto della giornata a Riga e partenza l'indomani per il ritorno in Italia.
 
-Un viaggio _touch and run_, ma che mi ha permesso di respirare l'aria dell'Est, sovietica, fredda, aggressiva.
+Un viaggio _touch and run_, ma che mi ha permesso di respirare l'aria dell'Est: sovietica, fredda, aggressiva.
 
 E poi, sentir parlare russo ad ogni angolo, mi ricorda tanto di _the times we had_ - come direbbe la città di Tallinn, le cui scritte si fanno portavoce del suo credo.
 
@@ -55,7 +55,7 @@ Ho allestito una _writing station_ dotata di schermo (Note 10.1) e tastierina BT
 
 # L'equipaggiamento
 
-La Norvegia ci ha dato (ri)dato i rudimenti per viaggiare in tempo di pandemia, godendo comunque serenamente dei posti. Ci ha ridato il ritmo del viaggio, lo spirito di esplorare ed affidarci (talvolta con grande pentimento) talvolta alla sorte.
+La Norvegia ci ha (ri)dato i rudimenti per viaggiare in tempo di pandemia, godendo comunque serenamente dei posti. Ci ha ridato il ritmo del viaggio, lo spirito di esplorare ed affidarci (talvolta con grande pentimento) alla sorte.
 
 {{< image src="powerbanks.jpg" alt="Powerbanks" >}}
 
@@ -98,7 +98,7 @@ Da usare a vostro rischio e pericolo come __small bag__ per i viaggi.
 ## Canon M50
 
 Ormai fedele compagna di viaggio. Piccola, compatta, qualità di tutto rispetto. Non sono un fotografo, non mi intendo di fotografia. Ho solo il piacere di immortalare qualche scatto durante i viaggi e, all'occorrenza, avere la possibilità di stamparli.
-Permette una qualità comunque superiore rispetto alle foto scattate col telefono (un "vecchio" ma ancora produttivo Note 9) eliminando tutta la parte di post-produzione _AI-based_ fatta dal microprocessore.
+Permette una qualità comunque superiore rispetto alle foto scattate col telefono (un "vecchio" ma ancora produttivo Note 9) - eliminando tutta la parte di post-produzione _AI-based_ fatta dal microprocessore.
 
 {{< image src="canon_m50.jpg" alt="Canon M50 ed il suo obiettivo 32mm f1.4" caption="Canon M50 ed il suo obiettivo 32mm f1.4" >}}
 
