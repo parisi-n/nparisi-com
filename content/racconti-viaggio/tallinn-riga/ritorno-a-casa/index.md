@@ -11,14 +11,14 @@ showToc : true
 type: "article"
 ---
 
-# Un po' di storia
+## Un po' di storia
 
 {{< capital_letter_open >}}
 Approcciare il viaggio che viene è un vivere del tutto personale, quasi privato. Ognuno ha il suo, personale, insindacabile.
 Mi piace cercare di spiegare il mio punto di vista, affinchè sia da background e possa (in parte) spiegare il perché di certe considerazioni, talvolta ridicole anche ai miei stessi occhi.
 {{< capital_letter_close >}}
 
-## Coming home?
+### Coming home?
 
 Erano i primi di Dicembre del 2015 quando, con altri studenti provenienti dalle più strane parti del mondo, transitai per un piccolo pomeriggio a Tallinn, in attesa del traghetto che ci avrebbe portato a Helsinki.
 
@@ -26,7 +26,7 @@ Nel frattempo ciò che chiamano Vita si è frapposta tra me e quello che definis
 
 Fino a Ottobre.
 
-## It's really coming home
+### It's really coming home
 
 Mentre sfogliavo pigramente le offerte sui voli alla ricerca di qualcosa di appetitoso, l'occhio cade su Tallinn.
 
@@ -34,7 +34,7 @@ Tallinn, a Dicembre, si veste di bianco e diventa incantata: le luci calde ed ar
 
 Dal pensiero all'azione passa ben poco. Prendo il telefono e scrivo a **G.**; il resto dell'avventura sta dietro le parole di questo e dei post successivi.
 
-# L'itinerario
+## L'itinerario
 
 Nulla di particolarmente elaborato o da mal di testa: arrivo a Tallinn la notte, {{< external_link "https://www.booking.com/hotel/ee/old-town-baltic-antique-lai-street-privat-entrance-tallinn1.it.html" "l'appartamento" >}} prenotato tramite {{< external_link "https://www.booking.com/" "Booking.com" >}} in centro (che vi sconsiglio nei mesi invernali in quanto decisamente non organizzato per il freddo tallinese).
 
@@ -45,7 +45,7 @@ Un viaggio _touch and run_, ma che mi ha permesso di respirare l'aria dell'Est: 
 
 E poi, sentir parlare russo ad ogni angolo, mi ricorda tanto di _the times we had_ - come direbbe la città di Tallinn, le cui scritte si fanno portavoce del suo credo.
 
-# Parole in corsa
+## Parole in corsa
 
 Solitamente scrivo in differita, a viaggio concluso e, spesso, ad emozioni metabolizzate. Che poco hanno di reale, di emozione sincera, che vanno dritte al cuore ed allo stomaco.
 
@@ -55,7 +55,7 @@ Ho allestito una _writing station_ dotata di schermo (Note 10.1) e tastierina BT
 
 {{< image src="parole_in_corsa.jpg" alt="Writing station parole in corsa" caption="Parole in corsa" >}}
 
-# L'equipaggiamento
+## L'equipaggiamento
 
 La Norvegia ci ha (ri)dato i rudimenti per viaggiare in tempo di pandemia, godendo comunque serenamente dei posti. Ci ha ridato il ritmo del viaggio, lo spirito di esplorare ed affidarci (talvolta con grande pentimento) alla sorte.
 
@@ -66,7 +66,7 @@ Questa volta però niente trolley ma un normale zaino dalle dimensioni leggermen
 {{< image src="accessori_1.jpg" alt="Powerbanks" caption="Flatlay degli accessori" >}}
 
 
-## Thule Subterra
+### Thule Subterra
 
 Indeciso fino all'ultimo sullo zaino da portare - ho optato per il nuovo acquisto Thule Subterra 34L.
 
@@ -82,7 +82,7 @@ La particolarità dello zaino sta nel poterlo ampliare tramite il roll-up superi
 
 {{< image src="thule_2.jpg" alt="Thule Subterra 34L aperto" caption="Thule Subterra 34L aperto" >}}
 
-### Le dimensioni
+#### Le dimensioni
 
 Le dimensioni dichiarate per il Thule Subterra 34L sono *52 x 31 x 23 cm*.
 
@@ -97,7 +97,7 @@ Di seguito un quadro sinottico delle dimensioni massime accettate dalle compagni
 
 Da usare a vostro rischio e pericolo come __small bag__ per i viaggi.
 
-## Canon M50
+### Canon M50
 
 Ormai fedele compagna di viaggio. Piccola, compatta, qualità di tutto rispetto. Non sono un fotografo, non mi intendo di fotografia. Ho solo il piacere di immortalare qualche scatto durante i viaggi e, all'occorrenza, avere la possibilità di stamparli.
 Permette una qualità comunque superiore rispetto alle foto scattate col telefono (un "vecchio" ma ancora produttivo Note 9) - eliminando tutta la parte di post-produzione _AI-based_ fatta dal microprocessore.
@@ -106,13 +106,13 @@ Permette una qualità comunque superiore rispetto alle foto scattate col telefon
 
 Invece del solito corredo fotografico, questa volta ho optato per un singolo obiettivo: un po' per metterlo alla prova, un po' per mettermi alla prova. Scattare con un corrispondente 50mm _full frame_ può essere talvolta limitante, ma bastano pochi passi indietro per creare ottime composizioni.
 
-## Lowepro camera bag
+### Lowepro camera bag
 
 Dimensioni adeguate per ospitare il corpo macchina Canon M50 con l'obiettivo Canon 32mm f1.4 con altre due batterie.
 
 {{< image src="lowepro.jpg" alt="Lowepro - Gear Up" caption="Lowepro - Gear Up" >}}
 
-## Crypto.com Card
+### Crypto.com Card
 
 Ero indeciso fino all'ultimo se inserirla tra l'equipaggiamento o no. Quando si trattano questo tipo di argomenti, si finisce sempre per passare per il "venditore d'aria fritta di turno".
 
@@ -126,7 +126,7 @@ Nessun problema, nonostante sia una VISA.
 
 Vi lascio il referral link {{< external_link "https://crypto.com/app/994e2df6tt" "qui">}}, qualora vogliate dargli uno sguardo. L'iscrizione tramite referral da diritto ad un bonus di 25$ (a me e a voi) in CRO qualora decidiate di applicare per la carta Ruby (o superiore).
 
-# Due giorni
+## Due giorni
 
 Due giorni - per due città - per due post. Non ho mai scritto di queste due città: sono come Jack Dowson per Rose nel film _Titanic_ . Per quanto non ne abbia mai parlato con nessuno - è stato il suo unico e vero amore.
 
