@@ -1,9 +1,14 @@
 {
     "array" : [
         {
+            "image" : "cover-tallinn.jpg" ,
+            "text_title" : "Tallinn: the Times we Had // Ep. 2" ,
+            "url" : "racconti-viaggio/tallinn-riga/ep-2-the-times-we-had/"
+        } ,
+        {
             "image" : "cover-back-tallinn.jpg" ,
             "text_title" : "Tallinn-Riga: ritorno a casa // Ep. 1" ,
-            "url" : "racconti-viaggio/tallinn-riga/ritorno-a-casa/"
+            "url" : "racconti-viaggio/tallinn-riga/ep-1-ritorno-a-casa/"
         } ,
         {
             "image" : "cover-100-facts-chernobyl.jpg" ,
@@ -12,7 +17,7 @@
         } ,
         {
             "image" : "cover-chernobyl-pripyat.jpg" ,
-            "text_title" : "Day-tour nella città  post-apocalitica: Chernobyl e Pripyat // Ep. 3" ,
+            "text_title" : "Day-tour nella città post-apocalitica: Chernobyl e Pripyat // Ep. 3" ,
             "url" : "racconti-viaggio/ucraina/kiev/ep-3-tour-chernobyl/"
         } ,
         {
