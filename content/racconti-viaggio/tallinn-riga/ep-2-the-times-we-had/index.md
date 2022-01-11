@@ -16,7 +16,7 @@ Son sempre più convinto, e di ritorno dai Baltici ancor di più, che si possa v
 Non sono un critico d'arte, ma non è il fine ultimo con cui viaggio. Preferisco l'emozione, come quella di trovarsi al freddo, a -15, e non riuscire ad aprire l'appartamento con la chiave fornita.
 {{< capital_letter_close >}}
 
-Emozione è anche fermarsi, perdere tempo a fare colazione, e nel frattempo ammirare gli spazzaneve che ripuliscono la strada con i bambini che giocano a palle di neve con la neve raccolta dal macchinario.
+Emozione è anche fermarsi, perdere tempo a fare colazione, e nel frattempo ammirare gli spazzaneve che ripuliscono la strada - con i bambini che giocano a palle di neve con la neve raccolta dal macchinario.
 
 Ma emozione è anche fermarsi o passeggiare tra i mercatini impugnando un bicchiere caldo di **glögi**.
 
@@ -54,7 +54,9 @@ Mastercard e VISA sono sicuramente supportate poichè funzionanti.
 ## La casa
 
 Arriviamo con il {{< external_link "https://transport.tallinn.ee/#/en" "tram #4" >}} all'esterno delle mura che circondano la __Old Town__. Sono le 23 passate - e siamo stati informati che a causa della pandemia i negozi chiudono alle 23.
-Do un rapido sguardo alla mappa, e sulla via verso l'appartamento c'è un McDonald - che una volta arrivati risulta aperto. Prendiamo da asporto due hamburger "local" (niente birra per me, una semplice spremuta) e continuiamo sulla via.
+Do un rapido sguardo alla mappa, e sulla via verso l'appartamento c'è un McDonald - che una volta arrivati risulta ancora aperto. Che fortuna!
+
+Prendiamo da asporto due hamburger "local" (niente birra per me, una semplice spremuta) e continuiamo sulla via.
 
 Dopo i primi problemi con la chiave della serratura, entriamo. Proprio come in foto, uno spirito moderno in un corpo passato, bilocale come desideravo.
 
@@ -96,7 +98,11 @@ E' un inno al _the times we had_.
 
 ## Toompea hill e gli osservatori panoramici
 
+Per chiarezza riporto i punti panoramici e come arrivarci nella mappa sottostante.
+
 {{< itinerario "https://www.google.com/maps/d/embed?mid=1IMDGyW-JDBk837e7rA9-itY5PfZFL518&hl=it&ehbc=2E312F" >}}
+
+Da dove partite - sarà indifferente.
 
 ### Kohtuotsa viewing platform
 
