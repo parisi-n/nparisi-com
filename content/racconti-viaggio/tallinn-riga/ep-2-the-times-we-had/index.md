@@ -1,6 +1,6 @@
 ---
 title: "Tallinn: the Times we Had // Ep. 2"
-date: "2022-01-03"
+date: "2022-01-11"
 image: "images/cover-tallinn.jpg"
 
 summary : "Tallinn, capitale dell'Estonia. Non sicuramente una meta invernale ma proprio per questo sa sorprendere con i suoi paesaggi innevati ed il freddo spietato, incurante di te. Racconta storie gloriose passate (solo per chi sa ascoltarle) per le vie della sua Old Town."
