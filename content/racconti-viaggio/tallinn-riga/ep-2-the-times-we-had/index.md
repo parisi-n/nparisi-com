@@ -13,7 +13,7 @@ type: "article"
 
 {{< capital_letter_open >}}
 Son sempre più convinto, e di ritorno dai Baltici ancor di più, che si possa viaggiare per turismo d'arte e per turismo d'emozioni.
-Non sono un critico d'arte, ma non è il fine ultimo con cui viaggio. Preferisco l'emozione, come quella di trovarsi al freddo, a -15, e non riuscire ad aprire l'appartamento con la chiave fornita.
+Non sono un critico d'arte, ma non è il fine ultimo con cui viaggio. Preferisco l'emozione, come quella di trovarsi al freddo, a -15°C, e non riuscire ad aprire l'appartamento con la chiave fornita.
 {{< capital_letter_close >}}
 
 Emozione è anche fermarsi, perdere tempo a fare colazione, e nel frattempo ammirare gli spazzaneve che ripuliscono la strada - con i bambini che giocano a palle di neve con la neve raccolta dal macchinario.
@@ -39,10 +39,10 @@ E' giunto il momento di porre rimedio.
 ## L'arrivo
 
 Il solito ritardo della solita compagnia aerea ci obbliga ad arrivare a Tallinn alle 22 ora locale. Ci dà il benvenuto una fiocca nevicata di neve, che rinfresca il bianco che ricopre ogni superficie all'esterno dell'aeroporto.
-Sembra di essere arrivati nel paese delle fiabe. Il silenzio della città è particolare, il freddo entra con l'aria nel naso ed un brivido di riscalda lungo la schiena.
+Sembra di essere arrivati nel paese delle fiabe. Il silenzio della città è particolare, il freddo entra con l'aria nel naso ed un brivido che riscalda lungo la schiena.
 E' bellissimo.
 
-Acquistiamo il biglietto per il **tram #4** tramite apposita macchinetta, pagando rigorosamente _contactless_ ed attendiamo all'esterno l'arrivo del tram più per piacere che per reale necessità.
+Acquistiamo il biglietto per il **tram #4** tramite apposita macchinetta, pagando rigorosamente _contactless_ ed attendiamo all'esterno l'arrivo del tram, più per piacere che per reale necessità.
 
 {{< image src="tallinn_night.jpg" alt="Mercatini di Natale" caption="Christmas market - Joaluturg" >}}
 
@@ -157,7 +157,7 @@ Qualità ottima - permette di assaggiare salsicce di alce, orso e renna. L'ultim
 
 Mangerete al lume di candela immersi in un'atmosfera al limite tra il medievale ed il romantico.
 
-Ricordate di fare un salto nelle toilete, perchè anch'esse meritano per ingegnerizzazione.
+Ricordate di fare un salto nelle toilette, perchè anch'esse meritano per ingegnerizzazione.
 
 ## Jouluturg // Christmas market
 
@@ -176,7 +176,7 @@ Approfittatene e fate due foto: porterete a casa istantanee di emozioni.
 
 ## La cena
 
-La sera iniziava a farsi sentire e con lei il nuovo abbassarsi della temperatura. Stare tutto il giorno in giro con -1o°C di media ci ha comunque messo in difficoltà. Decidiamo quindi di fare un'immancabile visita al {{< external_link "https://goo.gl/maps/UiKk3HybgAbuTw7f9" "più grande shooping center della città" >}} . Per alcuni questa scelta potrà sembrare folle, ma in linea con la mia idea di __viaggio delle emozioni__ piuttosto che turistico: per capire un posto bisogna cercare l'anima della città dove i locals si recano.
+La sera iniziava a farsi sentire e con lei il nuovo abbassarsi della temperatura. Stare tutto il giorno in giro con -10°C di media ci ha comunque messo in difficoltà. Decidiamo quindi di fare un'immancabile visita al {{< external_link "https://goo.gl/maps/UiKk3HybgAbuTw7f9" "più grande shooping center della città" >}} . Per alcuni questa scelta potrà sembrare folle, ma in linea con la mia idea di __viaggio delle emozioni__ piuttosto che turistico: per capire un posto bisogna cercare l'anima della città dove i locals si recano.
 
 Ricco in servizi e negozi (se siete amanti della fotografia fate un salto in {{<external_link "https://www.facebook.com/photopoint.ee" "Photopoint" >}}).
 
@@ -190,7 +190,7 @@ Se il vostro desiderio è nulla di particolarmente elaborato ed il vostro motto 
 
 ## I #tallinnvibes
 
-Nè più nè meno di quanto mi aspettavo - Tallinn è riuscita a stupirmi. Ancora una volta. Sarà per il suo alone nordico in un territorio notoriamente con radici sovietico, o forse per la capacità di vivere serenamente ed avere a che fare con una Natura che spesso non fa sconti e costringe a cercare tepore di frequente in una caffetteria o in un supermercato.
+Nè più nè meno di quanto mi aspettavo - Tallinn è riuscita a stupirmi. Ancora una volta. Sarà per il suo alone nordico in un territorio notoriamente con radici sovietiche, o forse per la capacità di vivere serenamente ed avere a che fare con una Natura che spesso non fa sconti e costringe a cercare tepore di frequente in una caffetteria o in un supermercato.
 
 * * *
 
