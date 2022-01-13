@@ -7,24 +7,21 @@
 {{ $parentstyle := .Get "parent-style" }}
 {{ $href := .Get "href" }}
 {{ $src := ( printf "%s/%s" "images" (.Get "src") ) }}
+{{ $src_http := .Get "src_http" }}
 {{ $parentclass := .Get "parent-class" }}
 
-{{ with .Page.Resources.GetMatch $src }}
-
-    {{ $placeholder := .Resize "48x q20" }}
-
+{{ if $src_http }}
     <figure class="block-image {{$parentclass}}" style="display: block;{{ $parentstyle }}">
             
             {{ if $href }}<a href="{{ $href }}">{{end}}
             
-                <div class="placeholder{{if $type }} {{$type}}{{end}}" data-large="{{ .Permalink }}">
-                <img class="img-small" src="data:image/jpeg;base64,{{ $placeholder.Content | base64Encode }}"
+                <div class="{{if $type }} {{$type}}{{end}}">
+                <img class="" src="{{ $src_http }}"
                     {{ if $alt }} alt="{{ $alt }}"{{end}}
                     {{ if $class }} class="{{ $class }}"{{end}}
                     {{ if $style }} style="{{ $style | safeCSS }}"{{end}}
                     onerror="this.src='images/image-not-found.svg'; this.onerror='';"
                     >
-                <div style="padding-bottom: {{ div (mul .Height 100.0) .Width }}%;"></div>
                 </div>
             {{ if $href }}</a>{{end}}
 
@@ -40,26 +37,59 @@
         </svg>
         {{ end }}
     </figure>
-{{else}}
-    {{/* Se non trova l'immagine dentro il bundle controlla la cartella /static */}}
-    {{ $static_img := printf "static/%s" $src }}
-    {{ if fileExists ( $static_img ) }}
-        <div class="block-image"{{ if $parentstyle }} style="{{ $parentstyle }}"{{end}}>
-             {{ if $href }}<a href="{{ $href }}">{{end}}
-                <img src="{{ $src | absURL }}" 
-                    {{ if $class }} class="{{ $class }}"{{end}}
-                    {{ if $style }} style="{{ $style | safeCSS }}"{{end}}
-                    />
+{{ else }}
+    {{ with .Page.Resources.GetMatch $src }}
+
+        {{ $placeholder := .Resize "48x q20" }}
+
+        <figure class="block-image {{$parentclass}}" style="display: block;{{ $parentstyle }}">
+
+                {{ if $href }}<a href="{{ $href }}">{{end}}
+
+                    <div class="placeholder{{if $type }} {{$type}}{{end}}" data-large="{{ .Permalink }}">
+                    <img class="img-small" src="data:image/jpeg;base64,{{ $placeholder.Content | base64Encode }}"
+                        {{ if $alt }} alt="{{ $alt }}"{{end}}
+                        {{ if $class }} class="{{ $class }}"{{end}}
+                        {{ if $style }} style="{{ $style | safeCSS }}"{{end}}
+                        onerror="this.src='images/image-not-found.svg'; this.onerror='';"
+                        >
+                    <div style="padding-bottom: {{ div (mul .Height 100.0) .Width }}%;"></div>
+                    </div>
                 {{ if $href }}</a>{{end}}
-        </div>
+
+            {{ if $caption }}
+            <figcaption>
+                {{ $caption }}
+            </figcaption>
+            {{ end }}
+
+            {{ if eq $type "wide-screen" }}
+            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="expand" class="resize" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" aria-label="Ingrandisci immagine">
+                <path fill="currentColor" d="M0 180V56c0-13.3 10.7-24 24-24h124c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H64v84c0 6.6-5.4 12-12 12H12c-6.6 0-12-5.4-12-12zM288 44v40c0 6.6 5.4 12 12 12h84v84c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12V56c0-13.3-10.7-24-24-24H300c-6.6 0-12 5.4-12 12zm148 276h-40c-6.6 0-12 5.4-12 12v84h-84c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h124c13.3 0 24-10.7 24-24V332c0-6.6-5.4-12-12-12zM160 468v-40c0-6.6-5.4-12-12-12H64v-84c0-6.6-5.4-12-12-12H12c-6.6 0-12 5.4-12 12v124c0 13.3 10.7 24 24 24h124c6.6 0 12-5.4 12-12z"></path>
+            </svg>
+            {{ end }}
+        </figure>
     {{else}}
-    {{/* Nessuna immagine trovata; genera l'errore */}}
-        <div class="img-not-found">
-            <span>IMMAGINE NON TROVATA</span>
-            <span style="color: #c8c8c8;">Src: {{$src}}</span>
-            <span style="color: #c8c8c8;">Static: {{$static_img}}</span>
-            <span>{{$alt}}</span>
-            <i class="far fa-frown" style="color: #f4511e; opacity: 0.5; font-size: 96pt;"></i>
-        </div>
+        {{/* Se non trova l'immagine dentro il bundle controlla la cartella /static */}}
+        {{ $static_img := printf "static/%s" $src }}
+        {{ if fileExists ( $static_img ) }}
+            <div class="block-image"{{ if $parentstyle }} style="{{ $parentstyle }}"{{end}}>
+                 {{ if $href }}<a href="{{ $href }}">{{end}}
+                    <img src="{{ $src | absURL }}" 
+                        {{ if $class }} class="{{ $class }}"{{end}}
+                        {{ if $style }} style="{{ $style | safeCSS }}"{{end}}
+                        />
+                    {{ if $href }}</a>{{end}}
+            </div>
+        {{else}}
+        {{/* Nessuna immagine trovata; genera l'errore */}}
+            <div class="img-not-found">
+                <span>IMMAGINE NON TROVATA</span>
+                <span style="color: #c8c8c8;">Src: {{$src}}</span>
+                <span style="color: #c8c8c8;">Static: {{$static_img}}</span>
+                <span>{{$alt}}</span>
+                <i class="far fa-frown" style="color: #f4511e; opacity: 0.5; font-size: 96pt;"></i>
+            </div>
+        {{end}}
     {{end}}
-{{end}}
+{{ end }}
