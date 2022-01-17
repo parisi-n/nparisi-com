@@ -200,4 +200,4 @@ Ma non c'è tempo per __i corsi ed i ricorsi__: l'indomani alle 7 un bus {{<exte
 
 {{< image src="tallinn_bus_station.jpg" alt="Mercatini di Natale" caption="Christmas market - Joaluturg" >}}
 
-__Keep moving__.
+[Keep moving]({{< ref "/racconti-viaggio/tallinn-riga/ep-3-riga/index.md">}}).

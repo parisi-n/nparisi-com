@@ -137,7 +137,7 @@ In origine il viaggio era organizzato per trascorrere due giorni a Tallinn, ma p
 ## L'itinerario
 
 * **Day #1**: [Tallinn]({{< ref "/racconti-viaggio/tallinn-riga/ep-2-the-times-we-had/index.md">}})
-* **Day #2**: Riga
+* **Day #2**: [Riga]({{< ref "/racconti-viaggio/tallinn-riga/ep-3-riga/index.md">}})
 
 Andiamo.
 

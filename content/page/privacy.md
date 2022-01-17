@@ -32,4 +32,4 @@ Il sito utilizza Disqus come piattaforma per gestire i commenti dei vari post, e
 ## Termini del Servizio
 Se non sei d'accordo con qualcuno dei punti sopra riportati – necessari al corretto funzionamento – ti chiederei cortesemente di lasciare il sito.
 
-Magari, però, mi farebbe piacere sapere il motivo per cui non sei in accordo con questa policy. Puoi farlo [scrivendomi una mail](/contatti).
+Magari, però, mi farebbe piacere sapere il motivo per cui non sei in accordo con questa policy. Puoi farlo [scrivendomi una mail](/email).
