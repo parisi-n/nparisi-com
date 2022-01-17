@@ -1,6 +1,11 @@
 {
     "array" : [
         {
+            "image" : "cover_riga.jpg" ,
+            "text_title" : "Riga // Ep. 3" ,
+            "url" : "racconti-viaggio/tallinn-riga/ep-3-riga/"
+        } ,
+        {
             "image" : "cover-tallinn.jpg" ,
             "text_title" : "Tallinn: the Times we Had // Ep. 2" ,
             "url" : "racconti-viaggio/tallinn-riga/ep-2-the-times-we-had/"
@@ -11,19 +16,9 @@
             "url" : "racconti-viaggio/tallinn-riga/ep-1-ritorno-a-casa/"
         } ,
         {
-            "image" : "cover-100-facts-chernobyl.jpg" ,
-            "text_title" : "100 fatti su Chernobyl (che sicuramente non conosci)" ,
-            "url" : "libri/100-fatti-chernobyl/"
-        } ,
-        {
             "image" : "cover-chernobyl-pripyat.jpg" ,
             "text_title" : "Day-tour nella città post-apocalitica: Chernobyl e Pripyat // Ep. 3" ,
             "url" : "racconti-viaggio/ucraina/kiev/ep-3-tour-chernobyl/"
-        } ,
-        {
-            "image" : "cover.jpg" ,
-            "text_title" : "Una passeggiata per Kiev: la madrepatria, il museo della guerra e le grotte // Ep. 2" ,
-            "url" : "racconti-viaggio/ucraina/kiev/ep-2-museo-guerra-grotte/"
         } ,
         {
             "image" : "cover_ep1_passeggiata_kiev.jpg" ,
@@ -34,11 +29,6 @@
             "image" : "IMG_6909.jpg" ,
             "text_title" : "Quattro giorni a Budapest: day trip a Belgrado" ,
             "url" : "racconti-viaggio/budapest/ep-4-day-trip-belgrado/"
-        } ,
-        {
-            "image" : "IMG_6753.jpg" ,
-            "text_title" : "Quattro giorni a Budapest: i bagni di Szechenyi" ,
-            "url" : "racconti-viaggio/budapest/ep-3-bagni-di-szecheny/"
         } ,
         {
             "image" : "20190927_192156.jpg" ,
