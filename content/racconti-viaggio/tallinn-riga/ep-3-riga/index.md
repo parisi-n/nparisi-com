@@ -1,6 +1,6 @@
 ---
 title: "Riga // Ep. 3"
-date: "2022-01-016"
+date: "2022-01-16"
 image: "images/cover_riga.jpg"
 
 summary : "Riga. Città in cui modernità ed era sovietica si fondono in poco spazio. Più benestante di Vilnius e più profondamente intrisa di soviet, rispetto a Tallinn è come fare un salto. In che direzione - dipende dai punti di vista."
