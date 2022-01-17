@@ -39,6 +39,8 @@ Proseguiamo verso l'interno della stazione, paghiamo 30cent (in monete) ed usiam
 
 Usciti dalla stazione, un mercato attira la nostra attenzione. Un mercato o __turgus__ - come viene chiamato, con opportune ma lievi differenze, nei baltici.
 
+{{< image src="riga_market.jpg" alt="Mercato di Riga" type="wide-screen">}}
+
 Non facciamo acquisti se non un alberello di Natale fatto di cera d'api. Un souvenir local.
 
 {{< image src="christmas_tree.jpg" alt="Albero di Natale in cera d'api" caption="Albero di Natale _ cera d'api">}}
@@ -48,7 +50,7 @@ Non facciamo acquisti se non un alberello di Natale fatto di cera d'api. Un souv
 A bordo di LuxExpress, prenotato qualche giorno prima. Ineccepibili, proprio come me li ricordavo. Unico rammarico, la macchinetta free service del caffè non era in funzione durante il viaggio.
 Ho apprezzato il sistema infoteinment di bordo: ricca varietà di film e musica, molta più di quanto ne ricordassi!
 Il wifi di bordo non ho avuto possibilità di provarlo in quanto ormai, in roaming, non se ne sente più la necessità.
-Rispetto al passato è una tecnologia pià trascurabile, ma l'infoteinment con il tempo residuo all'arrivo alla fermata finale è davvero il __next step__.
+Rispetto al passato è una tecnologia più trascurabile, ma l'infoteinment con il tempo residuo all'arrivo alla fermata finale è davvero il __next step__.
 
 ## Le strade
 
@@ -84,7 +86,7 @@ Colazione (inclusa) varia e gradita.
 Quel che rimane del nostro giorno a Riga non sono altro che poche ore prima dell'ora di cena.
 Decidiamo di andare alla ricerca di emozioni. Le ombre iniziano a comparire presto, dalle 16, in questo periodo dell'anno, quindi è facile godere (e fotografare) luci, ombre, ed anima di Riga. Macchina fotografica al collo iniziamo dal cuore della Old town.
 
-Prima, però, c'è un posto in cui consiglio caldamento di andare: lo {{<external_link "https://goo.gl/maps/Awee2tJtmw5eso4Z7" "Skyline bar">}} al 26esimo piano del Radisson Blu Hotel.
+Prima, però, c'è un posto in cui consiglio caldamente di andare: lo {{<external_link "https://goo.gl/maps/Awee2tJtmw5eso4Z7" "Skyline bar">}} al 26esimo piano del Radisson Blu Hotel.
 
 Attraversate il {{<external_link "https://goo.gl/maps/d38u4uAfiabFjXTs7" "Bastejkelna park">}} e, giacchè lì, fatevi una passeggiata tra la varia fauna locale che incurante del freddo continua la sua normalissima vita e fate qualche foto.
 
@@ -156,6 +158,7 @@ Prima di andare via, però, approfittatene per fare un giro diverso da quel che 
 {{< image src="riga_old_town.jpg" alt="" caption="">}}
 
 Che bella, Riga.
+
 Non vedo l'ora di tornarci.
 
 **С Рождеством**.
