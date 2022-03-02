@@ -39,15 +39,15 @@ E' giunto il momento di porre rimedio.
 ## L'arrivo
 
 Il solito ritardo della solita compagnia aerea ci obbliga ad arrivare a Tallinn alle 22 ora locale. Ci dà il benvenuto una fiocca nevicata di neve, che rinfresca il bianco che ricopre ogni superficie all'esterno dell'aeroporto.
-Sembra di essere arrivati nel paese delle fiabe. Il silenzio della città è particolare, il freddo entra con l'aria nel naso ed un brivido che riscalda lungo la schiena.
+Sembra di essere arrivati nel paese delle fiabe. Il silenzio della città è particolare; il freddo entra con l'aria dentro al naso ed un brivido risale (e riscalda) lungo la schiena.
 E' bellissimo.
 
 Acquistiamo il biglietto per il **tram #4** tramite apposita macchinetta, pagando rigorosamente _contactless_ ed attendiamo all'esterno l'arrivo del tram, più per piacere che per reale necessità.
 
 {{< image src="tallinn_night.jpg" alt="Mercatini di Natale" caption="Christmas market - Joaluturg" >}}
 
-NOTA: il biglietto è acquistabile anche a bordo dei mezzi usando una semplice carta di credito o prepagata ed avvicinandola all'obliteratrice.
-Mastercard e VISA sono sicuramente supportate poichè funzionanti.
+_Nota_: il biglietto è acquistabile anche a bordo dei mezzi usando una semplice carta di credito o prepagata ed avvicinandola all'obliteratrice.
+_Mastercard_ e _VISA_ sono supportate.
 
 {{< image src="tallinn_1.png" alt="Gate di ingresso alla Old Town" caption="Gate d'ingresso alla Old Town" >}}
 
