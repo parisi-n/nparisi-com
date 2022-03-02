@@ -44,7 +44,7 @@ E' bellissimo.
 
 Acquistiamo il biglietto per il **tram #4** tramite apposita macchinetta, pagando rigorosamente _contactless_ ed attendiamo all'esterno l'arrivo del tram, più per piacere che per reale necessità.
 
-{{< image src="tallinn_night.jpg" alt="Mercatini di Natale" caption="Christmas market - Joaluturg" >}}
+{{< image src="tallinn_night.jpg" alt="Vie di Tallinn" >}}
 
 _Nota_: il biglietto è acquistabile anche a bordo dei mezzi usando una semplice carta di credito o prepagata ed avvicinandola all'obliteratrice.
 _Mastercard_ e _VISA_ sono supportate.
