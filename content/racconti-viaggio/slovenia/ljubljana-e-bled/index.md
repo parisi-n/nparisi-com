@@ -5,7 +5,7 @@ image: "images/cover-bled-lake.jpg"
 
 summary : "Un week-end alternativo - con un unico obiettivo: trascorrere un fine settimana tra l'urban di Ljubljana ed il natural del lago di Bled."
 categories : [ "racconti-di-viaggio" ]
-tags : [ "travel" ]
+tags : [ "travel", "liquorideuropa" ]
 
 showToc : true
 type: "article"
@@ -184,9 +184,9 @@ Viaggiare con auto mette anche di fronte a nuove sfide logistiche, pratiche e sc
 
 ## Souvenir
 
-Per la serie *liquorideuropa*, gli immancabili i souvenir di viaggio - oltre alle classiche calamite, cartoline, matite e, dove presente, maglietta dell'Hard Rock.
+Per la serie [#liquorideuropa](/tags/liquorideuropa), gli immancabili i souvenir di viaggio - oltre alle classiche calamite, cartoline, matite e, dove presente, maglietta dell'Hard Rock.
 
-Gli unici ed inimitabili **#liquorideuropa**.
+Gli unici ed inimitabili.
 
 {{< image src="liquore-miele.jpg" alt="Grappa al miele, al miele e fico e miele e cioccolato" caption="#liquorideuropa" >}}
 
@@ -195,6 +195,8 @@ La Slovenia è nota per la produzione di miele, che in questo caso è stato addi
 La migliore in assoluto è la grappa al miele, seguita dalla grappa miele e cioccolato; ultima posizione la grappa al fico, decisamente dal gusto poco incisivo oltrechè poco alcolica.
 
 Le bottiglie in questione son state prese nel mercato di Piazza Pogacar, in una bancarella coperta lungo il fiume; solo la grappa al miele e fico è stata presa in un negozio di souvenir poco lontano...
+
+_[#liquorideuropa](/tags/liquorideuropa) è l'hashtag che raggruppa tutti i post in cui son presenti dei souvenir alcolici - provenienti da varie parti d'Europa._
 
 * * *
 
