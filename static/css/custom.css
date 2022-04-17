@@ -388,7 +388,7 @@
         .libri-header ul { margin: 0.9em 1.3em !important; }
         .libri-header h4 { font-size: 18pt; color: #c8c8c8; margin: 0.9em 0; font-weight: 800; }
         .libri-header h3 { font-size: 22pt; color: #5D656C; font-weight: 800 !important; }
-        .libri-header h3::before { content: "> "; color: #f4511e !important; opacity: 0.85; margin-top: 1.4em; height: 0.25em !important; width: 5em !important; }
+        .libri-header h3::before { content: "# "; color: #f4511e !important; opacity: 0.85; margin-top: 1.4em; height: 0.25em !important; width: 5em !important; }
         .libri-header li { font-size: 15pt; font-weight: 200; color: #CCCCCC; padding: 0.5em; word-break: break-all; }
         .libri-header a { font-size: 15pt; font-weight: 800; }
         .archive-header-h1 { text-align: center; text-transform: uppercase; margin-top: -1.6em }
@@ -396,6 +396,11 @@
         .libri-header-box { float: left; width: 50%; }
         .libri-header-big-box::after { content: ""; display: table; clear: both; }
         @media screen and (max-width: 700px) { .libri-header-box { width: 100%; } }
+        
+        /**
+         * SEZIONE TAGS
+         */
+        .tags h1::before { content: "#"; color: #f4511e !important; opacity: 0.85; margin-top: 1.4em; height: 0.25em !important; width: 5em !important; }
         
     
     /**

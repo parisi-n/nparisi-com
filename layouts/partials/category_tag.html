@@ -1,9 +1,11 @@
 {{/* $paginator è presente anche su seo.html; però lo ripeto affinchè TUTTI I POST funzioni e mostri tutti i post */}}
 {{ $paginator := .Paginate (where (where .Data.Pages "Type" "article").ByDate.Reverse "IsPage" true) }}
 <div class="category-list-container">
-    <div class="entry-header">
-        <h1 class="entry-title"><span style="opacity: 0.7">#</span>{{ humanize .Title }}</h1>
+    <div class="entry-header tags">
+        <h1 class="entry-title">{{ humanize .Params.hash_title }}</h1>
     </div>
+    
+    <div class="entry-content" style="padding-left: 0.4rem; padding-right: 0.4rem">{{ .Content | safeHTML }}</div>
 
     <div id="loop-container" class="loop-container">
 
