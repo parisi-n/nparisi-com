@@ -107,7 +107,7 @@ Trovate maggiori informazioni {{<external_link "https://www.visitljubljana.com/i
 
 {{< image src="metelkova.jpg" alt="Metelkova" type="wide-screen" >}}
 
-Quartiere della street art e dei centri sociali nonchè una delle mete più alternative e caratteristiche in cui potrete imbattervi.
+Quartiere della street art e dei centri sociali nonché una delle mete più alternative e caratteristiche in cui potrete imbattervi.
 Visitarla rievoca un po' le stesse sensazioni ed emozioni che si hanno passeggiando per le vie della città di Kristiana - a Copenhagen.
 
 
