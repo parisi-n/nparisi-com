@@ -182,6 +182,20 @@ Viaggiare con auto mette anche di fronte a nuove sfide logistiche, pratiche e sc
 
 {{< image src="ljubljianca.jpg" alt="Rive del fiume Ljubljanica" caption="Lungo le rive del fiume Ljubljanica" >}}
 
+## Souvenir
+
+Per la serie *liquorideuropa*, gli immancabili i souvenir di viaggio - oltre alle classiche calamite, cartoline, matite e, dove presente, maglietta dell'Hard Rock.
+
+Gli unici ed inimitabili **#liquorideuropa**.
+
+{{< image src="liquore-miele.jpg" alt="Grappa al miele, al miele e fico e miele e cioccolato" caption="#liquorideuropa" >}}
+
+La Slovenia è nota per la produzione di miele, che in questo caso è stato addizionato alla grappa locale creando un abbinamento semplicemente eccellente: vi consiglio di cercarla!
+
+La migliore in assoluto è la grappa al miele, seguita dalla grappa miele e cioccolato; ultima posizione la grappa al fico, decisamente dal gusto poco incisivo oltrechè poco alcolica.
+
+Le bottiglie in questione son state prese nel mercato di Piazza Pogacar, in una bancarella coperta lungo il fiume; solo la grappa al miele e fico è stata presa in un negozio di souvenir poco lontano...
+
 * * *
 
 Il resoconto? 1735km in 18 ore di guida.
