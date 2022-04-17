@@ -1,6 +1,11 @@
 {
     "array" : [
         {
+            "image" : "cover-bled-lake.jpg" ,
+            "text_title" : "Un week-end al lago: Bled e Ljubljana" ,
+            "url" : "racconti-viaggio/slovenia/ljubljana-e-bled/"
+        } ,
+        {
             "image" : "cover_riga.jpg" ,
             "text_title" : "Riga // Ep. 3" ,
             "url" : "racconti-viaggio/tallinn-riga/ep-3-riga/"
