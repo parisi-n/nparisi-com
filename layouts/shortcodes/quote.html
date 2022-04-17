@@ -3,7 +3,7 @@
     
     {{.Get 0}}
     
-    <div class="author">{{ .Get 1}}</div>
+    <div class="author">{{ .Get 1 | safeHTML }}</div>
     
     <i class="fas fa-quote-right" style="bottom: -0.5em; right: 11%;"></i>
 </div>
