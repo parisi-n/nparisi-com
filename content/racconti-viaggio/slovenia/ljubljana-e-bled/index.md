@@ -44,7 +44,7 @@ Anche in questa occasione non ho resistito: ho preso la guida per la Slovenia ed
 Offre il giusto bilancio tra informazioni scritte ed informazioni fotografiche - e non si riduce a mero elenco telefonico come invece le Lonely Planet.
 
 ### L'Hotel
-Optiamo per l'Hotel Lev, situato a 10 minuti *walking distance* dal centro, nei pressi del Parco di Tivoli - con a disposizione ampio parcheggio (in cui vi sconsiglio di parcheggiare a seconda tel tipo di auto con cui viaggiate).
+Optiamo per l'Hotel Lev, situato a 10 minuti *walking distance* dal centro, nei pressi del Parco di Tivoli. Il parco offre ampio parcheggio al costo di 0.60€/h dalle 6 alle 22 e 1.80€ quota fissa dalle 22 alle 6. Vi sconsiglio tuttavia di parcheggiare - a seconda del tipo di auto con cui viaggiate: la notte solo poche auto parcheggiate *overnight* lo rendono - a mio parere - un parcheggio probabilmente poco sicuro, anche se sulle recensioni su Google Maps solo poche sono negative e non si fa cenno ad atti vandalici o furti.
 Lo status di *Genius Lv. 3* ci permette di prendere la stanza **Premium** al costo della stanza Basic; il pagamento con Curve come intermediario ci permette di ricevere indietro un 4% del pagato mentre la sottostante Crypto.com il 3% in cashback.
 Impossibile resistere.
 
