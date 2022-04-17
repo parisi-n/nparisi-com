@@ -5,11 +5,15 @@ image: "images/cover_riga.jpg"
 
 summary : "Riga. Città in cui modernità ed era sovietica si fondono in poco spazio. Più benestante di Vilnius e più profondamente intrisa di soviet, rispetto a Tallinn è come fare un salto. In che direzione - dipende dai punti di vista."
 categories : [ "racconti-di-viaggio" ]
-tags : [ "travel" ]
+tags : [ "travel", "liquorideuropa" ]
 
 showToc : true
 type: "article"
 ---
+
+{{< box "green" >}}
+**Aggiornamento del 16/04/2022**: aggiunta sezione [Souvenir](#souvenir) con il nuovo hashtag [#liquorideuropa](tags/liquorideuropa)
+{{< /box >}}
 
 {{< capital_letter_open >}}
 Dal primo passo poggiato nella Riga Bus Station ci si rende conto di essere in un territorio diverso da quello estone appena lasciato alle spalle. E' più chiassoso, più rude, più caotico. Più russo.
@@ -163,5 +167,18 @@ Non vedo l'ora di tornarci.
 
 **С Рождеством**.
 
+## Souvenir
 
+All'aeroporto di Riga potrete imbattervi in alcuni liquori locali.
 
+{{< image src="liquore-riga.jpg" alt="Amari alle Erbe" caption="#liquorideuropa" >}}
+
+Con l'ultimo viaggio mi son reso conto dell'irrefrenabile desiderio di portare a casa un pezzo di cultura del paese appena visitato; qualcosa da offrire agli ospiti di casa o chiunque si fermi anche soltanto per un saluto.
+
+Ho deciso quindi di inaugurare un hashtag interno al sito, attraverso cui navigare le molteplici interpretazioni della cultura locale sulle bevande:
+
+[#liquorideuropa](/tags/liquorideuropa) is live.
+
+* * *
+
+_[#liquorideuropa](/tags/liquorideuropa) è l'hashtag che raggruppa tutti i post in cui son presenti dei souvenir alcolici - provenienti da varie parti d'Europa._
