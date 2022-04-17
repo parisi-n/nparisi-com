@@ -10,9 +10,11 @@ tags : [ "travel", "liquorideuropa" ]
 showToc : true
 type: "article"
 ---
+{{< box "green" "Update" >}}
 
-{{< box "green" >}}
-**Aggiornamento del 16/04/2022**: aggiunta sezione [Souvenir](#souvenir) con il nuovo hashtag [#liquorideuropa](tags/liquorideuropa)
+Aggiunta sezione [Souvenir](#souvenir) con il nuovo hashtag [#liquorideuropa](tags/liquorideuropa)
+
+**Ultimo aggiornamento:** 16/04/2022
 {{< /box >}}
 
 {{< capital_letter_open >}}
