@@ -65,6 +65,8 @@ Quei pochi negozi che apriranno - lo faranno con orario ridotto fino alle 15.
 
 * Attenzione alle sanzioni da eccesso di velocità!
 
+* Nel caso siate pratici col russo, troverete molte parole somiglianti tra lo sloveno ed il russo - opportunamente trasliterate.
+
 ## Si parte
 
 Partiamo da Milano intorno alle 9; ci lasciamo alle spalle Bergamo, Padova e dopo qualche coda anche Venezia.
