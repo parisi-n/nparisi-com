@@ -76,13 +76,19 @@ timeout = 60000
     name = "Destinazioni e racconti"
     parent = "travel"
     url = "racconti-di-viaggio/"
-    weight = 2
+    weight = 1
 
     [[menu.main]]
     name = "Travel tips"
     parent = "travel"
     url = "travel-tips/"
     weight = 2
+
+    [[menu.main]]
+    name = "#Liquori d'Europa"
+    parent = "travel"
+    url = "tags/liquorideuropa"
+    weight = 3
 
     [[menu.main]]
     name = "Accessori"
