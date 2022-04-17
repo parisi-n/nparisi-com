@@ -1,6 +1,10 @@
 {
     "array" : [
         {
+            "refer" :   "python-ml" ,
+            "url"   :   "https://www.amazon.it/gp/product/1783555130"
+        } ,
+        {
             "refer" : "blockhain-mougayar" ,
             "url" : "https://www.amazon.it/Business-Blockchain-Practice-Application-Technology/dp/1119300312"
         } ,

@@ -1,8 +1,8 @@
 {
     "sto_leggendo" : {
-                        "title" :  "Mastering Ethereum: Building Smart Contracts and Dapps" ,
-                        "auth" : "Andreas M. Antonopopulos" ,
-                        "ref" : "mastering-ethereum"
+                        "title" :  "Python Machine Learning" ,
+                        "auth" : "Sebastian Raschka" ,
+                        "ref" : "python-ml"
                     }
                         ,
                         
@@ -24,6 +24,11 @@
                                         "title" :  "Mastering Bitcoin: Unlocking Digital Cryptocurrencies" ,
                                         "auth" : "Andreas M. Antonopopulos" ,
                                         "ref" : "mastering-bitcoin"
+                                    } ,
+                                    {
+                                        "title" :  "Mastering Ethereum: Building Smart Contracts and Dapps" ,
+                                        "auth" : "Andreas M. Antonopopulos" ,
+                                        "ref" : "mastering-ethereum"
                                     }
                                 ]
                     } ,
