@@ -1,5 +1,5 @@
 ---
-title: "#Liquori d'Europa"
+title: "#LiquoridEuropa"
 hash_title: "liquorideuropa"
 url : "tags/liquorideuropa"
 ---
