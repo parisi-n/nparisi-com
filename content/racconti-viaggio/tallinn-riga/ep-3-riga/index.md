@@ -175,7 +175,7 @@ All'aeroporto di Riga potrete imbattervi in alcuni liquori locali.
 
 {{< image src="liquore-riga.jpg" alt="Amari alle Erbe" caption="#liquorideuropa" >}}
 
-Molto buoni entrambi, con la versione _Original_ (nera) molto più buona rispetto alla _Balsam_ viola. Entrambi sono amari alle di erbe, con la versione _Balsam_ che differisce dall'_Original_ per la presenza di erbe extra.
+Molto buoni entrambi, con la versione _Original_ (nera) molto più buona rispetto alla _Balsam_ viola. Entrambi sono amari alle erbe, con la versione _Balsam_ che differisce dall'_Original_ per la presenza di erbe extra.
 
 Con l'ultimo viaggio mi son reso conto dell'irrefrenabile desiderio di portare a casa un pezzo di cultura del paese appena visitato; qualcosa da offrire agli ospiti di casa o chiunque si fermi anche soltanto per un saluto.
 
