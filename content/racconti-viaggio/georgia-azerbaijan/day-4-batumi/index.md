@@ -1,5 +1,5 @@
 ---
-title: "In viaggio verso Georgia-Azerbaijan // Cosa fare a Batumi // Day #4"
+title: "Georgia-Azerbaijan // Cosa fare a Batumi // Day #4"
 date: "2019-11-14"
 image: "images/IMG_3999.jpg"
 
