@@ -5,7 +5,7 @@ image: "images/cover-tallinn.jpg"
 
 summary : "Tallinn, capitale dell'Estonia. Non sicuramente una meta invernale ma proprio per questo sa sorprendere con i suoi paesaggi innevati ed il freddo spietato, incurante di te. Racconta storie gloriose passate (solo per chi sa ascoltarle) per le vie della sua Old Town."
 categories : [ "racconti-di-viaggio" ]
-tags : [ "travel" ]
+tags : [ "travel", "liquorideuropa" ]
 
 showToc : true
 type: "article"
@@ -191,6 +191,19 @@ Se il vostro desiderio è nulla di particolarmente elaborato ed il vostro motto 
 ## I #tallinnvibes
 
 Nè più nè meno di quanto mi aspettavo - Tallinn è riuscita a stupirmi. Ancora una volta. Sarà per il suo alone nordico in un territorio notoriamente con radici sovietiche, o forse per la capacità di vivere serenamente ed avere a che fare con una Natura che spesso non fa sconti e costringe a cercare tepore di frequente in una caffetteria o in un supermercato.
+
+## Souvenir
+
+Vana tallinn! Un nome, un brand, una varietà di prodotti locali di qualità.
+Troverete il cioccolato esposto ed in vendita in più punti - ma ricordate che potrete prenderlo a prezzo (probabilmente) più vantaggioso presso Maxima o altri _convenient store_.
+
+Ma impossibile non nominare il liquore, **Vana tallinn**, di cui purtroppo non possiedo foto perché...finito prima di riuscire a farla!
+
+Allego foto presa dall'archivio forografico, per renderne l'idea visiva.
+
+{{< image src="vana-tallinn-spirit.jpg" alt="Vana Tallinn" caption="Vana Tallinn">}}
+
+_[#liquorideuropa](/tags/liquorideuropa) è l'hashtag che raggruppa tutti i post in cui son presenti dei souvenir alcolici - provenienti da varie parti d'Europa._
 
 * * *
 
