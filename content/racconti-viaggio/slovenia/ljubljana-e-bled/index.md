@@ -14,7 +14,6 @@ type: "article"
 ## Un po' di storia
 
 {{< capital_letter_open >}}
-
 Non è sempre detto che un viaggio inizi con il rombo di un motore di un aereo. Anzi, quest'idea è solo di recente concezione.
 Son sempre stato amante dei viaggi su strada: vivere il percorso, vedere la strada che - chilometro dopo chilometro - viene lasciata indietro, con la natura che cambia ed il sole che cade fino a lasciare spazio al buio.
 {{< capital_letter_close >}}
