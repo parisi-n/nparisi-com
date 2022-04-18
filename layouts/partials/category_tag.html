@@ -5,9 +5,9 @@
         <h1 class="entry-title">{{ humanize .Params.hash_title }}</h1>
     </div>
     
-    <div class="entry-content" style="padding-left: 0.4rem; padding-right: 0.4rem">{{ .Content | safeHTML }}</div>
-
     <div id="loop-container" class="loop-container">
+        
+        <div class="header-category-tag">{{ .Content | safeHTML }}</div>
 
         {{ range $index, $element := .Paginator.Pages }}
 

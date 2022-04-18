@@ -51,6 +51,8 @@
     .widget_recent_entries, .widget_categories { display: inline-block !important; padding: 0 2%; float: left; }
     .header-section-index { font-size: 1.87em; text-transform: uppercase; color: #c7c7c7; margin-bottom: 0.8; display: inline-block; margin-top: 1em; }
     .header-section-index-bottom { height: 2px; width: 100%; background-color: #f4511e; margin-bottom: 1.4em; opacity: 0.2; border-radius: 3px; }
+    .header-category-tag p { padding-left: 0.4rem; padding-right: 0.4rem; font-size: 1.32rem !important; margin: 1.11em 0; font-family: "Open Sans", sans-serif !important; line-height: 1.8em !important; font-size: 1.32rem; text-align: justify !important; word-spacing: -2px; } /* Riprende lo style di p all'interno di article nel post */
+    .header-category-tag::after { display:block; clear:both; content : ""; position: relative; left: 0; bottom : 0; height: 1px; width: 15em; border-bottom: 0.125em solid #3b3d44; margin:0 auto; padding: 4px 0px; opacity: 0.275; }
         
     /**
      * HOME PAGE
