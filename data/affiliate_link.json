@@ -1,6 +1,14 @@
 {
     "array" : [
         {
+            "refer" :   "curve-ref" ,
+            "url"   :   "https://www.curve.com/join#NRO9GLON"
+        } ,
+        {
+            "refer" : "crypto-com-ref" ,
+            "url" : "https://crypto.com/app/994e2df6tt"
+        } ,
+        {
             "refer" :   "python-ml" ,
             "url"   :   "https://www.amazon.it/gp/product/1783555130"
         } ,
