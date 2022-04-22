@@ -1,6 +1,11 @@
 {
     "array" : [
         {
+            "image" : "curve-cryptocom-cards-cover.jpg" ,
+            "text_title" : "Curve e Crypto: la mia esperienza" ,
+            "url" : "lifestyle/curve-crypto-in-viaggio/"
+        } ,
+        {
             "image" : "cover-bled-lake.jpg" ,
             "text_title" : "Un week-end al lago: Bled e Ljubljana" ,
             "url" : "racconti-viaggio/slovenia/ljubljana-e-bled/"
