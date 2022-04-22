@@ -19,7 +19,7 @@ Per questo cercherò di essere quanto più onesto e trasparente possibile, ripor
 {{< /box>}}
 
 {{< capital_letter_open >}}
-Sono l'argomento del momento - e tutti ne parlano, con più o meno cognizione - ne parlano: mi riferisco alle **cryptovalute**.
+Sono l'argomento del momento e tutti, con più o meno cognizione - ne parlano: mi riferisco alle **cryptovalute**.
 
 Non parlerò di cosa sono o degli ideali che ci stanno dietro ma di quella che è stata la mia esperienza nell'ultimo anno e mezzo con la {{<external_link "" "carta Crypto.com">}} affiancata ed usata quasi sempre collegata alla carta {{<external_link "" "Curve">}}.
 
@@ -65,7 +65,7 @@ Pleonastico specificarlo, ma sicuramente il cashback (ottenuto in CRO) che - per
 
 La spesa massima effettuabile di 25'ooo€ in un'unica transazione, il che la rende una carta utilizzabile anche nei casi di __anti platfond__.
 
-**L'accesso alle Lounge** aeroportuali incluse con le carte di debito **Jade/Indigo o superiori** sono una __killer feature__ per i viaggiatori. **Associata alla card fisica** (quindi nel caso facciate un upgrade da carta di livello inferiore senza richiedere la carta fisica aggiornata - ciò non sarebbe applicabile) avrete il **LoungeKey pass** che vi permette l'accesso gratuito a **tutte le Lounge del gruppo LoungeKey** del mondo ( INSERIRE NUMERO ESATTO DELLE LOUNGE - ad Aprile 2022). In caso di Icy - oltre all'aggesso incluso per il titolare - c'è la possibilità di portare un ospite con voi (equivalente alla sottoscrizione Priority Pass di American Express Platino).
+**L'accesso alle Lounge** aeroportuali incluse con le carte di debito **Jade/Indigo o superiori** sono una __killer feature__ per i viaggiatori. **Associata alla card fisica** (quindi nel caso facciate un upgrade da carta di livello inferiore senza richiedere la carta fisica aggiornata - ciò non sarebbe applicabile) avrete il **LoungeKey pass** che vi permette l'accesso gratuito a **tutte le Lounge del gruppo LoungeKey** del mondo ( oltre 1000 in 120 paesi - ad Aprile 2022). In caso di Icy - oltre all'aggesso incluso per il titolare - c'è la possibilità di portare un ospite con voi (equivalente alla sottoscrizione Priority Pass di American Express Platino).
 
 **Il pass Loungey ha un valore di 399€**.
 
@@ -94,7 +94,7 @@ Curve non la considero semplicemente *una carta* ma **la carta** per eccellenza.
 
 Permette di controllare più carte - che siano di debito o di credito - in una, così da non dover uscire di casa con il portafoglio pieno di carte.
 
-{{< image src="passport-curve-crypto-card.jpg" alt="Packaging Curve Metal" caption="Packaging Curve Metal" >}}
+{{< image src="passport-curve-crypto-card.jpg" alt="Packaging Curve Metal" caption="Curve Metal + Jade Green" >}}
 
 #### Vantaggi
 
@@ -135,6 +135,8 @@ Il primo - e forse unico grande "difetto" - è la conversione di valuta **per pa
 Mi spiego meglio: durante la settimana - dal Lunedì al Venerdì - il cambio applicato per pagamenti in valuta differente sarà {{< external_link "https://www.curve.com/fx-calculator" "quello ufficiale MasterCard" >}}, di cui potete avere una stima sul {{<external_link "" "calcolatore ufficiale">}}.
 
 Durante il week-end - la situazione si complica: **al cambio ufficiale Mastercard viene applicata un'extra fee** di % variabile: 0.5% se la conversione interessa EUR, USD o GBP; altrimenti 1.5% se interessa altre valute.
+
+{{< image src="curve-metal-jade-green-package.jpg" alt="Curve Metal e Jade Green" caption="Curve Metal e Jade Green" >}}
 
 Un **work-around** noto e suggerito, qualora la carta sottostante non applichi fee di conversione valuta - è impostare dal menù della carta la valuta del paese in cui pagherete e far effettuare la conversione alla card sottostante - **ricordandovi però di impostarla nuovamente in euro non appena tornerete in Italia** onde evitare spese di conversione non volute.
 
@@ -193,6 +195,18 @@ Potete iscrivervi {{< affiliate_link "curve-ref" "attraverso questo link" >}} pe
 L'app è disponibil per Android ed iPhone.
 
 {{< image src="cards-panel.jpg" alt="Offerta Curve e Crypto" caption="Rosa vincente">}}
+
+### L'app
+
+Semplice, completa, intuitiva.
+
+Unico neo: è localizzata esclusivamente in inglese.
+
+{{< image src="curve-app-1.jpg" alt="App di Curve" caption="App di Curve // 1" >}}
+
+{{< image src="curve-app-2.jpg" alt="App di Curve" caption="App di Curve // 2" >}}
+
+Ma ciò non sarà un problema in quanto l'uso è estremamente semplice.
 
 ## Serve una mano?
 
