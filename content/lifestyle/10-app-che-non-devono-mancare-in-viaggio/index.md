@@ -5,7 +5,7 @@ image: "images/IMG_1409.jpg"
 
 summary : "Una breve descrizione delle app aggiornate ad Agosto 2019 che reputo essenziali per gli spostamenti di ogni traveler."
 categories : [ "travel-tips" ]
-tags : [ "travel" ]
+tags : [ "travel", "blog" ]
 
 showToc : true
 type: "article"

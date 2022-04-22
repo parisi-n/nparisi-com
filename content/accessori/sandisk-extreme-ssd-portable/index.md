@@ -5,7 +5,7 @@ image: "images/IMG_1267.jpg"
 
 summary : "SanDisk SSD Portable si è dimostrato davvero portatile. Con le dimensioni simili a quelle di una carta di credito, permette di avere tanto spazio di archiviazione in mobilità. Ottimo per i viaggi."
 categories : [ "accessori", "fotografia" ]
-tags : [ "" ]
+tags : [ "blog" ]
 
 showToc : true
 type: "article"

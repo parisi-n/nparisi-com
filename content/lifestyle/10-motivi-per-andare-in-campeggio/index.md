@@ -5,7 +5,7 @@ image: "images/20140725_195050.jpg"
 
 summary : "10 motivi per cui consiglio di andare in campeggio a chiunque non ci sia mai andato ed invito a dargli una possibilità, per conoscere meglio se stessi."
 categories : [ "lifestyle", "travel-tips" ]
-tags : [ "travel" ]
+tags : [ "travel", "blog" ]
 
 showToc : true
 type: "article"

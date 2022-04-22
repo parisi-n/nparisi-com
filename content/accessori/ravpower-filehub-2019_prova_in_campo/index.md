@@ -5,7 +5,7 @@ image: "images/IMG_1259.jpg"
 
 summary : "Sulla carta un progetto molto interessante, in viaggio un po' meno. Pregi e difetti del FileHub di RavPower usato nell'ultimo viaggio in Georgia."
 categories : [ "accessori" ]
-tags : [ "" ]
+tags : [ "blog" ]
 
 showToc : true
 type: "article"

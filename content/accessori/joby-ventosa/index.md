@@ -5,7 +5,7 @@ image: "images/GOPR3957.jpg"
 
 summary : "Prova di forza per il Joby ventosa che - fissato sull scafo di un gommone Zar - ha sfidato le onde in navigazione e ne è uscita vincitrice."
 categories : [ "accessori" ]
-tags : [ "" ]
+tags : [ "blog" ]
 
 showToc : true
 type: "article"

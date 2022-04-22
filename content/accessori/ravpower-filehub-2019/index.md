@@ -5,7 +5,7 @@ image: "images/IMG_1259.jpg"
 
 summary : "Perchè ho apprezzato (e perchè no) il nuovo FileHub di RavPower versione 2019, con particolare attenzione all'uso in mobilità in cui mostra le proprie potenzialità."
 categories : [ "accessori" ]
-tags : [ "" ]
+tags : [ "blog" ]
 
 showToc : true
 type: "article"

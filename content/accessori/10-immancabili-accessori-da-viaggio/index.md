@@ -5,7 +5,7 @@ image: "images/IMG_2344.jpg"
 
 summary : "Elenco di 10 accessori da viaggio che reputo irrununciabili e che dovrebbero far parte della valigia di ogni traveler."
 categories : [ "accessori", "travel-tips" ]
-tags : [ "travel", "accessori" ]
+tags : [ "travel", "accessori", "blog" ]
 
 showToc : true
 type: "article"

@@ -5,7 +5,7 @@ image: "images/curve-cryptocom-cards-cover.jpg"
 
 summary : "Esperienza d'uso dell'ultimo anno in giro per l'Europa: scegliere di viaggiare smart nel 2022 è d'obbligo per stare al passo con i tempi."
 categories : [ "lifestyle", "travel-tips" ]
-tags : [ "travel" ]
+tags : [ "travel", "blog" ]
 
 showToc : true
 type: "article"
@@ -23,7 +23,7 @@ Sono l'argomento del momento e tutti, con più o meno cognizione, ne parlano: mi
 
 Non parlerò di cosa sono o degli ideali che ci stanno dietro ma di quella che è stata la mia esperienza nell'ultimo anno e mezzo con la {{<external_link "" "carta Crypto.com">}} affiancata ed usata quasi sempre collegata alla carta {{<external_link "" "Curve">}}.
 
-Parlerò prima di cosa sono queste due carte e del perchè ha senso usarle insieme; spiegherò poi quel che è stata la mia esperienza in giro per l'Europa; infine - per chi arriverà a fine post - spiegherò come è possibile ottenerle (con referral link si ha diritto ad un bonus di iscrizione per entrambe).
+Parlerò prima di cosa sono queste due carte e del perché ha senso usarle insieme; spiegherò poi quel che è stata la mia esperienza in giro per l'Europa; infine - per chi arriverà a fine post - spiegherò come è possibile ottenerle (con referral link si ha diritto ad un bonus di iscrizione per entrambe).
 {{< capital_letter_close >}}
 
 ## Due carte
@@ -102,7 +102,7 @@ Alcune tra le funzioni che la rendono una _killer card__ ricordiamo:
 
 ##### Anti-embarassement mode
 
-Dimenticate le transazioni negate perchè con bilancio insufficiente: con la funzione __anti-embarassemenent mode__ Curve tenterà di addebitare l'importo alle carte inserite e presenti al suo interno, nell'ordine da voi stabilito.
+Dimenticate le transazioni negate perché con bilancio insufficiente: con la funzione __anti-embarassemenent mode__ Curve tenterà di addebitare l'importo alle carte inserite e presenti al suo interno, nell'ordine da voi stabilito.
 
 Solo al termine dei vari tentativi - se in nessuna è presente una quantità di fondi sufficiente per completare con successo la transazione - **quest'ultima verrà negata**.
 
@@ -120,7 +120,7 @@ In particolare: con il piano **Black** avrete la copertura assicurativa per **Vi
 
 A differenza della carta Crypto.com - la Curve si appoggia al circuito **MasterCard**. Ciò vuol dire che, a seconda del luogo in cui vi troverete a viaggiare, quest'ultimo circuito **potrebbe avere una diffusione maggiore** ed essere maggiormente accettato **rispetto a VISA**. Non nego infatti che talvolta mi son trovato la __VISA Card__ non accettata - soprattutto in POS di vecchia data.
 
-Con i piani __Black e Metal__ avrete la possibilità di accedere alle Lounge del gruppo **LoungeKey** ad un prezzo forfettario di 20€ (di cui non ho testimonianza diretta perchè accesso già garantitomi dalla Jade di Crypto.com)
+Con i piani __Black e Metal__ avrete la possibilità di accedere alle Lounge del gruppo **LoungeKey** ad un prezzo forfettario di 20€ (di cui non ho testimonianza diretta perché accesso già garantitomi dalla Jade di Crypto.com)
 
 La Curve si presta particolarmente come _traveler card_ e, se non vi avessi ancora convinto, ecco un'ulteriore prova a dimostrazione di ciò: la **sezione Rewards** inclusa nell'app offre varie scontistiche _referral_ su alcuni siti, tra cui **Uber** (10% di cashback - ma solo sulla prima corsa), **Uber Eats** (30% di cashback - ma solo sul primo ordine) ma soprattutto **Hotels** (1% di cashback) e - udite udite! - **Booking.com** su cui potrete avere fino al **4% di cashback** su tutte le prenotazioni.
 
@@ -158,7 +158,7 @@ La mia esperienza con la carta Crypto.com inizia ad Ottobre 2020 - momento in cu
 Non posso che parlarne bene - e così ho fatto, anche con gli amici.
 
 Risultato? La maggior parte hanno deciso di darmi fiducia e di applicare a loro volta.
-Il cliente soddisfatto è la miglior pubblicità - e quando suggerisco qualcosa lo faccio perchè son davvero soddisfatto.
+Il cliente soddisfatto è la miglior pubblicità - e quando suggerisco qualcosa lo faccio perché son davvero soddisfatto.
 
 **La faccia ed il proprio nome è più importante ed ha più valore di qualunque altro referal esistente.**
 
