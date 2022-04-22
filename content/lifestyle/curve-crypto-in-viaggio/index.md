@@ -19,11 +19,11 @@ Per questo cercherò di essere quanto più onesto e trasparente possibile, ripor
 {{< /box>}}
 
 {{< capital_letter_open >}}
-Sono l'argomento del momento e tutti, con più o meno cognizione - ne parlano: mi riferisco alle **cryptovalute**.
+Sono l'argomento del momento e tutti, con più o meno cognizione, ne parlano: mi riferisco alle **cryptovalute**.
 
 Non parlerò di cosa sono o degli ideali che ci stanno dietro ma di quella che è stata la mia esperienza nell'ultimo anno e mezzo con la {{<external_link "" "carta Crypto.com">}} affiancata ed usata quasi sempre collegata alla carta {{<external_link "" "Curve">}}.
 
-Parlerò prima di cosa sono queste due carte e del perchè ha senso usarle insieme; spiegherò poi quel che è stata la mia esperienza in giro per l'Europa; infine - per chi arriverà a fine post, farò qualche cenno su come è possibile ottenerle (con referral link si ha diritto ad un bonus di iscrizione per entrambe)
+Parlerò prima di cosa sono queste due carte e del perchè ha senso usarle insieme; spiegherò poi quel che è stata la mia esperienza in giro per l'Europa; infine - per chi arriverà a fine post - spiegherò come è possibile ottenerle (con referral link si ha diritto ad un bonus di iscrizione per entrambe).
 {{< capital_letter_close >}}
 
 ## Due carte
@@ -49,7 +49,7 @@ Esiste poi un'ultima card, la Obsedian black, richiedibile a fronte di un vincol
 
 Va sottolineato come **il vincolo si configuri a tutti gli effetti come un investimento**: il valore in € depositato non verrà depositato come EURO ma come *Cronos*, la cryptovaluta di Crypto.com - e sempre in Cronos (**CRO**) - verrà corrisposto il cashback.
 
-{{< image src="passport-cards.jpg" alt="Curve Basic, Curve Metal, Ruby Steel, Jade Green" caption="Offerta Curve e Crypto.com" >}}
+{{< image src="curve-crypto-card-detail.jpg" alt="Curve Metal a Jade Green" caption="Curve Metal e Jade Green" >}}
 
 {{< box "orange">}}
 Non tutte le spese effettuate con la carta daranno diritto al cashback: assicurazioni, investimenti, tasse, prelievi ATM sono alcuni esempi di spesa che non daranno diritto a cashback.
@@ -61,11 +61,11 @@ Dalla Ruby a salire - le card sono metalliche e non in materiale plastico come l
 
 #### Vantaggi
 
-Pleonastico specificarlo, ma sicuramente il cashback (ottenuto in CRO) che - per la Ruby - ammonta al 2%, la Jade 3% e la Icy al 5%.
+Pleonastico specificarlo, ma sicuramente il **cashback** (ottenuto in CRO) che - per la Ruby - **ammonta al 2%, per la Jade al 3% e per la Icy al 5%**.
 
-La spesa massima effettuabile di 25'ooo€ in un'unica transazione, il che la rende una carta utilizzabile anche nei casi di __anti platfond__.
+La spesa massima effettuabile di 25'ooo€ in un'unica transazione, il che la rende una carta utilizzabile anche nei casi di __anti plafond__.
 
-**L'accesso alle Lounge** aeroportuali incluse con le carte di debito **Jade/Indigo o superiori** sono una __killer feature__ per i viaggiatori. **Associata alla card fisica** (quindi nel caso facciate un upgrade da carta di livello inferiore senza richiedere la carta fisica aggiornata - ciò non sarebbe applicabile) avrete il **LoungeKey pass** che vi permette l'accesso gratuito a **tutte le Lounge del gruppo LoungeKey** del mondo ( oltre 1000 in 120 paesi - ad Aprile 2022). In caso di Icy - oltre all'aggesso incluso per il titolare - c'è la possibilità di portare un ospite con voi (equivalente alla sottoscrizione Priority Pass di American Express Platino).
+**L'accesso alle Lounge** aeroportuali incluse con le carte di debito **Jade/Indigo o superiori** sono una __killer feature__ per i viaggiatori. **Associata alla card fisica** (quindi nel caso facciate un upgrade da carta di livello inferiore senza richiedere la carta fisica aggiornata - ciò non sarebbe applicabile) avrete il **LoungeKey pass** che vi permette l'accesso gratuito a **tutte le Lounge del gruppo LoungeKey** del mondo ( oltre 1000 in 120 paesi - ad Aprile 2022). In caso di Icy - oltre all'accesso incluso per il titolare - c'è la possibilità di portare un ospite con voi (equivalente alla sottoscrizione Priority Pass di American Express Platino).
 
 **Il pass Loungey ha un valore di 399€**.
 
@@ -122,9 +122,9 @@ A differenza della carta Crypto.com - la Curve si appoggia al circuito **MasterC
 
 Con i piani __Black e Metal__ avrete la possibilità di accedere alle Lounge del gruppo **LoungeKey** ad un prezzo forfettario di 20€ (di cui non ho testimonianza diretta perchè accesso già garantitomi dalla Jade di Crypto.com)
 
-La Curve si presta particolarmente come _traveler card_ e, se non vi avessi ancora convinto, ecco un ulteriore prova a dimostrazione di ciò: la **sezione Rewards** inclusa nell'app offre varie scontistiche _referral_ su alcuni siti, tra cui **Uber** (10% di cashback - ma solo sulla prima corsa), **Uber Eats** (30% di cashback - ma solo sul primo ordine) ma soprattutto **Hotels** (1% di cashback) e - udite udite! - **Booking.com** su cui potrete avere fino al **4% di cashback** su tutte le prenotazioni.
+La Curve si presta particolarmente come _traveler card_ e, se non vi avessi ancora convinto, ecco un'ulteriore prova a dimostrazione di ciò: la **sezione Rewards** inclusa nell'app offre varie scontistiche _referral_ su alcuni siti, tra cui **Uber** (10% di cashback - ma solo sulla prima corsa), **Uber Eats** (30% di cashback - ma solo sul primo ordine) ma soprattutto **Hotels** (1% di cashback) e - udite udite! - **Booking.com** su cui potrete avere fino al **4% di cashback** su tutte le prenotazioni.
 
-{{< image src="curve-crypto-card-detail.jpg" alt="Curve Metal a Jade Green" caption="Curve Metal e Jade Green" >}}
+{{< image src="passport-cards.jpg" alt="Curve Basic, Curve Metal, Ruby Steel, Jade Green" caption="Offerta Curve e Crypto.com" >}}
 
 #### Svantaggi
 
@@ -138,7 +138,7 @@ Durante il week-end - la situazione si complica: **al cambio ufficiale Mastercar
 
 {{< image src="curve-metal-jade-green-package.jpg" alt="Curve Metal e Jade Green" caption="Curve Metal e Jade Green" >}}
 
-Un **work-around** noto e suggerito, qualora la carta sottostante non applichi fee di conversione valuta - è impostare dal menù della carta la valuta del paese in cui pagherete e far effettuare la conversione alla card sottostante - **ricordandovi però di impostarla nuovamente in euro non appena tornerete in Italia** onde evitare spese di conversione non volute.
+Un **work-around** noto e suggerito, qualora la carta sottostante non applichi fee di conversione valuta - è impostare dal menù della carta la valuta del paese in cui pagherete e far effettuare la conversione alla card sottostante - **ricordandovi però di impostarla nuovamente in euro non appena tornerete in Italia**, onde evitare spese di conversione non volute.
 
 Non è una carta atm-friendly - permettendovi di prelevare appena 200€ in contanti dagli ATM prima di applicare una __extra fee__ ad ogni prelievo.
 
@@ -163,6 +163,18 @@ Il cliente soddisfatto è la miglior pubblicità - e quando suggerisco qualcosa 
 **La faccia ed il proprio nome è più importante ed ha più valore di qualunque altro referal esistente.**
 
 {{< image src="crypto-card-canon-thule-flatlay-riga.jpg" alt="Equipaggiamento da viaggio" caption="Scatto fugace a Riga" >}}
+
+### L'app
+
+Semplice, completa, intuitiva.
+
+Unico neo: è localizzata esclusivamente in inglese.
+
+{{< image src="curve-app-1.jpg" alt="App di Curve" caption="App di Curve // 1" >}}
+
+{{< image src="curve-app-2.jpg" alt="App di Curve" caption="App di Curve // 2" >}}
+
+Ma ciò non sarà un problema in quanto l'uso è estremamente semplice.
 
 * * *
 
@@ -196,23 +208,11 @@ L'app è disponibil per Android ed iPhone.
 
 {{< image src="cards-panel.jpg" alt="Offerta Curve e Crypto" caption="Rosa vincente">}}
 
-### L'app
-
-Semplice, completa, intuitiva.
-
-Unico neo: è localizzata esclusivamente in inglese.
-
-{{< image src="curve-app-1.jpg" alt="App di Curve" caption="App di Curve // 1" >}}
-
-{{< image src="curve-app-2.jpg" alt="App di Curve" caption="App di Curve // 2" >}}
-
-Ma ciò non sarà un problema in quanto l'uso è estremamente semplice.
-
 ## Serve una mano?
 
 Comprendo che per un novizio potrebbe risultare complesso questo approccio alla spesa - del tutto personale e frutto dell'esperienza.
 
-Desidero lasciarvi i **canali Telegram** sia di Crypto.com (ufficiale), nel caso abbiate qualche dubbio o domanda - sia di **Curve Italia** - piccola community ma affiatata, in cui troverete persone amichevoli (me compreso!) pronte a rispondere ai vostri dubbi ed aiutarvi per sfruttare al meglio la **vostra Curve!**.
+Desidero lasciarvi i **canali Telegram** sia di Crypto.com (ufficiale), nel caso abbiate qualche dubbio o domanda - sia di **Curve Italia** - piccola community ma affiatata, in cui troverete persone amichevoli (me compreso!) pronte a rispondere ai vostri dubbi ed aiutarvi per sfruttare al meglio la **vostra Curve!**
 
 * {{<external_link "https://t.me/Cryptocom_IT" "Canale Telegram" >}} ufficiale di Crypto.com.
 * {{<external_link "https://t.me/Curveitaly" "Canale Telegram" >}} non ufficiale (per ora l'unico) di Curve.
