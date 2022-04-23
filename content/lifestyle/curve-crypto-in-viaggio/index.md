@@ -63,7 +63,7 @@ Dalla Ruby a salire - le card sono metalliche e non in materiale plastico come l
 
 Pleonastico specificarlo, ma sicuramente il **cashback** (ottenuto in CRO) che - per la Ruby - **ammonta al 2%, per la Jade al 3% e per la Icy al 5%**.
 
-La spesa massima effettuabile di 25'ooo€ in un'unica transazione, il che la rende una carta utilizzabile anche nei casi di __anti plafond__.
+La spesa massima effettuabile di 25'ooo€ in un'unica transazione, il che la rende una carta utilizzabile anche nei casi di __alta spesa__.
 
 **L'accesso alle Lounge** aeroportuali incluse con le carte di debito **Jade/Indigo o superiori** sono una __killer feature__ per i viaggiatori. **Associata alla card fisica** (quindi nel caso facciate un upgrade da carta di livello inferiore senza richiedere la carta fisica aggiornata - ciò non sarebbe applicabile) avrete il **LoungeKey pass** che vi permette l'accesso gratuito a **tutte le Lounge del gruppo LoungeKey** del mondo ( oltre 1000 in 120 paesi - ad Aprile 2022). In caso di Icy - oltre all'accesso incluso per il titolare - c'è la possibilità di portare un ospite con voi (equivalente alla sottoscrizione Priority Pass di American Express Platino).
 
@@ -105,6 +105,8 @@ Alcune tra le funzioni che la rendono una _killer card__ ricordiamo:
 Dimenticate le transazioni negate perché con bilancio insufficiente: con la funzione __anti-embarassemenent mode__ Curve tenterà di addebitare l'importo alle carte inserite e presenti al suo interno, nell'ordine da voi stabilito.
 
 Solo al termine dei vari tentativi - se in nessuna è presente una quantità di fondi sufficiente per completare con successo la transazione - **quest'ultima verrà negata**.
+
+{{< image src="curve-anti-embarassement-mode.jpg" alt="Anti-embarassement mode in funzione" caption="Anti-embarassement mode" type="wide-screen" >}}
 
 ##### Go Back in Time
 
