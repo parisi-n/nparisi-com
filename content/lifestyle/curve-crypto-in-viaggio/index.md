@@ -106,7 +106,7 @@ Dimenticate le transazioni negate perché con bilancio insufficiente: con la fun
 
 Solo al termine dei vari tentativi - se in nessuna è presente una quantità di fondi sufficiente per completare con successo la transazione - **quest'ultima verrà negata**.
 
-{{< image src="curve-anti-embarassement-mode.jpg" alt="Anti-embarassement mode in funzione" caption="Anti-embarassement mode" type="wide-screen" >}}
+{{< image src="curve-anti-embarassement-mode.jpg" alt="Anti-embarassement mode in funzione" caption="Anti-embarassement mode" >}}
 
 ##### Go Back in Time
 
