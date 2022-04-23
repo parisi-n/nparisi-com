@@ -6,6 +6,9 @@
 
 {{ $img := (cond ( eq .Type "article") ( ( ( printf "%s/%s" .Permalink .Params.image ) ) ) ( .Site.Params.image | absURL ) ) }}
 
+{{/* Rimuovo "humanize" da .Title */}}
+
+{{/*<title>{{if not $.IsHome}}{{ title .Title }}{{else}}{{ .Title }}{{end}} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}</title>*/}}
 <title>{{if not $.IsHome}}{{ title .Title }}{{else}}{{ .Title }}{{end}} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}</title>
 <meta name="application-name" content="{{if not $.IsHome}}{{ humanize .Title }}{{else}}{{ . }}{{end}} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}" />
 <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else if .IsPage}}{{ .Params.summary }}{{else}}{{ .Site.Params.Description }}{{ end }}" />
@@ -18,7 +21,9 @@
 
 {{/* Open Graph data */}}
 <meta property="og:image" content="{{ $img }}" />
-<meta property="og:title" content="{{if not $.IsHome}}{{ humanize .Title }}{{else}}{{ . }}{{end}} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}" />
+<meta property="og:site_name" content="{{ $.Site.Title | default "" | safeHTML }}" />
+{{/*<meta property="og:title" content="{{if not $.IsHome}}{{ humanize.Title }}{{else}}{{ . }}{{end}} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}" />*/}}
+<meta property="og:title" content="{{if not $.IsHome}}{{ .Title }}{{else}}{{ . }}{{end}} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}" />
 <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else if .IsPage}}{{ .Params.summary }}{{else}}{{ .Site.Params.Description }}{{ end }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:locale" content="it">
@@ -32,11 +37,13 @@
 {{- end }}
 
 {{/* Twitter card */}}
-<meta name="twitter:title" content="{{if not $.IsHome}}{{ humanize .Title }}{{else}}{{ . }}{{end}} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}" />
+{{/*<meta name="twitter:title" content="{{if not $.IsHome}}{{ humanize .Title }}{{else}}{{ . }}{{end}} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}" /> */}}
+<meta name="twitter:title" content="{{if not $.IsHome}}{{ .Title }}{{else}}{{ . }}{{end}} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}" />
 <meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else if .IsPage}}{{ .Params.summary }}{{else}}{{ .Site.Params.Description }}{{ end }}" />
 <meta name="twitter:image" content="{{ $img }}" />
 {{/* <meta name="twitter:image:src" content=" $img " />*/}}
-<meta name="twitter:url" content="{{ .Permalink }}" /> 
+<meta name="twitter:url" content="{{ .Permalink }}" />
+<meta name="twitter:domain" content="{{ .Permalink }}" />
 
 {{/* Link */}}
 <link rel="canonical" href="{{ .Permalink }}" itemprop="url" />
