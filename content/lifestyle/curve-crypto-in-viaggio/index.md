@@ -116,7 +116,7 @@ In caso la transazione venga addebitata su una carta che non è quella attesa o 
 
 Mentre i precedenti punti sono per tutti i piani, la copertura assicurativa con **AXA** è inclusa con i piani **Black** (100€/anno) e **Metal** (150€/anno). E' escluso il piano free **Basic**.
 
-In particolare: con il piano **Black** avrete la copertura assicurativa per **Viaggi** e **Noleggio auto**; con il piano **Metal** avrete l'estensione della copertura al vostro telefono cellulare (fino a 800€ - una volta l'anno) in caso di danni accidentali.
+In particolare: con il piano **Black** avrete la copertura assicurativa per **Viaggi** e **Noleggio auto**; con il piano **Metal** avrete l'estensione della copertura al vostro telefono cellulare (fino a 800€ - una volta l'anno) in caso di danni accidentali o furto.
 
 ##### Ulteriori vantaggi
 
