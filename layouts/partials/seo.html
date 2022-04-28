@@ -2,18 +2,18 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
-{{/* Processo l'immagine per renderla compatibile con Whatsapp: max 256x256 - 300kb; uso newSctrach per portare il link fuori dal Range */}}
-{{ $image := .Resources.GetMatch ( printf "%s" .Params.image ) }}
-{{ $data := newScratch }}
+{{/* Processo l'immagine per renderla compatibile con Whatsapp: max 256x256 - 300kb; uso newSctrach per portare il link fuori dal Range */ -}}
+{{ $image := .Resources.GetMatch ( printf "%s" .Params.image ) -}}
+{{ $data := newScratch -}}
     
-{{ with $image }}
-    {{ $cover_thumbnail := $image.Resize "300x q100" }}
-    {{ $data.Set "cover_thumbnail_link" $cover_thumbnail.Permalink }}
-{{ end }}
+{{ with $image -}}
+    {{ $cover_thumbnail := $image.Resize "1080x q90" -}}
+    {{ $data.Set "cover_thumbnail_link" $cover_thumbnail.Permalink -}}
+{{ end -}}
 
-{{/* Guida: https://www.skcript.com/svr/perfect-seo-meta-tags-with-hugo/ */}}
+{{/* Guida: https://www.skcript.com/svr/perfect-seo-meta-tags-with-hugo/ */ -}}
 
-{{ $img := (cond ( eq .Type "article") ( ( ( printf "%s" ( $data.Get "cover_thumbnail_link" ) ) ) ) ( .Site.Params.image | absURL ) ) }}
+{{ $img := (cond ( eq .Type "article") ( ( ( printf "%s" ( $data.Get "cover_thumbnail_link" ) ) ) ) ( .Site.Params.image | absURL ) ) -}}
 
 <title>{{ .Title }} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}</title>
 <meta name="application-name" content="{{ humanize .Title }} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}" />
