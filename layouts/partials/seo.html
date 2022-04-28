@@ -7,7 +7,7 @@
 {{ $data := newScratch }}
     
 {{ with $image }}
-    {{ $cover_thumbnail := $image.Resize "300x" }}
+    {{ $cover_thumbnail := $image.Resize "300x q100" }}
     {{ $data.Set "cover_thumbnail_link" $cover_thumbnail.Permalink }}
 {{ end }}
 
