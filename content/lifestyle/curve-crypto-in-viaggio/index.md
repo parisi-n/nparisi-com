@@ -25,6 +25,8 @@ In particolare - per quel che riguarda il cashback, oltre ad una riduzione si as
 
 Rimane comunque una carta concorrenziale per i viaggiatori - per la presenza di un FX currency comunque concorrenziale - rispetto alle alternative che invece applicano **% di conversione elevati per i pagamenti in valuta non-EUR**.
 
+Maggiori informazioni sui cambi {{<external_link "https://help.crypto.com/it/articles/2742447-carta-visa-crypto-com-ricompense-e-vantaggi" "qui" >}}
+
 {{< /box>}}
 
 {{< box "blue">}}
