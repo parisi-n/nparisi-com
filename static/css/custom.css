@@ -138,7 +138,7 @@
     
     .instagram-media { margin: 0 auto 12px !important; }
     
-    .post table { border-radius: 3px; border: 0px; margin-bottom: 3em; margin-top: 3em; }
+    .post table { border-radius: 3px; border: 0px; margin-bottom: 3em; margin-top: 3em; color: #4d4d4d; }
     .post table th, .post table td { border: 0px; }
     .post table thead { background-color: #d8d8d8; }
     .post table:not(.custom-table) tbody tr:nth-child(odd) { background-color: #fdfdfd; border-radius: 3px; }
