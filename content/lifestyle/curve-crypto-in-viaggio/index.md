@@ -16,12 +16,12 @@ type: "article"
 
 In particolare - per quel che riguarda il cashback, oltre ad una riduzione si assiste all'introduzione di **soglie massime**:
 
-| Colore | Cashback | Max cashback |
+| Colore | Cashback | Max cashback | Stake rewards |
 |:--|:--|:-:|:--|
 | Blue | 0% | - |
-| Ruby Steel | 1% | 25$ |
-| Green Jade o Royal Indigo | 2% | 50$ |
-| Icy White o Rose Gold | 3% | ∞ |
+| Ruby Steel | 1% | 25$ | - |
+| Green Jade o Royal Indigo | 2% | 50$ | 4% |
+| Icy White o Rose Gold | 3% | ∞ | 8% |
 
 Rimane comunque una carta concorrenziale per i viaggiatori - per la presenza di un FX currency comunque concorrenziale - rispetto alle alternative che invece applicano **% di conversione elevati per i pagamenti in valuta non-EUR**.
 
