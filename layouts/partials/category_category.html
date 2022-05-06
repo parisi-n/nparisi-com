@@ -21,7 +21,7 @@
 
                     {{ if and (isset .Params "image") .Params.image }}
                         {{ $cover := .Resources.GetMatch .Params.image }}
-                        {{ $scaled := $cover.Resize "1920x q70" }}
+                        {{ $scaled := $cover.Resize "1280x q70" }}
                         <a class="featured-image-link" href="{{ .Permalink }}" alt="Leggi {{ .Title }}" title="Leggi {{ .Title }}">
                             <div class='featured-image lazy lazy-bg-image' data-background="{{ $scaled.Permalink }}">
                             {{ if and (isset .Params "video") .Params.video }}
