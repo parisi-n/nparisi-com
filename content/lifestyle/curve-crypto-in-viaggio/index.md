@@ -25,8 +25,7 @@ In particolare - per quel che riguarda il cashback, oltre ad una riduzione si as
 
 Rimane comunque una carta concorrenziale per i viaggiatori - per la presenza di un FX currency comunque concorrenziale - rispetto alle alternative che invece applicano **% di conversione elevati per i pagamenti in valuta non-EUR**.
 
-Maggiori informazioni sui cambi {{<external_link "https://help.crypto.com/it/articles/2742447-carta-visa-crypto-com-ricompense-e-vantaggi" "qui" >}}
-
+Maggiori informazioni sui cambi [qui](https://help.crypto.com/it/articles/2742447-carta-visa-crypto-com-ricompense-e-vantaggi).
 {{< /box>}}
 
 {{< box "blue">}}
@@ -39,7 +38,7 @@ Per questo cercherò di essere quanto più onesto e trasparente possibile, ripor
 {{< capital_letter_open >}}
 Sono l'argomento del momento e tutti, con più o meno cognizione, ne parlano: mi riferisco alle **cryptovalute**.
 
-Non parlerò di cosa sono o degli ideali che ci stanno dietro ma di quella che è stata la mia esperienza nell'ultimo anno e mezzo con la {{<external_link "" "carta Crypto.com">}} affiancata ed usata quasi sempre collegata alla carta {{<external_link "" "Curve">}}.
+Non parlerò di cosa sono o degli ideali che ci stanno dietro ma di quella che è stata la mia esperienza nell'ultimo anno e mezzo con la {{<external_link "https://crypto.com/eea/cards" "carta Crypto.com">}} affiancata ed usata quasi sempre collegata alla carta {{<external_link "https://www.curve.com/" "Curve">}}.
 
 Parlerò prima di cosa sono queste due carte e del perché ha senso usarle insieme; spiegherò poi quel che è stata la mia esperienza in giro per l'Europa; infine - per chi arriverà a fine post - spiegherò come è possibile ottenerle (con referral link si ha diritto ad un bonus di iscrizione per entrambe).
 {{< capital_letter_close >}}
