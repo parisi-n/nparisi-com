@@ -12,6 +12,22 @@ type: "article"
 ---
 
 {{< box "blue">}}
+**Aggiornamento del 05/05/2022**: dopo una tempesta di rimodulazioni dell'ultima settimana - Crypto.com sembra aver raggiunto un equilibrio con i vari _tier_ delle varie carte.
+
+In particolare - per quel che riguarda il cashback, oltre ad una riduzione si assiste all'introduzione di **soglie massime**:
+
+| Colore | Cashback | Max cashback |
+|:--|:--|:-:|:--|
+| Blue | 0% | - |
+| Ruby Steel | 1% | 25$ |
+| Green Jade o Royal Indigo | 2% | 50$ |
+| Icy White o Rose Gold | 3% | ∞ |
+
+Rimane comunque una carta concorrenziale per i viaggiatori - per la presenza di un FX currency comunque concorrenziale - rispetto alle alternative che invece applicano **% di conversione elevati per i pagamenti in valuta non-EUR**.
+
+{{< /box>}}
+
+{{< box "blue">}}
 Le parole contenute in questo post sono esclusivamente frutto della mia personale esperienza maturata nell'ultimo anno e mezzo d'uso congiunto della card Crypto.com e Curve.
 Per quanto sia particolarmente attivo nel gruppo Telegram di __Curve Italia__ **non sono in alcun modo legato a nessuna delle due card**.
 
