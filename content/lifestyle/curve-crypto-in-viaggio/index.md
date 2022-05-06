@@ -11,7 +11,7 @@ showToc : true
 type: "article"
 ---
 
-{{< box "blue">}}
+{{< box "green">}}
 **Aggiornamento del 05/05/2022**: dopo una tempesta di rimodulazioni dell'ultima settimana - Crypto.com sembra aver raggiunto un equilibrio con i vari _tier_ delle varie carte.
 
 In particolare - per quel che riguarda il cashback, oltre ad una riduzione si assiste all'introduzione di **soglie massime**:
@@ -58,10 +58,10 @@ Nello specifico, ad Aprile 2022, questa è l'offerta per la Crypto.com Card (anc
 
 | Colore | Vincolo | Cashback | Benefit |
 |:--|:--|:-:|:--|
-| Blue | Gratuita | 1% | Nessuno |
-| Ruby Steel | 35o€ | 2% | Spotify incluso |
-| Green Jade o Royal Indigo | 3'5oo€ | 3% | Spotify, Netflix e Lounge aeroportuali |
-| Icy White o Rose Gold | 35'ooo€ | 5% | Spotify, Netflix, Amazon Prime, Lounge aeroportuali + ospite |
+| Blue | Gratuita | 0% | Nessuno |
+| Ruby Steel | 35o€ | 1% | Spotify incluso |
+| Green Jade o Royal Indigo | 3'5oo€ | 2% | Spotify, Netflix e Lounge aeroportuali |
+| Icy White o Rose Gold | 35'ooo€ | 3% | Spotify, Netflix, Amazon Prime, Lounge aeroportuali + ospite |
 
 Esiste poi un'ultima card, la Obsedian black, richiedibile a fronte di un vincolo di 350'ooo€.
 
@@ -79,7 +79,7 @@ Dalla Ruby a salire - le card sono metalliche e non in materiale plastico come l
 
 #### Vantaggi
 
-Pleonastico specificarlo, ma sicuramente il **cashback** (ottenuto in CRO) che - per la Ruby - **ammonta al 2%, per la Jade al 3% e per la Icy al 5%**.
+Pleonastico specificarlo, ma sicuramente il **cashback** (ottenuto in CRO) che - per la Ruby - **ammonta al 1%, per la Jade al 2% e per la Icy al 3%**.
 
 La spesa massima effettuabile di 25'ooo€ in un'unica transazione, il che la rende una carta utilizzabile anche nei casi di __alta spesa__.
 
@@ -95,7 +95,7 @@ Qualora vi ritroviate in viaggio a **pagare in valuta diversa dall'Euro** - il t
 
 Se aggiunta direttamente a PayPal  - quest'ultimo la riconosce con valuta di default GBP - ovvero qualunque transazione in EUR verrà convertita in GBP con spese di conversione: **per evitare ciò basta cambiare la valuta di default della carta - o tramite servizio clienti, telefonicamente - oppure dall'app di PayPal**.
 
-I servizi offerti vengono corrisposti a fronte di un "vincolo" di capitale (v. tabella precedente) non indifferente, **dalla durata di 180 giorni**. Dopo il termine potrete rimuovere la somma (che, essendo in CRO, avrà sicuramente avuto oscillazioni di mercato e potrà essere o aumentata o...diminuita!) - **ricordando però che rimuovendo il "vincolo"** (in gergo __staking__) **perderete i benefit della carta** ricevendo solo l'1% di cashback - equivalente alla carta base.
+I servizi offerti vengono corrisposti a fronte di un "vincolo" di capitale (v. tabella precedente) non indifferente, **dalla durata di 180 giorni**. Dopo il termine potrete rimuovere la somma (che, essendo in CRO, avrà sicuramente avuto oscillazioni di mercato e potrà essere o aumentata o...diminuita!) - **ricordando però che rimuovendo il "vincolo"** (in gergo __staking__) **perderete i benefit della carta**.
 
 * * *
 
