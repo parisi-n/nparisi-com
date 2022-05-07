@@ -12,7 +12,7 @@ type: "article"
 ---
 
 {{< box "green">}}
-**Aggiornamento del 05/05/2022**: dopo una tempesta di rimodulazioni dell'ultima settimana - Crypto.com sembra aver raggiunto un equilibrio con i vari _tier_ delle varie carte.
+**Aggiornamento del 05/05/2022**: dopo una tempesta di rimodulazioni dell'ultima settimana - Crypto.com sembra aver raggiunto un equilibrio con i _tier_ delle varie carte.
 
 In particolare - per quel che riguarda il cashback, oltre ad una riduzione si assiste all'introduzione di **soglie massime**:
 
@@ -23,7 +23,7 @@ In particolare - per quel che riguarda il cashback, oltre ad una riduzione si as
 | Green Jade o Royal Indigo | 2% | 50$ | 4% |
 | Icy White o Rose Gold | 3% | ∞ | 8% |
 
-Rimane comunque una carta concorrenziale per i viaggiatori - per la presenza di un FX currency comunque concorrenziale - rispetto alle alternative che invece applicano **% di conversione elevati per i pagamenti in valuta non-EUR**.
+Rimane comunque una carta vantagiosa per i viaggiatori - per la presenza di un FX currency concorrenziale - rispetto alle alternative che invece applicano **% di conversione elevati per i pagamenti in valuta non-EUR**.
 
 Maggiori informazioni sui cambi [qui](https://help.crypto.com/it/articles/2742447-carta-visa-crypto-com-ricompense-e-vantaggi).
 {{< /box>}}
