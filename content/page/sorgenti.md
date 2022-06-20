@@ -19,3 +19,17 @@ Per questo il codice sorgente da cui questo sito è generato è **liberamente co
 ## Hugo
 Il sito è costruito interamente con {{< external_link "https://gohugo.io" "Hugo" >}}  con HTML, CSS ed un pizzico di Javascript per le funzioni base.
 Fino a qualche tempo fa il sito era basato su {{< external_link "https://wordpress.org" "Wordpress" >}}, a cui ho rinunciato perchè troppo complesso dal punto di vista strutturale e...**lento** per gli hosting comuni.
+
+## Ghostwriter
+Talvolta ammetto di rimpiangere la praticità e la velocità di scrittura cui ero abituato con WordPress - unita alla possibilità di poter scrivere praticamente ovunque e da qualunque computer.
+
+Tuttavia la necessità aguzza l'ingegno e per ora sono soddisfatto con {{< external_link "https://github.com/wereturtle/ghostwriter" "Ghostwriter" >}} il cui *exe* _portable_ alloggia sul mio account DropBox insieme alle cartelle dei post cui sto lavorando - e che lancio (con annesse impostazioni) sia dal Tablet (un Surface Go 3 con Windows 11) sia dall'ultrabook - con cui lavoro prevalentemente a casa.
+
+Non è una soluzione eccellente - soprattutto se consideriamo il fatto che non posso scrivere da qualunque computer - ma tra scrivere in questo modo e con l'interfaccia di Wordpress (o _Netlify CMS_ o _Forestry.io_) intercorrono le stesse differenze che si hanno tra *creare interfacce con il metodo _WYSIWYG_ e scrivere a mano ogni singola riga di codice_.
+
+Quale delle due modalità da più soddisfazione?
+E perchè proprio _scrivere a mano ogni riga di codice_?
+
+_Scrivere_ presuppone una soglia d'ingresso - e abbassarla fino a ridurla potrebbe portarne alla sua banalizzazione, alla sua commercializzazione.
+
+Non è questo il mio scopo.

@@ -1,9 +1,8 @@
 +++
 date = "2020-04-28T21:05:33+05:30"
 title = "Offrimi un caffè"
-url = "contact"
+url = "caffe"
 type = "page"
-layout = "single"
 +++
 Il contenuto di questo blog è frutto della mia passione, della creatività, della voglia di fare e di esplorare.
 
