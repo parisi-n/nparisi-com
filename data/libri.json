@@ -1,12 +1,29 @@
 {
     "sto_leggendo" : {
-                        "title" :  "Python Machine Learning" ,
-                        "auth" : "Sebastian Raschka" ,
-                        "ref" : "python-ml"
+                        "title" :  "" ,
+                        "auth" : "-" ,
+                        "ref" : "-"
                     }
-                        ,
+                    ,
                         
     "letti" : [
+                    
+                    {
+                    "sub_header" : "Narrativa" ,
+                    "elenco" : [
+                                    {
+                                        "title" :  "Come una notte a Bali" ,
+                                        "auth" : "Gianluca Gotto" ,
+                                        "ref" : "gotto-notte-bali"
+                                    } ,
+                                    {
+                                        "title" :  "Le coordinate della felicità" ,
+                                        "auth" : "Gianluca Gotto" ,
+                                        "ref" : "gotto-coordinate-felicita"
+                                    }
+                                ]
+                    } ,
+
                     {
                     "sub_header" : "Tecnologia" ,
                     "elenco" : [
@@ -32,7 +49,7 @@
                                     }
                                 ]
                     } ,
-                    
+
                     {
                     "sub_header" : "Social" ,
                     "elenco" : [
@@ -64,9 +81,10 @@
                                     }
                                 ]
                     } ,
+                    
                     {
                     "sub_header" : "Viaggio" ,
-                   "elenco" : [
+                    "elenco" : [
                                     {
                                         "title" :  "Chernobyl" ,
                                         "auth" : "autori vari" ,

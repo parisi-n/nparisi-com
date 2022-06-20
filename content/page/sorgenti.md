@@ -7,6 +7,8 @@ type = "page"
 
 Sono un vecchio utente Linux – e lo uso con regolarità in un secondo pc dal 2004. Prima Fedora, poi Debian, poi Kubuntu. Tutte con KDE come gestore finestre.
 
+Ora, da qualche anno, son passato al _lato oscuro_ di Windows. Mi manca la flessibilità di Linux per cui ogni problema può essere risolto da _console_ - ma i programmi di cui necessito mi obbligano a stare su Windows.
+
 ## Il sorgente
 Nel tempo ho imparato ad apprezzare la bellezza e la naturalezza dell'open source.
 L'open source è come chiudere un cerchio. Si basa sulla libertà di accede al "codice" alla base di un programma o – in questo caso – di un sito.
@@ -23,13 +25,15 @@ Fino a qualche tempo fa il sito era basato su {{< external_link "https://wordpre
 ## Ghostwriter
 Talvolta ammetto di rimpiangere la praticità e la velocità di scrittura cui ero abituato con WordPress - unita alla possibilità di poter scrivere praticamente ovunque e da qualunque computer.
 
-Tuttavia la necessità aguzza l'ingegno e per ora sono soddisfatto con {{< external_link "https://github.com/wereturtle/ghostwriter" "Ghostwriter" >}} il cui *exe* _portable_ alloggia sul mio account DropBox insieme alle cartelle dei post cui sto lavorando - e che lancio (con annesse impostazioni) sia dal Tablet (un Surface Go 3 con Windows 11) sia dall'ultrabook - con cui lavoro prevalentemente a casa.
+Tuttavia la necessità aguzza l'ingegno e per ora sono soddisfatto con {{< external_link "https://github.com/wereturtle/ghostwriter" "Ghostwriter" >}} il cui **exe** _portable_ alloggia sul mio account DropBox insieme alle cartelle dei post cui sto lavorando - e che lancio (con annesse impostazioni) sia dal Tablet (un Surface Go 3 con Windows 11) sia dall'ultrabook - con cui lavoro prevalentemente a casa.
 
-Non è una soluzione eccellente - soprattutto se consideriamo il fatto che non posso scrivere da qualunque computer - ma tra scrivere in questo modo e con l'interfaccia di Wordpress (o _Netlify CMS_ o _Forestry.io_) intercorrono le stesse differenze che si hanno tra *creare interfacce con il metodo _WYSIWYG_ e scrivere a mano ogni singola riga di codice_.
+Non è una soluzione eccellente - soprattutto se consideriamo il fatto che non posso scrivere da qualunque computer - ma tra scrivere in questo modo e con l'interfaccia di _Wordpress_ (o _Netlify CMS_ o _Forestry.io_) intercorrono le stesse differenze che si hanno tra **creare interfacce con il metodo _WYSIWYG_ e scrivere a mano ogni singola riga di codice**.
+
+{{< image src="ghostwriter.jpg" alt="Interfaccia di Ghostwriter" caption="Ghostwriter Portable" >}}
 
 Quale delle due modalità da più soddisfazione?
 E perchè proprio _scrivere a mano ogni riga di codice_?
 
 _Scrivere_ presuppone una soglia d'ingresso - e abbassarla fino a ridurla potrebbe portarne alla sua banalizzazione, alla sua commercializzazione.
 
-Non è questo il mio scopo.
+**Non è il motivo per cui scrivo.**
