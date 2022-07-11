@@ -28,7 +28,7 @@ Il viaggio ad Oslo di un week-end si è presto trasformato (a suon dì "ma giacc
 
 {{<image src="norvegianair.jpg" alt="NorvegianAir.com" >}}
 
-Che, ad aver avuto qualche giorni in più, sarebbe stato ancora meglio, una volta approdati nel _Paradiso delle Lofoten_.
+Che, ad aver avuto qualche giorno in più, sarebbe stato ancora meglio, una volta approdati nel _Paradiso delle Lofoten_.
 
 Dopo il visitare la [Casa di Babbo Natale in Lapponia]({{< ref "/racconti-viaggio/lapponia/verso-lapponia-casa-di-babbo-natale/index.md" >}}) il viaggio alle Lofoten è sicuramente il _trait-d'union_ tra realtà e fiaba.
 
