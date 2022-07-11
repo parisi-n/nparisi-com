@@ -177,7 +177,7 @@ Ho atteso parecchio prima di pubblicare la saga completa dei post.
 
 {{<image src="the_crew.jpg" alt="Toyota corolla con cartello" >}}
 
-I **101 gigabyte** di materiale fotografico prodotto di cui quasi **40 gigabyte** sono video ci hanno messo  - configurando questo viaggio con una _soglia di scrittura medio-alta_ per cui non mi sentivo totalmente pronto a riviverlo tramite le foto, scriverne, impaginarlo e vestire i ricordi con le parole.
+I **101 gigabyte** di materiale fotografico prodotto - di cui quasi **40 gigabyte** sono video - ci hanno messo del loro  - configurando questo viaggio con una _soglia di scrittura medio-alta_ per cui non mi sentivo totalmente pronto a riviverlo tramite le foto, scriverne, impaginarlo e vestire i ricordi con le parole.
 
 Nel far ciò - è doveroso il **ringraziamento** a {{<affiliate_link "washington-instagram" "@washington_giò">}} - fedele compagna di viaggio con cui ho vissuto i momenti piacevoli che la Norvegia ci ha offerto - insieme a momenti un po' più difficili - di cui troverete menzione al momento debito nei post.
 
