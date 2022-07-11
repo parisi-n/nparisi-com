@@ -7,7 +7,7 @@
 {{ $data := newScratch -}}
     
 {{ with $image -}}
-    {{ $cover_thumbnail := $image.Resize "1080x q90" -}}
+    {{ $cover_thumbnail := $image.Resize "854x q90" -}}
     {{ $data.Set "cover_thumbnail_link" $cover_thumbnail.Permalink -}}
 {{ end -}}
 
