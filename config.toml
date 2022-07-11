@@ -61,6 +61,8 @@ timeout = 60000
     instagramAppId  = "5697953803609352"
     instagramClientToken    = "5a4d16aa5e39c88d96f2e44b5a8716a8"
 
+    RSSLink =   true
+
 [[menu.main]]
     name = "Tutti i post"
     url = "/"

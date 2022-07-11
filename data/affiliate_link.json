@@ -205,8 +205,15 @@
         {
             "refer" : "gotto-coordinate-felicita" ,
             "url" : "https://www.amazon.it/coordinate-della-felicit%C3%A0-sogni-viaggi/dp/880474569X"
-        }
-        
+        } ,
+        {
+            "refer" : "washington-instagram" ,
+            "url" : "https://www.instagram.com/washington_gio/"
+        } ,
+        {
+            "refer" : "thermos-xiaomi" ,
+            "url" : "https://it.aliexpress.com/item/4000517801446.html"
+        }       
         
     ]
 }

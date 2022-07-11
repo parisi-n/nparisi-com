@@ -29,8 +29,8 @@
     .more-link:after { width: 0px !important; } /* impedisce il formarsi della barra inferiore all'hover del link    */
     .design-credit a { color: #8c8c8c !important; border-bottom: 2px solid; }
     .color-box { padding:1.0em; border-radius: 3px; margin: 1.1em 4.56%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }
-    .orange-box { background-color: rgba(244, 81, 30, 1); }
-    .green-box { background-color: rgb(4, 141, 121, 1 ); }
+    .orange-box { background-color: rgba(244, 81, 30, 1); color: #fff; }
+    .green-box { background-color: rgb(4, 141, 121, 1 ); color: #fff; }
     .blue-box { background-color: #3097bf; color: #fff; }
     .color-box p { color: #f8f8f8; font-family: "Open Sans", sans-serif !important; font-size: 1.25rem; word-spacing: -1px; }
     .color-box a, .color-box a:visited { color: white !important; font-style: initial; font-weight: initial; border-bottom: 2px solid #ffffff; }

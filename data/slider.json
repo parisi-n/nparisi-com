@@ -1,6 +1,11 @@
 {
     "array" : [
         {
+            "image" : "norway_day0_cover.jpg" ,
+            "text_title" : "Norvegia: sulla via del Nord // Itinerario e preparativi" ,
+            "url" : "racconti-viaggio/norvegia/day-0-sulla-via-del-nord/"
+        } ,
+        {
             "image" : "curve-cryptocom-cards-cover.jpg" ,
             "text_title" : "Curve e Crypto: la mia esperienza" ,
             "url" : "lifestyle/curve-crypto-in-viaggio/"

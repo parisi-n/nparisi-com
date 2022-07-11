@@ -55,7 +55,7 @@
 <link rel="icon" href="{{ "images/favicon.ico" | absURL }}" type="image/x-icon">
 <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ .Site.BaseURL }}sitemap.xml" /> 
 
-{{- if .RSSLink }}
+{{- if .Site.Params.RSSLink }}
 <link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title | default "" }}" />
 {{- end }}
 
