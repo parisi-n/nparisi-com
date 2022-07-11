@@ -42,7 +42,7 @@ Il viaggio in questione è stato programmato ed è avvenuto a fine Settembre 202
 
 Col senno di poi - non è stato un errore. Le campagne erano già tinte dei colori caldi dell'autunno ed i fiordi nebbiosi con la foschia umida al mattino sono uno spettacolo unico.
 
-Con l'autunno però iniziano anche le piogge: se state programmando alcune escursioni come __Trolltunga__, __Preikestolen__ o __Kjeragbolten__ potrebbe farvi piacere concludere l'infinita passeggiata asciuti e senza l'ansia di rovinare l'apparecchiatura fotografica.
+Con l'autunno però iniziano anche le piogge: se state programmando alcune escursioni come __Trolltunga__, __Preikestolen__ o __Kjeragbolten__ potrebbe farvi piacere concludere l'infinita passeggiata asciutti e senza l'ansia di rovinare l'apparecchiatura fotografica.
 
 Sul perché il viaggio - avvenuto a Settembre 2021 - trovi completamento narrativo solo ora, a primavera inoltrata, rispondo semplicemente che "avevo necessità di metabolizzarlo e comprenderlo appieno".
 
