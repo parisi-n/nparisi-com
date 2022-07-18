@@ -8,11 +8,12 @@
 
 {{ $parentclass := .Get "parent-class" }}
 {{ $parentstyle := .Get "parent-style" }}
+
 <figure class="block-image {{$parentclass}}" style="display: block;{{ $parentstyle }}">
 
     <div class="{{if $type }} {{$type}}{{end}}">
-        <video autoplay loop muted playsinline style="width: 100%">
-          <source src="{{ $src }}" type="video/webm">
+        <video autoplay loop muted playsinline style="width: 100%" poster="images/video_loading.svg">
+          <source src="{{ $src }}" type="video/mp4">
         </video>
     </div>
 
