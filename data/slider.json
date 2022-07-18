@@ -1,6 +1,11 @@
 {
     "array" : [
         {
+            "image" : "cover_bergen.jpg" ,
+            "text_title" : "Norvegia // Bergen" ,
+            "url" : "racconti-viaggio/norvegia/day-1-bergen/"
+        } ,
+        {
             "image" : "norway_day0_cover.jpg" ,
             "text_title" : "Norvegia: sulla via del Nord // Itinerario e preparativi" ,
             "url" : "racconti-viaggio/norvegia/day-0-sulla-via-del-nord/"
