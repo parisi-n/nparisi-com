@@ -1,6 +1,6 @@
 ---
 title: "Norvegia // Bergen"
-date: "2022-07-18T08:00:00+01:00"
+date: "2022-07-18"
 image: "images/cover_bergen.jpg"
 
 summary : "Racconto di viaggio in un mix dal giusto equilibrio tra narrazione e suggerimenti: cosa vedere, dove andare, cosa (ma soprattutto) dove mangiare. Bergen vi sorprenderà!"
