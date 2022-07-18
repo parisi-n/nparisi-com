@@ -12,7 +12,7 @@
 <figure class="block-image {{$parentclass}}" style="display: block;{{ $parentstyle }}">
 
     <div class="{{if $type }} {{$type}}{{end}}">
-        <video autoplay loop muted playsinline style="width: 100%" poster="images/video_loading.svg">
+        <video autoplay loop muted playsinline style="width: 100%" poster="{{ 'images/video_loading.svg' | absURL }}">
           <source src="{{ $src }}" type="video/mp4">
         </video>
     </div>
