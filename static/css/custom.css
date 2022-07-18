@@ -32,7 +32,7 @@
     .orange-box { background-color: rgba(244, 81, 30, 1); color: #fff; }
     .green-box { background-color: rgb(4, 141, 121, 1 ); color: #fff; }
     .blue-box { background-color: #3097bf; color: #fff; }
-    .color-box p { color: #f8f8f8; font-family: "Open Sans", sans-serif !important; font-size: 1.25rem; word-spacing: -1px; }
+    .color-box p, .color-box ul li { color: #f8f8f8; font-family: "Open Sans", sans-serif !important; font-size: 1.25rem; word-spacing: -1px; }
     .color-box a, .color-box a:visited { color: white !important; font-style: initial; font-weight: initial; border-bottom: 2px solid #ffffff; }
     .color-box a:hover { color: white !important; border-bottom: 2px dotted #ffffff !important; }
     .no-box-shadow, .no-box-shadow div { box-shadow: initial !important; }
