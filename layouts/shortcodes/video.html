@@ -9,18 +9,18 @@
 {{ $parentclass := .Get "parent-class" }}
 {{ $parentstyle := .Get "parent-style" }}
 
-{{ $poster := "" }}
+{{ .Scratch.Set "poster" "" }}
 
 {{ if $type }}
-    {{ $poster := "images/video_loading_wide-screen.svg" }}
+    {{ .Scratch.Set "poster" ( "images/video_loading_wide-screen.svg" | absURL ) }}
 {{ else }}
-    {{ $poster := "images/video_loading.svg" }}
+    {{ .Scratch.Set "poster" ( "images/video_loading.svg" | absURL ) }}
 {{ end }}
 
 <figure class="block-image {{$parentclass}}" style="display: block;{{ $parentstyle }}">
 
     <div class="{{if $type }} {{$type}}{{end}}">
-        <video autoplay loop muted playsinline style="width: 100%" poster="{{ $poster | absURL }}">
+        <video autoplay loop muted playsinline style="width: 100%" poster="{{ .Scratch.Get "poster" }}">
           <source src="{{ $src }}" type="video/mp4">
         </video>
     </div>
