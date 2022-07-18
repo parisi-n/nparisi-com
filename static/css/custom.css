@@ -180,11 +180,15 @@
     .paginator_bar .paginator_bar_button:hover, .paginator_bar a:hover, .paginator_bar .active { background-color: #f4511e; }
     
     /**
-     * VIDEO
+     * VIDEO - VIMEO
      */
     .block-video-vimeo iframe { border: 0; }
     .block-video-vimeo.vertical-4x5, .block-video-vimeo.vertical-9x16 { display: block; position: relative; margin: -3% 4.56% 0; }
     .block-video-vimeo.horizontal { display: block; position: relative; margin: 3% 4.56% 0; }
+    
+    /**
+     * VIDEO - SHORTCODE
+     */
     
     /**
      * BLOCK QUOTES
@@ -488,7 +492,7 @@
         .post_single { margin-top: -1em !important; }
         .entry { width: 96.96%; margin: auto; }
         .content-category { display: flex; overflow-x: auto; padding-top: 1em;}
-        .entry-content .block-image, .entry-content .block-video-youtube, .entry-content .block-video-vimeo { box-shadow: none; padding: 0; }
+        .entry-content .block-image, .entry-content .block-video-youtube, .entry-content .block-video-vimeo, .entry-content .block-video { box-shadow: none; padding: 0; }
         .post .featured-image.lazy { }
         
         .entry-meta { }

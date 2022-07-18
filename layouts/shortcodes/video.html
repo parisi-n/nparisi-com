@@ -12,15 +12,17 @@
 {{ .Scratch.Set "poster" "" }}
 
 {{ if $type }}
-    {{ .Scratch.Set "poster" ( "images/video_loading_wide-screen.svg" | absURL ) }}
-{{ else }}
-    {{ .Scratch.Set "poster" ( "images/video_loading.svg" | absURL ) }}
+    {{ if eq $type "wide-screen" }}
+        {{ .Scratch.Set "poster" ( "images/video_loading_16x9.svg" | absURL ) }}
+    {{ else if eq $type "vertical_9x16"  }}
+        {{ .Scratch.Set "poster" ( "images/video_loading_9x16.svg" | absURL ) }}
+    {{ end }}
 {{ end }}
 
 <figure class="block-image {{$parentclass}}" style="display: block;{{ $parentstyle }}">
 
     <div class="{{if $type }} {{$type}}{{end}}">
-        <video autoplay loop muted playsinline style="width: 100%" poster="{{ .Scratch.Get "poster" }}">
+        <video autoplay loop muted playsinline style="width: 100%; height: {{ .Scratch.Get "height" }}" poster="{{ .Scratch.Get "poster" }}">
           <source src="{{ $src }}" type="video/mp4">
         </video>
     </div>
