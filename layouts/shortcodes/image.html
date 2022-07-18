@@ -1,14 +1,14 @@
 <!-- implementare type="rounded" -->
 {{ $alt := .Get "alt" }}
-{{ $caption := .Get "caption" }}
+{{ $caption := ( .Get "caption" | markdownify ) }}
 {{ $class := .Get "class"}}
 {{ $style := .Get "style" }}
 {{ $type := .Get "type" }}
-{{ $parentstyle := .Get "parent-style" }}
 {{ $href := .Get "href" }}
 {{ $src := ( printf "%s/%s" "images" (.Get "src") ) }}
 {{ $src_http := .Get "src_http" }}
 {{ $parentclass := .Get "parent-class" }}
+{{ $parentstyle := .Get "parent-style" }}
 
 {{ if $src_http }}
     <figure class="block-image {{$parentclass}}" style="display: block;{{ $parentstyle }}">

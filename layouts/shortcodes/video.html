@@ -1,0 +1,26 @@
+<!-- implementare type="rounded" -->
+{{ $caption := ( .Get "caption" | markdownify ) }}
+{{ $src := ( printf "%s/%s" "video" (.Get "src") ) }}
+
+{{ $class := .Get "class"}}
+{{ $style := .Get "style" }}
+{{ $type := .Get "type" }}
+
+{{ $parentclass := .Get "parent-class" }}
+{{ $parentstyle := .Get "parent-style" }}
+<figure class="block-image {{$parentclass}}" style="display: block;{{ $parentstyle }}">
+
+    <div class="{{if $type }} {{$type}}{{end}}">
+        <video autoplay loop muted playsinline style="width: 100%">
+          <source src="{{ $src }}" type="video/webm">
+        </video>
+    </div>
+
+    {{ if $caption }}
+    <figcaption>
+        {{ $caption }}
+    </figcaption>
+    {{ end }}
+
+
+</figure>
