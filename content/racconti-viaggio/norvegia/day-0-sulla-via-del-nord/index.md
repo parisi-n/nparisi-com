@@ -140,7 +140,7 @@ L'esperienza data dall'auto ({{< external_link "www.sixt.com" "noleggiata a Berg
 
 ### Nel dettaglio
 
-**Giorno #1**: arriviamo a Bergen con {{< external_link "www.norvegianair.com" "Norvegian Air" >}} alla sera. Notte a Bergen.
+[Giorno #1]({{< ref "/racconti-viaggio/norvegia/day-1-bergen/index.md" >}}): arriviamo a Bergen con {{< external_link "www.norvegianair.com" "Norvegian Air" >}} alla sera. Notte a Bergen.
 
 **Giorno #2**: noleggio dell'auto e partenza verso Odda - per poter essere in albergo all'ora di cena e partecipare al meeting propedeutico all'escursione di Trolltunga. Notte a Odda.
 
@@ -148,7 +148,7 @@ L'esperienza data dall'auto ({{< external_link "www.sixt.com" "noleggiata a Berg
 
 **Giorno #4**: riposo dopo la fatica di Trolltunga - poi partenza per Stavanger. Notte a Stavanger.
 
-**Giorno #5**: escursione a Preikestolen. Poi partenza verso Bergen (non fatelo) con notte a Bergen.
+**Giorno #5**: escursione a Preikestolen. Poi partenza verso Bergen (*non fatelo*) e notte a Bergen.
 
 **Giorno #6**: partenza per Lavik. Notte a Lavik.
 
