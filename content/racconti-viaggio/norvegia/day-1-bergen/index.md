@@ -121,7 +121,7 @@ Il fatto che fosse in periferia ma ben collegato con il centro - unito al _mood_
 
 Non lasciatevi ingannare dal prezzo più basso rispetto alle altre strutture: vi troverete benissimo!
 
-{{<video src="bergen_pan.webm" caption="Panning di Bryggen" type="wide-screen" >}}
+{{<video src="bergen_pan.mp4" caption="Panning di Bryggen" type="wide-screen" >}}
 
 ### Il noleggio auto
 
@@ -266,7 +266,7 @@ All'interno della stessa struttura ci sono differenti ristoranti che mostrano se
 
 Fate un giro e lasciatevi ispirare, soprattutto se ora di pranzo.
 
-{{<video src="fishmarket_bergen.webm" caption="Mercato del Pesce" >}}
+{{<video src="fishmarket_bergen.mp4" caption="Mercato del Pesce" >}}
 
 * * *
 
