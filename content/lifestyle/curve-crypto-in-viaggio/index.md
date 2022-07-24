@@ -12,6 +12,8 @@ type: "article"
 ---
 
 {{< box "green">}}
+**Aggiornamento del 23/07/2022**: vengono *eliminati* i _rebate_ di *Spotify* e *Netflix* per gli utenti dei livelli Ruby e Jade.
+
 **Aggiornamento del 05/05/2022**: dopo una tempesta di rimodulazioni dell'ultima settimana - Crypto.com sembra aver raggiunto un equilibrio con i _tier_ delle varie carte.
 
 In particolare - per quel che riguarda il cashback, oltre ad una riduzione si assiste all'introduzione di **soglie massime**:
