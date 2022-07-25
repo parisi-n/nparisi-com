@@ -1,5 +1,5 @@
 ---
-title: "Norvegia // Bergen"
+title: "Norvegia // Bergen // Day #1"
 date: "2022-07-18"
 image: "images/cover_bergen.jpg"
 

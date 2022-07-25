@@ -1,6 +1,11 @@
 {
     "array" : [
         {
+            "image" : "trolltunga_cover.jpg" ,
+            "text_title" : "Norvegia // Trolltunga" ,
+            "url" : "racconti-viaggio/norvegia/day-2-trolltunga/"
+        } ,
+        {
             "image" : "cover_bergen.jpg" ,
             "text_title" : "Norvegia // Bergen" ,
             "url" : "racconti-viaggio/norvegia/day-1-bergen/"
