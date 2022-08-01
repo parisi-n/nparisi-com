@@ -1,6 +1,6 @@
 ---
 title: "Norvegia // Stavanger // Day #3"
-date: "2022-08-1"
+date: "2022-08-01"
 image: "images/stavanger_cover.jpg"
 
 summary : "In balia dell'improvvisazione e dalla voglia di scoprire - incentivati dall'esperienza di Trolltunga, decidiamo di visitare Stavanger (fuori programma) come base per l'escursione di Preikestolen."
