@@ -33,7 +33,7 @@ E' stata una piacevole passeggiata, senza fretta e con uno stop ogni volta che d
 
 {{<image src="on_the_road_stop_1.jpg" alt="Campagna norvegese" caption="" type="wide-screen" >}}
 
-Avevamo però un tempo limite: dovevamo essere al Trolltunga Hotel entro le 20.30 per partecipare al meeting serale propedeutico **all'escursione del giorno successivo a Trolltunga**.
+Avevamo però un tempo limite: dovevamo essere al Trolltunga Hotel entro le 20.30 per partecipare al meeting serale propedeutico *all'escursione del giorno successivo a Trolltunga*.
 
 {{<image src="on_the_road_stop_2.jpg" alt="Strada lungo fjordo" type="wide-screen" >}}
 
@@ -63,7 +63,7 @@ Odda è un centro importante per il turismo di questa zona; è un piccolo paesin
 
 Se non siete abituati a questo genere di _scenery_ lo troverete senz'altro interessante ed ispirante.
 
-Soprattutto per quel che riguarda la percezione del posto: **appaga i sensi**.
+Soprattutto per quel che riguarda la percezione del posto: *appaga i sensi*.
 
 Non c'è rumore, le orecchie riposano, gli occhi si nutrono di genuinità e spaziano lontano - si rilassano non dovendo mettere a fuoco oggetti vicini - il clima è perfetto, sia per quanto riguarda la temperatura sia per l'umidità.
 
@@ -75,7 +75,7 @@ Abbiamo scelto questo hotel per il fatto che il meeting del giorno prima dell'es
 
 {{<image src="odda_trolltunga_hotel_river.jpg" alt="Implacabile fiume che attraversa Odda" caption="Implacabile fragorosità del fiume prospicente all'Hotel" type="wide-screen" >}}
 
-Per quanto riguarda le camere - una tra le più brutte in cui abbiamo soggiornato. Tra l'altro dava l'idea anche di scarsa pulizia anche se effettivamente **risultava pulita**.
+Per quanto riguarda le camere - una tra le più brutte in cui abbiamo soggiornato. Tra l'altro dava l'idea anche di scarsa pulizia anche se effettivamente *risultava pulita*.
 Invece del comodino - un semplice tavolino.
 
 Buona invece la colazione; a proposito: fate una colazione abbondante ma leggera (non fate come chi al mattino mangia pane burro e salmone :grin:).
@@ -83,9 +83,9 @@ Buona invece la colazione; a proposito: fate una colazione abbondante ma leggera
 
 ### Dove mangiare
 
-Nei **pressi di Odda** nelle nostre date l'offerta della ristorazione era quasi del tutto assente; in centro, proprio di fronte all'insenatura del fjordo - troverete però un {{< external_link "https://goo.gl/maps/KCatJTS2XqGHFArX7" "Rema 1000" >}} con orari di attività ampi in cui troverete ogni tipo di genere alimentare, in base ai vostri gusti, che vi permetterà di non morire di fame.
+Nei *pressi di Odda* nelle nostre date l'offerta della ristorazione era quasi del tutto assente; in centro, proprio di fronte all'insenatura del fjordo - troverete però un {{< external_link "https://goo.gl/maps/KCatJTS2XqGHFArX7" "Rema 1000" >}} con orari di attività ampi in cui troverete ogni tipo di genere alimentare, in base ai vostri gusti, che vi permetterà di non morire di fame.
 
-Il centro non è particolarmente grande, e la passeggiata lungo-fjordo rende l'insenatura **estremamente fotogenica**.
+Il centro non è particolarmente grande, e la passeggiata lungo-fjordo rende l'insenatura *estremamente fotogenica*.
 
 
 ## L'escursione
@@ -100,7 +100,7 @@ Proprio per il fatto che questa fosse la nostra prima reale esperienza - abbiamo
 
 Il costo dell'escursione con guida si aggira intorno ai 1400NOK a persona - circa 135€.
 
-Col senno di poi - è stata **un'ottima scelta**. Ci hanno guidato dando il tempo per le pause ed il ritmo nella salita; ci hanno aspettato quando il tratto è stato particolarmente impegnativo; ci hanno portato lungo percorsi differenti da quello canonico per farci apprezzare meglio le bellezze infinite della Natura; ci hanno raccontato aneddoti.
+Col senno di poi - è stata *un'ottima scelta*. Ci hanno guidato dando il tempo per le pause ed il ritmo nella salita; ci hanno aspettato quando il tratto è stato particolarmente impegnativo; ci hanno portato lungo percorsi differenti da quello canonico per farci apprezzare meglio le bellezze infinite della Natura; ci hanno raccontato aneddoti.
 
 A capo della spedizione lui, _Snow_.
 
@@ -113,7 +113,7 @@ Costantemente ultimo, chiudeva la carovana e controllava costantemente che il gr
 
 {{<image src="paesaggio_trolltunga_0.jpg" alt="Inizio del percorso a piedi" caption="_Gryteskar da cui si parte a piedi" type="wide-screen" >}}
 
-Il percorso prevede **14km** _one-way_ - 28km tra l'andare ed il tornare - e un **dislivello di 1000mt**.
+Il percorso prevede *14km* _one-way_ - 28km tra l'andare ed il tornare - e un *dislivello di 1000mt*.
 
 {{<image src="trolltunga_indicazioni.jpg" alt="Segnaletica verso Trolltunga" caption="Segnaletica verso Trolltunga" >}}
 
@@ -121,9 +121,9 @@ La camminata si articola in essenzialmente tre step:
 
 {{<image src="trolltunga_mappa_percorso.jpg" alt="Mappa del percorso verso Trolltunga" caption="Cartello con mappa del percorso (con distanze)" >}}
 
-1* il primo consiste in 4km - dal parcheggio **Mågelitopp** fino al **Gryteskar**: è una strada di montagna a tornanti ma asfaltata; acquistando l'escursione guidata avrete inclusa la navetta per raggiungere la sommità (risparmiando energia e ben 4km)
-2* **Trombeskar**: prevalentemente in salita, si concretizza il vero dislivello ed è la parte più pesante
-3* **Floren, Endaren, Trolltunga**: non troverete grandi dislivelli ad eccezione di un costante _sali-scendi_ - comunque meno impegnativo dal punto di vista fisico.
+1* il primo consiste in 4km - dal parcheggio *Mågelitopp* fino al *Gryteskar*: è una strada di montagna a tornanti ma asfaltata; acquistando l'escursione guidata avrete inclusa la navetta per raggiungere la sommità (risparmiando energia e ben 4km)
+2* *Trombeskar*: prevalentemente in salita, si concretizza il vero dislivello ed è la parte più pesante
+3* *Floren, Endaren, Trolltunga*: non troverete grandi dislivelli ad eccezione di un costante _sali-scendi_ - comunque meno impegnativo dal punto di vista fisico.
 
 {{<image src="trekkers_percorso.jpg" alt="Trekkers in marcia" caption="Trekkers in marcia" type="wide-screen" >}}
 
@@ -132,18 +132,19 @@ Il periodo suggerito è Giugno-Agosto; noi siamo andati a fine Settembre e già 
 
 {{< box "orange" >}}
 A prescindere dalla compagnia cui deciderete di far affidamento per l'escursione - tenete presente che le spedizioni con guida saranno organizzate solo da Aprile a Settembre.
+
 Da Ottobre a Marzo le nevi ed il ghiaccio occuperanno gran parte del percorso ed il sentiero sarà inaccessibile -  e riservato solo ai trekker più skillati e coscienti dei pericoli che potrebbero presentarsi lungo il percorso.
 {{< /box >}}
 
 {{<image src="paesaggio_trolltunga_1.jpg" alt="Paesaggio verso Trolltunga" type="wide-screen" >}}
 
-Il 24 Settembre del 2021 però **è stato un giorno fortunato**: non ha piovuto (ha piovuto il giorno prima ed il giorno dopo!) e a tratti il percorso ci ha regalato sprazzi di sole.
+Il 24 Settembre del 2021 però *è stato un giorno fortunato*: non ha piovuto (ha piovuto il giorno prima ed il giorno dopo!) e a tratti il percorso ci ha regalato sprazzi di sole.
 
 ### L'attrezzatura
 
 {{< video src="trolltunga_flowers.mp4" type="wide-screen" caption="Siete pronti?">}}
 
-Nulla di particolarmente avanzato: uno zaino _Quechua_ da 30-34L **con il supporto pettorale per poter unire i due spallacci e scaricare i muscoli delle spalle** al cui interno ho messo:
+Nulla di particolarmente avanzato: uno zaino _Quechua_ da 30-34L *con il supporto pettorale per poter unire i due spallacci e scaricare i muscoli delle spalle* al cui interno ho messo:
 * 2LT di acqua
 * 1LT di birra
 * varie monoporzioni di frutta secca
@@ -208,7 +209,7 @@ Nel caso siate da soli, chiedete senza timore di scattarvi una foto, sanno che n
 
 * * *
 
-Se avete prestato sufficiente attenzione - vi sarete resi conto di quanto sia stato folle nel portarmi 1L di birra **rigorosamente local** fin lassù.
+Se avete prestato sufficiente attenzione - vi sarete resi conto di quanto sia stato folle nel portarmi 1L di birra *rigorosamente local* fin lassù.
 
 {{<image src="trolltunga_bier.jpg" alt="Birra con vista a Trolltunga" caption="Birra con vista" >}}
 
@@ -235,7 +236,7 @@ C'è solo il tempo di cibarsi con qualcosa di già pronto ed andare a nanna.
 
 {{<image src="odda_cena.jpg" alt="Cena in camera" caption="Cena in camera" >}}
 
-Però...**che bel sogno**.
+Però...*che bel sogno*.
 
 * * *
 
