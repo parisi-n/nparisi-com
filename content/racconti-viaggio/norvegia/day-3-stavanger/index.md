@@ -65,7 +65,7 @@ E riprendere all'infinito.
 
 * * *
 
-Erano da poco passate le 11 del mattino quando - avvistato nuovamente il mare e lasciatici alle spalle le catene montuose - avvistiamo un grazioso tavolo in granito con vista fronte mare.
+Erano da poco passate le 11 del mattino quando - raggiunto nuovamente il mare e lasciatici alle spalle le catene montuose - avvistiamo un grazioso tavolo in granito con vista fronte mare.
 
 {{<image src="tavolo_frontemare.jpg" alt="Tavolo di granito fronte fjordo" caption="Fjordo" type="wide-screen" >}}
 
@@ -79,7 +79,7 @@ E così abbiamo unito utile e dilettevole: la mattina prima di partire abbiamo b
 
 {{< vimeo src="734050569" type="horizontal" >}}
 
-Per arrivare a Stavanger dovrete attraversare - ancora una volta - un fjordo; tuttavia questa volta non sarete costretti ad imbarcarvi nel traghetto ma dovrete necessariamente usare il tunnel sottomarino del *Ryfilke* - lungo 14km.
+Per arrivare a Stavanger dovrete attraversare - ancora una volta - un fjordo; tuttavia questa volta non sarete costretti ad imbarcarvi nel traghetto ma dovrete necessariamente usare il tunnel sottomarino del *Ryfilke* - lungo 14km. Tempo di percorrenza: *circa 20 minuti*.
 
 {{< box "blue" >}}
 *Wikipedia recita:* il tunnel di Ryfilke è stato aperto in data 30 dicembre 2019 ed è - ad oggi - il più lungo tra i tunnel sommersi del mondo. Corre sotto il fondo marino del Boknafjord e collega la città di Stavanger con la cittadina di Tau.
@@ -90,7 +90,7 @@ Il pedaggio ha un costo di *140kr* per i veicoli a motore - che si riduce a *56k
 
 Qui un video in fast-motion dell'attraversamento: un momento così meritava di essere ripreso dalla _dash-cam_.
 
-[VIDEO TUNNEL]
+{{< vimeo src="735387576" type="horizontal" >}}
 
 ## Dove alloggiare
 
@@ -147,7 +147,7 @@ Vi trovate nella *Old town* di Stavanger, una piccola area della città le cui c
 {{< box "blue" >}}
 L'_Old Town_ o - in norvegese - _Gamle Stavanger_ venne costruita tra il 1810 e 1870 durante il boom dell'economia locale dovuta al mercato delle sardine per cui vennero costruite una serie di case in legno e calcestruzzo per poter ospitare i vari mercanti e pescatori che gravitavano attorno al nuovo business.
 
-Le sardine venivano conservate sotto sale e, successivamente, inscatolato.
+Le sardine venivano conservate sotto sale e, successivamente, inscatolate.
 
 Sul molo (nei pressi dell'_Info point_) sono ancora presenti vecchi edifici usati come teatro dei processi produttivi.
 
