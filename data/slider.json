@@ -1,7 +1,12 @@
 {
     "array" : [
         {
-            "image" : "trolltunga_cover.jpg" ,
+            "image" : "stavanger_cover.jpg" ,
+            "text_title" : "Norvegia // Stavanger" ,
+            "url" : "racconti-viaggio/norvegia/day-3-stavanger/"
+        } ,
+        {
+            "image" : "stavanger_cover.jpg" ,
             "text_title" : "Norvegia // Trolltunga" ,
             "url" : "racconti-viaggio/norvegia/day-2-odda-trolltunga/"
         } ,
