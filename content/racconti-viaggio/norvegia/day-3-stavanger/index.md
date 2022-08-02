@@ -210,7 +210,7 @@ Non ho grandi suggerimenti da dare sul posto. Merito anche della camera con vist
 Una cosa, però, mi è piaciuta: permette di pagare tramite *Google Pay* ed evita il non sempre desiderato fatto di dover inserire i dati della propria _carta_ in un'altra applicazione (che magari non userete mai più!).
 {{< /box >}}
 
-Per l'occasione abbiamo deciso di servirci (previo _duble check_ delle recensioni su _Google Maps_...) presso il ristorante *The Shack Sentrum* ({{< external_link "https://goo.gl/maps/ymPD8oWC8SL1gs6YA" "qui il riferimento" >}} su Google Maps.
+Per l'occasione abbiamo deciso di servirci (previo _double check_ delle recensioni su _Google Maps_...) presso il ristorante *The Shack Sentrum* ({{< external_link "https://goo.gl/maps/ymPD8oWC8SL1gs6YA" "qui il riferimento" >}}).
 
 Il tutto accompagnato da birra locale.
 
