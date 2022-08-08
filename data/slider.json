@@ -1,6 +1,11 @@
 {
     "array" : [
         {
+            "image" : "preikestolen_cover.jpg" ,
+            "text_title" : "Norvegia // Preikestolen" ,
+            "url" : "racconti-viaggio/norvegia/day-4-preikestolen/"
+        } ,
+        {
             "image" : "stavanger_cover.jpg" ,
             "text_title" : "Norvegia // Stavanger" ,
             "url" : "racconti-viaggio/norvegia/day-3-stavanger/"

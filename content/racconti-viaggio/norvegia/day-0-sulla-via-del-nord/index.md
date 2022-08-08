@@ -4,7 +4,7 @@ date: "2022-07-11"
 image: "images/norway_day0_cover.jpg"
 
 summary : "Lo ammetto: quando ho prenotato per la Norvegia non sapevo a cosa andavo incontro. Ad averlo saputo, ci sarei arrivato più preparato: con il cuore, con la mente ma soprattutto con i gadget."
-categories : [ "racconti-di-viaggio" ]
+categories : [ "racconti-di-viaggio", "accessori" ]
 tags : [ "travel" ]
 
 showToc : true
@@ -142,13 +142,13 @@ L'esperienza data dall'auto ({{< external_link "www.sixt.com" "noleggiata a Berg
 
 [Giorno #1]({{< ref "/racconti-viaggio/norvegia/day-1-bergen/index.md" >}}): arriviamo a Bergen con {{< external_link "www.norvegianair.com" "Norvegian Air" >}} alla sera. Notte a Bergen.
 
-**Giorno #2**: noleggio dell'auto e partenza verso Odda - per poter essere in albergo all'ora di cena e partecipare al meeting propedeutico all'escursione di Trolltunga. Notte a Odda.
+[Giorno #2]({{< ref "/racconti-viaggio/norvegia/day-2-odda-trolltunga/index.md" >}}): noleggio dell'auto e partenza verso Odda - per poter essere in albergo all'ora di cena e partecipare al meeting propedeutico all'escursione di Trolltunga. Notte a Odda.
 
 **Giorno #3**: escursione a Trolltunga. Notte a Odda.
 
-**Giorno #4**: riposo dopo la fatica di Trolltunga - poi partenza per Stavanger. Notte a Stavanger.
+[Giorno #4]({{< ref "/racconti-viaggio/norvegia/day-3-stavanger/index.md" >}}): riposo dopo la fatica di Trolltunga - poi partenza per Stavanger. Notte a Stavanger.
 
-**Giorno #5**: escursione a Preikestolen. Poi partenza verso Bergen (*non fatelo*) e notte a Bergen.
+[Giorno #5]({{< ref "/racconti-viaggio/norvegia/day-4-preikestolen/index.md" >}}): escursione a Preikestolen. Poi partenza verso Bergen (*non fatelo*) e notte a Bergen.
 
 **Giorno #6**: partenza per Lavik. Notte a Lavik.
 
