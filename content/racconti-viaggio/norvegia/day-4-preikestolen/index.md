@@ -1,6 +1,6 @@
 ---
 title: "Norvegia // Preikestolen // Day #4"
-date: "2022-08-08T07:30:00.00+02:00"
+date: "2022-08-08"
 image: "images/preikestolen_cover.jpg"
 
 summary : "Dopo l'esperienza di Trolltunga i 4km del percorso per Preikestolen ci paiono davvero una bazzecola. Molto meno impegnativa rispetto agli 11km di Trolltunga, avrete comunque a che fare con un percorso molto più ripido."
@@ -64,7 +64,7 @@ Il penultimo tratto del percorso sarà un piano leggermente inclinato ma tutto d
 
 {{<image src="preikestolen_sommita.jpg" alt="Sommità di Preikestolen" caption="" type="wide-screen" >}}
 
-pulpito_.
+Per poi lasciare spazio ad un sentiero sinuoso ricavato dal bordo roccioso dello strapiombo e che vi condurrà _al pulpito_.
 
 {{<image src="preikestolen_sommita_percorso.jpg" alt="Percorso verso Preikestolen" >}}
 
