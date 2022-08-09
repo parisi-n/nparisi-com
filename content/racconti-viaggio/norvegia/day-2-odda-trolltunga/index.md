@@ -129,7 +129,6 @@ La camminata si articola in essenzialmente tre step:
 
 Il periodo suggerito è Giugno-Agosto; noi siamo andati a fine Settembre e già iniziava a fare fresco (e pioggia).
 
-
 {{< box "orange" >}}
 A prescindere dalla compagnia cui deciderete di far affidamento per l'escursione - tenete presente che le spedizioni con guida saranno organizzate solo da Aprile a Settembre.
 
@@ -188,6 +187,8 @@ Il percorso è essenzialmente articolato lungo un altipiano che costeggia le sin
 {{<image src="paesaggio_trolltunga_7.jpg" alt="Paesaggio verso Trolltunga" type="wide-screen" >}}
 
 ### Trolltunga!
+
+{{< vimeo src="737953153" >}}
 
 Dopo aver attraversato ruscelli, scalato rocce, prestasto attenzione a non precipitare nel vuoto degli strapiombi (si scherza, ma nemmeno tanto), esservi fermati a riposare un attimo le gambe e la schiena - dopo cinque-sei ore di camminata - finalmente arriverete.
 
