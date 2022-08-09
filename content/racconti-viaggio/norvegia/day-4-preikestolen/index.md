@@ -48,6 +48,8 @@ Niente di complesso, però il percorso è uniformemente più ripido e talvolta d
 
 * * *
 
+{{< vimeo src="737983037" type="vertical-9x16">}}
+
 Per quanto disponibili escursioni guidate anche per Preikestolen, mi sento di consigliarvi di avventurarvi senza guida anche se *non siete trekkers particolarmente skillati*.
 
 Le indicazioni lungo il percorso non mancheranno ed il rischio di smarrirsi - considerando anche la geografia della zona - è minore (sicuramente non impossibile :D) rispetto alla vastità dell'altipiano da percorrere per arrivare a Trolltunga.
