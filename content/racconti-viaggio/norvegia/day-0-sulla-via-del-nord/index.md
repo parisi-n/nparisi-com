@@ -4,7 +4,7 @@ date: "2022-07-11"
 image: "images/norway_day0_cover.jpg"
 
 summary : "Lo ammetto: quando ho prenotato per la Norvegia non sapevo a cosa andavo incontro. Ad averlo saputo, ci sarei arrivato più preparato: con il cuore, con la mente ma soprattutto con i gadget."
-categories : [ "racconti-di-viaggio", "norvegia", "accessori" ]
+categories : [ "racconti-di-viaggio", "norvegia", "", "accessori" ]
 tags : [ "travel" ]
 
 showToc : true
@@ -15,6 +15,7 @@ type: "article"
 
 {{< box "blue" >}}
 Finalmente ci riesco. Riesco a mettere insieme emozioni, foto, storia e luoghi e vestirli con le parole. Parole che saranno comunque inappropriate a descrivere le meraviglie che i miei occhi hanno visto.
+
 E solo riguardando le foto, al momento della stesura finale, mi rendo conto dell'eccezionalità e straordinarietà delle emozioni vissute quando, passo dopo passo, mi avventuravo per la terra che prende il nome dalla sua direzione: **via del nord** - o __north-way__.
 {{< /box >}}
 
