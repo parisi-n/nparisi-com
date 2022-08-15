@@ -4,7 +4,7 @@ date: "2022-08-08"
 image: "images/preikestolen_cover.jpg"
 
 summary : "Dopo l'esperienza di Trolltunga i 4km del percorso per Preikestolen ci paiono davvero una bazzecola. Molto meno impegnativa rispetto agli 11km di Trolltunga, avrete comunque a che fare con un percorso molto più ripido."
-categories : [ "racconti-di-viaggio" ]
+categories : [ "racconti-di-viaggio", "norvegia" ]
 tags : [ "travel" ]
 
 showToc : true

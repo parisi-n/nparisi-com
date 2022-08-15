@@ -4,7 +4,7 @@ date: "2022-07-25"
 image: "images/trolltunga_cover.jpg"
 
 summary : "L'iconica lingua di troll è da sempre panorama per le foto più disparate ed emozionanti; il fatto che poi sia raggiungibile solo dopo un lungo ed intenso percorso la rende ancor di più un'escursione emozionante ed una life-time experience."
-categories : [ "racconti-di-viaggio" ]
+categories : [ "racconti-di-viaggio", "norvegia" ]
 tags : [ "travel" ]
 
 showToc : true
