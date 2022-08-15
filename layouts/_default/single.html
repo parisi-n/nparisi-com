@@ -1,6 +1,17 @@
     {{ define "body" }}
 
     <body class="post-template-default single-post">
+        
+
+        {{ if .HasShortcode "panorama" }}
+        <script type="text/javascript">
+            $(function () {
+                // Paver
+                $('div[data-paver]').paver();
+            });
+        </script>
+        {{ end }}
+        
     {{ end }}
 
 
@@ -43,9 +54,11 @@
                     <article>
                         <div class="content-category">
                             {{ range .Params.categories }}
-                            <span class="category">
-                                <a href="/{{ . | urlize }}" title="Vedi tutti gli articoli della categoria ''{{ humanize . }}''">{{ humanize . }}</a>
-                            </span>
+                                <span class="category">
+                                    {{ if . }}
+                                    <a href="/{{ . | urlize }}" title="Vedi tutti gli articoli della categoria ''{{ humanize . }}''">{{ humanize . }}</a>
+                                    {{ end }}
+                                </span>
                             {{ end }}
                         </div>
 

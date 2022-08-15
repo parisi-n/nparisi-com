@@ -79,6 +79,7 @@ function goToComments() {
 </script>
 
 {{- if eq .Type "article" }}
+
 <!-- Disqus -->
 <script>
 $(document).ready(function(){
@@ -258,6 +259,20 @@ $(document).ready(function(){
 </div>
 <div id="exit-button"><i class="fas fa-times"></i></div>
 <div id="overlay"></div>
+
+<!-- Panorama -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-throttle-debounce/1.1/jquery.ba-throttle-debounce.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/prism/0.0.1/prism.min.js"></script>
+<script src="{{ "js/jquery.paver.min.js" | absURL }}"></script>
+
+<script type="text/javascript">
+    $(function () {
+    // Paver
+        $('div.panorama').paver();
+        $('div.panorama.paver__pano').css( { "background-size": "contain" , "background-repeat": "no-repeat" } )
+    });
+</script>
+
 
 {{end}}
 

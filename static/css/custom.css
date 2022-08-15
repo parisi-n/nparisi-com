@@ -102,7 +102,12 @@
     aricle strong, article b, #wtr-content strong, article blackquote strong, p a { color: #4d4d4d !important;  font-weight: 600; }
     article .category { display: block; }
     article .category a { background-color:#f4511e; padding: 0.7em 1.1em; margin-bottom: 2em; margin-right: 0.8em; font-weight: 600; opacity: 1 !important; text-transform: uppercase; letter-spacing: 0.8; font-size: 13pt; color: #fff !important; text-decoration: none; border-radius: 3px; }
-    article .category a:hover, .category a:nth-child(2):hover { background-color: #4d4d4d; }
+    article .category:nth-child(2) a { background-color: #3097bf; }
+    article .category:nth-child(3) a { background-color: #048d79; }
+    article .category a:hover { background-color: #4d4d4d; }
+    article .category:nth-child(2) a:hover { background-color: #1f607a; }
+    article .category:nth-child(3) a:hover { background-color: #036355; }
+                                        
     .entry-meta { font-size: 11pt !important; }
     .entry-content img, .entry-content video { margin-bottom: -0.5em !important; }
     .ep-interspace { margin: -13px; }
@@ -368,6 +373,16 @@
         .img-small { filter: blur(25px); transform: scale(1); }
         
         .placeholder img.loaded { opacity: 1; }
+        
+        /**
+         * PANORAMA
+         */
+        .panorama {
+                height: 95vh;
+                overflow-x: hidden;
+                overflow-y: hidden;
+
+        }
      /**
       * MIX
       */
