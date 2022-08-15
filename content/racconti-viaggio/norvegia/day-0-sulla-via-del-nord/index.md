@@ -151,7 +151,7 @@ L'esperienza data dall'auto ({{< external_link "www.sixt.com" "noleggiata a Berg
 
 [Giorno #5]({{< ref "/racconti-viaggio/norvegia/day-4-preikestolen/index.md" >}}): escursione a Preikestolen. Poi partenza verso Bergen (*non fatelo*) e notte a Bergen.
 
-[Giorno #6]({{< ref "/racconti-viaggio/norvegia/day-5-sognefjord/index.md" >}}): partenza per Lavik. Notte a Lavik.
+**Giorno #6**: partenza per Lavik. Notte a Lavik.
 
 **Giorno #7**: ritorno a Bergen ed aereo per Bodo. A poche centinaia di metri dal porto - un imprevisto ci ha obbligato a dirigerci al **pronto soccorso** - e modificare l'itinerario prestabilito. __Notte a Bodo__ - quindi - invece che alle Lofoten.
 
