@@ -104,10 +104,12 @@
     article .category a { background-color:#f4511e; padding: 0.7em 1.1em; margin-bottom: 2em; margin-right: 0.8em; font-weight: 600; opacity: 1 !important; text-transform: uppercase; letter-spacing: 0.8; font-size: 13pt; color: #fff !important; text-decoration: none; border-radius: 3px; }
     article .category:nth-child(2) a { background-color: #3097bf; }
     article .category:nth-child(3) a { background-color: #048d79; }
+    article .category:nth-child(4) a { background-color: #fcbc05; }
     article .category a:hover { background-color: #4d4d4d; }
     article .category:nth-child(2) a:hover { background-color: #1f607a; }
     article .category:nth-child(3) a:hover { background-color: #036355; }
-                                        
+    article .category:nth-child(4) a:hover { background-color: #e3a702; }
+                                         
     .entry-meta { font-size: 11pt !important; }
     .entry-content img, .entry-content video { margin-bottom: -0.5em !important; }
     .ep-interspace { margin: -13px; }
