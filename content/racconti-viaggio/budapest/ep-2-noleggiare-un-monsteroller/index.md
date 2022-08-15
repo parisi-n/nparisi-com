@@ -4,7 +4,7 @@ date: "2020-03-24"
 image: "images/IMG_6553.jpg"
 
 summary : "La giornata tiepida è l'ideale per fare un giro in bici. Ma se invece della bici prendessimo uno scooter elettrico?"
-categories : [ "racconti-di-viaggio" ]
+categories : [ "racconti-di-viaggio", "ungheria-e-serbia" ]
 tags : [ "travel" ]
 
 showToc : true

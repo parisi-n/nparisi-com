@@ -3,7 +3,7 @@ title: "In viaggio verso Georgia-Azerbajan // il viaggio ed i preparativi"
 date: "2019-10-07"
 image: "images/geaz_fl_headcover.jpg"
 summary : "Da anni ho desiderato attraversarla, viverla, assaporarla nelle varie sfumature, con i suoi contrasti. Da quando un collega di Batumi mi disse \"i georgiani son molto simili agli italiani, più di quanto pensi\". Così, finalmente ho prenotato."
-categories : [ "racconti-di-viaggio", "accessori" ]
+categories : [ "racconti-di-viaggio", "georgia-e-azerbaijan", "accessori" ]
 tags : [ "travel" ]
 
 showToc : true

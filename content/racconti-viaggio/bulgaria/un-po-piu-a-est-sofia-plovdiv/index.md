@@ -4,7 +4,7 @@ date: "2019-03-14"
 image: "images/20171103_164100.jpg"
 
 summary : "Viaggio fotografico in Bulgaria alla scoperta di Sofia e Plovdiv. Venite a scoprire con noi  gli angoli nascosti di una città non esattamente turistica!"
-categories : [ "racconti-di-viaggio" ]
+categories : [ "racconti-di-viaggio", "bulgaria" ]
 tags : [ "travel" ]
 
 showToc : true

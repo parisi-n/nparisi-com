@@ -4,7 +4,7 @@ date: "2020-03-31"
 image: "images/IMG_6753.jpg"
 
 summary : "In caso abbiate un terzo giorno - prendetevi una pausa dal presente (per pianificare il futuro) ed immergetevi nell'acqua termale dei Bagni di Szechenyi."
-categories : [ "racconti-di-viaggio" ]
+categories : [ "racconti-di-viaggio", "ungheria-e-serbia" ]
 tags : [ "travel" ]
 
 showToc : true

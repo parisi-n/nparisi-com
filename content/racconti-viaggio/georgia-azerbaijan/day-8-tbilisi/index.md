@@ -3,7 +3,7 @@ title: "Georgia-Azerbaijan // Tbilisi // Day #8"
 date: "2019-12-30"
 image: "images/IMG_4850.jpg"
 summary : "Dopo i momenti d'ansia per il secondo viaggio notturno che ci aspettava - torniamo a Tbilisi e la esploriamo pigramente e con calma, cercando di cogliere i suoi #vibes."
-categories : [ "racconti-di-viaggio" ]
+categories : [ "racconti-di-viaggio", "georgia-e-azerbaijan" ]
 tags : [ "travel" ]
 
 showToc : true

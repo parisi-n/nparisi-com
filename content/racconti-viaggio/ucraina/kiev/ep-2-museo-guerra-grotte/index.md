@@ -5,7 +5,7 @@ image: "images/cover.jpg"
 video: "421743381"
 
 summary : "Nel post precedente abbiamo semplicemente passeggiato, esplorando la città. E' il momento di visitare il Museo della Guerra, le cripte di Kiev e i vari complessi ortodossi (strutture dal grande valore artistico) in giro per la città."
-categories : [ "racconti-di-viaggio" ]
+categories : [ "racconti-di-viaggio", "ucraina" ]
 tags : [ "travel" ]
 
 showToc : true

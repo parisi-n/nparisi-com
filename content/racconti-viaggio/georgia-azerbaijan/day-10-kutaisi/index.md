@@ -4,7 +4,7 @@ date: "2020-01-16"
 image: "images/IMG_5619.jpg"
 
 summary : "L'ultimo giorno: come arrivare a Kutaisi da Tbilisi, cosa aspettarsi dalle Cave di Prometeo e dal Canyon Martvili. L'ultimo capitolo del viaggio in Georgia."
-categories : [ "racconti-di-viaggio" ]
+categories : [ "racconti-di-viaggio", "georgia-e-azerbaijan" ]
 tags : [ "travel" ]
 
 showToc : true

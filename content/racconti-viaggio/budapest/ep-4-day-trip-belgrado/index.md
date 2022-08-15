@@ -4,7 +4,7 @@ date: "2020-04-07"
 image: "images/IMG_6909.jpg"
 
 summary : "Un viaggio nel viaggio: arrivati a Belgrado preleviamo, mangiamo, ed iniziamo una lunghissima passeggiata zaino in spalla. Terminiamo la serata a bordo di un botel - un hotel galleggiante sulle rive del Danubio."
-categories : [ "racconti-di-viaggio" ]
+categories : [ "racconti-di-viaggio", "ungheria-e-serbia" ]
 tags : [ "travel" ]
 
 showToc : true

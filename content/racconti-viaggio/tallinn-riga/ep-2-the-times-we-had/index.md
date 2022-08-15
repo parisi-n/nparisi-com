@@ -4,7 +4,7 @@ date: "2022-01-11"
 image: "images/cover-tallinn.jpg"
 
 summary : "Tallinn, capitale dell'Estonia. Non sicuramente una meta invernale ma proprio per questo sa sorprendere con i suoi paesaggi innevati ed il freddo spietato, incurante di te. Racconta storie gloriose passate (solo per chi sa ascoltarle) per le vie della sua Old Town."
-categories : [ "racconti-di-viaggio" ]
+categories : [ "racconti-di-viaggio", "repubbliche-baltiche" ]
 tags : [ "travel", "liquorideuropa" ]
 
 showToc : true

@@ -4,7 +4,7 @@ date: "2020-01-07"
 image: "images/IMG_5045.jpg"
 
 summary : "Day tour da Tbilisi a Kazbegi lungo la strada militare passando la fortezza di Ananuri, il Monumento dell'Amicizia Russo-Georgiana e per finire la chiesa Trinità di Gergeti sul monte Kazbegi."
-categories : [ "racconti-di-viaggio" ]
+categories : [ "racconti-di-viaggio", "georgia-e-azerbaijan" ]
 tags : [ "travel" ]
 
 showToc : true

@@ -4,7 +4,7 @@ date: "2019-11-14"
 image: "images/IMG_3999.jpg"
 
 summary : "Il programma della giornata è spostarsi da Mestia tramite maršrutka verso Batumi, una città sentimentale, dal cuore tenero, romantica, casa della famosa statua di Ali e Nino che ogni giorno - alle 19 - tiene col naso all'insù centinaia di visitatori da tutto il mondo."
-categories : [ "racconti-di-viaggio" ]
+categories : [ "racconti-di-viaggio", "georgia-e-azerbaijan" ]
 tags : [ "travel" ]
 
 showToc : true

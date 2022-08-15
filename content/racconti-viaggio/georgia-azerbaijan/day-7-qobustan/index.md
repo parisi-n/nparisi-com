@@ -4,7 +4,7 @@ date: "2019-12-23"
 image: "images/IMG_4621.jpg"
 
 summary : "In giro per la penisola Abşeron in Azerbaijan: dai vulcani di fango ai petroglifi del Qobustan alla montagna di fuoco - passando per la cucina locale, le sue tradizioni ed edifici religiosi."
-categories : [ "racconti-di-viaggio" ]
+categories : [ "racconti-di-viaggio", "georgia-e-azerbaijan" ]
 tags : [ "travel" ]
 
 showToc : true

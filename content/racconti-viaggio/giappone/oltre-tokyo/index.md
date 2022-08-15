@@ -4,7 +4,7 @@ date = "2018-12-02"
 image = "images/20171021_173513-2.jpg"
 
 summary = "Oltre Tokyo esiste un Giappone tutto da esplorare, meno turistico, meno famoso ma più tradizionalista e radicato nelle tradizioni. Un Giappone più \"quotidiano\". Scopriamolo insieme!"
-categories = [ "racconti-di-viaggio" ]
+categories = [ "racconti-di-viaggio", "giappone" ]
 tags = [ "travel" ]
 
 showToc = true

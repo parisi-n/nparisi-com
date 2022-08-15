@@ -4,7 +4,7 @@ date = "2018-11-27"
 image = "images/20170826_181957.jpg"
 
 summary = "Tokyo, meta esotica che ci è stata più volte raccontata. Terra dei manga, dell'innovazione, della tecnologia. Ma è davvero così? Andiamo a scoprirlo!"
-categories = [ "-" ]
+categories = [ "racconti-di-viaggio", "giappone" ]
 tags = [ "travel" ]
 
 showToc = true

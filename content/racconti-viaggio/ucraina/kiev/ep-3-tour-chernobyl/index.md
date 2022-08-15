@@ -4,7 +4,7 @@ date: "2020-06-21"
 image: "images/cover-chernobyl-pripyat.jpg"
 
 summary : "Day-tour alla scoperta dei misteri della città di Chernobyl - in zone disabitate da più di 30 anni che scontano ancora lo spettro del disastro nucleare tra i peggiori nella storia."
-categories : [ "racconti-di-viaggio" ]
+categories : [ "racconti-di-viaggio", "ucraina" ]
 tags : [ "travel" ]
 
 showToc : true

@@ -4,7 +4,7 @@ date: "2019-10-23"
 image: "images/IMG_3280.jpg"
 
 summary : "Cosa fare a Mestia in mezza giornata? Praticamente niente, però ci abbiamo tentato. In un viaggio l'importante non è quel che vedi, ma quel che vivi."
-categories : [ "racconti-di-viaggio" ]
+categories : [ "racconti-di-viaggio", "georgia-e-azerbaijan" ]
 tags : [ "travel" ]
 
 showToc : true

@@ -4,7 +4,7 @@ date: "2019-12-16"
 image: "images/IMG_4460.jpg"
 
 summary : "36 ore a Baku: cosa fare, cosa non fare. Alcuni consigli per godere al massimo dell'atmosfera autunnale di Baku di inizio Ottobre."
-categories : [ "racconti-di-viaggio" ]
+categories : [ "racconti-di-viaggio", "georgia-e-azerbaijan" ]
 tags : [ "travel" ]
 
 showToc : true

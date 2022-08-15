@@ -4,7 +4,7 @@ date: "2019-10-14"
 image: "images/IMG_3164_cover_day1.jpg"
 
 summary : "Diario del primo giorno in terra georgiana a Kutaisi, tra ottimi formaggi, churchkhela, marshrutka e khinkali. E per finire, giro in funivia."
-categories : [ "racconti-di-viaggio" ]
+categories : [ "racconti-di-viaggio", "georgia-e-azerbaijan" ]
 tags : [ "travel" ]
 
 showToc : true

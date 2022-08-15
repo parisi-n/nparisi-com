@@ -4,7 +4,7 @@ date: "2019-11-04"
 image: "images/IMG_3755.jpg"
 
 summary : "Ore 7. Sveglia. Apro immediatamente le tende: nebbia e buio. Emozionato, apro la finestra e respiro."
-categories : [ "racconti-di-viaggio" ]
+categories : [ "racconti-di-viaggio", "georgia-e-azerbaijan" ]
 tags : [ "travel" ]
 
 showToc : true

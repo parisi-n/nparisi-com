@@ -4,7 +4,7 @@ date: "2020-02-16"
 image: "images/IMG_6088.jpg"
 
 summary : "Avete qualche ora di scalo a Budapest e avete in mente di visitare la città? Oppure avete un week-end libero e volete esplorarla ma non sapete da dove partire?"
-categories : [ "racconti-di-viaggio" ]
+categories : [ "racconti-di-viaggio", "ungheria-e-serbia" ]
 tags : [ "travel" ]
 
 showToc : true

@@ -4,7 +4,7 @@ date: "2022-01-02"
 image: "images/cover-back-tallinn.jpg"
 
 summary : "Un viaggio che ha il sapore del passato, poco turistico. City-break nell'ex-URSS nel periodo tra i più freddi ma anche tra i più magici."
-categories : [ "racconti-di-viaggio" ]
+categories : [ "racconti-di-viaggio", "repubbliche-baltiche" ]
 tags : [ "travel" ]
 
 showToc : true

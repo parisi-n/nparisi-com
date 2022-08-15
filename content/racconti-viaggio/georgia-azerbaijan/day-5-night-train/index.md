@@ -4,7 +4,7 @@ date: "2019-11-18"
 image: "images/20190927_192156.jpg"
 
 summary : "Passare il confine tra stati ex-urss in treno ha un suo fascino antico, mistico e il treno Tbilisi-Baku offre una serie di emozioni non replicabili in altro modo. La notte, mentre lentamente ed alla velocità della storia attraversa la Georgia e l'Azerbaijan - racconta di antiche leggende. Solo i sognatori però possono sentirle."
-categories : [ "racconti-di-viaggio" ]
+categories : [ "racconti-di-viaggio", "georgia-e-azerbaijan" ]
 tags : [ "travel" ]
 
 showToc : true

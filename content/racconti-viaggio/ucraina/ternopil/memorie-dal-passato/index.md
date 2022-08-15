@@ -4,7 +4,7 @@ date: "2019-07-22"
 image: "images/20160310_130222.jpg"
 
 summary : "Phototrip accompagnato da un racconto al gusto di carne arrosto e vodka, bevuta al ritmo di \"na zdorovye\", alla scoperta di un paese sottovalutato ma che merita di essere esplorato, gustato, contemplato."
-categories : [ "racconti-di-viaggio" ]
+categories : [ "racconti-di-viaggio", "ucraina" ]
 tags : [ "travel" ]
 
 showToc : true
