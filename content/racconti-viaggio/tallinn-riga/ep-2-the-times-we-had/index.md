@@ -12,9 +12,10 @@ type: "article"
 ---
 {{< box "green" "Update" >}}
 
-Aggiunta sezione [Souvenir](#souvenir) con il nuovo hashtag [#liquorideuropa](tags/liquorideuropa)
+* Aggiunta sezione [Souvenir](#souvenir) con il nuovo hashtag [#liquorideuropa](tags/liquorideuropa)
+* Aggiunti dettagli sulla storia della scritta _The Times We Had_
 
-**Ultimo aggiornamento:** 16/04/2022
+**Ultimo aggiornamento:** 12/08/2022
 {{< /box >}}
 
 {{< capital_letter_open >}}
@@ -136,6 +137,20 @@ Una città medievale, Tallinn, che non si risparmia uno sguardo al futuro.
 {{< image src="the_times_we_had_2021.jpg" alt="Tallinn _ The times we had...and we'll have written" caption="La celeberrima frase inno di generazioni: The times we Had" type="wide-screen">}}
 
 Incantevole.
+
+{{< box "blue" >}}
+La storia di questa scritta viene raccontata - in russo - da *Elena Vasileva" sulla {{< external_link "https://www.facebook.com/network.mastermind.tln/posts/pfbid0tuUwbFnLr4o7KWtFpAw5JYGdCjNTrYeQTLmhYqxdx7dNJMeEov5yxu3UsJfM9ws5l" "sua pagina Facebook" >}}.
+
+A grandi linee: quale sia l'origine della scritta rimane ad oggi un mistero.
+
+Si sa però che al principio la scritta era di un _font_ differente; successivamente - nel 2018 - il muro fu tinteggiato...facendo scomparire la scritta.
+
+Sia i turisti sia i residenti rimaserp ammareggiati in quanto non volevano dimenticare *THE TIMES WE HAD*. Un Anonimo, allora, dipinse nuovamente l'icona scritta _a mano_ ed aggiunse altre decorazioni.
+
+Ad un certo punto - il muro fu nuovamente tinteggiato - e la scritta venne nuovamente cancellata e riscritta - perdendo però la bellezza e la precisione del _font_ che invece era propria della prima scritta.
+
+Fino ad arrivare all'attuale scritta: *The Times We Had...and We'll Have* - la cui bellezza è opinabile ma - per chi ha vissuto la magia della prima scritta in tempi a sua volta magici - la prima versione rimarrà per sempre nel cuore.
+{{< /box >}}
 
 
 ### I restanti viewing platform
