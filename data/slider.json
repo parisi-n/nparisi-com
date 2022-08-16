@@ -1,6 +1,11 @@
 {
     "array" : [
         {
+            "image" : "lavik_cover.jpg" ,
+            "text_title" : "Norvegia // Il Sognefjord" ,
+            "url" : "racconti-viaggio/norvegia/day-5-sognefjord/"
+        } ,
+        {
             "image" : "preikestolen_cover.jpg" ,
             "text_title" : "Norvegia // Preikestolen" ,
             "url" : "racconti-viaggio/norvegia/day-4-preikestolen/"
@@ -36,29 +41,14 @@
             "url" : "racconti-viaggio/slovenia/ljubljana-e-bled/"
         } ,
         {
-            "image" : "cover_riga.jpg" ,
-            "text_title" : "Riga // Ep. 3" ,
-            "url" : "racconti-viaggio/tallinn-riga/ep-3-riga/"
-        } ,
-        {
             "image" : "cover-tallinn.jpg" ,
             "text_title" : "Tallinn: the Times we Had // Ep. 2" ,
             "url" : "racconti-viaggio/tallinn-riga/ep-2-the-times-we-had/"
         } ,
         {
-            "image" : "cover-back-tallinn.jpg" ,
-            "text_title" : "Tallinn-Riga: ritorno a casa // Ep. 1" ,
-            "url" : "racconti-viaggio/tallinn-riga/ep-1-ritorno-a-casa/"
-        } ,
-        {
             "image" : "cover-chernobyl-pripyat.jpg" ,
             "text_title" : "Day-tour nella città post-apocalitica: Chernobyl e Pripyat // Ep. 3" ,
             "url" : "racconti-viaggio/ucraina/kiev/ep-3-tour-chernobyl/"
-        } ,
-        {
-            "image" : "cover_ep1_passeggiata_kiev.jpg" ,
-            "text_title" : "Una passeggiata per Kiev: un arrivo inaspettato // Ep. 1" ,
-            "url" : "racconti-viaggio/ucraina/kiev/ep-1-passeggiata-per-kiev/"
         } ,
         {
             "image" : "20190927_192156.jpg" ,

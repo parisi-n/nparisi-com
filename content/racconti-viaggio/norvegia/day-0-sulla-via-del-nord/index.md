@@ -151,7 +151,7 @@ L'esperienza data dall'auto ({{< external_link "www.sixt.com" "noleggiata a Berg
 
 [Giorno #5]({{< ref "/racconti-viaggio/norvegia/day-4-preikestolen/index.md" >}}): escursione a Preikestolen. Poi partenza verso Bergen (*non fatelo*) e notte a Bergen.
 
-**Giorno #6**: partenza per Lavik. Notte a Lavik.
+[Giorno #6]({{< ref "/racconti-viaggio/norvegia/day-5-sognefjord/index.md" >}}): partenza per Lavik. Notte a Lavik.
 
 **Giorno #7**: ritorno a Bergen ed aereo per Bodo. A poche centinaia di metri dal porto - un imprevisto ci ha obbligato a dirigerci al **pronto soccorso** - e modificare l'itinerario prestabilito. __Notte a Bodo__ - quindi - invece che alle Lofoten.
 
@@ -180,7 +180,7 @@ Ho atteso parecchio prima di pubblicare la saga completa dei post.
 
 I **101 gigabyte** di materiale fotografico prodotto - di cui quasi **40 gigabyte** sono video - ci hanno messo del loro  - configurando questo viaggio con una _soglia di scrittura medio-alta_ per cui non mi sentivo totalmente pronto a riviverlo tramite le foto, scriverne, impaginarlo e vestire i ricordi con le parole.
 
-Nel far ciò - è doveroso il **ringraziamento** a @{{<affiliate_link "washington-instagram" "washington_giò">}} - fedele compagna di viaggio con cui ho vissuto i momenti piacevoli che la Norvegia ci ha offerto - insieme a momenti un po' più difficili - di cui troverete menzione al momento debito nei post.
+Nel far ciò - è doveroso il **ringraziamento** a {{<affiliate_link "washington-instagram" "@washington_giò">}} - fedele compagna di viaggio con cui ho vissuto i momenti piacevoli che la Norvegia ci ha offerto - insieme a momenti un po' più difficili - di cui troverete menzione al momento debito nei post.
 
 Sono sue le integrazioni, le correzioni, gli appunti e l'attenzione al dettaglio che il mio occhio un po' più grossolano spesso non vede.
 

@@ -326,7 +326,7 @@ Non perdete la possibilità di assaggiarla ogni volta che potrete perchè la sua
 Qualora siate in dubbio su quale piatto buttarvi date uno sguardo alle foto presenti nella pagina del ristorante su *Google Maps*.
 {{</box>}}
 
-@{{< affiliate_link "washington-instagram" "washington_giò" >}} invece - che voleva assaggiare a tutti i costi la balena - si è dovuta "accontentare" del **filetto di cervo** con cremina selvatica al mirtillo.
+{{< affiliate_link "washington-instagram" "@washington_giò" >}} invece - che voleva assaggiare a tutti i costi la balena - si è dovuta "accontentare" del **filetto di cervo** con cremina selvatica al mirtillo.
 
 {{<image src="carne_cervo.jpg" caption="Filetto di Cervo" alt="Filetto di Cervo" >}}
 
@@ -342,7 +342,7 @@ _[#liquorideuropa](/tags/liquorideuropa) è l'hashtag che raggruppa tutti i post
 
 Non snobbate per un momento l'idea - qualora abbiate un weekend libero - di dedicarvi ad un po' di sano e compulsivo *shopping*.
 
-Contrariamente a quanto potreste pensare la periferia est di Bergen offre svariati centri commerciali in cui poter acquistare indumenti tecnico-sportivi, cibo, elettronica e tanto altro e potrebbe capitare di trovare l'*offerta irrinunciabile* (come è stato per @{{< affiliate_link "washington-instagram" "washington_giò" >}} che si è portata a casa un piumino tecnico da _natural spotter_).
+Contrariamente a quanto potreste pensare la periferia est di Bergen offre svariati centri commerciali in cui poter acquistare indumenti tecnico-sportivi, cibo, elettronica e tanto altro e potrebbe capitare di trovare l'*offerta irrinunciabile* (come è stato per {{< affiliate_link "washington-instagram" "@washington_giò" >}} che si è portata a casa un piumino tecnico da _natural spotter_).
 
 * * *
 

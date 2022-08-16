@@ -1,0 +1,14 @@
+<!-- implementare type="rounded" -->
+{{ $title := ( .Get "title" | markdownify ) }}
+{{ $caption := ( .Get "caption" | markdownify ) }}
+{{ $src := ( printf "%s/%s" "images" (.Get "src") ) }}
+
+<figure class="block-image" style="display: block;">
+
+    <div class="pano">
+            <div class="panorama" data-meta="true">
+                <img src="{{ $src }}" title="{{$title}}" alt="{{$caption}}" />
+            </div>
+        </div>
+
+</figure>
