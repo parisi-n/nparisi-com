@@ -81,7 +81,7 @@ Ci imbarchiamo sul traghetto che inizia a far sera.
 
 {{<image src="battello_fjordo.jpg" alt="Sul battello di attraversamento del Sognefjord" >}}
 
-L'attraversamento è reso ancor più particolare dal crepuscolo: la drammaticità del cielo parla; il balletto silenzioso solca le acque del fjordo; l'aria inizia a diventare frizzante, acerba.
+L'attraversamento è reso ancor più particolare dal crepuscolo: la drammaticità del cielo parla; il battello silenzioso solca le acque del fjordo; l'aria inizia a diventare frizzante, acerba.
 
 {{<image src="romantic_sognefjord.jpg" alt="Atmosfera romantica sul Sognefjord" caption="#romanticvibes" type="wide-screen" >}}
 
