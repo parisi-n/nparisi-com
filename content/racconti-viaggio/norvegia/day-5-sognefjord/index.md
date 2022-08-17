@@ -3,7 +3,7 @@ title: "Norvegia // I fjordi del Nord // Day #5"
 date: "2022-08-16"
 image: "images/lavik_cover.jpg"
 
-summary : "Accantonaa l'idea di arrivare fino alla famosissima Atlantic Road decidiamo di fermarci decisamente prima ma di non privarci dell'esplorare la parte Nord del Vestland."
+summary : "Accantonata l'idea di arrivare fino alla famosissima Atlantic Road decidiamo di fermarci decisamente prima ma di non privarci dell'esplorare la parte Nord del Vestland."
 categories : [ "racconti-di-viaggio", "norvegia" ]
 tags : [ "travel" ]
 

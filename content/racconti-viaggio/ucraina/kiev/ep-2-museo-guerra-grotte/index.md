@@ -2,7 +2,7 @@
 title: "Una passeggiata per Kiev: la madrepatria, il museo della guerra e le grotte // Ep. 2"
 date: "2020-06-12"
 image: "images/cover.jpg"
-video: "421743381"
+video: "video/kiev_cover.mp4"
 
 summary : "Nel post precedente abbiamo semplicemente passeggiato, esplorando la città. E' il momento di visitare il Museo della Guerra, le cripte di Kiev e i vari complessi ortodossi (strutture dal grande valore artistico) in giro per la città."
 categories : [ "racconti-di-viaggio", "ucraina" ]
@@ -20,6 +20,8 @@ Ora è arrivato il momento di girare.
 
 La Kiev del passato teatro di vittorie magnificenti e di sconfitte clamorose; tutto ha un senso speciale: il presente dinamico scorre tra gli antichi monumenti del passato.    
 L'aria stessa trasmette un sentimento romantico del passato.
+
+{{< vimeo src="421743381" type="horizontal" >}}
 
 ## Cattedrale di Santa Sofia
 
