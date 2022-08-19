@@ -17,7 +17,7 @@ Trovo che il processo di scrittura su un blog sia in qualche modo "catartico", p
 
 ## Consigli per gli acquisti
 
-In più momenti nelle pagine di questo blog consiglio degli accessori per me essenziali oppure un acquisto piuttosto che un altro – rimandando con un link all'oggetto in vendita su varie piattaforme d'acquisto. I vari link **sono referral** e dall'acquisto correlato al mio consiglio mi verrà data una piccola % sul vostro acquisto - in modo del tutto automatico e *senza alcun rincaro per voi.
+In più momenti nelle pagine di questo blog consiglio degli accessori per me essenziali oppure un acquisto piuttosto che un altro – rimandando con un link all'oggetto in vendita su varie piattaforme d'acquisto. I vari link **sono referral** e dall'acquisto correlato al mio consiglio mi verrà data una piccola % sul vostro acquisto - in modo del tutto automatico e *senza alcun rincaro per voi*.
 Ho un lavoro full-time, bloggo per passione ed il mio fine non è vendere alcunchè.
 
 Se trovi interessante le informazioni contenute in questo blog, scrivimi una mail. Mi fara' piacere.
