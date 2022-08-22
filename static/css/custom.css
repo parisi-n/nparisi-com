@@ -741,7 +741,7 @@
         /**
          * SEZIONE DESTINAZIONE
          */
-        .destinazione-box { width: 100%; min-width: 270px; max-width: 22.5rem; margin: 1.3rem; }
+        .destinazione-box { width: 100%; min-width: 270px; max-width: 270px; margin: 1.3rem; }
     }
 
     @media (max-width: 37.5em)
@@ -753,7 +753,7 @@
         /**
          * SEZIONE DESTINAZIONE
          */
-        .destinazione-box { width: 100%; min-width: 270px; max-width: 5rem; margin: 1.3rem; }
+        .destinazione-box { width: 100%; min-width: 270px; margin: 1.3rem; }
     }
 
     @media all and (max-width: 20em)
