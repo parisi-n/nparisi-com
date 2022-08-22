@@ -1,5 +1,5 @@
 ---
-title: "Norvegia // L'imprevisto di Bodo // Day #6"
+title: "Norvegia // L'imprevisto di Bodø // Day #6"
 date: "2022-08-22"
 image: "images/bodo_cover.jpg"
 

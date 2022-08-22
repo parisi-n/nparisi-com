@@ -129,7 +129,7 @@ E km dopo km siam'arrivati a Taormina...peccato che fosse ormai notte 🌙
 
 {{< image src="IMG_0249.jpg" alt="Vista panoramica in prossimità di Taormina" >}}
 
-Ma almeno la foto con la famosissima catena di vendita d'abigliamento son riuscito a farla 😎😎😎
+Ma almeno la foto con la famosissima catena di vendita d'abbigliamento son riuscito a farla 😎😎😎
 
 {{< image src="20190222_201059.jpg" alt="Casa Parisi, negozio di abbigliamento" >}}
 
