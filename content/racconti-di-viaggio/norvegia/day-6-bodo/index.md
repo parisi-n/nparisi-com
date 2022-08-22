@@ -18,7 +18,7 @@ Iniziavo così già un altro post ― e come citazione calza a pennello quando l
 * * *
 
 {{< capital_letter_open >}}
-Bodø da programma sarebbe dovuta essere una tappa obbligata ma di passaggio: arrivati alle 22.30 all'aeroporto locale ― il nostro _next step_ sarebbe dovuto essere quello di spostarci con *tutta calma* nel porto da cui sarebbe partito il traghetto all'1.30 (tre ore dopo) che ci avrebbe portato (in tre ore) a *Moskenes* alle 4.30 della notte.
+Bodø da programma sarebbe dovuta essere una tappa obbligata ma di passaggio: arrivati alle 22.30 all'aeroporto locale ― il nostro _next step_ era quello di spostarci con *tutta calma* nel porto da cui sarebbe partito il traghetto all'1.30 (tre ore dopo) che ci avrebbe portato (in tre ore) a *Moskenes* alle 4.30 della notte.
 
 Lì ci attendeva un'auto noleggiata presso il noleggio locale con cui poi saremmo arrivati al rorbuer prenotato.
 {{< capital_letter_close >}}
@@ -35,7 +35,7 @@ Una notte di spostamenti ― forse un po' azzardati ― ma che mettono quel _qui
 
 Il viaggio a bordo dell'*Embraer E190* è stato un po' turbolento ma in linea con lo spirito avventuriero con cui ci approcciavamo a Bodø.
 
-Ci approcciamo a Bodø che il sole è già caduto al di là dell'orizzonte ed il cielo è appena illuminato da un timido riverbero dato dalle nuvole imponenti che permettono un non chiaro e misterioso disegno del territorio ― su cui spiccano tra tutto gli immensi e molteplici laghi (qualcuno, come me, penserà: *Lituania?*).
+Avvistiamo a Bodø che il sole è già caduto al di là dell'orizzonte ed il cielo è appena illuminato da un timido riverbero dato dalle nuvole imponenti che permettono un non chiaro e misterioso disegno del territorio ― su cui spiccano tra tutto gli immensi e molteplici laghi (qualcuno, come me, penserà: *Lituania?*).
 
 L'aeroporto è davvero piccolo e, a tratti, poco curato. Scarno. Ricorda un aeroporto di periferia, senza troppi servizi o fronzoli: il nostro è uno degli ultimi voli ed i negozi sono già tutti chiusi. Il personale è già intento nella pulizia degli interni, obbligandoci a vari spostamenti dei bagagli mentre eravamo intenti a capire come effettivamente fosse più conveniente muoverci.
 
@@ -65,7 +65,7 @@ Maggiori informazioni sulla {{< external_link "https://www.visitnorway.it/pianif
 
 ## Il Maelstrom
 
-Il _maelstrom_ Saltstraumen apprezzabile anche dalla _statale 17_ a 30km dalla città è un fenomeno naturale abbastanza famoso: quattro volte al giorno milioni di metri cubi d'acqua passano attraverso uno stretto di _150m_ ad una velocità di oltre *10 nodi*. Il fenomeno è causato dalla differenza tra _alta e bassa marea_ presente in questa parte di oceano che può generare un _maelstrom_ di più forti al mondo che può arrivare a _10 metri di diametro e 5 di profondità_; le vibrazioni generate dal movimento dell'acqua generano un suono misterioso simile ad un guaito.
+Il _maelstrom_ Saltstraumen apprezzabile anche dalla _statale 17_ a 30km dalla città è un fenomeno naturale abbastanza famoso: quattro volte al giorno milioni di metri cubi d'acqua passano attraverso uno stretto di _150m_ ad una velocità di oltre *10 nodi*. Il fenomeno è causato dalla differenza tra _alta e bassa marea_ presente in questa parte di oceano che può generare un _maelstrom_ di più forti al mondo che può arrivare a _10 metri di diametro e 5 di profondità_; le vibrazioni generate dal movimento dell'acqua producono un suono misterioso simile ad un guaito.
 
 Il vortice d'acqua raggiunge il massimo della turbolenza quando c'è l'alta marea ed è particolarmente violento quando c'è la luna piena (i calendari lunari e delle maree sono disponibili presso l'ufficio turistico di Bodø).
 
