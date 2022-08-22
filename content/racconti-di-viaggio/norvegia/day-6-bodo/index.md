@@ -182,7 +182,6 @@ Ci si lamenta troppo ― pensando che all'estero le cose vadano meglio.
 Be': *vanno peggio*.
 {{< /box >}}
 
-
 ## Il Porto di Bodø
 
 {{< posizione "https://goo.gl/maps/mw1zYyVgqscqZM2H6" >}}
