@@ -32,7 +32,7 @@
     .design-credit { padding: 1.16em 2.13em; margin-top: 0px !important; }
     .design-credit a { color: #8c8c8c !important; border-bottom: 2px solid; }
     .recap-footer { display: inline-flex; flex-wrap: wrap; align-items: center; justify-content: center; }
-    .recap-footer div { padding: 0 2.75rem; width: 180px; }
+    .recap-footer div {  }
     .recap-footer .icon_title { color: white !important; opacity: 0.8 !important; }
     .recap-footer .icon, .recap-footer .icon i { font-size: 3rem; opacity: 1 !important; }
     .color-box { padding:1.0em; border-radius: 3px; margin: 1.1em 4.56%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }
@@ -622,6 +622,7 @@
          * FOOTER
          */
         #site-footer { }
+        .recap-footer div { padding: 1.16em; width: 150px; }
         
         /**
          * INSTAGRAM HI - LANDING PAGE
@@ -970,6 +971,11 @@
              * PAGINATOR
              */
             .pagination { padding-bottom: 0em; margin-bottom: -5em; }
+            
+        /**
+         * FOOTER
+         */
+        .recap-footer div { padding: 0 2.75rem; width: 180px; }
             
         /**
          * SEZIONE DESTINAZIONE
