@@ -26,7 +26,7 @@ Ho vissuto un anno in Lituania. In quell'anno ho capito che il mondo è grande e
 
 Leggo. Manuali tecnici. Le letture da relax non fanno per me. Ultimamente mi sto appassionando all'_intelligenza artificiale, al data science_.
 
-L'_autunno_ è la mia stagione preferita per viaggiare - e cerco di concentrare i viaggi il più possibile in quella parte dell'anno. Mi piacciono i colori che porta, l'aria fresca e frizzante, la maggiore vivibilità delle giornate, ancora sufficientemente lunghe per poter esplorare in lungo e largo nuovi luoghi.  
+L'_autunno_ è la mia stagione preferita per viaggiare ― e cerco di concentrare i viaggi il più possibile in quella parte dell'anno. Mi piacciono i colori che porta, l'aria fresca e frizzante, la maggiore vivibilità delle giornate, ancora sufficientemente lunghe per poter esplorare in lungo e largo nuovi luoghi.  
 Preferisco un viaggio avventuroso ad una vacanza, sebbene non disdegni nemmeno queste ultime: non fanno per me; ma se mi dovesse capitare l'occasione di certo non rifiuterei.
 Il viaggio avventuroso mi offre più possibilità di crescita, di invenzione, di novità.
 

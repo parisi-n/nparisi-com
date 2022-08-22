@@ -15,7 +15,7 @@ Nello smartphone Android di un _travel addicted_ ci sono delle app che non dovre
 
 ## 1. Handtrip
 
-App per Android che reputo a dir poco essenziale e strategica. Registro di volta in volta le spese effettuate, e con il convertitore interno di valuta è semplice avere il quadro completo di quanto - a fin dei conti - ci è costato il viaggio. A differenza dei competitor, preferisco HandTrip esclusivamente per il convertitore di valute interno. Permette di differenziare **spese cash** da **spese con carta di credito** e, dalle ultime versioni, permette di inserire manualmente le categorie di spesa.
+App per Android che reputo a dir poco essenziale e strategica. Registro di volta in volta le spese effettuate, e con il convertitore interno di valuta è semplice avere il quadro completo di quanto ― a fin dei conti ― ci è costato il viaggio. A differenza dei competitor, preferisco HandTrip esclusivamente per il convertitore di valute interno. Permette di differenziare **spese cash** da **spese con carta di credito** e, dalle ultime versioni, permette di inserire manualmente le categorie di spesa.
 
 {{< image src="IMG_1418.jpg" alt="Handtrip con Moleskine" >}}
 
@@ -31,7 +31,7 @@ La funzione di Backup consente di avere una copia di riserva delle spese salvate
 
 ## 2. Kiwi.com
 
-Nonostante in occasione dell'[ultimo viaggio in Marocco]({{< ref "/racconti-viaggio/verso-marrakech/catania/index.md" >}}) l'assistenza di Kiwi.com non mi abbia fornito l'assistenza di cui avevo effettivamente bisogno (riconosco però la complessità della situazione e che - onestamente - ci sarebbe stato poco da fare), mi sento di consigliare caldamente l'app di Kiwi.com.  
+Nonostante in occasione dell'[ultimo viaggio in Marocco]({{< ref "/racconti-di-viaggio/verso-marrakech/catania/index.md" >}}) l'assistenza di Kiwi.com non mi abbia fornito l'assistenza di cui avevo effettivamente bisogno (riconosco però la complessità della situazione e che ― onestamente ― ci sarebbe stato poco da fare), mi sento di consigliare caldamente l'app di Kiwi.com.  
 Certe volte i prezzi proposti _non sono aggiornati,_ il che può essere un bene o un male, sia in difetto che in eccesso, ma la possibilità di acquistare l'assicurazione sanitaria con **Axa** direttamente dal pannello del viaggio, a prezzo scontato, **gli scali garantiti kiwi,** la possibilità di poter prenotare più voli con scalo con un'unica prenotazione **me lo fanno consigliare.**
 
 {{< appbox img="https://lh3.googleusercontent.com/ZpMnPiuWZBFaXufESUYx5eIDYc9_txSQK7LNyynfYq6CezmmgFJ_6VeQ5A7oZr4J_Q=s180-rw" name="Kiwi.com: offerte viaggi: voli, auto" package="com.skypicker.main" >}}
@@ -58,7 +58,7 @@ La sua essenzialità e grafica spartana sono il suo punto di forza. Niente fronz
 
 Non ha bisogno di presentazioni. Da quando offre la possibilità di salvare le mappe offline, ha sbaragliato la concorrenza.
 
-{{< appbox img="https://lh3.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA=s180-rw" name="Maps - Navigazione e trasporti" package="com.google.android.apps.maps" >}}
+{{< appbox img="https://lh3.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA=s180-rw" name="Maps ― Navigazione e trasporti" package="com.google.android.apps.maps" >}}
 
 | | | |
 |-|-|-|
@@ -88,7 +88,7 @@ E' il Kiwi.com degli autobus e dei treni.
 |-|-|-|
 |![](https://lh3.googleusercontent.com/5MLmh48KH6Xy8NGHmk0FuCR8imVXf9pHD3JpBHqNagsRpUWV7inqmasDMh2-nwho2A=w720-h310-rw)|![](https://lh3.googleusercontent.com/eaNEYpGH1NwTQfQlfMR17-gp4Zccir9DhuKT5zzI1q6lpQnHbp95otNpkfSwVr0r2Q=w720-h310-rw)|![](https://lh3.googleusercontent.com/vtw1UG_LAwJyaYWBLh4Mm7-e21q4QM2hxqoHhllSws_4tMS_lF4KiY_WpS2krpnjE3I=w720-h310-rw)|
 
-Alcuni anni fa, quando la usavo, segnalava anche le compagnie locali nelle tratte **meno esplorate** dell'[Est Europa]({{< ref "/racconti-viaggio/ucraina/ternopil/memorie-dal-passato/index.md" >}}). Ora uso direttamente Rio2Rome, dalla versione mobile, ma quest'app merita di essere segnalata per il suo passato glorioso
+Alcuni anni fa, quando la usavo, segnalava anche le compagnie locali nelle tratte **meno esplorate** dell'[Est Europa]({{< ref "/racconti-di-viaggio/ucraina/ternopil/memorie-dal-passato/index.md" >}}). Ora uso direttamente Rio2Rome, dalla versione mobile, ma quest'app merita di essere segnalata per il suo passato glorioso
 
 {{< image src="IMG_1416.jpg" alt="DK Guide, Molenkine e Handtrip" caption="Tempo di prenotare">}}
 
@@ -110,7 +110,7 @@ Rimane comunque un pilastro del viaggio. Passare dall'app Kiwi.com a Booking.com
 
 ## 8. AirBnb
 
-Non sono un grand estimatore di AirBnb. A dire il vero, l'ho usato giusto un paio di volte quando - viaggiando con la famiglia - mi ritrovavo a preferire un appartamentino rispetto ad una classica camera d'albergo. Anche AirBnb non ha bisogno di presentazioni. Il mio stile di viaggio mi fa preferire Booking.com a AirBnb.
+Non sono un grand estimatore di AirBnb. A dire il vero, l'ho usato giusto un paio di volte quando ― viaggiando con la famiglia ― mi ritrovavo a preferire un appartamentino rispetto ad una classica camera d'albergo. Anche AirBnb non ha bisogno di presentazioni. Il mio stile di viaggio mi fa preferire Booking.com a AirBnb.
 
 {{< appbox img="https://lh3.googleusercontent.com/BQnvuZR500pg2ulvv3FBmRI93ODz3AjNfbz92hCieuJLvmbGY36AKhETMTTfTDgpPQI=s180-rw" name="Airbnb" package="com.airbnb.android" >}}
 
@@ -120,7 +120,7 @@ Non sono un grand estimatore di AirBnb. A dire il vero, l'ho usato giusto un pai
 
 ## 9. TripAdvisor
 
-Essenziale quando si avvicina ora di pranzo o di cena e si è indecisi se mangiare o no in un certo posto. A [Porto e Nazarè]({{< ref "/racconti-viaggio/portogallo/ti-porto-per-la-terza-volta.md" >}}) **ci ha fatto fare dei pranzi e delle cene eccellenti**. Utile anche in fase di pianificazione, quando si vuole capire quali sono gli hotspot e sightseeing immancabili nell'itinerario (per questo solitamente consulto la guida turistica cartacea del posto - **DK Eyewitness** [tradotta in Italia da **Mondadori**](https://www.mondadoristore.it/guide-viaggio-mondadori/) sono le mie preferite). Peccato che capiterà che per le località meno blasonate la guida non sia disponibile, quindi...TripAdvisor sarà strategico 😃
+Essenziale quando si avvicina ora di pranzo o di cena e si è indecisi se mangiare o no in un certo posto. A [Porto e Nazarè]({{< ref "/racconti-di-viaggio/portogallo/ti-porto-per-la-terza-volta.md" >}}) **ci ha fatto fare dei pranzi e delle cene eccellenti**. Utile anche in fase di pianificazione, quando si vuole capire quali sono gli hotspot e sightseeing immancabili nell'itinerario (per questo solitamente consulto la guida turistica cartacea del posto ― **DK Eyewitness** [tradotta in Italia da **Mondadori**](https://www.mondadoristore.it/guide-viaggio-mondadori/) sono le mie preferite). Peccato che capiterà che per le località meno blasonate la guida non sia disponibile, quindi...TripAdvisor sarà strategico 😃
 
 {{< appbox img="https://lh3.googleusercontent.com/BUq362FJqVrEpn38qwon1QQgFq6oUOTXRo79Lu0zqnc4PNIgOdjkWiQ2mBTJs95JoO8I=s180-rw" name="Tripadvisor Hotel Voli Ristoranti" package="com.tripadvisor.tripadvisor" >}}
 

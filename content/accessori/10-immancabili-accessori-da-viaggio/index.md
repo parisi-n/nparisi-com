@@ -12,14 +12,14 @@ type: "article"
 ---
 
 {{< capital_letter_open >}}
-Quesito spesso non banale tra i viaggiatori, curiosi di sapere quali siano gli accessori immancabili, i gadget must-have da portare con se in viaggio. Spesso le risposte sono tra le più disparate, tra oggetti che possono davvero risultare utili (_e fare la differenza_) ed altri che invece - per il mio modo di viaggiare - sarebbero inutili 🙋.
+Quesito spesso non banale tra i viaggiatori, curiosi di sapere quali siano gli accessori immancabili, i gadget must-have da portare con se in viaggio. Spesso le risposte sono tra le più disparate, tra oggetti che possono davvero risultare utili (_e fare la differenza_) ed altri che invece ― per il mio modo di viaggiare ― sarebbero inutili 🙋.
 {{< capital_letter_close >}}
 
 Qui di seguito, la mia personale lista che mi accompagna ormai già da un po' di anni.
 
 {{< image src="IMG_2364.jpg" alt="Flatlay di vari accessori" type="wide-screen" >}}
 
-## 1. Lucchetto 🔐 - Catena per bici - Cavetto in acciaio (1mt)
+## 1. Lucchetto 🔐 ― Catena per bici ― Cavetto in acciaio (1mt)
 
 Lucchetto di piccole dimensioni, reperibile a pochi euro nel negozio sotto casa, si adatta sia a chiudere la valigia **in albergo** oppure **un armadietto** appena arrivati in ostello.
 
@@ -84,7 +84,7 @@ All'interno ha l'alloggiamento per due card.
 
 ## 6. Portacarte di credito RFID 💳
 
-L'avevo visto per la prima volta in [Giappone]({{< ref "/racconti-viaggio/giappone/tokyo/index.md" >}}) (**patria di questo tipo di accessori**), e non ho tardato ad acquistarne uno simile.
+L'avevo visto per la prima volta in [Giappone]({{< ref "/racconti-di-viaggio/giappone/tokyo/index.md" >}}) (**patria di questo tipo di accessori**), e non ho tardato ad acquistarne uno simile.
 
 Normalmente giro con un'unica carta, all'interno del portafogli, e lascio le restanti che normalmente mi porto dietro in albergo, al sicuro, dentro questo comodo portacard. Il colore lo rende anche facilmente individuabile all'interno della valigia.
 
@@ -131,7 +131,7 @@ Di contro, il portaprofumo acquistato a pochi euro in un noto store cinese mi è
 
 ## 10\. Tappi in cera 🗣
 
-Ne ho provato parecchi, ma quelli in cera Calmor sono i migliori. Una volta poggiati sull'orecchio, tempo alcuni minuti e riscaldati dalla t ermperatura del corpo diventano estremamente maleabili e deformabili e - spinti adeguatamente lungo il canale uditivo, garantiscono un isolamento eccellente.
+Ne ho provato parecchi, ma quelli in cera Calmor sono i migliori. Una volta poggiati sull'orecchio, tempo alcuni minuti e riscaldati dalla t ermperatura del corpo diventano estremamente maleabili e deformabili e ― spinti adeguatamente lungo il canale uditivo, garantiscono un isolamento eccellente.
 
 Se non volete farvi togliere la serenità, certe notti in certi ostelli, sono un acquisto assolutamente consigliato.
 

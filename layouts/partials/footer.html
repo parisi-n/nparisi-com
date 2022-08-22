@@ -1,10 +1,41 @@
 <footer id="site-footer" class="site-footer" role="contentinfo">
-    <div class="design-credit">
+    <div class="recap-footer design-credit">
+
+        {{ $nations_list := getJSON "data/world_nation_list.json" }}
+        {{ $total_posts := sub ( len ( where .Site.Pages "Type" "article" ) ) ( len ( where ( where .Site.Pages "Type" "article" ) ".Params.categories" "intersect" ( slice "quote" ) ) ) }}
+        
+        
+        <div title="Attualmente sono in Italia">
+            <p class="icon"><i class="fas fa-location-arrow"></i></p>
+            <p class="icon_title">Italia</p>
+        </div>
+        
+        <div title="{{ $nations_list | len }} stati visitati">
+            <p class="icon"><i class="fas fa-globe-africa"></i></p>
+            <p class="icon_title">{{ $nations_list | len }} nazioni</p>
+        </div>
+        
+        <div title="{{ $total_posts }} post scritti in totale">
+            <p class="icon"><i class="fas fa-file-alt"></i></p>
+            <p class="icon_title">{{ $total_posts }} post</p>
+        </div>
+        
+        <div title="Più di 500 foto scattate in giro per il mondo">
+            <p class="icon"><i class="fas fa-camera"></i></p>
+            <p class="icon_title">500+ foto</p>
+        </div>
+    </div>
+    
+    <hr />
+    
+    <div class="design-credit" style="padding: 2.16rem 2.13rem">
+        
         {{ $copyright := index (.Site.Params.copyright) 0 }}
         {{ $year := now.Format "2006" }}
 
         <p style="opacity: 1.8">{{ replace $copyright "YEAR" $year | markdownify }}</p>
         <p style="opacity: 0.3; font-size: 10pt !important;">{{ index (.Site.Params.copyright) 1 |  markdownify }}</p>
         <p style="opacity: 1.8; font-size: 10pt !important;">{{ index (.Site.Params.copyright) 2 |  markdownify }}</p>
+
     </div>
 </footer>

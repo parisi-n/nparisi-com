@@ -23,7 +23,7 @@ Nella cultura italiana è radicato il concetto per cui il medico deve fare il me
 Il medico giapponese ha invece spesso un background _innovativo_ imprescindibile
 dato dalla società in cui vive che lo condiziona nelle scelte e nell’operato.
 
-Un esempio? Il coordinatore ed innovatore dell’EMR – Electronic Medical Records - (autore di un libro che presenterò nel prossimo articolo) dell’ospedale in cui ho lavorato era un cardiologo.
+Un esempio? Il coordinatore ed innovatore dell’EMR – Electronic Medical Records ― (autore di un libro che presenterò nel prossimo articolo) dell’ospedale in cui ho lavorato era un cardiologo.
 Da 20 anni, si occupa del reparto tecnologico ospedaliero, occupandosi di cucire e fare il bridging tra settore ingegneristico/informatico e medico.
 
 JAVA e PHP non sono solo nomi lontani: nel loro continuo studiare, trovano spazio anche questi argomenti _nerd_.

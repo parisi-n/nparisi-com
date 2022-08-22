@@ -1,34 +1,39 @@
 {
     "array" : [
         {
+            "image" : "bodo_cover.jpg" ,
+            "text_title" : "Norvegia // L'imprevisto di Bodø" ,
+            "url" : "racconti-di-viaggio/norvegia/day-6-bodo/"
+        } ,
+        {
             "image" : "lavik_cover.jpg" ,
             "text_title" : "Norvegia // Il Sognefjord" ,
-            "url" : "racconti-viaggio/norvegia/day-5-sognefjord/"
+            "url" : "racconti-di-viaggio/norvegia/day-5-sognefjord/"
         } ,
         {
             "image" : "preikestolen_cover.jpg" ,
             "text_title" : "Norvegia // Preikestolen" ,
-            "url" : "racconti-viaggio/norvegia/day-4-preikestolen/"
+            "url" : "racconti-di-viaggio/norvegia/day-4-preikestolen/"
         } ,
         {
             "image" : "stavanger_cover.jpg" ,
             "text_title" : "Norvegia // Stavanger" ,
-            "url" : "racconti-viaggio/norvegia/day-3-stavanger/"
+            "url" : "racconti-di-viaggio/norvegia/day-3-stavanger/"
         } ,
         {
             "image" : "stavanger_cover.jpg" ,
             "text_title" : "Norvegia // Trolltunga" ,
-            "url" : "racconti-viaggio/norvegia/day-2-odda-trolltunga/"
+            "url" : "racconti-di-viaggio/norvegia/day-2-odda-trolltunga/"
         } ,
         {
             "image" : "cover_bergen.jpg" ,
             "text_title" : "Norvegia // Bergen" ,
-            "url" : "racconti-viaggio/norvegia/day-1-bergen/"
+            "url" : "racconti-di-viaggio/norvegia/day-1-bergen/"
         } ,
         {
             "image" : "norway_day0_cover.jpg" ,
             "text_title" : "Norvegia: sulla via del Nord // Itinerario e preparativi" ,
-            "url" : "racconti-viaggio/norvegia/day-0-sulla-via-del-nord/"
+            "url" : "racconti-di-viaggio/norvegia/day-0-sulla-via-del-nord/"
         } ,
         {
             "image" : "curve-cryptocom-cards-cover.jpg" ,
@@ -38,22 +43,22 @@
         {
             "image" : "cover-bled-lake.jpg" ,
             "text_title" : "Un week-end al lago: Bled e Ljubljana" ,
-            "url" : "racconti-viaggio/slovenia/ljubljana-e-bled/"
+            "url" : "racconti-di-viaggio/slovenia/ljubljana-e-bled/"
         } ,
         {
             "image" : "cover-tallinn.jpg" ,
             "text_title" : "Tallinn: the Times we Had // Ep. 2" ,
-            "url" : "racconti-viaggio/tallinn-riga/ep-2-the-times-we-had/"
+            "url" : "racconti-di-viaggio/tallinn-riga/ep-2-the-times-we-had/"
         } ,
         {
             "image" : "cover-chernobyl-pripyat.jpg" ,
             "text_title" : "Day-tour nella città post-apocalitica: Chernobyl e Pripyat // Ep. 3" ,
-            "url" : "racconti-viaggio/ucraina/kiev/ep-3-tour-chernobyl/"
+            "url" : "racconti-di-viaggio/ucraina/kiev/ep-3-tour-chernobyl/"
         } ,
         {
             "image" : "20190927_192156.jpg" ,
             "text_title" : "Georgia-Azerbaijan // Night train Tbilisi-Baku" ,
-            "url" : "racconti-viaggio/georgia-azerbaijan/day-5-night-train/"
+            "url" : "racconti-di-viaggio/georgia-azerbaijan/day-5-night-train/"
         }
     ]
 }

@@ -30,7 +30,7 @@ E ciò mi fa pensare al progetto “fascicolo sanitario” che nel silenzio e ne
 
 Applicazioni nel piccolo-medio contesto potrebbero essere quelle di un laboratorio analisi che
 mette online i risultati laboratoristici, un centro di radiodiagnostica che
-mette online i referti - cose che in alcune realtà locali già si fanno da tempo
+mette online i referti ― cose che in alcune realtà locali già si fanno da tempo
 e con tecnologie più economiche e più logiche anche ai non addetti.
 
 Blockchain trova la sua forza dove servono garanzie di autenticità dell’evento che si registra: banche, i notai etc.

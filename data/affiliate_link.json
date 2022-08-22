@@ -239,6 +239,10 @@
             "url" : "https://amzn.to/3dFoOwS"
         } ,
         {
+            "refer" : "m50-battery-pack" ,
+            "url" : "https://amzn.to/3PGyqow"
+        } ,
+        {
             "refer" : "manfrotto-tripod-small" ,
             "url" : "https://amzn.to/3bYtKwt"
         } ,
@@ -261,6 +265,10 @@
         {
             "refer" : "norway-feltrinelli" ,
             "url" : "https://www.feltrinellieditore.it/opera/opera/norvegia-1/"
+        } ,
+        {
+            "refer" : "sovietistan-book" ,
+            "url" : "https://amzn.to/3dJeC6D"
         }
     ]
 }

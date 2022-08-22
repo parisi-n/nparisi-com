@@ -12,7 +12,7 @@ type: "article"
 ---
 
 {{< capital_letter_open >}}
-Son rimasto parecchi giorni a pensare se fosse o no il caso di scrivere un articolo tanto forte. Forte perchè - a giudicare dal titolo - sarebbe un inno contro il progresso, contro la tecnologia, e quindi un po' anche contro il nostro "essere digitali".
+Son rimasto parecchi giorni a pensare se fosse o no il caso di scrivere un articolo tanto forte. Forte perchè ― a giudicare dal titolo ― sarebbe un inno contro il progresso, contro la tecnologia, e quindi un po' anche contro il nostro "essere digitali".
 Eppure, negli ultimi _9 mesi_ di uso intenso del {{< affiliate_link "kobo-clara-hd" "Kobo Clara HD" >}})** me ne sono quasi del tutto convinto. Ed è con un po' di amaro in bocca, che lo dico e scrivo queste parole.
 {{< capital_letter_close >}}
 
@@ -54,18 +54,18 @@ Il processo di astrazione ed elaborazione dell'informazione necessita di tempo, 
 
 Per questo, di tanto in tanto, mi faccio un regalo: se un libro ebook mi è davvero piaciuto, **vado in libreria e lo acquisto**.
 
-> L'unico problema (che mi fa sentire un po' stolto, a sottolinearlo) - è che spesso pago due volte lo stesso libro. **Imparare ha un costo,** per quanto l'era del digitale ci abbia fatto credere che **possiamo sapere tutto subito e gratis**.  
+> L'unico problema (che mi fa sentire un po' stolto, a sottolinearlo) ― è che spesso pago due volte lo stesso libro. **Imparare ha un costo,** per quanto l'era del digitale ci abbia fatto credere che **possiamo sapere tutto subito e gratis**.  
 > Sotto l'ombrellone, il Kobo. Nella scrivania e nella libreria, un libro.
 
 ## E per una lettura rilassante?
 
-Per una lettura rilassante, senza impegno e da spiaggia - o campeggio - le cose cambiano notevolmente.
+Per una lettura rilassante, senza impegno e da spiaggia ― o campeggio ― le cose cambiano notevolmente.
 
 L'ebook reader è più indicato per letture sotto l'ombrellone, rilassanti e senza impegno rispetto ad un uso intenso per studio.
 
 * * *
 
-Le foto risalgono a **quest'ultima estate** trascorsa sulle bellissime coste sarde, mentre - sotto l'ombrellone - approfondivo l'argomento BigData e Data science.  
-In questo senso - se siete interessati all'argomento e state muovendo i primi passi - vi consiglio la lettura di [questo post]({{< ref "/lifestyle/perche-ho-scelto-r/index.md" >}}) sulla programmazione R.
+Le foto risalgono a **quest'ultima estate** trascorsa sulle bellissime coste sarde, mentre ― sotto l'ombrellone ― approfondivo l'argomento BigData e Data science.  
+In questo senso ― se siete interessati all'argomento e state muovendo i primi passi ― vi consiglio la lettura di [questo post]({{< ref "/lifestyle/perche-ho-scelto-r/index.md" >}}) sulla programmazione R.
 
 E voi? Per cosa usate il vostro ebook reader di fiducia?

@@ -59,11 +59,11 @@ Sfortunatamente la leva che chiude la gabbia e la cupola è collocata esattament
 
 {{< image src="IMG_1595.jpg" alt="Diversa inquadratura degli accessori" >}}
 
-Merito anche della grossa cupola di 15cm di diametro, il tutto galleggia. Il manico - essendo vuoto anch'esso - però non stabilizza il galleggiamento della cupola e fa si che, se lasciata libera di muoversi, **ruoti a destra e a sinistra** secondo le onde.
+Merito anche della grossa cupola di 15cm di diametro, il tutto galleggia. Il manico ― essendo vuoto anch'esso ― però non stabilizza il galleggiamento della cupola e fa si che, se lasciata libera di muoversi, **ruoti a destra e a sinistra** secondo le onde.
 
 Tutti i video e le foto sono stati realizzati con una **Go Pro Hero 5 Black**, se non diversamente specificato.
 
-{{< vimeo src="416346573" type="vertical-4x5" caption="Con la Dome - Vacanze in Sardegna" >}}
+{{< vimeo src="416346573" type="vertical-4x5" caption="Con la Dome ― Vacanze in Sardegna" >}}
 
 A cosa serve? **A fare foto e video sott'acqua.** La sua funzionalità potrebbe essere fuorviante.  
 La maggior parte delle action cam, infatti, vengono vendute con la certificazione **IP67** o con un **piccolo scafandro** che ne permetterebbe le immersioni senza problemi.
@@ -85,13 +85,13 @@ Grazie alla Dome, inoltre, è possibile fare sia video sia foto scenografiche co
 
 Senza cupola infatti non è possibile ottenere una chiara demarcazione del pelo dell'acqua: è necessaria la cupola d'aria che allontani l'interfaccia tra aria ed acqua per ottenere una netta demarcazione; in questo modo la zona è più netta perchè la lente riesce a metterla a fuoco meglio rispetto ad essere _incollata al vetrino della Go Pro._
 
-{{< external_link "https://www.spotmydive.com/en/news/gopro-dome-housing-for-split-underwater-photography" "Un sito inglese" >}} - per rendere meglio il concetto - fa l'esempio con una penna: prendete una penna, posizionatela orizzontale di fronte ad un occhio (l'altro chiudetelo) e provate a mettere a fuoco quel che sta sopra e quel che sta sotto. Sarà possibile, certo, ma la qualità sarà scadente. Man mano che allontanerete la penna dall'occhio, la superficie al di sopra della penna da quella al di sotto sarà via via sempre più chiara.
+{{< external_link "https://www.spotmydive.com/en/news/gopro-dome-housing-for-split-underwater-photography" "Un sito inglese" >}} ― per rendere meglio il concetto ― fa l'esempio con una penna: prendete una penna, posizionatela orizzontale di fronte ad un occhio (l'altro chiudetelo) e provate a mettere a fuoco quel che sta sopra e quel che sta sotto. Sarà possibile, certo, ma la qualità sarà scadente. Man mano che allontanerete la penna dall'occhio, la superficie al di sopra della penna da quella al di sotto sarà via via sempre più chiara.
 
 E questo stesso processo si applica alla lente della nostra Go Pro.
 
-Si aggiunga - poi - l'effetto di distorsione dell'immagine che potrebbe venire a crearsi inquadrando gli oggetti sopra la superficie da quelli sotto. Questa semplice cupola evita tutto ciò portando le foto ed i video marini **ad un livello superiore.**
+Si aggiunga ― poi ― l'effetto di distorsione dell'immagine che potrebbe venire a crearsi inquadrando gli oggetti sopra la superficie da quelli sotto. Questa semplice cupola evita tutto ciò portando le foto ed i video marini **ad un livello superiore.**
 
-Se questo non bastasse, su alcuni gruppo Facebook alcuni utenti hanno sperimentato - soprattu tto con Go Pro 5, alcune infiltrazioni d'acqua dovute al fatto che col tempo le guarnizioni di tenuta stagna hanno ceduto con conseguente danno all'action camera.  
+Se questo non bastasse, su alcuni gruppo Facebook alcuni utenti hanno sperimentato ― soprattu tto con Go Pro 5, alcune infiltrazioni d'acqua dovute al fatto che col tempo le guarnizioni di tenuta stagna hanno ceduto con conseguente danno all'action camera.  
 **Un motivo in più per fare uso della Dome.**
 
 * * *

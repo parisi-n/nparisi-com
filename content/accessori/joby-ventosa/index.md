@@ -3,7 +3,7 @@ title: "Joby: la ventosa che attacca (quasi) ovunque"
 date: "2019-09-02"
 image: "images/GOPR3957.jpg"
 
-summary : "Prova di forza per il Joby ventosa che - fissato sull scafo di un gommone Zar - ha sfidato le onde in navigazione e ne è uscita vincitrice."
+summary : "Prova di forza per il Joby ventosa che ― fissato sull scafo di un gommone Zar ― ha sfidato le onde in navigazione e ne è uscita vincitrice."
 categories : [ "accessori" ]
 tags : [ "blog" ]
 
@@ -14,7 +14,7 @@ type: "article"
 {{< vimeo src="416347089" type="horizontal" caption="Timelapse dalla prua di uno Zar in navigazione nelle acque di punta Sa schivoni" >}}
 
 {{< capital_letter_open >}}
-Joby è una marca americana che produce supporti per fotocamere e telefoni. Ho avuto a che fare per la prima volta con questa marca nel 2017 [durante la mia permanenza in Giappone]({{< ref "/racconti-viaggio/giappone/oltre-tokyo/index.md" >}}): cercavo un gorillapod per la Go Pro Hero 5 Black che mi permettesse non solo di farmi qualche autoscatto ma anche mi permettesse versatilità e garanzia.
+Joby è una marca americana che produce supporti per fotocamere e telefoni. Ho avuto a che fare per la prima volta con questa marca nel 2017 [durante la mia permanenza in Giappone]({{< ref "/racconti-di-viaggio/giappone/oltre-tokyo/index.md" >}}): cercavo un gorillapod per la Go Pro Hero 5 Black che mi permettesse non solo di farmi qualche autoscatto ma anche mi permettesse versatilità e garanzia.
 Optai per quello che all'epoca era l'unico Gorillapod con i piedini magnetici, per poter fissare la Go Pro liberamente su qualsiasi superficie anche verticale a patto fosse magnetica.  
 Ma del Gorillapod, magari, parlerò un'altra volta.
 {{< capital_letter_close >}}
@@ -39,8 +39,8 @@ Una volta stretta saldamente la manopolina centrale che blocca gli snodi superio
 
 {{< image src="IMG_2101.jpg" alt="Joby ventosa ancorata allo scafo di un Formenti Forsea Zar" >}}
 
-Quel che temevo di più, però, era che la ventosa non reggesse alle onde - e magari in corsa con motori al massimo - si inabissasse con la Go Pro.  
-Non per mancanza di fiducia, ma come si vede dal video, ho deciso di prendermi il sicuro - tra vedere e non vedere - e legare la Go Pro con un laccio.  
+Quel che temevo di più, però, era che la ventosa non reggesse alle onde ― e magari in corsa con motori al massimo ― si inabissasse con la Go Pro.  
+Non per mancanza di fiducia, ma come si vede dal video, ho deciso di prendermi il sicuro ― tra vedere e non vedere ― e legare la Go Pro con un laccio.  
 Il sistema a ventosa con sistema di **lock** tramite ghiera garantisce un buon feedback tale che ci si può rendere conto subito in caso la ventosa sia mal posizionata o non abbia aderito alla superficie.
 
 {{< vimeo src="416346135" type="vertical-9x16" caption="In corsa" >}}

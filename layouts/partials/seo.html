@@ -15,7 +15,7 @@
 
 {{ $img := (cond ( eq .Type "article") ( ( ( printf "%s" ( $data.Get "cover_thumbnail_link" ) ) ) ) ( .Site.Params.image | absURL ) ) -}}
 
-<title>{{ .Title }} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}</title>
+<title>{{if $.IsHome}}{{ .Title }}{{else}}{{ humanize .Title }}{{end}} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}</title>
 <meta name="application-name" content="{{ humanize .Title }} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}" />
 <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else if .IsPage}}{{ .Params.summary }}{{else}}{{ .Site.Params.Description }}{{ end }}" />
 <meta name="author" content="{{ humanize .Site.Params.author }}" /> 

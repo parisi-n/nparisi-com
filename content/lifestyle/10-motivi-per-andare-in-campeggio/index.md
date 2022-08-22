@@ -12,7 +12,7 @@ type: "article"
 ---
 
 {{< capital_letter_open >}}
-In verità i motivi per fare camping nel periodo estivo ed in aree attrezzate - almeno una volta l'anno - sarebbero più di 10.
+In verità i motivi per fare camping nel periodo estivo ed in aree attrezzate ― almeno una volta l'anno ― sarebbero più di 10.
 Quest'anno per me è **speciale.**  
 Proprio per questo, ho deciso di fare camping in modo minimale. Non ho fatto nemmeno foto, limitandomi a godere del momento.
 {{< capital_letter_close >}}
@@ -43,7 +43,7 @@ Di nuovo **Alghero**
 
 ### 2014
 
-E' il momento di **Torre Grande** - in occasione della manifestazione **Mondo Ichnusa.**
+E' il momento di **Torre Grande** ― in occasione della manifestazione **Mondo Ichnusa.**
 
 ### 2018
 
@@ -82,7 +82,7 @@ Quest'anno mi son limitato ad un caricabatterie, il mio fedele _Samsung Galaxy N
 
 ### 5. Poco è molto
 
-Un tetto sotto cui dormire, un tavolo su cui mangiare e riunirsi, **gli amici, ed una buona birra fresca.** Perchè - caschi il mondo - ma noi un minifrigo l'abbiamo sempre.
+Un tetto sotto cui dormire, un tavolo su cui mangiare e riunirsi, **gli amici, ed una buona birra fresca.** Perchè ― caschi il mondo ― ma noi un minifrigo l'abbiamo sempre.
 
 {{< image src="20140725_195040-1.jpg" alt="Gazebo" >}}
 

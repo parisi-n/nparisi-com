@@ -1,0 +1,100 @@
+{
+    "europa" : [
+                    {
+                        "title" :   "Norvegia" ,
+                        "subtitle"  :   "Da Oslo alle Lofoten" ,
+                        "href"  :   "norvegia" ,
+                        "url"   :   "racconti-di-viaggio/norvegia/day-1-bergen" ,
+                        "img"   :   "cover_bergen.jpg" ,
+                        "series"    :   1
+                    } ,
+                    {
+                        "title" :   "Ucraina" ,
+                        "subtitle"  :  "Kiyv, Chernobyl e Ternopil" ,
+                        "href"  :   "ucraina" ,
+                        "url"   :   "racconti-di-viaggio/ucraina/kiev/ep-1-passeggiata-per-kiev" ,
+                        "img"   :   "IMG_7308.jpg" ,
+                        "series"    :   1
+                    } ,
+                    {
+                        "title" :   "Finlandia" ,
+                        "subtitle"  :   "Helsinki e la Lapponia" ,
+                        "href"  :   "racconti-di-viaggio/lapponia/verso-lapponia-casa-di-babbo-natale" ,
+                        "url"   :   "racconti-di-viaggio/lapponia/verso-lapponia-casa-di-babbo-natale" ,
+                        "img"   :   "20151129_140757.jpg" ,
+                        "zoom_v"  :   1
+                    } ,
+                    {
+                        "title" :   "Bulgaria" ,
+                        "subtitle"  :   "Sofia" ,
+                        "href"  :   "racconti-di-viaggio/bulgaria/un-po-piu-a-est-sofia-plovdiv" ,
+                        "url"   :   "racconti-di-viaggio/bulgaria/un-po-piu-a-est-sofia-plovdiv" ,
+                        "img"   :   "20171101_124838.jpg" ,
+                        "zoom_h"    :   1
+                    } ,
+                    {
+                        "title" :   "Portogallo" ,
+                        "subtitle"  :   "Porto" ,
+                        "href"  :   "racconti-di-viaggio/portogallo/ti-porto-per-la-terza-volta" ,
+                        "url"   :   "racconti-di-viaggio/portogallo/ti-porto-per-la-terza-volta" ,
+                        "img"   :   "20190107_180835-1.jpg"
+                    } ,
+                    {
+                        "title" :   "Slovenia" ,
+                        "subtitle"  :   "Lublijana e il Lago di Bled" ,
+                        "href"  :   "racconti-di-viaggio/slovenia/ljubljana-e-bled" ,
+                        "url"   :   "racconti-di-viaggio/slovenia/ljubljana-e-bled" ,
+                        "img"   :   "bled-island-2.jpg"
+                    } ,
+                    {
+                        "title" :   "Lettonia-Estonia" ,
+                        "subtitle"  :   "Tallinn e Riga" ,
+                        "href"  :   "repubbliche-baltiche" ,
+                        "url"   :   "racconti-di-viaggio/tallinn-riga/ep-2-the-times-we-had" ,
+                        "img"   :   "cover-tallinn.jpg" ,
+                        "series"    :   1
+                    } ,
+                    {
+                        "title" :   "Ungheria-Serbia" ,
+                        "subtitle"  :   "Budapest e Beograd" ,
+                        "href"  :   "ungheria-e-serbia" ,
+                        "url"   :   "racconti-di-viaggio/budapest/ep-1-cosa-fare-dove-andare" ,
+                        "img"   :   "IMG_6054.jpg" ,
+                        "series"    :   1
+                    } ,
+                    {
+                        "title" :   "Italia" ,
+                        "subtitle"  :   "Catania" ,
+                        "href"  :   "racconti-di-viaggio/verso-marrakech/catania" ,
+                        "url"   :   "racconti-di-viaggio/verso-marrakech/catania" ,
+                        "img"   :   "IMG_0290.jpg" ,
+                        "zoom_v"  :   1
+                    }
+                ],
+                        
+    "mondo" : [ 
+                    {
+                        "title" :   "Georgia-Azerbaijan" ,
+                        "subtitle"  :   "Da Tbilisi a Baku" ,
+                        "href"  :   "georgia-e-azerbaijan" ,
+                        "url"   :   "racconti-di-viaggio/georgia-azerbaijan/day-4-batumi" ,
+                        "img"   :   "IMG_3999.jpg" ,
+                        "series"    :   1
+                    } ,
+                    {
+                        "title" :   "Sud Corea" ,
+                        "subtitle"  :   "Seoul" ,
+                        "href"  :   "racconti-di-viaggio/sud-corea/seoul" ,
+                        "url"   :   "racconti-di-viaggio/sud-corea/seoul" ,
+                        "img"   :   "Seoul-1-of-1.jpg"
+                    } ,
+                    {
+                        "title" :   "Giappone" ,
+                        "subtitle" : "Da Tokyo a Miyazaki" ,
+                        "href"  :   "giappone" ,
+                        "url"   :   "racconti-di-viaggio/giappone/oltre-tokyo" ,
+                        "img"   :   "20171021_173513-2.jpg" ,
+                        "series"    :   1
+                    }
+                ]
+}

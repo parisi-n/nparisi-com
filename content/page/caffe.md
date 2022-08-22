@@ -8,7 +8,7 @@ Il contenuto di questo blog è frutto della mia passione, della creatività, del
 
 Mi piace tenere una bacheca, una cronistoria delle esperienze all'estero, una raccolta fotografica che a distanza di tempo mi faccia dire "Wow, son stato anche qua, non me lo ricordavo".
 
-Mi da l'idea che le cose durino un po' più dell'istante in cui ci ritroviamo - inconsapevolmente - a consumarle.
+Mi da l'idea che le cose durino un po' più dell'istante in cui ci ritroviamo ― inconsapevolmente ― a consumarle.
 
 Apprezzo quando un utente, che potrebbe entrare ed uscire dal sito dopo averlo "consumato" senza lasciare traccia, si prende la briga di scrivermi un'email anche solo per una chiacchierata, per chiedermi un consiglio – o per darmelo.
 
@@ -17,7 +17,7 @@ Trovo che il processo di scrittura su un blog sia in qualche modo "catartico", p
 
 ## Consigli per gli acquisti
 
-In più momenti nelle pagine di questo blog consiglio degli accessori per me essenziali oppure un acquisto piuttosto che un altro – rimandando con un link all'oggetto in vendita su varie piattaforme d'acquisto. I vari link **sono referral** e dall'acquisto correlato al mio consiglio mi verrà data una piccola % sul vostro acquisto - in modo del tutto automatico e *senza alcun rincaro per voi*.
+In più momenti nelle pagine di questo blog consiglio degli accessori per me essenziali oppure un acquisto piuttosto che un altro – rimandando con un link all'oggetto in vendita su varie piattaforme d'acquisto. I vari link **sono referral** e dall'acquisto correlato al mio consiglio mi verrà data una piccola % sul vostro acquisto ― in modo del tutto automatico e *senza alcun rincaro per voi*.  
 Ho un lavoro full-time, bloggo per passione ed il mio fine non è vendere alcunchè.
 
 Se trovi interessante le informazioni contenute in questo blog, scrivimi una mail. Mi fara' piacere.

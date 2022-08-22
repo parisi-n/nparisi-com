@@ -41,19 +41,19 @@ Alcuni rispondono ironicamente: la lettera tra la Q e la S. Ma non solo.
 > 
 > _via {{< external_link "https://it.wikipedia.org/wiki/R_(software)" "Wikipedia" >}}_
 
-Tra i proposito del nuovo anno c'era quello finalmente di mettermi sotto in un campo - quello dell'analisi dei dati - in forte ascesa rispetto al passato, ma contemporaneamente complesso ed poco documentato per quel che riguarda l'applicazione in campo sanitario. Già ci avevo provato in passato, ma con scarsa applicazione e con scarsi risultati.
+Tra i proposito del nuovo anno c'era quello finalmente di mettermi sotto in un campo ― quello dell'analisi dei dati ― in forte ascesa rispetto al passato, ma contemporaneamente complesso ed poco documentato per quel che riguarda l'applicazione in campo sanitario. Già ci avevo provato in passato, ma con scarsa applicazione e con scarsi risultati.
 
 ## Risorse per lo studio
 
 Carico e deciso, quindi, ho di nuovo settacciato il web alla ricerca di risorse che potessero essere utili lungo il percorso di apprendimento. Ho volutamente tralasciato i videocorsi che millantano rapidi e facili successi sia perchè non avrei materialmente il tempo di seguire un videocorso sia perchè trovo la didattica cartacea molto più facilmente fruibile nelle varie situazioni e nei ritagli di tempo.
 
-Online sono disponibili numerosissimi siti (ufficiali e non) a cui rimando per una più completa comprensione dell'argomento ma che - dal mio punto di vista - hanno più funzione di "prontuario" piuttosto che didattica ed esplicativa.
+Online sono disponibili numerosissimi siti (ufficiali e non) a cui rimando per una più completa comprensione dell'argomento ma che ― dal mio punto di vista ― hanno più funzione di "prontuario" piuttosto che didattica ed esplicativa.
 
 Per questo ho stilato un elenco dei testi che sto trovando utili per lo studio.
 
 ### Statistical analysis with R for dummies
 
-Immancabile il libro della famosissima saga "for Dummies" - a malincuore devo ammettere che due [eccetto uno]({{< ref "/accessori/perche-non-prendere-kobo/index.md" >}})/) non sono mai riuscito a finire un loro libro. Trovo la prima metà del libro estremamente entusiasmante, quasi avvincente. L'autore vi spiegherà prima la statistica che c'è alla base, poi la applicherà su R con esempi pratici.
+Immancabile il libro della famosissima saga "for Dummies" ― a malincuore devo ammettere che due [eccetto uno]({{< ref "/accessori/perche-non-prendere-kobo/index.md" >}})/) non sono mai riuscito a finire un loro libro. Trovo la prima metà del libro estremamente entusiasmante, quasi avvincente. L'autore vi spiegherà prima la statistica che c'è alla base, poi la applicherà su R con esempi pratici.
 
 {{< image src="20200123_094524.jpg" alt="Statistical Analysis with R" >}}
 
@@ -71,7 +71,7 @@ Il blog della Prof.ssa Vardanega è sicuramente un ottimo punto di partenza per 
 
 Annualmente viene tenuto il corso di Laboratorio di Analisi dei Dati con R presso l'Università di Teramo, tra Febbraio e Maggio.
 
-E' disponibile anche il libro omonimo - Ricerca sociale in R - di cui però non è disponibile un estratto online (è disponibile a Gennaio 2020 solo _l'indice_ ed il _capitolo introduttivo_). Rimane da chiarire dunque se anche il libro sia organizzato come il sito - a mo' di wiki in italiano delle funzioni R - o ci siano affiancate anche nozioni di statistica.
+E' disponibile anche il libro omonimo ― Ricerca sociale in R ― di cui però non è disponibile un estratto online (è disponibile a Gennaio 2020 solo _l'indice_ ed il _capitolo introduttivo_). Rimane da chiarire dunque se anche il libro sia organizzato come il sito ― a mo' di wiki in italiano delle funzioni R ― o ci siano affiancate anche nozioni di statistica.
 
 **Lingua:** {{< emojy ":it:" >}}  
 **Costo:** free/paid  
@@ -79,7 +79,7 @@ E' disponibile anche il libro omonimo - Ricerca sociale in R - di cui però non 
 
 ### Analisi dei dati in R
 
-Libro completissimo - quello del Prof. Bosselon: discorsivo, sembra di avere a che fare con un insegnante privato che da ripetizioni 1:1, tratta di un argomento ampio e a tratti complesso con semplicità - come una chiacchierata tra amici.
+Libro completissimo ― quello del Prof. Bosselon: discorsivo, sembra di avere a che fare con un insegnante privato che da ripetizioni 1:1, tratta di un argomento ampio e a tratti complesso con semplicità ― come una chiacchierata tra amici.
 
 Va bene sia per iniziare e capire se R è quello che fa per voi sia per approfondire. I primi capitoli sono illustrativi e spiegano con una carrellate veloce ma puntuale le principali funzioni R che potranno tornare utili in fase di applicazione della teoria.
 
@@ -98,7 +98,7 @@ Per chi come me ha bisogno di un ripasso di statistica, qui di seguito alcune fo
 ### Quaderno di epidemiologia
 
 Non proprio attinente ad R, ma questa risorsa curata dal Prof. Bottarelli non solo è utile ma anche orientata verso lo studio della statistica con taglio epidemiologico/sanitario. Una risorsa tutta italiana, unica nel suo genere, online dal 1998 e costantemente aggiornata.  
-Il sito è in vecchio stile - ma quel che conta è il contenuto.
+Il sito è in vecchio stile ― ma quel che conta è il contenuto.
 
 **Lingua:**  {{< emojy ":it:" >}}  
 **Costo:** free  
@@ -118,7 +118,7 @@ Appunti di statistica medica curati dal Prof. Ferretti dell'Università degli St
 
 Canale Telegram che di tanto in tanto pubblica tutorial interessanti, strutturati come parte di un corso più ampio:
 
-{{< quote "Unleash the Power of R. This channel offers a Free Series of Top R Programming Tutorials that will ease your way into the Data Science/ML world. P.S. - The Tutorials are arranged with relevant topics next to each other so you can follow them in order." >}}
+{{< quote "Unleash the Power of R. This channel offers a Free Series of Top R Programming Tutorials that will ease your way into the Data Science/ML world. P.S. ― The Tutorials are arranged with relevant topics next to each other so you can follow them in order." >}}
 
 **Lingua:**  {{< emojy ":gb:" >}}  
 **Costo:** free  

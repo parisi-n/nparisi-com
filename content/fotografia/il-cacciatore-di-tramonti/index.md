@@ -13,13 +13,13 @@ type: "article"
 ---
 
 {{< capital_letter_open >}}
-Ogni stagione nell'aria pulita della Sardegna porta con se delle caratteristiche che si riflettono - tra le varie cose - anche sulle sfumature che il **sole** assume al tramonto ☀.  
+Ogni stagione nell'aria pulita della Sardegna porta con se delle caratteristiche che si riflettono ― tra le varie cose ― anche sulle sfumature che il **sole** assume al tramonto ☀.  
 Ho deciso di collezionare tramonti, per regalarli.  
 Un po' come l'innamorato regala stelle alla propria amata. Con la differenza che sono perenni, immutabili, quasi disumane.  
-Il tramonto - invece - è più simile alle persone. Oggi è così, domani chi lo sa. Sicuramente diverso.
+Il tramonto ― invece ― è più simile alle persone. Oggi è così, domani chi lo sa. Sicuramente diverso.
 {{< capital_letter_close >}}
 
-**Non esistono due tramonti uguali - così come non esistono due persone uguali.**
+**Non esistono due tramonti uguali ― così come non esistono due persone uguali.**
 
 {{< html >}}
 <p style="font-size: 24pt !important; font-weight: 800 !important;">
@@ -53,7 +53,7 @@ E quindi, il giorno dopo, di buona lena, mi reco alla Paillotte, posiziono il ca
 
 ## 21/08/2019
 
-Questo è uno dei particolari giorni di fine Agosto in cui - da qualche anno a questa parte - non manca di fare maltempo ⛈.
+Questo è uno dei particolari giorni di fine Agosto in cui ― da qualche anno a questa parte ― non manca di fare maltempo ⛈.
 
 Il cielo si sta preparando e lancia le prime avvisaglie.
 

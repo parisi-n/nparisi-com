@@ -12,7 +12,7 @@ type: "article"
 ---
 
 {{< capital_letter_open >}}
-Spesso trovo due colori. Mi piacciono. Li abbino. Mi piacciono anche da abbinati e - soddisfatto - chiudo l'editor. Dopo un'ora - lo riapro. Guardo l'audace abbinamento, penso che proprio non ci siamo, e vado alla ricerca di due nuovi colori.
+Spesso trovo due colori. Mi piacciono. Li abbino. Mi piacciono anche da abbinati e ― soddisfatto ― chiudo l'editor. Dopo un'ora ― lo riapro. Guardo l'audace abbinamento, penso che proprio non ci siamo, e vado alla ricerca di due nuovi colori.
 Finchè non son capitato su un aereo che mi ha portato in Portogallo.
 {{< capital_letter_close >}}
 
@@ -22,7 +22,7 @@ Finchè non son capitato su un aereo che mi ha portato in Portogallo.
 
 Argomento spesso sottovalutato, eppure non così scontato come potrebbe sembrare.
 
-Nell'ultimo [viaggio a Porto]({{< ref "/racconti-viaggio/portogallo/ti-porto-per-la-terza-volta/index.md" >}}) ho avuto il piacere di visitare la **Libreria** "**Lello"**. Il biglietto di ingresso non è altro che un buono sconto spendibile all'interno per l'acquisto di qualunque libro.
+Nell'ultimo [viaggio a Porto]({{< ref "/racconti-di-viaggio/portogallo/ti-porto-per-la-terza-volta/index.md" >}}) ho avuto il piacere di visitare la **Libreria** "**Lello"**. Il biglietto di ingresso non è altro che un buono sconto spendibile all'interno per l'acquisto di qualunque libro.
 
 {{< image src="IMG_1398.jpg" alt="La copertina è spessa ma flessibile, plastificata" >}}
 
@@ -36,7 +36,7 @@ Tra i pochi in inglese, nascosti tra la miriade in portoghese, lui: {{< affiliat
 
 La nuova grafica del blog, la nuova colorazione, non è altro che il risultato di uno degli abbinamenti proposti.
 
-In passato ho sempre avuto difficoltà nelle scelte grafiche e mi definisco un estremo indeciso quando si parla di estetica. Per la scelta dell'abbinamento cromatico - questa volta - però - non ho avuto alcun dubbio.
+In passato ho sempre avuto difficoltà nelle scelte grafiche e mi definisco un estremo indeciso quando si parla di estetica. Per la scelta dell'abbinamento cromatico ― questa volta ― però ― non ho avuto alcun dubbio.
 
 {{< image src="IMG_1397.jpg" alt="Le pagine al tatto sono piacevoli, scivolose. Sembra di maneggiare una pelette colori" >}}
 

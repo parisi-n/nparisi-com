@@ -1,0 +1,64 @@
+<div class="category-list-container">
+    <div class="entry-header">
+        <h1 class="entry-title">Europa</h1>
+    </div>
+
+    <div style="display: inline-flex; flex-wrap: wrap; margin-top: -3rem; justify-content: center;">
+
+    {{ range $index, $element := .europa }}
+
+        {{ $boardpage := $.outerScope.GetPage ( printf "%s/index.md" .url ) }}
+        {{ $img := printf "images/%s" .img }}
+
+        <div class="destinazione-box">
+        {{ with $boardpage.Resources.GetMatch $img }}
+            {{ $scaled := .Resize "1920x q70" }}
+            <div class="destinazione-box-header {{ if eq (mod $index 2) 0 }}short{{else}}high{{end}}" style="background: url('{{ $scaled.Permalink }}') no-repeat; background-size: cover; background-position: center; {{ if $element.zoom_v }}background-size: 150%{{ else if $element.zoom_h }}background-size: 250%{{end}}">
+                {{ if $element.series }}
+                    <div class="label">Serie</div>
+                {{ end }}
+            </div>
+        {{ end }}
+            <h4>{{ .title }}</h4>
+            <h5>{{ .subtitle }}</h5>
+
+            <div class="button"><a class="more-link" href="{{ .href | absURL }}" alt="Continua a leggere {{ .Title }}" title="Continua a leggere {{ .Title }}">Esplora<span class="screen-reader-text">Questo è un post </span></a></div>
+        </div>
+
+    {{ end }}
+
+    </div>
+
+    <div class="entry-header">
+        <h1 class="entry-title">Asia</h1>
+    </div>
+    
+    <div style="display: inline-flex; flex-wrap: wrap; margin-top: -3rem; justify-content: center;">
+    {{ range $index, $element := .mondo }}
+
+        {{ $boardpage := $.outerScope.GetPage ( printf "%s/index.md" .url ) }}
+        {{ $img := printf "images/%s" .img }}
+
+        <div class="destinazione-box">
+        {{ with $boardpage.Resources.GetMatch $img }}
+            {{ $scaled := .Resize "1920x q70" }}
+            <div class="destinazione-box-header {{ if eq (mod $index 2) 0 }}short{{else}}high{{end}}" style="background: url('{{ $scaled.Permalink }}') no-repeat; background-size: cover; background-position: center;">
+                {{ if $element.series }}
+                    <div class="label">Serie</div>
+                {{ end }}
+            </div>
+        {{ end }}
+            <h4>{{ .title }}</h4>
+            <h5>{{ .subtitle }}</h5>
+
+            <div class="button"><a class="more-link" href="{{ .href | absURL }}" alt="Continua a leggere {{ .Title }}" title="Continua a leggere {{ .Title }}">Esplora<span class="screen-reader-text">Questo è un post </span></a></div>
+        </div>
+
+    {{ end }}
+    </div>
+    
+    <div class="entry-header"></div>
+    
+    <div style="text-align: center; margin: 5rem 0;"><a class="more-link" href="{{ "racconti-di-viaggio/" | absURL }}" alt="Leggi tutti i Racconti di Viaggio" title="Leggi tutti i Racconti di Viaggio">Leggi tutti i Racconti di Viaggio</a></div>
+    
+</div>

@@ -62,18 +62,18 @@ Successivamente ho creato un link di accesso rapido da Explorer, basta seguire i
 
 ## Android e...tablet
 
-Per Android è disponibile l’app sul market che permette di accedere ai vari file anche se - attraverso il browser - è possibile accedervi e gestire ugualmente i files.  
+Per Android è disponibile l’app sul market che permette di accedere ai vari file anche se ― attraverso il browser ― è possibile accedervi e gestire ugualmente i files.  
 Se poi disponete di un Tablet Blackberry Playbook come il sottoscritto, e desiderate accedere ai file dell’usb o dell’sd basterà comunque collegarsi all’indirizzo IP di sopra tramite un file manager adeguato (**ES File Explorer**, per esempio)
 
 {{< appbox img="https://lh3.googleusercontent.com/EaS26k-F0Ud_lgm69YBnEGoApMKg-OyyEeCuP64Un-THPP49FnWdqyvss4ma8Zq8Pzk=s180-rw" name="RAV FileHub" package="ravpower.wd.activities" >}}
 
-A differenza dell'accesso tramite browser - l'app permette la visualizzazione diretta in streaming dei file senza necessità di scaricarli prima nel telefono.
+A differenza dell'accesso tramite browser ― l'app permette la visualizzazione diretta in streaming dei file senza necessità di scaricarli prima nel telefono.
 
 Non male se si è alla ricerca di una precisa foto o video.
 
 ## In viaggio
 
-Il motivo principale per cui ho fatto l’acquisto - come già detto - è per portarlo in viaggio e fare il backup delle foto scattate con la mirrorless e dei video realizzati con la Go Pro giorno dopo giorno. Per tale motivo ho acquistato contestualmente un SanDisk Extreme SSD Portable da 1TB, per avere tanto spazio e viaggiare leggero.
+Il motivo principale per cui ho fatto l’acquisto ― come già detto ― è per portarlo in viaggio e fare il backup delle foto scattate con la mirrorless e dei video realizzati con la Go Pro giorno dopo giorno. Per tale motivo ho acquistato contestualmente un SanDisk Extreme SSD Portable da 1TB, per avere tanto spazio e viaggiare leggero.
 
 {{< image src="IMG_1250.jpg" alt="Switch tra 2.4G e 5G, slot per SD Card, tasto per Backup rapido" caption="SD ⮞ USB: backup rapido" >}}
 

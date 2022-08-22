@@ -13,19 +13,19 @@ type: "article"
 ---
 
 {{< capital_letter_open >}}
-Ho finito di leggere qualche giorno fa {{< affiliate_link "facebook-marketing" "Facebook Marketing" >}} di Chiara Cini - _APOGEO Editore_. Il libro è del 2016. 
+Ho finito di leggere qualche giorno fa {{< affiliate_link "facebook-marketing" "Facebook Marketing" >}} di Chiara Cini ― _APOGEO Editore_. Il libro è del 2016. 
 Al di là della passione per l'antico (questo è il [secondo libro]({{< ref "/libri/blockchain-medicina/index.md" >}})) del 2016 che leggo), verrebbe da chiedersi se un libro scritto due anni e mezzo fa abbia ancora valore e sia da considerarsi utile.  
-Prima di finire di leggerlo ero dell'idea che _si - non fosse più da considerarsi utile se non come cimelio nella libreria._
+Prima di finire di leggerlo ero dell'idea che _si ― non fosse più da considerarsi utile se non come cimelio nella libreria._
 {{< capital_letter_close >}}
 
-**Non per il contenuto del** **libro** - quanto per il fatto che Facebook non sia più da considerarsi appetibile per chi inizia da 0 e vuole farsi conoscere - a meno che non si sia disposti ad investire in pubblicità.
+**Non per il contenuto del** **libro** ― quanto per il fatto che Facebook non sia più da considerarsi appetibile per chi inizia da 0 e vuole farsi conoscere ― a meno che non si sia disposti ad investire in pubblicità.
 
 ## Il libro
 
-Non sono mancati - con mia grande sorpresa - riferimenti a _funnel_ e _storytelling_ _introdotti_ con una semplicità e logicità tale da essere capiti al volo.  
+Non sono mancati ― con mia grande sorpresa ― riferimenti a _funnel_ e _storytelling_ _introdotti_ con una semplicità e logicità tale da essere capiti al volo.  
 Poca teoria veramente da _studiare,_ che per chi non è del campo avrebbe appesantito la lettura rendendola poco scorrevole.
 
-Il libro è più un manuale concreto - con poche teorizzazioni e solo nei primi capitoli. Non parla dell'essenza del marketing in senso stretto, non pontifica a suon di esempi; piuttosto come un manuale _how-to_ spiega passo passo come muoversi su {{< external_link "https://www.facebook.com" "Facebook" >}} (_creazione di una Pagina, di una Campagna e relativo management, suggerimenti sul format, come leggere gli insight etc._) senza farsi mancare qualche esempio pratico con varie immagini allegate che rafforzano quanto l'autrice spiega.
+Il libro è più un manuale concreto ― con poche teorizzazioni e solo nei primi capitoli. Non parla dell'essenza del marketing in senso stretto, non pontifica a suon di esempi; piuttosto come un manuale _how-to_ spiega passo passo come muoversi su {{< external_link "https://www.facebook.com" "Facebook" >}} (_creazione di una Pagina, di una Campagna e relativo management, suggerimenti sul format, come leggere gli insight etc._) senza farsi mancare qualche esempio pratico con varie immagini allegate che rafforzano quanto l'autrice spiega.
 
 ## Può essere utile?
 
@@ -37,4 +37,4 @@ Il problema della targetizzazione potrebbe invece risultare reale soprattutto se
 
 ## Conclusioni
 
-É una lettura da tempo libero,  elementare, rilassante ed utile. **Consigliata**. Può dare spunti interessanti a chi non è del campo ma intende comunque intraprendere questa strada per dare visibilità al proprio servizio. Per questo motivo ho deciso finito il libro di iniziare a leggere {{< affiliate_link "instagram-marketing" "Instagram Marketing" >}} (2018) - sempre della stessa autrice.
+É una lettura da tempo libero,  elementare, rilassante ed utile. **Consigliata**. Può dare spunti interessanti a chi non è del campo ma intende comunque intraprendere questa strada per dare visibilità al proprio servizio. Per questo motivo ho deciso finito il libro di iniziare a leggere {{< affiliate_link "instagram-marketing" "Instagram Marketing" >}} (2018) ― sempre della stessa autrice.
