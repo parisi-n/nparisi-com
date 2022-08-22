@@ -12,7 +12,7 @@
 
         <div class="destinazione-box">
         {{ with $boardpage.Resources.GetMatch $img }}
-            {{ $scaled := .Resize "1920x q70" }}
+            {{ $scaled := .Resize "1920x q50" }}
             <div class="destinazione-box-header {{ if eq (mod $index 2) 0 }}short{{else}}high{{end}}" style="background: url('{{ $scaled.Permalink }}') no-repeat; background-size: cover; background-position: center; {{ if $element.zoom_v }}background-size: 150%{{ else if $element.zoom_h }}background-size: 250%{{end}}">
                 {{ if $element.series }}
                     <div class="label">Serie</div>
