@@ -136,7 +136,7 @@
     article nav a { color: initial !important; }
     .nav-links .current { color: #f4511e !important; }
 
-    .block-image figcaption, .panorama-block-image figcaption, .panorama-block-image .paver__fallbackMessage , .block-video-youtube figcaption, .block-video-vimeo figcaption { color: #8c8c8c; padding-top: 25px; font-family: Source Sans Pro; font-size: 13pt !important; font-variant: small-caps; font-weight: 600 !important; text-transform: lowercase; letter-spacing: 1.25px; text-align: center; }
+    .block-image figcaption, .panorama-block-image figcaption, .paver__fallbackMessage , .block-video-youtube figcaption, .block-video-vimeo figcaption { color: #8c8c8c; padding-top: 25px; font-family: Source Sans Pro; font-size: 13pt !important; font-variant: small-caps; font-weight: 600 !important; text-transform: lowercase; letter-spacing: 1.25px; text-align: center; }
     
     .alignright, .alignleft, .aligncenter, .alignnone, .size-auto, .size-full, .size-large, .size-medium, .size-thumbnail { max-width: 100% !important; }
 
