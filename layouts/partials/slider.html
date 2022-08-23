@@ -9,7 +9,7 @@
                 {{ $img := printf "images/%s" .image }}
 
                 {{ with $boardpage.Resources.GetMatch $img }}
-                    {{ $scaled := .Resize "1920x q70" }}
+                    {{ $scaled := .Resize "1080x q80" }}
 
                     <div style="display: inline-block; vertical-align: middle">
                         <div style="background: url('{{ $scaled.Permalink }}') no-repeat; background-size: cover; background-position: center;" class="slick-image">            
