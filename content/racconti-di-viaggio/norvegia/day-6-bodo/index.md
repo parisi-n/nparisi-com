@@ -28,7 +28,7 @@ Iniziavo così già un altro post ― e come citazione calza a pennello quando l
 {{< capital_letter_open >}}
 Bodø da programma sarebbe dovuta essere una tappa obbligata ma di passaggio: arrivati alle 22.30 all'aeroporto locale ― il nostro _next step_ era quello di spostarci con *tutta calma* nel porto da cui sarebbe partito il traghetto all'1.30 (tre ore dopo) che ci avrebbe portato (in tre ore) a *Moskenes* alle 4.30 della notte.
 
-Lì ci attendeva un'auto noleggiata presso il noleggio locale con cui poi saremmo arrivati al rorbuer prenotato.
+Lì ci attendeva un'auto noleggiata presso il noleggio locale con cui poi saremmo arrivati al rorbu prenotato.
 {{< capital_letter_close >}}
 
 Una notte di spostamenti ― forse un po' azzardati ― ma che mettono quel _quid_ d'avventura avvincente nel viaggio e trasformano degli eventi banali in straordinari.
@@ -43,11 +43,11 @@ Una notte di spostamenti ― forse un po' azzardati ― ma che mettono quel _qui
 
 Il viaggio a bordo dell'*Embraer E190* è stato un po' turbolento ma in linea con lo spirito avventuriero con cui ci approcciavamo a Bodø.
 
-Avvistiamo a Bodø che il sole è già caduto al di là dell'orizzonte ed il cielo è appena illuminato da un timido riverbero dato dalle nuvole imponenti che permettono un non chiaro e misterioso disegno del territorio ― su cui spiccano tra tutto gli immensi e molteplici laghi (qualcuno, come me, penserà: *Lituania?*).
+Arristiamo in prossimità di Bodø che il sole è già caduto al di là dell'orizzonte ed il cielo è appena illuminato da un timido riverbero dato dalle nuvole imponenti che permettono un non chiaro e misterioso disegno del territorio ― su cui spiccano tra tutto gli immensi e molteplici laghi (qualcuno, come me, penserà: *Lituania?*).
 
 L'aeroporto è davvero piccolo e, a tratti, poco curato. Scarno. Ricorda un aeroporto di periferia, senza troppi servizi o fronzoli: il nostro è uno degli ultimi voli ed i negozi sono già tutti chiusi. Il personale è già intento nella pulizia degli interni, obbligandoci a vari spostamenti dei bagagli mentre eravamo intenti a capire come effettivamente fosse più conveniente muoverci.
 
-Chiamo il noleggio auto e chiedo conferma della disponibilità dell'auto (non risponde, se non con un messaggio alcune ore dopo); chiamo il rorbuer: _ci aspettano_.
+Chiamo il noleggio auto e chiedo conferma della disponibilità dell'auto (non risponde, se non con un messaggio alcune ore dopo); chiamo il rorbu: _ci aspettano_.
 
 Fuori ― era già notte.
 E freddo.
@@ -222,7 +222,7 @@ I video su _youtube_, soprattutto nel periodo invernale, confermano i nostri sos
 
 Arriviamo a Moskenes sul tardi, poco prima delle 20, giusto in tempo per prendere l'auto a noleggio.
 
-Il buio non ci fa rendere conto di dove effettivamente siamo; prendiamo l'auto e ci rechiamo al rorbuer ― distante pochi km di strade serpiginose e strette ― illuminate dai fari stanchi e fiochi della macchina.
+Il buio non ci fa rendere conto di dove effettivamente siamo; prendiamo l'auto e ci rechiamo al rorbu ― distante pochi km di strade serpiginose e strette ― illuminate dai fari stanchi e fiochi della macchina.
 
 Parcheggiamo.
 

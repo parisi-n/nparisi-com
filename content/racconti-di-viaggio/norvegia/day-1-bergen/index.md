@@ -111,6 +111,8 @@ Va premesso che Bergen è stata a più riprese al centro del nostro viaggio nel 
 
 {{< box "orange" >}}
 Bergen è **la città della pioggia**: si contano più di 200 giorni di pioggia l'anno e beccare una bella giornata può essere più difficile che trovare un ago in un pagliaio.
+
+Se siete fortunati, però...
 {{< /box>}}
 
 Nel caso il tempo sia clemente ― con il sole ― Bergen si veste di colori brillanti e appaganti, come quelli delle case di Bryggen lungo il porto.
@@ -172,6 +174,12 @@ Il costo è estremamente modico e vi verrà tariffato a fine noleggio in quanto 
 
 In base al fjordo in cui siete recatevi nella pagina del porto su Google Maps e troverete il sito internet con la timetable delle corse in partenza ed in arrivo.
 
+{{< box "blue" "Il pedaggio" >}}
+In caso di auto a noleggio la vettura sarà già equipaggiata e registrata per viaggiare (e pagare) i pedaggi dei traghetti o dei tunnel.
+
+Nel caso viaggiaste con auto di proprietà dovrete invece {{< external_link "https://ferrypay.no/" "registrare la targa in questo sito" >}} (e collegarla ad una carta di credito) per poter pagare il pedaggio dei traghetti.
+{{< /box >}}
+
 ### La segnaletica
 
 Messa dove serve ed al momento opportuno ― prestateci sempre massima attenzione ― soprattutto per quel che riguarda **i limiti di felocità**: 50 km/h all'interno dei centri abitati ― tra i 60 e gli 80 km/h nelle strade extraurbane e 80-100 km/h nei (rari) tratti autostradali.
@@ -203,7 +211,9 @@ L'acqua in bottiglia vi sarà vendura a caro prezzo ― per questo sarebbe auspi
 Non essendo così coraggioso e avventuroso, abbiamo acquistato un po' d'acqua in bottiglia per ogni evenienza.
 
 {{< box "blue" >}}
-Le bottiglie in _plastica_ e in _vetro_ hanno una cauzione di qualche decimo di NOK ― che vi verrà restituita al momento del conferimento nei centri appositi.
+Le bottiglie in _plastica_ e in _vetro_ oltrechè le lattine hanno una cauzione di qualche decimo di NOK ― che vi verrà restituita al momento del conferimento nei centri appositi.
+
+Se pianificate una lunga permanenza e viaggiate in auto potrebbe valer la pena non buttarle.
 {{< /box>}}
 
 ## Cosa vedere
