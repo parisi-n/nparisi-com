@@ -11,6 +11,14 @@ showToc : true
 type: "article"
 ---
 
+{{< box "orange" "Disclaimer" >}}
+Questo post contiene informazioni di carattere privato.
+
+Ogni informazione presente nel post è stata preventivamente concordata ed autorizzata dalla persona interessata.
+{{< /box >}}
+
+* * *
+
 {{< quote "E qual de' numi inimicolli?" >}}
 
 Iniziavo così già un altro post ― e come citazione calza a pennello quando l'imprevisto turba il viaggio.
