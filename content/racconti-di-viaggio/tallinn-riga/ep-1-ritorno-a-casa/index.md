@@ -68,7 +68,7 @@ Questa volta però niente trolley ma un normale zaino dalle dimensioni leggermen
 
 ### Thule Subterra
 
-Indeciso fino all'ultimo sullo zaino da portare ― ho optato per il nuovo acquisto Thule Subterra 34L.
+Indeciso fino all'ultimo sullo zaino da portare ― ho optato per il nuovo acquisto {{< affiliate_link "thule-subterra-34" "Thule Subterra 34L" >}}.
 
 {{< image src="thule.jpg" alt="Thule Subterra 34L" caption="Thule Subterra 34L indossato" >}}
 
@@ -111,6 +111,10 @@ Invece del solito corredo fotografico, questa volta ho optato per un singolo obi
 Dimensioni adeguate per ospitare il corpo macchina Canon M50 con l'obiettivo Canon 32mm f1.4 con altre due batterie.
 
 {{< image src="lowepro.jpg" alt="Lowepro ― Gear Up" caption="Lowepro ― Gear Up" >}}
+
+Il {{< affiliate_link "lowepro-gearup-m" "Lowepro GearUp M" >}} (*M* sta per *Medium*) risulta essere della dimensione perfetta anche per trovare alloggio all'interno della valigia, dello zaino in di qualunque altra borsa.
+
+All'interno oltre al corpo macchina con l'obiettivo ― sono riuscito a trasportare anche *due batterie* di scorta, la *piastra di ricarica* ed qualche altro piccolo gadget.
 
 ### Crypto.com Card
 
