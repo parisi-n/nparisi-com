@@ -42,7 +42,7 @@ Per secoli l'arcipelago delle Lofoten ― il cui _skyline_ è disegnato dai picc
 
 {{<image src="lofotenvaggen.jpg" caption="L'alba alle Lofoten" alt="Montagne delle Lofoten all'alba" type="wide-screen" >}}
 
-All'inizio dell'anno l'incontro della Corrente del Golfo con le acque gelide dell'oceano *attira i merluzzi dal Mare di Barents*. La stagione dura da Febbraio ad Aprile ma produce lavoro anche per i restanti mesi dell'anno ― come testimoniano le rastrelliere di legno disseminate sul territorio per essicare il pesce, popolate dai pesci in inverno e vuote d'estate.
+All'inizio dell'anno l'incontro della Corrente del Golfo con le acque gelide dell'oceano *attira i merluzzi dal Mare di Barents*. La stagione dura da Febbraio ad Aprile ma produce lavoro anche per i restanti mesi dell'anno ― come testimoniano le rastrelliere di legno disseminate sul territorio per essiccare il pesce, popolate dai pesci in inverno e vuote d'estate.
 
 Le isole Lofoten ― centro di attrazione turistica ― rappresentano la vera essenza fiabesca della Norvegia settentrionale.
 
@@ -201,7 +201,7 @@ Qua si trova la famosa *Yellow house* di cui parlo in [Dove alloggiare]({{< ref 
 
 Sakrisøya è un "piccolo" isolotto roccioso ― collegato da due punti ― a 4km da Reine, proprio all'imboccatura del _Reinefjord_. Posto perfetto per le escursioni in kayak o in barca a remi (spesso prestate gratuitamente dagli stessi rorbuer!).
 
-Maggiori informazioni sulle esperienze potrete trovarle sul sito di {{< external_link "reineadventure.com" "Reineadventure.com" >}} oppure {{{< external_link "https://www.pukkatravels.com/guide/en-us/what-to-do-in-lofoten" "Pukka Travels" >}}
+Maggiori informazioni sulle esperienze potrete trovarle sul sito di {{< external_link "reineadventure.com" "Reineadventure.com" >}} oppure {{< external_link "https://www.pukkatravels.com/guide/en-us/what-to-do-in-lofoten" "Pukka Travels" >}}
 
 ### Hamnøy
 
@@ -211,7 +211,7 @@ Seguendo la E10, a pochi km da Reine ― incontrerete un piccolo villaggio di pe
 
 ### Leknes
 
-Provate ad avveenturarvi un po' ad Est ― verso la penisola ― seguendo la E10.
+Provate ad avventurarvi un po' ad Est ― verso la penisola ― seguendo la E10.
 
 {{<image src="small_black_church_lofoten.jpg" caption="Black church" alt="Black church" >}}
 
@@ -255,7 +255,7 @@ Questi ripari venivano costruiti sulla riva o su palafitte e dipinti di rosso co
 
 Erano composti da due stanze: *una per mangiare e dormire* e l'altra usata come *magazzino*.
 
-Alcuni dei vecchi rorbu sono sopravissuti; altri sono stati recentemente costruiti e vengono ― oggi ― affittati ai turisti.
+Alcuni dei vecchi rorbu sono sopravvissuti; altri sono stati recentemente costruiti e vengono ― oggi ― affittati ai turisti.
 {{< /box >}}
 
 ### Eliassen Rorbuer
@@ -308,7 +308,7 @@ _Anita's Seafood_ è sicuramente uno dei posti migliori in cui abbia mai mangiat
 
 {{<image src="sakrisoy_anita.jpg" caption="Indicazioni" alt="Anita's seafood hall" >}}
 
-Mangiare un burger di _merluzzo_ insieme ad una _fish soup_ accompagnati da _birra local_ il tutto immersi in un ambiente in cui il lampadario è creato a partire da una struttura cui sono appesi ad essicare _merluzzi_ ― con la vista sul fjordo.
+Mangiare un burger di _merluzzo_ insieme ad una _fish soup_ accompagnati da _birra local_ il tutto immersi in un ambiente in cui il lampadario è creato a partire da una struttura cui sono appesi ad essiccare _merluzzi_ ― con la vista sul fjordo.
 
 {{<image src="anita_lunch.jpg" caption="Pranzo" alt="Zuppa di pesce ed burger di merluzzo" >}}
 
@@ -318,7 +318,7 @@ Tutto insieme è un mix unico: pranzare qua diventa un'esperienza emozionale olt
 
 All'interno del ristorante troverete anche uno _shop_ in cui potrete acquistare salsicce di vario genere (cervo, balena) e altri derivati marini.
 
-{{<image src="anita_candelabro.jpg" caption="Lampadario con i merluzzi essicati" alt="Lampadario con i merluzzi essicati"  >}}
+{{<image src="anita_candelabro.jpg" caption="Lampadario con i merluzzi essiccati" alt="Lampadario con i merluzzi essiccati"  >}}
 
 *Straconsigliato.*
 
@@ -334,7 +334,7 @@ Evento inaspettato ― ma su cui non contavamo: *vedere la luce del nord*.
 
 {{<image src="rorbuer_night.jpg" caption="Rorbuer di notte" alt="Rorbuer di notte" >}}
 
-E' esattamente come me la ricordavo [dalla Lapponia]({{ <ref "/racconti-di-viaggio/lapponia/verso-lapponia-casa-di-babbo-natale/index.md" >}}): *maestosa*.
+E' esattamente come me la ricordavo [dalla Lapponia]({{< ref "/racconti-di-viaggio/lapponia/verso-lapponia-casa-di-babbo-natale/index.md" >}}): *maestosa*.
 
 Stanchi sul divano alziamo gli occhi al soffitto del rorbuer: la vetrata del solaio ci permette subito di realizzare lo spettacolo che fuori si teneva.
 
@@ -400,13 +400,13 @@ Definito dai più come lo stadio più panoramico del mondo ― è costruito su u
 
 {{< posizione "https://g.page/henningsvaer-stadium" >}}
 
-### Il museo dello Stocafisso
+### Il museo dello Stoccafisso
 
 Rimarrete sorpresi almeno quanto lo sono stato io quando realizzerete che il nome del museo è proprio *quello italiano* senza nessuna traduzione.
 
-Gli italiani sono stati tra i primi a valorizzare il baccalà ed iniziare la tradizione dell'essicatura ― resisi conto del potenziale e della bontà del pesce essicata con l'aria della zona.
+Gli italiani sono stati tra i primi a valorizzare il baccalà ed iniziare la tradizione dell'essiccatura ― resisi conto del potenziale e della bontà del pesce essiccata con l'aria della zona.
 
-Nel museo troverete soddisfatte le vostre curiosità sul processo produttivo del merluzzo ― da quando viene pescato a quando viene legato per essicare (rigorosamente *a coppie*).
+Nel museo troverete soddisfatte le vostre curiosità sul processo produttivo del merluzzo ― da quando viene pescato a quando viene legato per essiccare (rigorosamente *a coppie*).
 
 {{< posizione "https://goo.gl/maps/P1vUuckcKMgP6B3EA" >}}
 
