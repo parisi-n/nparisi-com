@@ -1,6 +1,11 @@
 {
     "array" : [
         {
+            "image" : "lofoten_cover.jpg" ,
+            "text_title" : "Norvegia // Il Paradiso delle Lofoten" ,
+            "url" : "racconti-di-viaggio/norvegia/day-7-lofoten/"
+        } ,
+        {
             "image" : "bodo_cover.jpg" ,
             "text_title" : "Norvegia // L'imprevisto di Bodø" ,
             "url" : "racconti-di-viaggio/norvegia/day-6-bodo/"
