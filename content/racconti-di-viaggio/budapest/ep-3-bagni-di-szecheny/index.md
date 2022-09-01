@@ -53,7 +53,7 @@ I gabbiani in volo aumentano ancor di più il pathos che queste strutture antich
 > 
 > via {{< external_link "https://www.lonelyplanet.com/hungary/budapest/attractions/vajdahunyad-castle/a/poi-sig/1284775/359522" "Lonely planet" >}}
 
-{{< image src="IMG_6705.jpg" alt="''Ti riporta via, come la marea, la felicità''" caption="Ti riporta via, come la marea, ca felicità.">}}
+{{< image src="IMG_6705.jpg" alt="''Ti riporta via, come la marea, la felicità''" caption="Ti riporta via, come la marea, la felicità.">}}
 
 Entrate e fate una passeggiata rilassante all'interno dei suoi giardini.  
 **Non ve ne pentirete.**

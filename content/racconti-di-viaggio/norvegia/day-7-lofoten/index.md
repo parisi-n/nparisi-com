@@ -28,13 +28,13 @@ Man mano che vi avvicinerete con il battello realizzerete come la catena delle _
 In queste isole la vita scorre serena e tranquilla. 
 {{< capital_letter_close >}}
 
-{{<image src="lofotenvaggen_2.jpg" caption="Lofoten Wall" alt="Montagne delle Lofoten" type="wide-screen" >}}
+{{<panorama src="lofotenvaggen_pano_2.jpg" title="Lofoten Wall" caption="Montagne delle Lofoten" >}}
 
 Quando, dopo aver viaggiato in Norvegia, crederete che nessuno spettacolo naturale possa più stupirvi ― ecco che le Lofoten si preparano a farlo nel modo più spietato possibile.
 
 Rimarrete colpiti, estasiati, innamorati da questo posto. Tuttavia...
 
-{{< quote "Di rado si incontra qualcuno che non è riuscito ad innamorarsi di questo posto" "La Norvegia, Mondadori" >}}
+{{< quote "Di rado si incontra qualcuno che non è riuscito ad innamorarsi di questo posto." "La Norvegia, Mondadori" >}}
 
 ## Le Lofoten
 
@@ -158,7 +158,7 @@ Le prime tracce del paese si trovano nei registri parrocchiali del 1567 e ― pr
 
 {{<image src="A_camping.jpg" caption="Campeggio libero vietato" alt="Cartello che vieta il campeggio libero" >}}
 
-Vi starete chiedendo cosa c'è oltre A?
+Vi starete chiedendo cosa c'è oltre Å?
 
 *Un parcheggio* ― che fa finire la strada a _cul-de-sac_.
 
@@ -380,7 +380,7 @@ Le _Lofotenvaggen_ o _Lofoten Wall_ sono le montagne a punte di origine vulcanic
 
 La più famosa nei pressi di Reine è sicuramente quella di {{< external_link "https://goo.gl/maps/G32Pxi9nkYbFnby98" "Reinebringen" >}} ― al momento della nostra visita inagibile perché in corso di manutenzione ad opera di *sherpa nepalesi* giunti appositamente per la manutenzione.
 
-Per noi sarebbe comunque stato impossibile avventurarci lungo il percorso considerato [quanto ci è accaduto a Bodø]({{<ref "/racconti-di-viaggio/norvegia/day-6-bodo/index.md" >}})
+Per noi sarebbe comunque stato impossibile avventurarci lungo il percorso considerato [quanto ci è accaduto a Bodø]({{<ref "/racconti-di-viaggio/norvegia/day-6-bodo/index.md" >}}).
 
 {{<image src="lofoten_trees.jpg" alt="Vegetazione delle Lofoten" type="wide-screen" >}}
 

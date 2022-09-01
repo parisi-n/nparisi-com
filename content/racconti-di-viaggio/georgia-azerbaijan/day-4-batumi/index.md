@@ -107,13 +107,13 @@ Finiamo di mangiare che ormai il pomeriggio è iniziato da un pezzo, e decidiamo
 
 La maggior parte delle attrattive di Batumi son collocate nel lungomare. Vi basterà dunque farvi una (lunga) camminata seguendo la passeggiata e vedrete la Batumi turistica, quella più curiosa.
 
-> Ed il lungomare è davvero curioso! La varietà di strutture ed attrative presenti vi darà l'idea che "mettiamo tante cose diverse vicine, qualcosa che piacerà ci sarà per forza". Ed infatti il lungomare, per quanto carino, non ha davvero senso estetico ed artistico. E' un accozzaglia di elementi ― belli sicuramente ― ma disposti e collocati senza particolare nesso logico.
+> Ed il lungomare è davvero curioso! La varietà di strutture ed attrattive presenti vi darà l'idea che "mettiamo tante cose diverse vicine, qualcosa che piacerà ci sarà per forza". Ed infatti il lungomare, per quanto carino, non ha davvero senso estetico ed artistico. E' un accozzaglia di elementi ― belli sicuramente ― ma disposti e collocati senza particolare nesso logico.
 
 Per giungere alla spiaggia dal ristorante abbiamo attraversato un giardino davvero carino, curato ed ordinato. Tanti bambini che giocavano, tante famiglie, tanti _anziani_ che piuttosto che stare a casa si riuniscono in una panchina di questo meraviglioso giardino.
 
 {{< image src="20190926_181000.jpg" alt="Scacchiera gigante nel parco nel lungomare" type="wide-screen">}}
 
-Sembra quasi di essere nella mia Cagliari ― mentre passeggio con le mani in tasca nel lungomare. Però ― a differenza del Poetto ― gli stabilimenti sono molti meno, e **n****on precludono la visuale del mar Nero**.
+Sembra quasi di essere nella mia Cagliari ― mentre passeggio con le mani in tasca nel lungomare. Però ― a differenza del Poetto ― gli stabilimenti sono molti meno, e **non precludono la visuale del mar Nero**.
 
 Se mi chiedessero di descrivere Batumi, forse la descriverei come la **città dell'amore. E' passionale, è piena di rappresentazioni sentimentali, è davvero sentimentale** ❤️
 
@@ -147,7 +147,7 @@ Finchè arriviamo.
 Eccoli.  
 Finalmente!
 
-Son le **18.50**, son fermi. Ci agitiamo. Pensiamo di essere arrivati in ritardo, ma dalle informazioni reperite in rete in rete i due innamorati dovrebbero incontrarsi alle 19. 
+Son le **18.50**, son fermi. Ci agitiamo. Pensiamo di essere arrivati in ritardo, ma dalle informazioni reperite in rete i due innamorati dovrebbero incontrarsi alle 19. 
 **Ma tutti i giorni? E a che ora partono ogni giorno?**
 
 {{< image src="IMG_3980.jpg" alt="Ali e Nino" >}}
