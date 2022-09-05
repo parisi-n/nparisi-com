@@ -50,7 +50,7 @@ State attenti, se non volete (anche voi) vivere questo viaggio:
 
 ## Dove alloggiare
 
-Curioso come ― l'alloggio si Oslo ― ultima tappa del trip ― sia stato in verità il primo ad essere prenotato.
+Curioso come ― l'alloggio di Oslo ― ultima tappa del trip ― sia stato in verità il primo ad essere prenotato.
 
 "Trattiamoci bene ― a fine viaggio" ― avevo suggerito.
 
@@ -166,7 +166,7 @@ Ci affidiamo a {{< external_link "https://g.page/Fiskeriet?share" "Fiskeriet You
 
 E' Sabato ed esattamente al piano sopra di noi si consumano i fasti della notte *nello skybar al rooftop* del Radisson.
 
-Per un attimo il mood è quello di partecipare ed prendere parte all'ultimo sprazzo di vita mondana norvegese, ma la stanchezza si fa sentire (la mattina la sveglia era suonata presto per _fuggire_ dal rorbuer delle Lofoten, assicurarci il traghetto ― spostamento verso l'aeroporto di Bodo e quindi arrivare a Oslo)...
+Per un attimo il mood è quello di partecipare e prendere parte all'ultimo sprazzo di vita mondana norvegese, ma la stanchezza si fa sentire (la mattina la sveglia era suonata presto per _fuggire_ dal rorbuer delle Lofoten, assicurarci il traghetto ― spostamento verso l'aeroporto di Bodo e quindi arrivare a Oslo)...
 
 *Rinunciamo*.
 
