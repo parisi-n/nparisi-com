@@ -39,7 +39,7 @@ Stavanger è stato nel momento della scelta un mero ripiego: nei piani originari
 
 ### Il percorso
 
-{{<image src="percorso_stavanger.jpg" alt="Percorso da Odda a Stavanger" caption="Percorso da Odda a Stavanger" type="wide-screen" >}}
+{{< itinerario "https://www.google.com/maps/d/u/0/embed?mid=1vhOVxpgVG7hrSzqa9vx5qkCRsgFcW8I&ehbc=2E312F" >}}
 
 Il viaggio da Trolltunga a Stavanger è stata forse la tratta più rilassante e piacevole tra tutte quelle del viaggio: pochi km da fare, tanto tempo e la possibilità di fermarci ogni qualvolta volessimo o ne avessimo la possibilità.
 
@@ -215,3 +215,9 @@ Per l'occasione abbiamo deciso di servirci (previo _double check_ delle recensio
 Il tutto accompagnato da birra locale.
 
 *Tutto molto buono e bello*.
+
+* * *
+
+Puoi leggere il [day #4 qui]({{< ref "/racconti-di-viaggio/norvegia/day-4-preikestolen/index.md" >}}).
+
+Se invece vuoi leggere quali sono stati i preparativi per la *Norvegia* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/norvegia/day-0-sulla-via-del-nord/index.md" >}}).

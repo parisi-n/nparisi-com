@@ -125,7 +125,7 @@ Il ristorante del _Basecamp_ offre un nuovo modo tecnologico e 2.0 di ordinare a
 
 Ci tratteniamo a pranzo fino a circa le 18 del pomeriggio ― dopodiché il tempo inizia a stringere: *dobbiamo tornare a Bergen*.
 
-{{<image src="percorso_to_bergen.jpg" alt="Strada da percorrere da Preikestolen a Bergen" caption="Percorso Preikestolen ― bergen" >}}
+{{< itinerario "https://www.google.com/maps/d/u/0/embed?mid=1FUeV9JtfnWitru9vENwS22sZMAlYMeQ&ehbc=2E312F" >}}
 
 Senza aver prenotato alcun alloggio, facendo un rapido calcolo dei km e delle tempistiche indicate da _Google Maps_ *decidiamo di fidarci* e ― a stomaco pieno, soddisfatti, quasi _felici_ ― salutiamo Preikestolen ed iniziamo il viaggio di ritorno.
 
@@ -160,6 +160,6 @@ Mi risveglio alle porte di Bergen intorno all'una di notte ― *sorpreso* ma anc
 
 * * *
 
+Puoi leggere il [day #5 qui]({{< ref "/racconti-di-viaggio/norvegia/day-5-sognefjord/index.md" >}}).
 
-
-
+Se invece vuoi leggere quali sono stati i preparativi per la *Norvegia* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/norvegia/day-0-sulla-via-del-nord/index.md" >}}).

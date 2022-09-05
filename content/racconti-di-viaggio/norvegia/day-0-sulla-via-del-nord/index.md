@@ -159,9 +159,9 @@ L'esperienza data dall'auto ({{< external_link "www.sixt.com" "noleggiata a Berg
 
 **Giorno #8**: traghetto per Moskenes e notte ad Hamnoy.
 
-**Giorno #9**: tour delle Lofoten ― da A a Leknes. Notte ad Hamnoy.
+[Giorno #9]({{< ref "/racconti-di-viaggio/norvegia/day-7-lofoten/index.md" >}}): tour delle Lofoten ― da A a Leknes. Notte ad Hamnoy.
 
-**Giorno #10**: partenza all'alba per Moskenes ― traghetto per Bodo ed infine aereo per Oslo. Pomeriggio in giro per Oslo. Notte a Oslo.
+[Giorno #10]({{< ref "/racconti-di-viaggio/norvegia/day-8-oslo/index.md" >}}): partenza all'alba per Moskenes ― traghetto per Bodo ed infine aereo per Oslo. Pomeriggio in giro per Oslo. Notte a Oslo.
 
 **Giorno #11**: l'indomani partenza da Oslo TURP Sandefjord.
 

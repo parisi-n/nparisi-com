@@ -34,7 +34,7 @@ Ci tratteniamo una giornata in più per esplorare Bergen (trovate tutte le infor
 
 Direzione e meta ragionevoli, questa volta; destinazione: *Lavik*.
 
-{{<image src="percorso_lavik.jpg" alt="Percorso da Bergen a Lavik" caption="Percorso da Bergen a Lavik" >}}
+{{< itinerario "https://www.google.com/maps/d/u/0/embed?mid=1jkPy_Av3Ots9cfJKghdvXWvKBFKtlKs&ehbc=2E312F" >}}
 
 ## Perché Lavik?
 
@@ -169,3 +169,9 @@ All'interno, nessuna mascherina.
 E' quasi un nuovo modo di viaggiare.
 
 Poco meno di due ore e siamo a Bodo.
+
+* * *
+
+Puoi leggere il [day #6 qui]({{< ref "/racconti-di-viaggio/norvegia/day-6-bodo/index.md" >}}).
+
+Se invece vuoi leggere quali sono stati i preparativi per la *Norvegia* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/norvegia/day-0-sulla-via-del-nord/index.md" >}}).

@@ -42,7 +42,7 @@ Qualora le navette non soddisfassero le vostre esigenze di viaggio ― valutate 
 
 Per gli spostamenti di questo tipo *Google Maps* risulta essere abbastanza affidabile. Qualora però vogliate fare un _double check_ potrete tentare con l'app *MoovIt*:
 
-{{<appbox src="https://play-lh.googleusercontent.com/4HN-NaDb4nKYFZZD-0V9At_0EGTex4ld3hYhaqZs5lACDhcSRyee98jcFLTZ0-DdGzg=w240-h480-rw" title="Moovit: Orari di Bus e Treni" package="com.tranzmate" >}}
+{{<appbox img="https://play-lh.googleusercontent.com/4HN-NaDb4nKYFZZD-0V9At_0EGTex4ld3hYhaqZs5lACDhcSRyee98jcFLTZ0-DdGzg=w240-h480-rw" name="Moovit: Orari di Bus e Treni" package="com.tranzmate" >}}
 
 State attenti, se non volete (anche voi) vivere questo viaggio:
 
@@ -74,7 +74,7 @@ Potrete pianificare il vostro viaggio direttamente dal {{< external_link "https:
 
 A disposizione anche {{< external_link "https://ruter.no/en/journey/the-ruter-app/" "l'app" >}} per Android e iOS.
 
-{{< appbox src="https://play-lh.googleusercontent.com/_JlmN0rUUBhUfQtOXYO3_H6bdlO6eyDQdOwOiX3c7_-XA6OB1v66lZrrrI3rsEjYys0=w480-h960-rw" title="Ruter" package="no.ruter.reise" >}}
+{{< appbox img="https://play-lh.googleusercontent.com/_JlmN0rUUBhUfQtOXYO3_H6bdlO6eyDQdOwOiX3c7_-XA6OB1v66lZrrrI3rsEjYys0=w480-h960-rw" name="Ruter" package="no.ruter.reise" >}}
 
 Dall'app potrete non solo pianificare il percorso ma anche acquistare i biglietti (39kr il biglietto singolo per 1 sola zona).
 
@@ -86,9 +86,9 @@ Maggiori informazioni sul costo dei biglietti {{<external_link "https://ruter.no
 
 Troverete utili le solite app: *Bolt* e *Taxifix*.
 
-{{< appbox src="https://play-lh.googleusercontent.com/-Hhse1HizT3SQYkcklhwPFEelwKmyYBwpxNsRRng5JfBfWLOAilFCojkjK8YH_0gSv0=w480-h960-rw" title="Taxifix" package="dk.bnr.taxifix" >}}
+{{< appbox img="https://play-lh.googleusercontent.com/-Hhse1HizT3SQYkcklhwPFEelwKmyYBwpxNsRRng5JfBfWLOAilFCojkjK8YH_0gSv0=w480-h960-rw" name="Taxifix" package="dk.bnr.taxifix" >}}
 
-{{< appbox src="https://play-lh.googleusercontent.com/TRCKh9Uk5mME5lVDZBAVmBMyBEiumHw4Ef9MTAnRqgcK8MEr4M8jqqBDGX_pKVBffpo=w480-h960-rw" title="Bolt" package="ee.mtakso.client" >}}
+{{< appbox img="https://play-lh.googleusercontent.com/TRCKh9Uk5mME5lVDZBAVmBMyBEiumHw4Ef9MTAnRqgcK8MEr4M8jqqBDGX_pKVBffpo=w480-h960-rw" name="Bolt" package="ee.mtakso.client" >}}
 
 ### Monopattino
 
@@ -100,7 +100,7 @@ Troverete monopattini *TIER*, *Voi* e *Bolt*.
 
 La nostra scelta ― per comodità ― è ricaduta sui *TIER*:
 
-{{< appbox src="https://play-lh.googleusercontent.com/om0acQKscCGl3uSYfm3lQ06FlEbzXwWxveWwPkTgzKrbT8DOZXOPcIFm_jkgxdhPDdg=w480-h960-rw" title="TIER: Monopattini elettrici" package="com.tier.app" >}}
+{{< appbox img="https://play-lh.googleusercontent.com/om0acQKscCGl3uSYfm3lQ06FlEbzXwWxveWwPkTgzKrbT8DOZXOPcIFm_jkgxdhPDdg=w480-h960-rw" name="TIER: Monopattini elettrici" package="com.tier.app" >}}
 
 ## Cosa vedere
 
@@ -162,7 +162,7 @@ Ci affidiamo a {{< external_link "https://g.page/Fiskeriet?share" "Fiskeriet You
 
 {{< image src="hamburger.jpg" alt="Vie di oslo" alt="La cena" >}}
 
-{{< appbox src="https://play-lh.googleusercontent.com/qp3dvrnvMAYmJj6ok1AtYJdCP0l4BD_PnyEpXde3nPeufoOc7WH_hIzIlIKVEjYdEAtq=w480-h960-rw" title="Wolt Delivery: Food and more" package="com.wolt.android" >}}
+{{< appbox img="https://play-lh.googleusercontent.com/qp3dvrnvMAYmJj6ok1AtYJdCP0l4BD_PnyEpXde3nPeufoOc7WH_hIzIlIKVEjYdEAtq=w480-h960-rw" name="Wolt Delivery: Food and more" package="com.wolt.android" >}}
 
 E' Sabato ed esattamente al piano sopra di noi si consumano i fasti della notte *nello skybar al rooftop* del Radisson.
 
@@ -190,3 +190,7 @@ Spero di non avervi annoiato e ― anzi ― ispirato e portato al fatidico momen
 * * *
 
 _Un grazie speciale a {{< affiliate_link "washington-instagram" "@washington_giò" >}}, compagna di viaggio, per l'aiuto dato nella ricostruzione degli eventi e l'organizzazione della serie di post - e a {{< affiliate_link "frupari-instagram" "@frupari" >}} per il lavoro di correzione ed accomodamento del testo._
+
+* * *
+
+Se vuoi leggere quali sono stati i preparativi per la *Norvegia* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/norvegia/day-0-sulla-via-del-nord/index.md" >}}).

@@ -429,3 +429,9 @@ Con gli occhi carichi di meraviglia.
 
 Il viaggio volge al termine.
 Prossima tappa: _aeroporto di Bodø_; direzione: *Oslo*.
+
+* * *
+
+Puoi leggere il [day #8 qui]({{< ref "/racconti-di-viaggio/norvegia/day-8-oslo/index.md" >}}).
+
+Se invece vuoi leggere quali sono stati i preparativi per la *Norvegia* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/norvegia/day-0-sulla-via-del-nord/index.md" >}}).

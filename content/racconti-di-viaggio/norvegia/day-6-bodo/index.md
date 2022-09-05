@@ -227,3 +227,9 @@ Il buio non ci fa rendere conto di dove effettivamente siamo; prendiamo l'auto e
 Parcheggiamo.
 
 Quel che il giorno prima sembrava impossibile invece è accaduto: il viaggio ― nonostante tutto e con fatica ― *prosegue*.
+
+* * *
+
+Puoi leggere il [day #7 qui]({{< ref "/racconti-di-viaggio/norvegia/day-7-lofoten/index.md" >}}).
+
+Se invece vuoi leggere quali sono stati i preparativi per la *Norvegia* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/norvegia/day-0-sulla-via-del-nord/index.md" >}}).

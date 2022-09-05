@@ -23,7 +23,7 @@ Per un'esperienza più immersiva e per apprezzare maggiormente la qualità delle
 Prendete la quattro-corsie ed uscite da Bergen verso Est ma non abituatevi troppo: pochi km e la strada cambierà completamente e lascerà spazio alla vera Norvegia ― quella fatta di stradine con l'infinita linea di mezzeria tratteggiata e la segnaletica orizzontale arancione che fa perennemente contrasto col cielo grigio popolato da nuvoloni arroganti che lasciano di tanto in tanto qualche spiraglio d'azzurro.
 {{< capital_letter_close >}}
 
-{{<image src="percorso_trolltunga.jpg" alt="Da Bergen a Odda" caption="Bergen-Odda _ via Google Maps Timeline" type="wide-screen" >}}
+{{< itinerario "https://www.google.com/maps/d/u/0/embed?mid=1cx1Q-sW4ri2dtVeNrbFx0pYn7FURSag&ehbc=2E312F" >}}
 
 Per lo spostamento completo abbiamo impiegato circa 6 ore ― arrivando sul far della sera ad Odda.
 
@@ -281,6 +281,6 @@ Con il senno di poi ― sarebbe stata un'esperienza che sicuramente sarebbe vals
 
 * * *
 
-Puoi leggere il [day #1 qui]({{< ref "/racconti-di-viaggio/norvegia/day-1-bergen/index.md" >}}).
+Puoi leggere il [day #3 qui]({{< ref "/racconti-di-viaggio/norvegia/day-3-stavanger/index.md" >}}).
 
 Se invece vuoi leggere quali sono stati i preparativi per la *Norvegia* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/norvegia/day-0-sulla-via-del-nord/index.md" >}}).
