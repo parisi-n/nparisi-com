@@ -1,4 +1,4 @@
 # Redirects from what the browser requests to what we serve
 #/post/* https://nparisi.netlify.com/:splat 200!
 /in-viaggio-verso-georgia-azerbaijan-night-train-day-5/ /racconti-di-viaggio/georgia-azerbaijan/day-5-night-train/ 200!
-/racconti-viaggio/* /racconti-di-viaggio/* 200!
+/racconti-viaggio/* /racconti-di-viaggio/:splat 200!
