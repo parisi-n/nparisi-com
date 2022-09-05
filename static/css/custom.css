@@ -724,6 +724,11 @@
              */
             .paginator_bar { margin-top: 2.5em !important; margin-bottom: 3.75em !important; }
             
+            /**
+             * PANORAMA
+             */
+            .panorama { left: 50% !important; margin-left: -50vw !important; margin-right: -50vw !important; max-width: 100vw !important; position: relative; right: 50% !important; width: 100vw !important; border: 0px; }
+            
         /**
          * SEZIONE LIBRERIA
          */
@@ -870,7 +875,7 @@
         
         .sidebar-after-post-content { width: 115% !important; text-align: left !important; margin-left: -4em; }
 
-        .entry-header h1 { font-size: 3rem !important; margin-top: 0.9em; }
+        .entry-header h1 { font-size: 3rem !important; }
         article h2, article h3, article h4 { margin-left: 4.56% !important; }
         article h2 { font-size: 2.5rem !important; position: relative; }
         article h2::before { content: '#'; color: #f4511e; font-weight: bold; font-size: 2.5rem !important; margin-right: 0.12em; opacity: 1; position: absolute; right: calc(100% + 1px); }
@@ -984,7 +989,7 @@
         /**
          * FOOTER
          */
-        .recap-footer div { padding: 0 2.75rem; width: 180px; }
+        .recap-footer div { padding: 0 2.75rem; width: 190px; }
             
         /**
          * SEZIONE DESTINAZIONE

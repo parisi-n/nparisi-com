@@ -1,13 +1,14 @@
 <footer id="site-footer" class="site-footer" role="contentinfo">
     <div class="recap-footer design-credit">
 
-        {{ $nations_list := getJSON "data/world_nation_list.json" }}
+        {{ $nations_list := getJSON "data/footer_world_nation_list.json" }}
         {{ $total_posts := sub ( len ( where .Site.Pages "Type" "article" ) ) ( len ( where ( where .Site.Pages "Type" "article" ) ".Params.categories" "intersect" ( slice "quote" ) ) ) }}
+        {{ $whereami := getJSON "data/footer_whereami.json" }}
         
         
-        <div title="Attualmente sono in Italia">
+        <div title="{{ if eq (index ($whereami ) 0) "" }}Attualmente sono in Italia{{else}}Prossimo stop: {{ index ($whereami ) 0 }}{{end}}">
             <p class="icon"><i class="fas fa-location-arrow"></i></p>
-            <p class="icon_title">Italia</p>
+            <p class="icon_title">{{ if eq (index ($whereami ) 0) "" }}Italia{{else}}{{ index ($whereami ) 0 }}{{end}}</p>
         </div>
         
         <div title="{{ $nations_list | len }} stati visitati">

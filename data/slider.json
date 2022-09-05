@@ -1,6 +1,11 @@
 {
     "array" : [
         {
+            "image" : "oslo_cover.png" ,
+            "text_title" : "Norvegia // L'ultima tappa: Oslo" ,
+            "url" : "racconti-di-viaggio/norvegia/day-8-oslo/"
+        } ,
+        {
             "image" : "lofoten_cover.jpg" ,
             "text_title" : "Norvegia // Il Paradiso delle Lofoten" ,
             "url" : "racconti-di-viaggio/norvegia/day-7-lofoten/"
@@ -44,16 +49,6 @@
             "image" : "curve-cryptocom-cards-cover.jpg" ,
             "text_title" : "Curve e Crypto: la mia esperienza" ,
             "url" : "lifestyle/curve-crypto-in-viaggio/"
-        } ,
-        {
-            "image" : "cover-bled-lake.jpg" ,
-            "text_title" : "Un week-end al lago: Bled e Ljubljana" ,
-            "url" : "racconti-di-viaggio/slovenia/ljubljana-e-bled/"
-        } ,
-        {
-            "image" : "cover-tallinn.jpg" ,
-            "text_title" : "Tallinn: the Times we Had // Ep. 2" ,
-            "url" : "racconti-di-viaggio/tallinn-riga/ep-2-the-times-we-had/"
         } ,
         {
             "image" : "cover-chernobyl-pripyat.jpg" ,
