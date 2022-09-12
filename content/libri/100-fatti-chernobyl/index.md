@@ -16,8 +16,7 @@ Il contenuto di questo post potrebbe in qualche modo anticipare informazioni del
 
 Consiglio la lettura di questo post il giorno prima del tour, per avere bene in mente i punti ed i luoghi salienti del viaggio.
 {{< /box >}}
-` `  
-` `  
+
 {{< capital_letter_open >}}
 Nell'[ultimo viaggio a Kiev]({{< ref "/racconti-di-viaggio/ucraina/kiev/ep-1-passeggiata-per-kiev">}}), mentre passeggiavo con le mani in tasca lungo la [via Khreschatyk]({{< ref "/racconti-di-viaggio/ucraina/kiev/ep-1-passeggiata-per-kiev" >}}), sono incappato in un negozietto di souvenir un po' diverso dagli altri, motivo per cui decisi di entrare per vedere cosa offriva di _alternativo_.
 

@@ -20,8 +20,7 @@ Non continuare a leggere *oltre la sezione [Premessa](#Premessa)* se temi qualun
 
 Nessuna foto o video potrà comunque rendere le emozioni che si provano nel compiere il viaggio, che lo rendono un viaggio personale ed individuale, non solo dal punto di vista riflessivo ma anche dell'esperienza.
 {{< /box >}}
-` `  
-` `  
+
 {{< youtube id="vsEyl89ybTU" caption="Day-tour a Chernobyl e Pripyat" >}}
 
 {{< capital_letter_open >}}
