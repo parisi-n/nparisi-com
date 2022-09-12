@@ -82,7 +82,7 @@
                 </div>
                 <div class='excerpt-content'>
                     <article>
-                        <p>{{ .Params.summary }}</p>
+                        <p>{{ .Params.summary | markdownify }}</p>
 
                         <div class="more-link-wrapper"><a class="more-link" href="{{ .Permalink }}">Continua a leggere<span class="screen-reader-text">Questo è un post standard</span></a></div>
                     </article>
@@ -157,7 +157,7 @@
                 </div>
                 <div class='excerpt-content'>
                     <article>
-                        <p>{{ .Params.summary }}</p>
+                        <p>{{ .Params.summary | markdownify }}</p>
 
                         <div class="more-link-wrapper"><a class="more-link" href="{{ .Permalink }}">Continua a leggere<span class="screen-reader-text">Questo è un post standard</span></a></div>
                     </article>

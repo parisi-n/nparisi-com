@@ -81,49 +81,80 @@ timeout = 120000
     weight = 1
 
     [[menu.main]]
-    name = "Travel tips"
+    name = "Compagnie aeree"
     parent = "travel"
-    url = "travel-tips/"
+    url = "compagnie-aeree/"
     weight = 2
 
     [[menu.main]]
-    name = "#Liquori d'Europa"
+    name = "Travel tips"
     parent = "travel"
-    url = "tags/liquorideuropa"
+    url = "travel-tips/"
     weight = 3
 
     [[menu.main]]
     name = "Accessori"
+    identifier = "accessori"
     url = "accessori/"
     weight = 3
+
+#    [[menu.main]]
+#    name = "Zaini e bags"
+#    parent = "accessori"
+#    url = "/tags/zaini-bags"
+#     weight = 1
+
+#    [[menu.main]]
+#    name = "Fotografia"
+#    parent = "accessori"
+#    url = "/accessori/fotografia"
+#    weight = 2
+
+#    [[menu.main]]
+#    name = "Workstation"
+#    parent = "accessori"
+#    url = "/accessori/workstation"
+#    weight = 3
 
     [[menu.main]]
     name = "Blog"
     identifier = "blog"
     url = "/tags/blog/"
-    weight = 5
+    weight = 4
 
     [[menu.main]]
     name = "Libreria"
     parent = "blog"
     url = "libreria/"
-    weight = 5
+    weight = 1
 
     [[menu.main]]
     name = "Lifestyle"
     parent = "blog"
     url = "lifestyle/"
-    weight = 5
+    weight = 2
+
+    [[menu.main]]
+    name = "#Liquori d'Europa"
+    parent = "blog"
+    url = "tags/liquorideuropa"
+    weight = 3
+
+#    [[menu.main]]
+#    name = "#worldseaschallange"
+#    parent = "blog"
+#    url = "lifestyle/worldseaschallange/"
+#    weight = 4
 
     [[menu.main]]
     name = "Med & Tech"
     url = "med-tech/"
-    weight = 6
+    weight = 5
 
     [[menu.main]]
     name = "Chi sono"
     url = "about/"
-    weight = 7
+    weight = 6
 
 [params.social]
     twitter       = "np_melanogaster"

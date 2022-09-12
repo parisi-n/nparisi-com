@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="shutter_speed.svg"
+   id="svg18"
+   xml:space="preserve"
+   enable-background="new 0 0 1000 1000"
+   viewBox="0 0 1000 1000"
+   y="0px"
+   x="0px"
+   version="1.1"><defs
+   id="defs22" /><sodipodi:namedview
+   inkscape:current-layer="svg18"
+   inkscape:window-maximized="1"
+   inkscape:window-y="-8"
+   inkscape:window-x="-8"
+   inkscape:cy="486.84263"
+   inkscape:cx="522.90357"
+   inkscape:zoom="0.60104076"
+   showgrid="false"
+   id="namedview20"
+   inkscape:window-height="1017"
+   inkscape:window-width="1920"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+<metadata
+   id="metadata2"> Svg Vector Icons : http://www.onlinewebfonts.com/icon <rdf:RDF><cc:Work
+     rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata>
+<g
+   style="fill:#f4511e;fill-opacity:1"
+   id="g16"><path
+     style="fill:#f4511e;fill-opacity:1"
+     id="path4"
+     d="M500,990c-121.5,0-235.8-47.3-321.7-133.3C92.3,770.8,45,656.5,45,535c0-121.5,47.3-235.8,133.3-321.7C264.2,127.3,378.5,80,500,80c121.5,0,235.8,47.3,321.7,133.3C907.7,299.2,955,413.5,955,535c0,121.5-47.3,235.8-133.3,321.7C735.8,942.7,621.5,990,500,990z M500,147c-213.9,0-388,174.1-388,388c0,213.9,174.1,388,388,388c213.9,0,388-174.1,388-388C888,321.1,713.9,147,500,147z" /><path
+     style="fill:#f4511e;fill-opacity:1"
+     id="path6"
+     d="M499.9,615.2c-44.4,0-80.4-36.1-80.4-80.4c0-44.4,36.1-80.4,80.4-80.4c44.4,0,80.4,36.1,80.4,80.4C580.4,579.1,544.3,615.2,499.9,615.2z M499.9,485c-27.5,0-49.8,22.3-49.8,49.8c0,27.5,22.3,49.8,49.8,49.8c27.5,0,49.8-22.3,49.8-49.8C549.7,507.3,527.4,485,499.9,485z" /><path
+     style="fill:#f4511e;fill-opacity:1"
+     id="path8"
+     d="M728.6,327.6l14.8,17.6L392.1,640.8l-14.8-17.6L728.6,327.6L728.6,327.6z" /><path
+     style="fill:#f4511e;fill-opacity:1"
+     id="path10"
+     d="M445.4,534.8c0,30.1,24.4,54.5,54.5,54.5c30.1,0,54.5-24.4,54.5-54.5c0-30.1-24.4-54.5-54.5-54.5C469.8,480.3,445.4,504.7,445.4,534.8z" /><path
+     style="fill:#f4511e;fill-opacity:1"
+     id="path12"
+     d="M365,10h270v38.3H365V10z" /><path
+     style="fill:#f4511e;fill-opacity:1"
+     id="path14"
+     d="M798.8,91.4L932.4,225l-27.1,27.1L771.7,118.4L798.8,91.4z" /></g>
+</svg>

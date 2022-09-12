@@ -6,6 +6,8 @@
     </div>
 
     <div id="loop-container" class="loop-container">
+        
+        <div class="header-category-tag">{{ .Content | safeHTML }}</div>
 
         {{ range $index, $element := .Paginator.Pages }}
 

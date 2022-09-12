@@ -1,0 +1,63 @@
+{{ $apertura := ( .Get "apertura" ) }}
+{{ $focale := ( .Get "focale" ) }}
+{{ $ISO := ( .Get "iso" ) }}
+{{ $shutter_speed := ( .Get "shutter_speed" ) }}
+{{ $lente := ( .Get "lente" ) }}
+
+<div class="picture-info">
+    <div class="header">Dettagli foto</div>
+    
+    <div class="container">
+        {{ if $focale }}
+        <div class="detail" title="Lunghezza focale">
+            <div class="icon"><img src="{{ "images/focal_length.svg" | absURL }}" alt="Lunghezza focale"></div>
+            <div class="value">{{ $focale }}<span class="value_unit">mm</span></div>
+        </div>
+        {{ end }}
+
+        {{ if $apertura }}
+        <div class="detail" title="Apertura">
+            <div class="icon"><img src="{{ "images/aperture.svg" | absURL }}" alt="Apertura fuoco"></div>
+            <div class="value"><span class="value_unit">F</span>{{ $apertura }}</div>
+        </div>
+        {{ end }}
+
+        {{ if $ISO }}
+        <div class="detail" title="ISO">
+            <div class="icon"><img src="{{ "images/iso.svg" | absURL }}" alt="ISO"></div>
+            <div class="value">{{ $ISO }}</div>
+        </div>
+        {{ end }}
+
+        {{ if $shutter_speed }}
+        <div class="detail" title="Shutter speed">
+            <div class="icon"><img src="{{ "images/shutter_speed.svg" | absURL }}" alt="Shutter speed"></div>
+            <div class="value">{{ $shutter_speed }}<span class="value_unit">"</span></div>
+        </div>
+        {{ end }}
+
+        {{ if $lente }}
+        {{ $affiliate_link := .Site.Data.affiliate_link.array }}
+
+        <div class="detail" title="Obiettivo">
+            <div class="icon"><img src="{{ "images/lens_gear.svg" | absURL }}" alt="Obiettivo"></div>
+            <div class="value">
+                {{ if eq $lente "11-22" }}
+                    {{ range (where $affiliate_link "refer" "efm-11-22" ) }}
+                        <a href="{{ .url }}" target="_blank">EF-M 11-22 <span class="value_unit">f4-5.6 <i>IS STM</i></span></a>
+                    {{ end }}
+                {{ else if eq $lente "32" }}
+                    {{ range (where $affiliate_link "refer" "efm-32" ) }}
+                        <a href="{{ .url }}" target="_blank">EF-M 32 <span class="value_unit">f1.4 <i>STM</i></span></a>
+                    {{ end }}
+                {{ else if eq $lente "55-250" }}
+                    {{ range (where $affiliate_link "refer" "efm-55-250" ) }}
+                        <a href="{{ .url }}" target="_blank">EF-M 55-250 <span class="value_unit">f4.5-6.3 <i>IS STM</i></span></a>
+                    {{ end }}
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+    </div>
+    
+</div>

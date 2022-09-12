@@ -1,0 +1,9 @@
+{{ $type := ( .Get "type" ) | humanize }}
+{{ $affiliate_link := .Site.Data.affiliate_link.array }}
+{{ $refer := (where $affiliate_link "refer" ( .Get "ref" ) ) }}
+{{ range $refer }} 
+<div class="more-link-wrapper" style="text-align: center; margin: 3.57rem auto;">
+    <a class="more-link" href="{{ .url }}" alt="Guarda il prodotto su {{ $type }}" title="Guarda il prodotto su {{ $type }}">Guarda il prodotto su {{ $type }}<span class="screen-reader-text">Questo è un link ad un prodotto con programma di affiliazione</span></a>
+</div>
+{{ end }}
+
