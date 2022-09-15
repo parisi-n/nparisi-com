@@ -59,6 +59,14 @@ In tutte le formule potrete portare con voi uno zaino (_underseat bag_) di dimen
 
 Nel nostro caso abbiamo optato per la *tariffa Smart* ― comprendendo anche un bagaglio a mano.
 
+{{< box "orange" "Pre-autorizzazioni" >}}
+In base al medoto di pagamento utilizzato (nel mio caso [Curve]({{< ref "/lifestyle/curve-crypto-in-viaggio/index.md" >}})) potreste trovare un doppio addebito di pari valore al costo pagato per il biglietto.
+
+Si tratta di una **pre-autorizzazione** (iniziate ad abituarvi perchè in Norvegia molti servizi vi pre-autorizzeranno la carta sottraendo fondi utili nel caso sia una _debit card_) che viene fatta come verifica sulla carta e che vi verrà restituita...**entro 30 giorni**.
+
+Pazientate 😁
+{{< /box >}}
+
 ## Il check-in
 
 Per fare il check-in dovrete prima *loggarvi con il _booking reference_ e _cognome_* nell'{{< external_link "https://www.wideroe.no/en/check-in" "apposita sezione" >}}.
