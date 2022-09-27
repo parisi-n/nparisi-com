@@ -12,7 +12,7 @@
                     {{ $scaled := .Resize "1080x q80" }}
 
                     <div style="display: inline-block; vertical-align: middle">
-                        <div style="background: url('{{ $scaled.Permalink }}') no-repeat; background-size: cover; background-position: center;" class="slick-image">            
+                        <div class="slick-image lazy-slider" style="background: url('{{ $scaled.Permalink }}') no-repeat; background-size: cover; background-position: center;" >            
                         </div>
                         <div class="slick-content">
                             <div class="slick-title">

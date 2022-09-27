@@ -3,12 +3,12 @@
 
         {{ $nations_list := getJSON "data/footer_world_nation_list.json" }}
         {{ $total_posts := sub ( len ( where .Site.Pages "Type" "article" ) ) ( len ( where ( where .Site.Pages "Type" "article" ) ".Params.categories" "intersect" ( slice "quote" ) ) ) }}
-        {{ $whereami := getJSON "data/footer_whereami.json" }}
+        {{ $whereami := index ( getJSON "data/footer_whereami.json" ) 0 }}
         
         
-        <div title="{{ if eq (index ($whereami ) 0) "" }}Attualmente sono in Italia{{else}}Prossimo stop: {{ index ($whereami ) 0 }}{{end}}">
-            <p class="icon"><i class="fas fa-location-arrow"></i></p>
-            <p class="icon_title">{{ if eq (index ($whereami ) 0) "" }}Italia{{else}}{{ index ($whereami ) 0 }}{{end}}</p>
+        <div title="{{ if or ( eq $whereami "" ) ( eq $whereami "Italia" )  }}Attualmente sono in Italia{{else}}Prossimo stop: {{$whereami }}{{end}}">
+            <p class="icon"><i class="{{ if or ( eq $whereami "" ) ( eq $whereami "Italia" )  }}fas fa-map-marker-alt{{else}}fas fa-location-arrow{{end}}"></i></p>
+            <p class="icon_title">{{ if or ( eq $whereami "" ) ( eq $whereami "Italia" )  }}Italia{{else}}{{ $whereami }}{{end}}</p>
         </div>
         
         <div title="{{ $nations_list | len }} stati visitati">
