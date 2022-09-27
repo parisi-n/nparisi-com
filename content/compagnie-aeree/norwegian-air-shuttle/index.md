@@ -25,11 +25,11 @@ Nel mio caso ― mi son servito di *NorwegianAir* per la tratta Milano Malpensa 
 
 ## La compagnia
 
-*Norwegian Air Shuttle ASA* ― conosciuta come *Norwegian* ― è una compagnia _low-cost_ norvegese che opera sia collegamenti domestici sia internazionali.
+*Norwegian Air Shuttle ASA* ― conosciuta come *Norwegian Air* ― è una compagnia _low-cost_ norvegese che opera sia collegamenti domestici sia internazionali.
 
 ## La flotta
 
-A Marzo 2021 la flotta risulta essere composta da *52 Boeing 737-800* _(fonte: {{< external_link "https://en.wikipedia.org/wiki/Norwegian_Air_Shuttle" "Wikipedia" >}})_.
+A Marzo 2021 la flotta _Norwegian Air_ risulta essere composta da *52 Boeing 737-800* _(fonte: {{< external_link "https://en.wikipedia.org/wiki/Norwegian_Air_Shuttle" "Wikipedia" >}})_.
 
 ## La prenotazione
 
@@ -37,7 +37,7 @@ La prenotazione è abbastanza semplice e lineare. Una volta selezionate le date 
 
 {{< image src="screen_1.png" alt="Schermata prenotazione NorwegianAir ― scelta del giorno di partenza" >}}
 
-Una volta selezionato il giorno ― l'interfaccia si fa ancora più intuitiva e semplificata.
+Selezionato il giorno ― l'interfaccia si fa ancora più intuitiva e semplificata.
 
 Non saranno necessarie ricerche incrociate o approfondite per scegliere la tariffa più congeniale alle proprie necessità ed esigenze di viaggio:
 
@@ -45,7 +45,7 @@ Non saranno necessarie ricerche incrociate o approfondite per scegliere la tarif
 
 Grande trasparenza da parte della compagnia.
 
-*Complimenti.*
+*Complimenti a _Norwegian Air_.*
 
 ## Il check-in
 
@@ -57,7 +57,7 @@ Potrà essere fatto o {{<external_link "https://www.norwegian.com/it/ipr/CheckIn
 
 {{< image src="norwegian_tail.jpg" alt="Coda del Boeing 737-800 marchiato Norwegian Air" >}}
 
-L'esperienza è quella di un normale *Boeing 737-800* (lo stesso usato da RyanAir ― per intenderci).
+L'esperienza offerta da _Norwegian Air_ è quella di un normale *Boeing 737-800* (lo stesso usato da RyanAir ― per intenderci).
 
 L'aeromobile al nostro arrivo era pulito.
 

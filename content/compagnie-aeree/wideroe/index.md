@@ -3,7 +3,7 @@ title: "Widerøe: la recensione"
 date: "2022-09-12"
 image: "images/wideroe_cover.jpg"
 
-summary : "Compagnia aerea non tra le più note in Europa ― a meno che non si pianifichi un viaggio in Norvegia e si inseriscano degli spostamenti aerei. In rete si trovano poche informazioni. Qui la mia esperienza sottoforma di mini-recensione."
+summary : "Compagnia aerea non tra le più note in Europa ― a meno che non si pianifichi un viaggio in Norvegia e si inseriscano degli spostamenti aerei. In rete si trovano poche informazioni. Qui la mia esperienza con Widerøe sottoforma di mini-recensione."
 categories : [ "compagnie-aeree" , "norvegia" ]
 tags : [ "travel" ]
 
@@ -29,7 +29,7 @@ Il nome completo è *Widerøes Flyveselskap ASA* ed è una compagnia regionale n
 
 ## La flotta
 
-La flotta è principalmente rappresentata ― ad Aprile 2020 ― da *42 de Havilland Canada DHC* in varia configurazione e modello ― che per quanto ricordino il modello usato nella tratta [Tbilisi-Mestia]({{< ref "racconti-di-viaggio/georgia-azerbaijan/day-2-mestia/index.md" >}}) ― sono modelli completamente diversi e con scopo differente.
+La flotta Widerøe è principalmente rappresentata ― ad Aprile 2020 ― da *42 de Havilland Canada DHC* in varia configurazione e modello ― che per quanto ricordino il modello usato nella tratta [Tbilisi-Mestia]({{< ref "racconti-di-viaggio/georgia-azerbaijan/day-2-mestia/index.md" >}}) ― sono modelli completamente diversi e con scopo differente.
 
 Spiccano *3 Embraer E190*.
 
@@ -45,7 +45,7 @@ I _de Havilland Canada_ sono invece prevalentemente usati per collegare le altre
 
 Il processo di prenotazione è stato abbastanza semplice.
 
-Potrete scegliere tra varie formule ― diverse tra loro per il babaglio e la flessibilità concessa.
+Widerøe vi permette scegliere tra varie formule ― diverse tra loro per il babaglio e la flessibilità concessa.
 
 * Mini: 1 hand luggage (con dimensioni complessive massime 158cm ― max 8kg)
 * Smart: 1 hand luggage (con dimensioni complessive massime 158cm) ed un bagaglio imbarcato (max 23kg)
@@ -69,7 +69,7 @@ Pazientate 😁
 
 ## Il check-in
 
-Per fare il check-in dovrete prima *loggarvi con il _booking reference_ e _cognome_* nell'{{< external_link "https://www.wideroe.no/en/check-in" "apposita sezione" >}}.
+Per fare il check-in dovrete prima *loggarvi sul sito di Widerøe con il _booking reference_ e _cognome_* nell'{{< external_link "https://www.wideroe.no/en/check-in" "apposita sezione" >}}.
 
 Abbiamo potuto scegliere i posti che preferivamo senza supplemento.
 

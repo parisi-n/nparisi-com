@@ -48,7 +48,7 @@ L'itinerario teorico prevede visita alle principali città georgiane (Tbilisi, K
 
 {{< image src="geaz_fl_post.jpg" alt="Attrezzatura portata in viaggio" >}}
 
-Poche cose utili: the less the better.
+Poche cose utili: _the less the better_.
 
 Oltre alla {{< affiliate_link "borsa-fotografica-manfrotto" "borsa fotografica Manfrotto" >}} con tutto il suo materiale con probabilità avrò bisogno di altri accessori, non strettamente necessari, ma sicuramente utili.
 
@@ -57,7 +57,7 @@ Lo zaino che porterò è uno zaino in tela **Converse**, in pieno stile _wanderl
 - {{< affiliate_link "canon-m50" "Canon m50" >}} con {{< affiliate_link "efm-11-22" "Canon EF-M 11-22mm f4" >}}, _15-45mm_ e {{< affiliate_link "efm-55-250" "Canon EF-M 55-250 f4.5" >}} 📷 più vari filtri e {{< affiliate_link "m50-battery-pack" "batterie" >}}
 - {{< affiliate_link "manfrotto-tripod-small" "Trepiede Manfrotto" >}}, {{< affiliate_link "joby-ventosa" "Joby ventosa" >}} e **Gorillapod joby**
 - Adattatori vari per {{< affiliate_link "gopro5" "Go Pro 5" >}} e relativo **Gimbal YI**
-- [RavPower FileHub]({{< ref "/accessori/ravpower-filehub-2019/index.md" >}}) ed [SanDisk SSD Portable]({{< ref "/accessori/sandisk-extreme-ssd-portable/index.md" >}})
+- [RavPower FileHub]({{< ref "/accessori/ravpower-filehub-2019/index.md" >}}) e [SanDisk SSD Portable]({{< ref "/accessori/sandisk-extreme-ssd-portable/index.md" >}})
 - Caricatore Aukey tripla uscita con vari cavi usb
 
 Ho parlato di alcuni degli oggetti elencati in [questo post]({{< ref "/accessori/10-immancabili-accessori-da-viaggio/index.md" >}}) 😉

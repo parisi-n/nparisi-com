@@ -61,7 +61,7 @@ Ma soprattutto non è stato semplice capire se effettivamente le escursioni foss
 
 * Themos: Ipotizzando poco tempo per fare colazione, in valigia ha trovato spazio il thermos {{<affiliate_link "thermos-xiaomi" "Xiaomi Derma">}} con vari the, caffè solubile, cappuccini.
 * {{< affiliate_link "baseus-car-charger" "Caricatore per auto" >}}
-* Caricatore multipresa + vari cavi ({{< affiliate_link "baseus-cavo-type-c" "type C" >}} e {{< affiliate_link "baseus-cavo-type-c" "type A-C" >}} )
+* Caricatore multipresa + vari cavi **type C** e **type A-C**
 * Ombrello
 
 {{<image src="boiling_water.jpg" caption="Thermos elettrico" alt="Thermos elettrico" >}}
