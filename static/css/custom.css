@@ -43,8 +43,6 @@
     .color-box a, .color-box a:visited { color: white !important; font-style: initial; font-weight: initial; border-bottom: 2px solid #ffffff; }
     .color-box a:hover { color: white !important; border-bottom: 2px dotted #ffffff !important; }
     .no-box-shadow, .no-box-shadow div { box-shadow: initial !important; }
-    
-    .post .featured-image.lazy, .lazy-slider { background-color: #5D656C; }
 
     /**
      * HEADER
@@ -552,9 +550,9 @@
         .post { margin-top: -0.8em !important; }
         .post_single { margin-top: -1em !important; }
         .entry { width: 96.96%; margin: auto; }
-        .content-category { display: inline-block; overflow-x: auto; padding-top: 1em;}
-        .content-category .category { white-space: nowrap; }
+        .content-category { display: flex; overflow-x: auto; padding-top: 1em;}
         .entry-content .block-image, .entry-content .panorama-block-image, .entry-content .block-video-youtube, .entry-content .block-video-vimeo, .entry-content .block-video { box-shadow: none; padding: 0; }
+        .post .featured-image.lazy { }
         
         .entry-meta { }
         
@@ -574,8 +572,6 @@
         .post .entry-meta .category a:hover { color: #f4511e !important; }
 
         .block-image img, .panorama-block-image, .block-video-youtube, .block-video-vimeo, .itinerario-gmaps, iframe.instagram-media { left: 50% !important; margin-left: -50vw !important; margin-right: -50vw !important; max-width: 100vw !important; position: relative; right: 50% !important; width: 100vw !important; border: 0px; }
-        
-        .color-box { margin-left: 0px; margin-right: 0px; }
 
         /* Capital letter - aggiustamento per piccoli schermi */
         .big-first-letter::first-letter { font-size: 3.4em; line-height: .88; margin: .09em .1em 0 -1.01%; }

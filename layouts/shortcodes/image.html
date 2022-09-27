@@ -48,7 +48,7 @@
 
                     <div class="placeholder{{if $type }} {{$type}}{{end}}" data-large="{{ .Permalink }}">
                     <img class="img-small" src="data:image/jpeg;base64,{{ $placeholder.Content | base64Encode }}"
-                        {{ if $alt }} alt="{{ $alt }}"{{ else if $caption }} alt="{{ $caption }}"{{end}}
+                        {{ if $alt }} alt="{{ $alt }}"{{end}}
                         {{ if $class }} class="{{ $class }}"{{end}}
                         {{ if $style }} style="{{ $style | safeCSS }}"{{end}}
                         onerror="this.src='images/image-not-found.svg'; this.onerror='';"
