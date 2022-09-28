@@ -95,7 +95,7 @@ A pochi passi, invece, la vita continua a scorrere.
 
 ## I tramonti sui fjordi
 
-Il tramonto è un evento quotidiano. Talmente quotidiano da non farci più nemmeno caso. Eppure non tuti i tramonti sono uguali (i [cacciatori di tramonti]({{< ref "fotografia/il-cacciatore-di-tramonti/index.md" >}}) mi daranno ragione): **il tramonto sul fjordo è quanto di più romantico possiate vivere** in un viaggio che vi proporrà una sorpresa dopo l'altra.
+Il tramonto è un evento quotidiano. Talmente quotidiano da non farci più nemmeno caso. Eppure non tutti i tramonti sono uguali (i [cacciatori di tramonti]({{< ref "fotografia/il-cacciatore-di-tramonti/index.md" >}}) mi daranno ragione): **il tramonto sul fjordo è quanto di più romantico possiate vivere** in un viaggio che vi proporrà una sorpresa dopo l'altra.
 
 {{< image src="sunsetfjord.jpg" type="wide-screen" >}}
 
