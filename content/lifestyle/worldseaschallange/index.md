@@ -38,7 +38,7 @@ L'idea del progetto invece è precedente ― e nasce da un viaggio in auto inizi
 
 Era il 2018 ed erano altri tempi. Ci si accontentava di 4 ruote e di un motore, si viveva la strada km dopo km e si soffriva il percorso anche con un filo di mal di schiena. Eppure ― una grandissima esperienza.
 
-L'acqua fredda ed essere finalmente arrivato "dall'altra parte" della penisola Iberica ― sull'Oceano ― e dal desierio di immortalare il momento particolarmente sentito: *era la mia prima volta che toccavo l'acqua dell'Oceano*.
+L'acqua fredda ed essere finalmente arrivato "dall'altra parte" della penisola Iberica ― sull'Oceano ― ha fatto nascere il desiderio di immortalare il momento particolarmente sentito: *era la mia prima volta che toccavo l'acqua dell'Oceano*.
 
 Non ho mai scritto di questa avventura e forse ― mai scriverò.
 Da custodire gelosamente nei ricordi.
@@ -66,7 +66,7 @@ _Baku, XX Settembre 2019_
 
 L'acqua era terribilmente sporca, quasi putrida.
 
-Tra gli rocce ammassate probabile la presenza di qualche ratto.
+Tra le rocce ammassate probabile la presenza di qualche ratto.
 
 Qualche giorno dopo il _faccia a faccia_ con il Mar Nero ― dalla riva ovest alla riva est ― eccomi conoscere il Mar Caspio.
 
