@@ -30,7 +30,7 @@ L'obiettivo originario di raggiungere quindi l'_Atlantic Road_ e tornare a Berge
 
 * * *
 
-Ci tratteniamo una giornata in più per esplorare Bergen (trovate tutte le informazioni del caso nel [post del Day #1](<ref >)) e, mangiato e sazi dei _#bryggenvibes_ prendiamo _Corollina_ e puntiamo verso Nord.
+Ci tratteniamo una giornata in più per esplorare Bergen (trovate tutte le informazioni del caso nel [post del Day #1]({{<ref "racconti-di-viaggio/norvegia/day-1-bergen/index.md" >}}) e, mangiato e sazi dei _#bryggenvibes_ prendiamo _Corollina_ e puntiamo verso Nord.
 
 Direzione e meta ragionevoli, questa volta; destinazione: *Lavik*.
 

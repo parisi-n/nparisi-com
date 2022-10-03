@@ -85,7 +85,7 @@ Il sito è comunque disponibile anche per dispositivi mobili quindi, qualora abb
 
 L'imbarco è stato ordinato e ― almeno per quel che riguarda il nostro volo ― perfettamente _on time_.
 
-{{< image src="safety_board.jpg" alt="Schermata prenotazione NorvegianAir ― scelta bagaglio" >}}
+{{< image src="safety_board.jpg" alt="Schermata prenotazione NorwegianAir ― scelta bagaglio" >}}
 
 Non avevo mai volato con un *Embraer*; l'esperienza di volo tuttavia è stata prossima al *più che buono* ― con poche turbolenze avvertite nonostante poi una volta atterrati a Bodø un vento forte sconvolgesse le strade.
 

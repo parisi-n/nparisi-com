@@ -27,7 +27,7 @@ L'ingordigia, la curiosità e l'essere _incastratore seriale_ hanno fatto il res
 
 Il viaggio ad Oslo di un week-end si è presto trasformato (a suon dì "ma giacché andiamo...") in un viaggio lungo 10 giorni.
 
-{{<image src="norvegianair.jpg" alt="NorvegianAir.com" >}}
+{{<image src="norwegianair.jpg" alt="NorwegianAir.com" >}}
 
 Che, ad aver avuto qualche giorno in più, sarebbe stato ancora meglio, una volta approdati nel _Paradiso delle Lofoten_.
 
@@ -145,7 +145,7 @@ L'esperienza data dall'auto ({{< external_link "www.sixt.com" "noleggiata a Berg
 
 {{<image src="norvegia_itinerario.png" caption="Itinerario con tappe" alt="Itinerario a tappe" >}}
 
-[Giorno #1]({{< ref "/racconti-di-viaggio/norvegia/day-1-bergen/index.md" >}}): arriviamo a Bergen con {{< external_link "www.norvegianair.com" "Norvegian Air" >}} alla sera. Notte a Bergen.
+[Giorno #1]({{< ref "/racconti-di-viaggio/norvegia/day-1-bergen/index.md" >}}): arriviamo a Bergen con {{< external_link "www.norwegian.com/it/" "Norwegian Air" >}} alla sera. Notte a Bergen.
 
 [Giorno #2 e #3]({{< ref "/racconti-di-viaggio/norvegia/day-2-odda-trolltunga/index.md" >}}): noleggio dell'auto e partenza verso Odda ― per poter essere in albergo all'ora di cena e partecipare al meeting propedeutico all'escursione di Trolltunga. Notte a Odda.
 

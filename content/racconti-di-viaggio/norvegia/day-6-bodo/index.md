@@ -53,7 +53,7 @@ Fuori ― era già notte.
 E freddo.
 Vento.
 
-{{<image src="norvegian_flag.jpg" alt="Bandiera norvegese" >}}
+{{<image src="norwegian_flag.jpg" alt="Bandiera norvegese" >}}
 
 ## Bodø
 

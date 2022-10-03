@@ -1,1 +1,1 @@
-<a href="{{ .Get 0 }}" target="_blank" rel="noopener noreferrer" alt="{{ .Get 1 }}">{{ .Get 1 }}</a>
+<a href="{{ if in ( .Get 0 ) "http" }}{{ .Get 0 }}{{else}}https://{{.Get 0}}{{end}}" target="_blank" rel="noopener noreferrer" alt="{{ .Get 1 }}">{{ .Get 1 }}</a>

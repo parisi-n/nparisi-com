@@ -14,7 +14,7 @@ type: "article"
 ## Il viaggio
 
 {{< capital_letter_open >}}
-Arriviamo sul far della sera ― con un volo {{< external_link "https://www.wideroe.no/" "Widerøe" >}} da _Oslo Oslo-Gardermoen_ ― sui cui abbiam volato da _Milano Malpensa_ con {{< external_link "www.norvegianair.com" "NorvegianAir.com" >}}.
+Arriviamo sul far della sera ― con un volo {{< external_link "https://www.wideroe.no/" "Widerøe" >}} da _Oslo Oslo-Gardermoen_ ― sui cui abbiam volato da _Milano Malpensa_ con {{< external_link "www.norwegian.com/it/" "NorwegianAir.com" >}}.
 
 Già dall'arrivo ad Oslo, stropicciando gli occhi in prossimità dell'oblò, nella mente pensavo "è una natura che non ho mai visto...": scrutavo in lontananza le aspre insenature dei fjordi alternate alle montagne, e già il cuore era emozionato.
 

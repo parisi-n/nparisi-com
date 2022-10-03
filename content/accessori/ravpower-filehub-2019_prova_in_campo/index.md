@@ -74,7 +74,7 @@ Se proprio pensate di non poterne fare a meno ― su Amazon.it è disponibile la
 
 Può essere utile nel caso siate in un luogo in cui non è disponibile wifi (un hotel senza wifi?) ma solo connessione via cavo, ma non so quanto possa essere frequente come contesto.
 
-Ad onor del vero mi capitò [due anni fa in Giappone](({{< ref "/racconti-di-viaggio/giappone/oltre-tokyo/index.md">}})) di vivere 3 mesi in una _student-house_ in cui il wifi non copriva l'intero edificio e trovandomi nella stanza più lontana il segnale non riusciva ad arrivare in modo abbastanza forte e stabile. Mi ero dunque dovuto arrangiare _con cavo ethernet ed adattatori vari_ (comprati qualche giorno dopo), ma reputo il contesto più unico che raro.
+Ad onor del vero mi capitò [due anni fa in Giappone]({{< ref "/racconti-di-viaggio/giappone/oltre-tokyo/index.md" >}}) di vivere 3 mesi in una _student-house_ in cui il wifi non copriva l'intero edificio e trovandomi nella stanza più lontana il segnale non riusciva ad arrivare in modo abbastanza forte e stabile. Mi ero dunque dovuto arrangiare _con cavo ethernet ed adattatori vari_ (comprati qualche giorno dopo), ma reputo il contesto più unico che raro.
 
 E' adatto per piccoli trasferimenti senza impegno o per un uso desktop per accedere ai file del vostro HDD/SSD/SD Card direttamente dal pc o dal telefono senza il bisogno di cercare adattatori ― mentre siete sdraiati a letto.
 
