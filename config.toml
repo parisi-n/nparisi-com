@@ -140,11 +140,11 @@ timeout = 120000
     url = "tags/liquorideuropa"
     weight = 3
 
-#    [[menu.main]]
-#    name = "#worldseaschallange"
-#    parent = "blog"
-#    url = "lifestyle/worldseaschallange/"
-#    weight = 4
+    [[menu.main]]
+    name = "#worldseaschallange"
+    parent = "blog"
+    url = "lifestyle/worldseaschallange/"
+    weight = 4
 
     [[menu.main]]
     name = "Med & Tech"
