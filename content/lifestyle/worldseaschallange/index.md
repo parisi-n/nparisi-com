@@ -3,7 +3,7 @@ title: "#worldseaschallange"
 date: "2022-10-03"
 image: "images/worldseaschallage_cover.jpg"
 
-summary : "Raccolta fotografica trasversale di foto scattate con i piedi a mollo in vari mari del mondo. Una collezione, un annale di ricordi, perchè ad ogni foto con cartello corrisponde un preciso momento del viaggio o di un avventura che mi piace ricordare."
+summary : "Raccolta fotografica trasversale di foto scattate con i piedi ammollo in vari mari del mondo. Una collezione, un annale di ricordi, perchè ad ogni foto con cartello corrisponde un preciso momento del viaggio o di un avventura che mi piace ricordare."
 categories : [ "lifestyle", "", "racconti-di-viaggio" ]
 tags : [ "travel" ]
 
