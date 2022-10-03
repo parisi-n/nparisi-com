@@ -10,7 +10,6 @@ tags : [ "travel" ]
 showToc : true
 type: "article"
 
-bozza: true
 ---
 * * *
 **_Portogallo, 2019_** : i crediti per la foto di copertina vanno a {{< affiliate_link "sevenseph-instagram" "@sevenseph" >}}.

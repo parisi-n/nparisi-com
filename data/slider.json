@@ -1,6 +1,11 @@
 {
     "array" : [
         {
+            "image" : "worldseaschallange_cover.png" ,
+            "text_title" : "#worldseaschallange" ,
+            "url" : "lifestyle/worldseaschallange/"
+        } ,
+        {
             "image" : "oslo_cover.png" ,
             "text_title" : "Norvegia // L'ultima tappa: Oslo" ,
             "url" : "racconti-di-viaggio/norvegia/day-8-oslo/"
