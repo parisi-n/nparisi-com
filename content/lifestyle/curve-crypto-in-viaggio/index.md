@@ -12,9 +12,14 @@ type: "article"
 ---
 
 {{< box "green" "Aggiornamenti">}}
-**Aggiornamento del 23/07/2022**: vengono *eliminati* i _rebate_ di *Spotify* e *Netflix* per gli utenti dei livelli Ruby e Jade.
+* **Aggiornamento del 24/10/2022**: viene elimitato il _0 fee_ di conversione valuta che passa a **0.2% per le conversione all'interno dell'Europa** e **2% per le conversioni all'esterno dell'Europa**.
+Con queste nuove modifiche la carta non risulta più essere vantaggiosa per i _frequent traveler_ al di fuori dell'Europea.
 
-**Aggiornamento del 05/05/2022**: dopo una tempesta di rimodulazioni dell'ultima settimana ― Crypto.com sembra aver raggiunto un equilibrio con i _tier_ delle varie carte.
+Rimuovo pertanto il referral link in quanto divenuta **sconsigliata**.
+
+* **Aggiornamento del 23/07/2022**: vengono *eliminati* i _rebate_ di *Spotify* e *Netflix* per gli utenti dei livelli Ruby e Jade.
+
+* **Aggiornamento del 05/05/2022**: dopo una tempesta di rimodulazioni dell'ultima settimana ― Crypto.com sembra aver raggiunto un equilibrio con i _tier_ delle varie carte.
 
 In particolare ― per quel che riguarda il cashback, oltre ad una riduzione si assiste all'introduzione di **soglie massime**:
 
@@ -25,7 +30,7 @@ In particolare ― per quel che riguarda il cashback, oltre ad una riduzione si 
 | Green Jade o Royal Indigo | 2% | 50$ | 4% |
 | Icy White o Rose Gold | 3% | ∞ | 8% |
 
-Rimane comunque una carta vantaggiosa per i viaggiatori ― per la presenza di un FX currency concorrenziale ― rispetto alle alternative che invece applicano **% di conversione elevati per i pagamenti in valuta non-EUR**.
+~~Rimane comunque una carta vantaggiosa per i viaggiatori ― per la presenza di un FX currency concorrenziale ― rispetto alle alternative che invece applicano **% di conversione elevati per i pagamenti in valuta non-EUR**.~~
 
 Maggiori informazioni sui cambi [qui](https://help.crypto.com/it/articles/2742447-carta-visa-crypto-com-ricompense-e-vantaggi).
 {{< /box>}}
@@ -88,7 +93,11 @@ La spesa massima effettuabile di 25'ooo€ in un'unica transazione, il che la re
 
 **Il pass Loungey ha un valore di 399€**.
 
-Qualora vi ritroviate in viaggio a **pagare in valuta diversa dall'Euro** ― il tasso di conversione valuta che vi verrà applicato è {{< external_link "https://www.visa.co.uk/support/consumer/travel-support/exchange-rate-calculator.html" "quello del circuito VISA">}} che, in base alla mia personale esperienza ― è **leggermente maggiore** (di pochi centesimi, comunque) **rispetto a quello Mastercard applicato da Curve** ma ha il **vantaggio di non incorrere in fee di conversione nel weekend**.
+~~Qualora vi ritroviate in viaggio a **pagare in valuta diversa dall'Euro** ― il tasso di conversione valuta che vi verrà applicato è {{< external_link "https://www.visa.co.uk/support/consumer/travel-support/exchange-rate-calculator.html" "quello del circuito VISA">}} che, in base alla mia personale esperienza ― è **leggermente maggiore** (di pochi centesimi, comunque) **rispetto a quello Mastercard applicato da Curve** ma ha il **vantaggio di non incorrere in fee di conversione nel weekend**.~~
+
+Con le recenti modifiche di Ottobre pagare in valuta _non-Euro _ all'interno dell'Unione Europea passa da _0-fee_ ad un rincaro del **0.2%**. Al di fuori dell'Unione Europea invece le psese di conversione valuta ammontano al **2%**.
+
+Questo rende definitivamente **la carta Crypto.com non più vantaggiosa per chi viaggia spesso**. E' possibile correre ai ripari da queste modifiche affiancandola alla carta *Curve*, ricordando che quest'ultima però - oltre ad avere un limite mensile pari a 1000€ - **applica delle FX fee pari all'1.5% nel week-end**, a prescindere dal piano in uso.
 
 {{< image src="curve-crypto-card-scenery.jpg" alt="Curve Card e Ruby Steel Crypto.com Card con sfondo Tivoli Park a Ljubljana" caption="Travel asset ― Ljubljana" type="wide-screen" >}}
 
@@ -217,9 +226,7 @@ Una sorta di **porta un amico**.
 
 ### Crypto.com
 
-Potete iscrivervi {{< affiliate_link "crypto-com-ref" "attraverso questo link" >}} per aver diritto ad un **Welcome bonus** pari a **25$ in CRO** ma ottenibili solo a fronte della richiesta di una **card Ruby o superiore**.
-
-L'app è disponibile sia per Android sia per Iphone.
+Non fornisco link d'iscrizione e disincentivo la sua offerta in quanto, con le modifiche che da Maggio si stanno succedendo --- non è più una carta comoda e vantaggiosa.
 
 ### Curve
 
