@@ -19,7 +19,7 @@ Non ne faccio un grande problema ― in quanto i farmaci di comune uso per me so
 Con queste poche righe vorrei creare una sorta di _vademecum_ su quali farmaci è opportuno portare ― da rileggere all'occorrenza come una sorta di check-list pre-partenza.
 
 {{< box "orange" >}}
-Qualunque informazioni qui contenuta *non costituisce indicazione medica* ― che dovrebbe essere invece data *dal proprio medico curante o di fiducia*.
+Qualunque informazioni qui contenuta **non costituisce indicazione medica** ― che dovrebbe essere invece data *dal proprio medico curante o di fiducia*.
 
 Proprio perché medico ― son cosciente di come indicazioni generali non possano essere adattate al singolo, che è invece meritevole di preciso inquadramento "ad personam" in base a patologie e farmaci assunti.
 
@@ -44,7 +44,7 @@ Di seguito i miei farmaci da viaggio preferiti: di ognuno porto solitamente *1-2
 
 #### Travelgum e Xamamina
 
-_Acquistabile senza ricetta medica_: **Si** ✔️
+_Acquistabile senza prescrizione medica_: **Si** ✔️
 
 Il *Travelgum* ha all'interno **esattamente metà principio attivo** di quello di una Xamamina 50. Perchè?
 
@@ -62,7 +62,7 @@ L'effetto sarà immediato ― anche se ciò **è un uso sconsigliato e non in sc
 
 #### Peridon
 
-_Acquistabile senza ricetta medica_: **No** ❌
+_Acquistabile senza prescrizione medica_: **No** ❌
 
 Antinausea ed antiemetico. 
 
@@ -82,17 +82,20 @@ Potrete comunque fare affidamento sul **Plasil** con un semplice escamotage: acq
 
 #### Gaviscon
 
-_Acquistabile senza ricetta medica_: **Si** ✔️
+_Acquistabile senza prescrizione medica_: **Si** ✔️
 
 Andrà bene qualunque altro gastroprotettore in base ai gusti sulla palatabilità (Marial, Esoxone, Refluxsan...) altro gastroprotettore di parete ― in caso di *reflusso gastroesofageo* o *fastidio urente gastrico*.
 
 {{< image src="gaviscon.jpg" alt="Confezione di Gaviscon" caption="Gaviscon" >}}
 
+**Nota bene**: il **Gaviscon Advance** (riportato in foto) risulta essere acquistabile (recenti modifiche l'hanno fatto passare da __mutuabile__ --- a carico totale del SSN --- a __non mutuabile__ --- in **Fascia C**) solo dietro **prescrizione medica**.
+Potrete però acqustare il **Gaviscon Bruciore ed Indigestione**, dagli effetti simili, **senza** alcun bisogno di **prescrizione medica**.
+
 #### Tachipirina 1000
 
-_Acquistabile senza ricetta medica_: **No** ❌
+_Acquistabile senza prescrizione medica_: **No** ❌
 
-**Acquistando la Tachipirina 500 potrete tuttavia fare a meno della ricetta medica.**
+**Acquistando la Tachipirina 500 potrete tuttavia fare a meno della prescrizione medica.**
 
 Il mio antidolorifico preferito: funziona bene e ha relativamente pochi effetti collaterali. Unico contro: _le dimensioni della compressa sono davvero esagerati_; in tal caso basterà dividerla ed assumerla in due momenti.
 
@@ -102,7 +105,7 @@ In caso di rialzo termico sarà sufficiente assumerne 500mg ed avvicinare le som
 
 #### Bentelan
 
-_Acquistabile senza ricetta medica_: **No** ❌
+_Acquistabile senza prescrizione medica_: **No** ❌
 
 Meglio le compresse da *1mg* per un giovane adulto. Potrete usarla in caso di *edema* o *punture d'insetto* che stiano sviluppando intenso dolore e tumefazione.
 
@@ -112,15 +115,15 @@ Il cortisone ha anche effetto **antidolorifico**.
 
 #### Zirtec
 
-_Acquistabile senza ricetta medica_: **No** ❌
+_Acquistabile senza prescrizione medica_: **No** ❌
 
-Antistaminico soggetto ad obbligo di ricetta ― a meno che non optiate per la confezione da *7 compresse*.
+Antistaminico soggetto ad obbligo di prescrizione ― a meno che non optiate per la confezione da *7 compresse*.
 
 {{< image src="zirtec.jpg" alt="Confezione di Zirtec" caption="Zirtec" >}}
 
 #### Moment 200 o Oki Task
 
-_Acquistabile senza ricetta medica_: **Si** ✔️
+_Acquistabile senza prescrizione medica_: **Si** ✔️
 
 Due antinfiammatori per eccellenza ― Moment (ibuprofene) e Oki Task (Ketoprofene).
 
@@ -134,7 +137,7 @@ Attenzione: **tutti gli antinfiammatori (chiamati FANS) possono generare fastidi
 
 #### Fermenti lattici
 
-_Acquistabile senza ricetta medica_: **Si** ✔️
+_Acquistabile senza prescrizione medica_: **Si** ✔️
 
 Ottimi in caso di diarrea. Preferire quelli in capsula per una migliore facilità di somministrazione ed una migliore palatabilità.
 
@@ -148,13 +151,13 @@ Il mio suggerimento non tuttavia quello di portarsi delle fiale dietro con se; v
 
 #### Bentelan fiala
 
-_Acquistabile senza ricetta medica_: **No** ❌
+_Acquistabile senza prescrizione medica_: **No** ❌
 
 Porto con me la formulazione **Bentelan 4mg** ― che all'occorrenza può diventare **2mg** (aspirando solo metà contenuto della fiala).
 
 #### Oki fiala
 
-_Acquistabile senza ricetta medica_: **No** ❌
+_Acquistabile senza prescrizione medica_: **No** ❌
 
 Il dosaggio di una singola fiala corrisponderebbe **a due bustine di Oki 80** ― riducendo notevolmente l'irritazione gastrica che ne deriverebbe dall'assunzione concomitante di _due bustine di Oki 80_.
 
@@ -162,13 +165,13 @@ Da assumere in caso di dolore intenso, inaspettato (qualcuno ha pensato ad un'*i
 
 #### Plasil fiale
 
-_Acquistabile senza ricetta medica_: **No** ❌
+_Acquistabile senza prescrizione medica_: **No** ❌
 
-Porto con me sempre 1 fiala di Plasil 10mg ― più come 
+Porto con me sempre 1 fiala di Plasil 10mg ― più come "gesto apotropaico" e per scongiurare problemi --- che per l'effettiva necessità: un'intossicazione alimentare o semplicemente una __virosi intestinale__ può mettervi facilmente KO lo stomaco e provarvi dal punto di vista fisico a causa dei vomiti ripetuti. In queste circostanze __avere una fiala di Plasil da praticare intramuscolo__ per ridurre la sintomatologia è quanto di più prezioso possiate avere.
 
 #### Imodium
 
-_Acquistabile senza ricetta medica_: **Si** ✔️
+_Acquistabile senza prescrizione medica_: **Si** ✔️
 
 Sempre presente nella borsa di molti viaggiatori ― in verità **è un farmaco che a me personalmente non piace particolarmente e che non userei**.
 
@@ -184,7 +187,7 @@ Molto meglio, in questo senso, preparati a base di **argilla con fermenti** --- 
 
 #### Normix
 
-_Acquistabile senza ricetta medica_: **No** ❌
+_Acquistabile senza prescrizione medica_: **No** ❌
 
 La sua indicazione è precisamente quella di **trattare la diarrea del viaggiatore**. Qualora siate colti ― in viaggio ― da frequenti scariche di diarrea ― assumerlo potrebbe rivelarsi strategico.
 
@@ -240,4 +243,4 @@ Fermenti lattici acquistati in fretta e furia in Uzbekistan, dopo che inaspettat
 
 * * *
 
-Un grazie speciale a {{< affiliate_link "frupari-instagram" "@frupari93" >}} --- la mia farmacista di fiducia --- per avermi fornito le foto da corredare a questo post.
+Un grazie speciale a {{< affiliate_link "frupari-instagram" "@frupari" >}} --- la mia farmacista di fiducia --- per avermi fornito le foto da corredare a questo post.
