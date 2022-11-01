@@ -70,7 +70,7 @@ La mia scelta ricade sul *Peridon* invece che su **Plasil** o **Levopraid** per 
 
 La compressa va deglutita con poco d'acqua.
 
-{{< image src="preidon.jpg" alt="Confezione di Peridon" caption="Peridon" >}}
+{{< image src="peridon.jpg" alt="Confezione di Peridon" caption="Peridon" >}}
 
 **Un uso improprio** (**e sconsigliato**) ― in caso di vomiti ripetuti o in caso si voglia faccia effetto prima ― è quello di strisciarla per qualche secondo sotto la lingua prima di deglutirla.
 
@@ -126,7 +126,7 @@ Due antinfiammatori per eccellenza ― Moment (ibuprofene) e Oki Task (Ketoprofe
 
 Il Moment 200 se assunto in numero di 2-3 compresse insieme rappresenterà l'equivalente di un *Brufen 400/600* in caso di dolore intenso.
 
-{{< image src="nurofen.jpg" alt="Confezione di Nurofen" caption="Nurofen" >}}
+{{< image src="moment.jpg" alt="Confezione di Moment" caption="Moment" >}}
 
 L'Oki Task ― assunto doppio ― equivarrà invece ad *una bustina di Oki*.
 
