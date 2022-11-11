@@ -208,7 +208,7 @@ Dispongo anche di un set di filtri K&F di densità crescente (2, 4, 8, 16, 32) c
 
 Errori di gioventù 😁
 
-Attualmente ho in uso un **Gobe ND1000** (Gobe e Urth sono la stessa cosa).
+Attualmente ho in uso un **Gobe ND1000** (Gobe e Urth identificano ormai lo stesso brand).
 
 {{< button_affiliate_link ref="gobe-nd1000" type="Amazon" >}}
 
