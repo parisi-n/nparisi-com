@@ -104,11 +104,11 @@ timeout = 120000
 #    url = "/tags/zaini-bags"
 #     weight = 1
 
-#    [[menu.main]]
-#    name = "Fotografia"
-#    parent = "accessori"
-#    url = "/accessori/fotografia"
-#    weight = 2
+    [[menu.main]]
+    name = "Fotografia"
+    parent = "accessori"
+    url = "/accessori/attrezzatura-fotografica"
+    weight = 1
 
 #    [[menu.main]]
 #    name = "Workstation"
