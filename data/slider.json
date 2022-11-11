@@ -1,7 +1,12 @@
 {
     "array" : [
         {
-            "image" : "worldseaschallange_cover.png" ,
+            "image" : "attrezzatura_cover.jpg" ,
+            "text_title" : "Zaino fotografico: l'essenziale per la fotografia da viaggio" ,
+            "url" : "accessori/attrezzatura-fotografica/"
+        } ,
+        {
+            "image" : "worldseaschallage_cover.jpg" ,
             "text_title" : "#worldseaschallange" ,
             "url" : "lifestyle/worldseaschallange/"
         } ,
