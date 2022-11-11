@@ -12,8 +12,10 @@ type: "article"
 ---
 [//]: # "{{<box "green" "Aggiornamenti" >}}* **Novembre 2022**: pubblicazione post{{</box>}}"
 
-{{< box "Informazione importante" >}}
-I link contenuti in questo post sono __referral link__. Da ogni acquisto fatto da questi link mi verrà girata da Amazon una piccola commissione --- per chi compra in modo del tutto **gratuito**.
+{{< box "blue" "Informazione importante" >}}
+I link contenuti in questo post sono __referral link__.
+
+Da ogni acquisto fatto da questi link mi verrà girata da Amazon una piccola commissione --- per chi compra in modo del tutto **gratuito**.
 {{< /box >}}
 
 {{< capital_letter_open >}}
