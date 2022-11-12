@@ -85,7 +85,7 @@ Al momento della scrittura di questo post si trova a circa 540€. Si tratta di 
 
 ### Manfrotto Tripod da tavolo
 
-Possiedo **questo in foto** (che trovate {{< affiliate_link "manfrotto-tripod-small" "qui" >}} e permette l'orientamento solo su un piano.
+Possiedo **questo in foto** (che trovate {{< affiliate_link "manfrotto-tripod-small" "qui" >}}) e permette l'orientamento solo su un piano.
 Al momento dell'acquisto (errore mio!) non avevo valutato completamente l'offerta Manfrotto, che comprendeva anche un Tripod da tavolo con possibilità di orientamento su due piani --- permettendo all'operatore di scattare sia in _landscape_ sia in _portrait_.
 
 {{< image src="manfrotto_tripod.jpg" alt="Manfrotto Tripod" caption="Il ''Manfrottino''" >}}
@@ -106,7 +106,7 @@ Con tre batterie non dovrete aver timore di non arrivare a fine giornata. Una vo
 
 ### GoPro Hero 5
 
-Ormai siamo alla {{< affiliate_link "gopro-11" "versione 11" >}} della famosa _action cam_ --- ma a questo oltre ad essere particolarmente affezionato a questi modello, continua anche a funzionare dignitosamente --- motivi per il quale non ho intenzione nel breve di cambiarla.
+Ormai siamo alla {{< affiliate_link "gopro-11" "versione 11" >}} della famosa _action cam_ --- ma a questo oltre ad essere particolarmente affezionato a questo modello, continua anche a funzionare dignitosamente --- motivi per il quale non ho intenzione nel breve di cambiarla.
 
 La uso prevalentemente per **timelapse** [notturni]({{< ref "racconti-di-viaggio/norvegia/day-7-lofoten/index.md" >}}) e [diurni]({{< ref "racconti-di-viaggio/norvegia/day-5-sognefjord/index.md" >}}), ma all'occorrenza --- montata [sul gimbal]({{< ref "#yi-gimbal" >}}) --- produce anche video fluidi e stabilizzati di alta qualità 💪
 
@@ -198,7 +198,7 @@ Per qualche anno ho usato un filtro da poco più di 10€ preso da Aliexpress (�
 
 Solo recentemente ho deciso di affidarmi a qualcosa di più "serio" e ho acquistato un **filtro polarizzatore K&F**.
 
-{{< button_affiliate_link ref="k&f-cpl" type="Amazon" >}}.
+{{< button_affiliate_link ref="k&f-cpl" type="Amazon" >}}
 
 #### Filtro ND1000
 
@@ -222,7 +222,7 @@ Il costo si aggira sui 320€.
 
 Se dovessi fare una classifica --- mi ritrovo la maggior parte delle volte a scattare in mezzo alla natura con il *EF-M 11-22mm* e con il *EF-M 32mm*.
 
-E' raro usi il telescopico --- a meno di voler *catturare particolari dettagli della natura lontani dalla mia posizione di spotter.
+E' raro usi il telescopico --- a meno di voler **catturare particolari dettagli della natura** lontani dalla mia posizione di spotter.
 
 {{< button_affiliate_link ref="efm-55-250" type="Amazon" >}}
 
