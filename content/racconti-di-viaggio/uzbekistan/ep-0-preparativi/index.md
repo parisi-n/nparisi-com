@@ -21,7 +21,7 @@ Così non è stato.
 
 ## Siamo davvero pronti?
 
-Questo viaggio avrebbe dovuto tenersi nel 2020 --- subito dopo e sulla scia dell'[entusiasmo della Georgia]({{< ref "" >}}) e dell'[avventura a Baku]({{< ref "" >}}.
+Questo viaggio avrebbe dovuto tenersi nel 2020 --- subito dopo e sulla scia dell'[entusiasmo della Georgia]({{< ref "racconti-di-viaggio/georgia-azerbaijan/day-0-preparativi/index.md" >}}) e dell'[avventura a Baku]({{< ref "racconti-di-viaggio/georgia-azerbaijan/day-5-night-train/index.md" >}}.
 
 Presi dall'euforia della Via della Seta, poco curanti dei pericoli, con un russo solido e voglia di mettersi in gioco; dormire su un platzkart al tempo era stata una sfida superata.
 Poca puzza sotto il naso, tanta voglia di scommessa. Di esplorare. Di accontentarsi di poco.
@@ -56,13 +56,13 @@ Quindi --- che Uzbekistan sia.
 
 Mentre nel periodo _pre-pandemico_, dalle fonti apprese --- l'Italia **era ben collegata** ed a prezzi accessibili con l'Uzbekistan, nel mondo del post-covid le cose son ripartite, ma con tempi e modalità differenti.
 
-Le uniche due compagnie che permettono i collegamenti tra Italia e Uzbekistan sono la {{< external_link "https://www.turkishairlines.com/it-it/" "Turkish Airlines" >}} (**con scalo**) e la compagnia di bandiera uzbeka {{< external_link "https://www.uzairways.com/en" "Uzbekistan Airways" >}}} (**volo diretto**).
+Le uniche due compagnie che permettono i collegamenti tra Italia e Uzbekistan sono la {{< external_link "https://www.turkishairlines.com/it-it/" "Turkish Airlines" >}} (**con scalo**) e la compagnia di bandiera uzbeka {{< external_link "https://www.uzairways.com/en" "Uzbekistan Airways" >}} (**volo diretto**).
 
 {{< image src="uzbekistan_airways_tickets.jpg" alt="Biglietti Uzbekistan Airways e Passaporto Italiano" >}}
 
 Nel nostro caso abbiamo optato per il volo diretto **operato da Uzbekistan Airways** __FCO-TAS__ prenotato ad Agosto per i primi giorni di Ottobre per timore che i prezzi aumentassero.
 
-Il costo della tratta sembra fisso nel tempo e non tende ad aumentare --- se non di poche decine di euro --- all'approssimarsi della data di partenza.
+Il costo della tratta, però, sembra costante nel tempo e non tende ad aumentare --- se non di poche decine di euro --- all'approssimarsi della data di partenza.
 
 {{< image src="uzbekistan_airways_sovietistan.jpg" alt="Kobo e Sovietistan di Erika Fatland" caption="Letture a tema" >}}
 
@@ -88,7 +88,7 @@ Per la {{< affiliate_link "gopro5" "Go Pro 5" >}} ho portato la {{< affiliate_li
 
 Questa volta c'è una **new entry**.
 
-Ho lasciato a casa il {{< affiliate_link "manfrotto-tripod-small-2axes" "Tripode Manfrotto" >}} (il _manfrottino_) ed invece ho portato dietro, appeso allo zaino, per tutto il viaggio, il {{< affiliate_link "https://amzn.to/3SKb5Ud" "Manfrotto Element Traveller" >}} (appena 1.1kg di peso).
+Ho lasciato a casa il {{< affiliate_link "manfrotto-tripod-small-2axes" "Tripode Manfrotto" >}} (il _manfrottino_) ed invece ho portato dietro, appeso allo zaino, per tutto il viaggio, il {{< affiliate_link "manfrotto-travel-tripod" "Manfrotto Element Traveller" >}} (appena 1.1kg di peso).
 
 Un'unica motivazione, dietro questa scelta: **la milky way nel deserto**, sulle rive del Lago d'Aral.
 
@@ -104,8 +104,6 @@ Basandoci sul meteo, con una massima di 24-25°C nelle città e 15°C nel desert
 
 Il sole sa essere spietato anche in autunno, e durante il giorno si rischia di **avere davvero caldo**.
 
-In caso di partenza autunnali consiglio di portare indumenti che vi permetteranno di vestirvi "a strati" poichè la mattina la temperatura aumenta sensibilmente mentre al calar del sole farà **addirittura freddo**.
-
 ## Il clima 🌡️
 
 Il clima è continentale, con estati calde-caldissime ed inverni freddi con neve.
@@ -114,11 +112,13 @@ Da Giugno ad Agosto la temperatura supera facilmente i 40°C durante il giorno.
 
 {{< image src="cammello.jpg" alt="Cammello" caption="Un cammello" >}}
 
-Il viaggio è avvenuto nella **prima metà di Ottobre**, e le giornate erano ancora discretamente calde (da t-shirt --- per intenderci --- senza null'altro sopra) ma, non appena il sole tramonta, inizia **il freddo** per cui è necessario rinforzare l'abbigliamento con un maglione ed una giacca. Durante la nostra permanenza, la sera, si raggiungeva velocemente i 10°C --- con una temperatura durante il giorno di 24-25°C che, unita al calore diretto dei raggi del sole, faceva sì ci fosse veramente caldo nelle ore di punta.
+Il viaggio è avvenuto nella **prima metà di Ottobre** e le giornate erano ancora discretamente calde (da t-shirt --- per intenderci --- senza null'altro sopra) ma, non appena il sole tramonta, inizia **il freddo** per cui è necessario rinforzare l'abbigliamento con un maglione ed una giacca. Durante la nostra permanenza, la sera, si raggiungeva velocemente i 10°C --- con una temperatura durante il giorno di 24-25°C che, unita al calore diretto dei raggi del sole, faceva sì ci fosse veramente caldo nelle ore di punta.
 
 Con il senno del poi --- è stato il periodo **perfetto** per visitare l'Uzbekistan. Non eccessivamente caldo nè eccessivamente freddo.
 
 Il meteo è stato clemente e non ha piovuto nemmeno una volta (in borsa avevamo comunque un **poncho da pioggia** pronto per essere usato).
+
+In caso di partenza autunnale consiglio di portare indumenti che vi permetteranno di vestirvi "a strati" poichè la mattina la temperatura aumenta sensibilmente mentre al calar del sole farà **addirittura freddo**.
 
 ## La guida 📕
 
@@ -134,7 +134,7 @@ Siamo stati in dubbio fino all'ultimo istante se confermare l'itinerario o modif
 
 Percorrere e viaggiare l'Uzbekistan non è semplice. Il tutto è reso ancor più **faticoso** dalle distanze infinite.
 
-Durante il planing dell'itinerario ci siam ripetuti --- più volte e come un mantra --- _l'abbiam fatto in Georgia, perché qui no?_.
+Durante il planing dell'itinerario ci siam ripetuti --- più volte e come un mantra --- __l'abbiam fatto in Georgia, perché qui no?__
 
 La risposta è che l'Uzbekistan è vasto ben 7 volte la superficie della Georgia (70mila km² vs 447000 km²) e si presta molto meno ad essere attraversato, a causa delle intrinseche difficoltà geografiche.
 
@@ -184,7 +184,7 @@ Qui di seguito la mappa della rete ferroviaria uzbeka.
 
 ### Bus 🚍
 
-Ci dovrebbero essere dei bus a quanto abbiamo letto sui vari forum ma non è stata un alternativa presa in considerazione.
+Ci dovrebbero essere dei bus a quanto abbiamo letto sui vari forum ma non è stata un'alternativa presa in considerazione.
 
 {{< image src="bus.jpg" alt="Bus urbano a Samarcanda" type="wide-screen">}}
 
@@ -256,7 +256,7 @@ Non ho invece informazioni circa la diffusione del circuito **American Express**
 
 {{< image src="medaglie.jpg" alt="Medaglie al valore" caption="Medaglie nel bazar del Chor Minor --- Bukhara" type="wide-screen">}}
 
-Seppur la lingua ufficiale della Repubblica dell'Uzbekistan sia l'uzbeko --- una buona fetta di popolazione, soprattutto _quella più avanti con gli anni_ parla tranquillamente il russo.
+Seppur la lingua ufficiale della Repubblica dell'Uzbekistan sia l'uzbeko --- una buona fetta di popolazione, soprattutto __quella più avanti con gli anni__, parla tranquillamente il russo.
 
 Dimenticatevi l'inglese --- ad eccezione di certe strutture ricettive; sarà skill rara ed appannaggio di pochi.
 
@@ -294,7 +294,7 @@ Ricordate però la **sempreverde** regola aurea, insegnata a tutti gli studenti 
 
 ### VPN 🔒
 
-Per quanto le cose stiano cambiando negli anni, merito anche del Presidente in carica dal 2016 che sancisce una franca rottura con il presidente precedente --- {{< external_link "https://it.wikipedia.org/wiki/Islom_Karimov" "Islom Karimov" >}} --- l'Uzbekistan possiede uno score di }}27 su 100}} che classificano il suo internet come **non libero**.
+Per quanto le cose stiano cambiando negli anni, merito anche del Presidente in carica dal 2016 che sancisce una franca rottura con il presidente precedente --- {{< external_link "https://it.wikipedia.org/wiki/Islom_Karimov" "Islom Karimov" >}} --- l'Uzbekistan possiede uno score di **27 su 100** che classificano il suo internet come **non libero**.
 
 Onde evitare problemi di sorta o _lasciare tracce, password, cronologie, informazioni_ è consigliato **dotarsi di VPN**.
 
