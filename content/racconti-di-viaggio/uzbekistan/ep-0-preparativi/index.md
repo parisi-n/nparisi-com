@@ -154,7 +154,7 @@ Quel che vi propongo è quindi un itinerario _full immersion_ in Uzbekistan **di
 
 Qui la mappa interattiva:
 
-{{< itinerario "https://www.google.com/maps/d/u/0/edit?mid=1R9stmYHm3uDQoA5UxtMmmWNlZhWPDDo&usp=sharing" >}}
+{{< itinerario "https://www.google.com/maps/d/embed?mid=1R9stmYHm3uDQoA5UxtMmmWNlZhWPDDo&ehbc=2E312F" >}}
 
 ## Come spostarsi
 
