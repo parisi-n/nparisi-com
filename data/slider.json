@@ -1,6 +1,11 @@
 {
     "array" : [
         {
+            "image" : "uzbekistan_preparativi_cover.jpg" ,
+            "text_title" : "Uzbekistan: i preparativi per la via della seta" ,
+            "url" : "racconti-di-viaggio/uzbekistan/ep-0-preparativi/"
+        } ,
+        {
             "image" : "attrezzatura_cover.jpg" ,
             "text_title" : "Zaino fotografico: l'essenziale per la fotografia da viaggio" ,
             "url" : "accessori/attrezzatura-fotografica/"
