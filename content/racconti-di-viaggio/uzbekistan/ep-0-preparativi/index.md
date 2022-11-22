@@ -202,11 +202,11 @@ A seconda delle città troverete funzionale un'app piuttosto che un'altra:
 
 A Tashkent, Bukhara e Khiva funziona **Yandex Taxi**:
 
-{{< appbox name="Yandex Taxi" image="https://play-lh.googleusercontent.com/OHQ4EKBXtp99QHmxKP17rq5ACNddPukcMt_wnRSx4c5QfOqUg5hAJfbtUay8X4CD7OS3=w240-h480-rw" package="ru.yandex.taxi">}}
+{{< appbox name="Yandex Taxi" img="https://play-lh.googleusercontent.com/OHQ4EKBXtp99QHmxKP17rq5ACNddPukcMt_wnRSx4c5QfOqUg5hAJfbtUay8X4CD7OS3=w240-h480-rw" package="ru.yandex.taxi">}}
 
 A Samarcanda avrete la possibilità --- oltre a **Yandex Taxi** --- di usare anche **Taxi OK**:
 
-{{< appbox name="Taxi OK" image="https://play-lh.googleusercontent.com/uPwzvjZrlP7XANBJikHDDpb8sw_9rW6CptjnWRmo-9Q674xTLXFLNwecZwUltsw_uoE=w240-h480-rw" package="ru.taximaster.tmtaxicaller.id1865" >}}
+{{< appbox name="Taxi OK" img="https://play-lh.googleusercontent.com/uPwzvjZrlP7XANBJikHDDpb8sw_9rW6CptjnWRmo-9Q674xTLXFLNwecZwUltsw_uoE=w240-h480-rw" package="ru.taximaster.tmtaxicaller.id1865" >}}
 
 * * *
 
