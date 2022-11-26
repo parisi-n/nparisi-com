@@ -21,7 +21,7 @@ Così non è stato.
 
 ## Siamo davvero pronti?
 
-Questo viaggio avrebbe dovuto tenersi nel 2020 --- subito dopo e sulla scia dell'[entusiasmo della Georgia]({{< ref "racconti-di-viaggio/georgia-azerbaijan/day-0-preparativi/index.md" >}}) e dell'[avventura a Baku]({{< ref "racconti-di-viaggio/georgia-azerbaijan/day-5-night-train/index.md" >}}.
+Questo viaggio avrebbe dovuto tenersi nel 2020 --- subito dopo e sulla scia dell'[entusiasmo della Georgia]({{< ref "racconti-di-viaggio/georgia-azerbaijan/day-0-preparativi/index.md" >}}) e dell'[avventura a Baku]({{< ref "racconti-di-viaggio/georgia-azerbaijan/day-5-night-train/index.md" >}}).
 
 Presi dall'euforia della Via della Seta, poco curanti dei pericoli, con un russo solido e voglia di mettersi in gioco; dormire su un platzkart al tempo era stata una sfida superata.
 Poca puzza sotto il naso, tanta voglia di scommessa. Di esplorare. Di accontentarsi di poco.
