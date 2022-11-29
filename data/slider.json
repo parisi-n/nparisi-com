@@ -1,6 +1,11 @@
 {
     "array" : [
         {
+            "image" : "capire_uzbekistan_cover.jpg" ,
+            "text_title" : "Capire l'Uzbekistan tra storia e presente" ,
+            "url" : "racconti-di-viaggio/uzbekistan/ep-1-capire-uzbekistan/"
+        } ,
+        {
             "image" : "uzbekistan_preparativi_cover.jpg" ,
             "text_title" : "Uzbekistan: i preparativi per la via della seta" ,
             "url" : "racconti-di-viaggio/uzbekistan/ep-0-preparativi/"
