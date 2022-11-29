@@ -345,6 +345,12 @@ A proposito: se state leggendo queste pagine, siete "amanti dell'Est" e non siet
 
 {{< image src="camion_deserto.jpg" alt="Camion nel deserto" caption="Camion nel mezzo del deserto" >}}
 
+* * *
+
+Un particolare ringraziamento anche al blog {{< external_link "https://www.journalofnomads.com/" "Journal of Nomads" >}} curato da _Cynthia Bil_ perché, insieme alla guida, ci ha aiutato a focalizzare nella mappa le principali attrazioni di ogni luogo facendoci risparmiare un po' di tempo.
+
+Per quanto le città abbiano le principali attrazioni concentrate in un unico distretto (la maggior parte delle volte l'_old town_), avere ben chiaro quali fossero i principali punti d'attrazione ci ha risparmiato del tempo, permettendoci di godere ulteriormente dei momenti che ogni angolo di Uzbekistan ci ha regalato.
+
 ## Un lavoro a quattro mani ✍️
 
 La stesura dei post (a dire il vero **il viaggio stesso**!) non sarebbe stata possibile senza {{< affiliate_link "frupari-instagram" "@frupari" >}} --- compagna di viaggio in questa avventura sulla carta complessa e nella realtà ancor di più.
@@ -352,9 +358,3 @@ La stesura dei post (a dire il vero **il viaggio stesso**!) non sarebbe stata po
 Sue sono alcune __foto__ così come sono sue le severe __correzioni grammaticali__ (seppur qualcosa sfugga sempre! 😇) così come alcune precise integrazioni storico-culturali precisazioni narrative.
 
 __Grazie!__
-
-* * *
-
-Un particolare ringraziamento anche al blog {{< external_link "https://www.journalofnomads.com/" "Journal of Nomads" >}} curato da _Cynthia Bil_ perché, insieme alla guida, ci ha aiutato a focalizzare nella mappa le principali attrazioni di ogni luogo facendoci risparmiare un po' di tempo.
-
-Per quanto le città abbiano le principali attrazioni concentrate in un unico distretto (la maggior parte delle volte l'_old town_), avere ben chiaro quali fossero i principali punti d'attrazione ci ha risparmiato del tempo, permettendoci di godere ulteriormente dei momenti che ogni angolo di Uzbekistan ci ha regalato.
