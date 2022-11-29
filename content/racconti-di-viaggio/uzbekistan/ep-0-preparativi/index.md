@@ -347,7 +347,7 @@ A proposito: se state leggendo queste pagine, siete "amanti dell'Est" e non siet
 
 ## Un lavoro a quattro mani ✍️
 
-La stesura dei post (a dire il vero **il viaggio stesso**!) non sarebbe stata possibile senza {{< affiliate_link "instagram-frupari" "@frupari" >}} --- compagna di viaggio in questa avventura sulla carta complessa e nella realtà ancor di più.
+La stesura dei post (a dire il vero **il viaggio stesso**!) non sarebbe stata possibile senza {{< affiliate_link "frupari-instagram" "@frupari" >}} --- compagna di viaggio in questa avventura sulla carta complessa e nella realtà ancor di più.
 
 Sue sono alcune __foto__ così come sono sue le severe __correzioni grammaticali__ (seppur qualcosa sfugga sempre! 😇) così come alcune precise integrazioni storico-culturali precisazioni narrative.
 
