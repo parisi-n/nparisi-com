@@ -10,7 +10,6 @@ tags : [ "travel" ]
 showToc : true
 type: "article"
 
-bozza: true
 ---
 
 {{< capital_letter_open >}}
