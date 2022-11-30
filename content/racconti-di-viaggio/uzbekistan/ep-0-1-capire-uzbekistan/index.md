@@ -71,7 +71,8 @@ Mentre Gengis Khan veniva rappresentato come un sanguinario --- Temerlano viene 
 La differenza sostanziale tra i due condottieri sta nel fatto che, mentre __Gengis Khan__ si lasciava dietro le città conquistate rase al suolo, Tamerlano ricostruì alcune città dell'Asia Centrale dopo averle sottomesse.
 Tali edifici tuttavia non sono giunti fino a noi perchè quest'ultimo dava priorità alle tempistiche di realizzazione piuttosto che all'effettiva qualità costruttiva ed i suoi committenti, per rientrare nei tempi, trascuravano le basi delle costruzioni __antisismiche__ (l'Uzbekistan è un territorio a rischio sismico!).
 
-Un esempio? La [moschea di Bibikhanum], in Samarcanda
+[//]: # "[Moschea di Bibikhanum]"
+Un esempio? La moschea di Bibikhanum, in Samarcanda
 
 {{< image src="bibikhanum_moschea.jpg" alt="Moschea di Bibikhanum" caption="Moschea di Bibikhanum" >}}
 
@@ -83,13 +84,15 @@ Il suo merito è l'aver lasciato un'impronta culturale, matematica e scientifica
 
 Non si può dire fosse un grande condottiero.
 
-Sua è la [madrasa del Registan] di Samarcanda, la più antica delle tre e che meglio resiste agli insulti del tempo; a seguire fece edificare anche una [madrasa a Bukhara], riconoscibili per via delle decorazioni che ricordano numeri ed espressioni matematiche.
+[//]: # "[madrasa del Registan]"
+Sua è la madrasa del Registan di Samarcanda, la più antica delle tre e che meglio resiste agli insulti del tempo; a seguire fece edificare anche una [madrasa a Bukhara], riconoscibili per via delle decorazioni che ricordano numeri ed espressioni matematiche.
 
 {{< image src="ulugbeg_registan.jpg" alt="Madrasa di Ulug Beg in Samarcanda" caption="Madrasa di Ulug Beg nel Registan" >}}
 
 All'interno delle madrase teneva le lezioni agli studenti.
 
-A Samarcanda --- è visitabile il suo [osservatorio astronomico], di cui però rimane esclusivamente il sestante.
+[//]: # "[osservatorio astronomico]"
+A Samarcanda --- è visitabile il suo osservatorio astronomico, di cui però rimane esclusivamente il sestante.
 
 * * *
 
