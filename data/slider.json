@@ -1,6 +1,11 @@
 {
     "array" : [
         {
+            "image" : "tashkent_cover.jpg" ,
+            "text_title" : "Uzbekistan: l'arrivo nella modernità di Tashkent // Ep. 1" ,
+            "url" : "racconti-di-viaggio/uzbekistan/ep-1-tashkent/"
+        } ,
+        {
             "image" : "capire_uzbekistan_cover.jpg" ,
             "text_title" : "Capire l'Uzbekistan tra storia e presente" ,
             "url" : "racconti-di-viaggio/uzbekistan/ep-0-1-capire-uzbekistan/"
