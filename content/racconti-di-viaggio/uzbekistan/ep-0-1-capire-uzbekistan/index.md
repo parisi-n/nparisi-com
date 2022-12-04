@@ -249,6 +249,8 @@ Parlavo di __diseguaglianza indotta dal turismo__ perchè nelle varie strutture 
 
 Chi ha a che fare con il turista dunque avrà un __income__ decisamente maggiore rispetto a chi invece non ci interagisce, e ciò aumenta la diseguaglianza economica, sociale e di status all'interno del paese.
 
+{{< image src="peopleof.jpg" alt="People of Samarkand" caption="People of Samarkand" type="wide-screen" >}}
+
 Per questo motivo --- ma sicuramente anche per altri --- la maggior parte dei prezzi degli hotel e dei servizi che gravitano attorno al turista (esempio: i tour organizzati) avranno **prezzo espresso in dollari** che verrà poi **convertito in sum secondo il cambio del giorno** --- qualora decidiate di pagare in valuta locale.
 
 La differenza tra il costo della vita al di fuori delle zone turistiche è facilmente apprezzabile allontanandovi un attimo dal centro, dove nessuno "parla" inglese ed il posto è frequentato esclusivamente da __locals__.
@@ -264,3 +266,17 @@ Secondo la leggenda è a Samarcanda che {{< external_link "https://it.wikipedia.
 Ancora --- è a Khiva che il matematico __Al-khorezmi__ inventò l'algebra e i "procedimenti di calcolo numerico fondati sopra l’uso delle cifre" noti oggi a noi con il nome di **algoritmi**.
 
 La **bandiera dell'Uzbekistan** con la sua successione di colori ricorda la magia del luogo: a partire dai __campi verdi__, su cui crescono __nuvole di cotone__ che contrastano con il __cielo azzurro__.
+
+* * *
+
+Grandi passi dal punt odi vista socio-culturale sono stati fatti dopo la morte del vecchio presidente Islam Karimov --- nel 2016 --- in carica dal 1991 **dopo la dissoluzione dell'Unione Sovietica** (all'epoca era capo generale del partito sovietico dell'Uzbekistan) .
+
+L'attuale presidente in carica è {{< external_link "https://it.wikipedia.org/wiki/Shavkat_Mirziyoyev" "Shavkat Mirziyoyev" >}} che fin dall'inizio si è contraddistinto per una politica più "moderna e liberale*.
+
+{{< image src="president.jpg" alt="ex-presidente dell'Uzbekistan" caption="Ex presidente dell'Uzbekistan --- Islam Karimov" type="wide-screen" >}}
+
+## Letteratura
+
+Per capire a fondo l'Uzbekistan, magari durante il vostro viaggio, vi consiglio queste letture:
+* {{< affiliate_link "sovietistan-book" "Sovietistan" >}} di **Erika Fatland**: è stata la mia lettura principale durante il viaggio; non tutte le informazioni contenute sono tuttavia veritiere o attuali per quanto riguarda l'Uzbekistan. Un esempio? I tratti decadenti ed oscuri con cui descrive e dipinge **Nukus**, che fanno pensare ad una città in decadenza ed in fase di spopolamento; **i dati demografici mostrano invece un progressivo aumento della popolazione negli ultimi venti anni**.
+* {{< affiliate_link "buonanotte-signor-lenin-book" "Buonanotte, signor Lenin" >}} di **Tiziano Terzani**: ancora in fase di lettura, parla del viaggio dell'autore nei momenti successivi alla dichiarazione di indipendenza dei vari stati dell'ex Unione Sovietica
