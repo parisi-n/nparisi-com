@@ -82,7 +82,7 @@ Riposiamo due ore, ci alziamo più devastati che mai --- facciamo colazione --- 
 
 {{< image src="metro_entrata.jpg" alt="Entrata della Metro di Tashkent" caption="Entrata della metro" type="wide-screen" >}}
 
-Tashkent è l'unica città dell'Asia Centrale.
+Tashkent è l'unica città dell'Asia Centrale ad avere un sistema metropolitano.
 
 {{< image src="tashkent_metro_map.png" alt="Mappa della metro di Tashkent" caption="Mappa della Metro Tashkent" >}}
 
