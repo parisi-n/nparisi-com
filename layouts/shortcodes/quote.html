@@ -1,9 +1,9 @@
 <div class="block-verse">
     <i class="fas fa-quote-left" style="top: -0.5em; left: 11%;"></i>
     
-    {{.Get 0}}
+    {{.Get 0 | markdownify }}
     
-    <div class="author">{{ .Get 1 | safeHTML }}</div>
+    <div class="author">{{ .Get 1 | markdownify | safeHTML }}</div>
     
     <i class="fas fa-quote-right" style="bottom: -0.5em; right: 11%;"></i>
 </div>

@@ -1,5 +1,5 @@
 <!-- implementare type="rounded" -->
-{{ $alt := .Get "alt" }}
+{{ $alt := (cond (ne (.Get "alt") nil) (.Get "caption") (.Get "alt") ) }}
 {{ $caption := ( .Get "caption" | markdownify ) }}
 {{ $class := .Get "class"}}
 {{ $style := .Get "style" }}
