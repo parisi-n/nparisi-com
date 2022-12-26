@@ -20,7 +20,7 @@ Nel nostro caso, però, è stata la prima città. Il primo approccio con la cult
 Il nostro viaggio alla scoperta della **via della seta** inizia i primi giorni di Ottobre.
 Ad attenderci un clima diurno __caldo__, soleggiato, che ci fa capire subito come metà della valigia contenente roba __pesante ed invernale__ sarà praticamente inutile.
 
-{{< image src="semaforo_pedonale.jpg" alt="semaforo_pedonale" >}}
+{{< image src="semaforo_pedonale.jpg" alt="Semaforo pedonale" >}}
 
 * * *
 
