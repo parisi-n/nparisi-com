@@ -98,7 +98,7 @@ L'accesso è a pagamento e il __ticket office__ si trova sulla sinistra della st
 
 {{< image src="registan_lato_2.jpg" alt="Piazza del Registan" type="wide-screen" >}}
 
-Una volta varcati i tornelli verrete assaliti da __guide turistiche__ che vi proporranno il tour del registan per una cifra intorno ai 20/25$ (sul tardi, intorno alle 20, potrete farlo per 8$). **Il consiglio è quello di farvi prima un giro per conto vostro** in quanto la guida non è strettamente necessaria. Capirete perchè più in fondo.
+Una volta varcati i tornelli verrete assaliti da __guide turistiche__ che vi proporranno il tour del registan per una cifra intorno ai 20/25$ (sul tardi, intorno alle 20, potrete farlo per 8$). **Il consiglio è quello di farvi prima un giro per conto vostro** in quanto la guida non è strettamente necessaria. Capirete perché più in fondo.
 
 {{< video src="hyperlapse_registan.mp4" alt="Hyperlapse madrasa Tilly Kari" caption="Madrasa Tilly Kari" >}}
 
@@ -106,7 +106,7 @@ Una volta varcati i tornelli verrete assaliti da __guide turistiche__ che vi pro
 
 La **madrasa di Ulug Bek** è quella a sinistra ed è la più antica. E' composta da un arco a ogiva che incornicia l'ingresso rettangolare e permette l'ingresso ad un ampio spazio con degli alberi, quadrato, recintato da celle per lo studio disposte sue due piani, la cui struttura rappresenta in miniatura l'ingresso della madrasa stessa.
 
-Originariamente di fronte alla madrasa sorgevano un ostello ed un caravanserraglio. Un secolo dopo però, nel XVII secolo, le due strutture vennero abbattute e venne edificata la **madrasa di Shir Dor** --- esattamente dirimpetto alla __madrasa di Ulug Beg__ --- anche detta la __madrasa dei Leoni__ perchè nello spazio sovrastante il portone d'ingresso sono raffigurati **due leoni**.
+Originariamente di fronte alla madrasa sorgevano un ostello ed un caravanserraglio. Un secolo dopo però, nel XVII secolo, le due strutture vennero abbattute e venne edificata la **madrasa di Shir Dor** --- esattamente dirimpetto alla __madrasa di Ulug Beg__ --- anche detta la __madrasa dei Leoni__ perché nello spazio sovrastante il portone d'ingresso sono raffigurati **due leoni**.
 
 {{< image src="registan_madrasa_dx.jpg" caption="Madrasa dei leoni" type="wide-screen" >}}
 
@@ -187,7 +187,7 @@ Anche per l'articolo più minuto bisogna trattare sul prezzo: è l'antico ritual
 
 {{< image src="syob_bazar_2.jpg" alt="Vita vissuta nel bazar // 3" type="wide-screen" >}}
 
-Non è granchè dissimile dai numerosi altri mercati in giro per il mondo, con mercanti vocianti che cercano di attirare l'attenzione del cliente --- tuttavia il fatto che in quello stesso posto per secoli si siano tenute compravendite attribuisce al luogo un velo di sacralità.
+Non è granché dissimile dai numerosi altri mercati in giro per il mondo, con mercanti vocianti che cercano di attirare l'attenzione del cliente --- tuttavia il fatto che in quello stesso posto per secoli si siano tenute compravendite attribuisce al luogo un velo di sacralità.
 
 {{< image src="syob_bazar_5.jpg" alt="Vita vissuta nel bazar // 1" type="wide-screen" >}}
 
@@ -284,7 +284,7 @@ Nel Mausoleo di Tamerlano giaciono i suoi resti, portati dall'esercito dopo la s
 L'esercito riportò le sue spoglie in un viaggio ad occhio durato alcune settimane e fu tumulato proprio qui, nel Mausoleo.
 
 Nel Giugno del 1941 una squadra di archeologi sovietici aprì la sua tomba per esaminarne i resti. Nella bara, l'iscrizione: "Quando risorgerò dai morti la terra tremerà" --- cui seguiva --- "chiunque apra la mia tomba scatenerà un conquistatore ancor più formidabile". Due giorni dopo --- Hitler attaccava l'Unione Sovietica.
-Per la saga "non è vero ma ci credo" --- nel Novembre del 1942 --- Amir Timur fu nuovamente seppolto con tanto di rito e cerimonia islamica; nei giorni seguenti i tedeschi riportarono ingenti perdite nella spedizione militare in Russia --- nella battaglia di Stalingrado.
+Per la saga "non è vero ma ci credo" --- nel Novembre del 1942 --- Amir Timur fu nuovamente sepolto con tanto di rito e cerimonia islamica; nei giorni seguenti i tedeschi riportarono ingenti perdite nella spedizione militare in Russia --- nella battaglia di Stalingrado.
 {{< /box >}}
 
 ## Dove mangiare
