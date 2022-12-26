@@ -1,6 +1,6 @@
 ---
 title: "Uzbekistan: la fiaba di Samarcanda // Ep. 2"
-date: "2022-12-22"
+date: "2022-12-26"
 image: "images/samarcanda_cover.jpg"
 
 summary : "Samarcanda è la città dell'Uzbekistan più famosa in tutto il mondo: il solo nome rievoca ambienti fiabeschi, madrase colorate e immense, mercanti lontani che parlano lingue misteriose che si incontravano (e ristoravano) nei caravanserragli. "
