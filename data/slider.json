@@ -1,6 +1,11 @@
 {
     "array" : [
         {
+            "image" : "samarcanda_cover.jpg" ,
+            "text_title" : "Uzbekistan: la fiaba di Samarcanda // Ep. 2" ,
+            "url" : "racconti-di-viaggio/uzbekistan/ep-2-samarcanda/"
+        } ,
+        {
             "image" : "tashkent_cover.jpg" ,
             "text_title" : "Uzbekistan: l'arrivo nella modernità di Tashkent // Ep. 1" ,
             "url" : "racconti-di-viaggio/uzbekistan/ep-1-tashkent/"
