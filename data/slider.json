@@ -1,6 +1,11 @@
 {
     "array" : [
         {
+            "image" : "bukhara_cover.jpg" ,
+            "text_title" : "Uzbekistan: smarriti a Bukhara // Ep. 3" ,
+            "url" : "racconti-di-viaggio/uzbekistan/ep-3-bukhara/"
+        } ,
+        {
             "image" : "samarcanda_cover.jpg" ,
             "text_title" : "Uzbekistan: la fiaba di Samarcanda // Ep. 2" ,
             "url" : "racconti-di-viaggio/uzbekistan/ep-2-samarcanda/"
