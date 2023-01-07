@@ -18,7 +18,7 @@ Chi mi legge da un po' lo sa ― non amo particolarmente i viaggi strettamente o
 {{< /box >}}
 
 {{< capital_letter_open >}}
-Con (quasi) tutta la calma del mondo ― una volta rifocillati presso il [Trolltunga Hotel](<ref "https://www.booking.com/hotel/no/vasstun-gjestehus.it.html" >) decidiamo di metterci in marcia verso la prossima escursione: **Preikestolen**.
+Con (quasi) tutta la calma del mondo ― una volta rifocillati presso il [Trolltunga Hotel]({{<ref "https://www.booking.com/hotel/no/vasstun-gjestehus.it.html" >}}) decidiamo di metterci in marcia verso la prossima escursione: **Preikestolen**.
 
 Tempo di viaggio stimato: 4-5 ore che, considerando i vari stop, le varie deviazioni, la pausa pranzo, avrebbe significato arrivare poco prima dell'ora di cena.
 {{< capital_letter_close >}}
