@@ -24,13 +24,13 @@ Il viaggio inteso come spostamento è, ancora una volta, il cardine di questo pe
 
 {{< image src="deserto.jpg" alt="Paesaggio desertico" type="wide-screen" >}}
 
-Viaggiamo da Samarcanda verso Bukhara e pian piano la vegetazione si dirada fino a scomparire e lasciare spazio a terra drulla colonizzata solo da cespugli in cui di tanto in tanto si intravede qualche potente mezzo sovietico muscoloso che percorre sentieri non tracciati.
+Viaggiamo da Samarcanda verso Bukhara e pian piano la vegetazione si dirada fino a scomparire e lasciare spazio a terra drulla, colonizzata solo da cespugli, in cui di tanto in tanto si intravede qualche potente mezzo sovietico muscoloso che percorre sentieri non tracciati.
 
 Alla **stazione di Samarcanda** un tabellone criptico in uzbeko (niente russo, niente inglese) dovrebbe comunicarci il binario da cui il treno dovrebbe partire. Ci soffermiamo a lungo, nel tentativo di interpretarlo, tuttavia senza successo.
 
 {{< image src="stazione_in.jpg" caption="Stazione di Samarcanda --- Interno" >}}
 
-Chiediamo ad un milite lì di passaggio; il treno sarebbe partito dal __binario 3__. Gli chiedo se può spiegarmi il tabellone ma l'inglese non è abbastanza per farlo ed è capace solo di ripetermi __Bukhara? Platform three__.
+Chiediamo ad un milite lì di passaggio; il treno sarebbe partito dal __binario 3__. Gli chiedo se può spiegarmi il tabellone --- ma l'inglese non è abbastanza per farlo ed è capace solo di ripetermi __Bukhara? Platform three__.
 
 ## Un po' di Storia
 
@@ -62,11 +62,11 @@ Costruita nel 1620, la piazza è circondata da alberi di gelso (cibo preferito d
 
 {{< image src="piazza_lyabi_khauz.jpg" caption="Miniatura del Chor Minor e del Kalyan" >}}
 
-La fontana al centro era un tempo la la vasca più grande e garantiva l'approvigionamento idrico di tutta la città. _Hauz_ significa --- appunto --- __vasca__
+La fontana al centro era un tempo la vasca più grande e garantiva l'approvigionamento idrico di tutta la città. _Hauz_ significa --- appunto --- __vasca__
 
 {{< image src="bukhara_old_town.jpg" alt="Vie della old town di Bukhara" >}}
 
-Di fronte alla piazza la **Madrasa Madrasa Kukeldash** --- non maestosa come ormai ci siamo abituati. Eppure quando fu costruita, era la __madrasa più grande di tutta l'Asia Centrale__. Oggi all'interno trovano alloggio nelle celle vari venditori. Curiosa la possibilità di esplorare il piano di sopra attraverso delle scale ripidissime e completamente al buio.
+Di fronte alla piazza la **Madrasa Kukeldash** --- non maestosa come ormai ci siamo abituati. Eppure quando fu costruita, era la __madrasa più grande di tutta l'Asia Centrale__. Oggi all'interno trovano alloggio nelle celle vari venditori. Curiosa la possibilità di esplorare il piano di sopra attraverso delle scale ripidissime e completamente al buio.
 
 {{< image src="bukhara_piazza_principale_dettaglio.jpg" alt="Miniatura nella vasca della piazza Lyabi Khauz" >}}
 
@@ -109,6 +109,8 @@ Arriverete ai **toks** --- dei bazar coperti sormontati da cupole che avevano il
 
 Un tempo in numero di cinque --- oggi rimangono solo **tre bazar specializzati**.
 I **toks** infatti avevano vari nomi in base al tipo di artigiano che si trovava al suo interno; e così trovavamo il **Tok-i-Zargaron** (il bazar dei gioiellieri), il Tok-i-Tilpak Furoshon (il bazar dei cappellai) ed il **Tok-i-Sarrafon** (il bazar dei cambi valuta).
+
+{{< image src="negozio_spezie.jpg" alt="Venditore di spezie a Bukhara" caption="Spezie" type="wide-screen" >}}
 
 Percorrete la struttura integralmente, dirigendovi verso Nord, gettando un occhiata un po' a destra ed un po' a sinistra alla merce esposta da abili venditori e cercate di trattenervi dagli acquisti anche se sarà difficile (qui ho acquistato **una maglietta Uzbekistan**, **varie calamite**, **alcune cartoline**).
 
@@ -160,6 +162,8 @@ Il **Poyi Kalon** è un enorme piazza su cui si affacciano tre illustri struttur
 
 Individuare la giusta direzione non sarà difficile: seguite l'apice del minareto!
 
+{{< image src="kyl_kalon.jpg" alt="Il minareto di notte" >}}
+
 #### Minareto Kalyan
 
 {{< posizione "https://goo.gl/maps/o3Tyys1vHcyHc94W8" >}}
@@ -189,6 +193,8 @@ Sebbene il minareto servisse al muezzin per richiamare i fedeli in preghiera ---
 
 Accanto al minareto più grande del mondo non poteva che sorgere la moschea più grande al mondo; in verità risulta essere la seconda più grande dell'Asia Centrale.
 
+{{< image src="moschea_mir-i-arab.jpg" alt="Moschea di Mir i Arab" >}}
+
 Risalente al 1500, questa moschea possiede un grande cortile, 288 cupole e un portale Iwan piastrellato.
 
 A differenza del minareto, non venne risparmiata da Gengis Khan e quella che si può visitare oggi non è che la ricostruzione.
@@ -209,7 +215,7 @@ Tutt'ora --- 125 studenti frequentano corsi di arabo e di teologia.
 
 Proseguendo lungo la __via Khodja Nurobobod__ arriverete **al di fuori delle mura** --- proprio di fronte alla **piazza del Registan** di Bukhara.
 
-Non aspettatevi una piazza come quella di Samarcanda: su questa piazza di affaccia la **Moschea Bolo Hauz**, la **Bukhara Tower** e l'**Ark di Bukhara**.
+Non aspettatevi una piazza come quella di Samarcanda: su questa piazza si affaccia la **Moschea Bolo Hauz**, la **Bukhara Tower** e l'**Ark di Bukhara**.
 
 * * *
 
@@ -249,7 +255,7 @@ Si tratta della costruzione più antica della città e l'accesso ha un costo di 
 
 Rappresenta il nucleo da cui Bukhara si sviluppò ed era popolata già dal V secolo d.C. Nel 1500 divenne un vero e proprio castello e residenza dell'emiro del tempo;
 
-Arriviamo qua quasi al tramonto --- per cui optiamo di non entrare e di salire sulla **Bukhara Tower** ed assistere al tramonto da lassù.
+Arriviamo qua quasi al tramonto --- per cui optiamo per non entrare e di salire sulla **Bukhara Tower** ed assistere al tramonto da lassù.
 
 {{< image src="bukhara_mura.jpg" caption="Cinta muraria di Bukhara" type="wide-screen" >}}
 
@@ -293,7 +299,7 @@ Si trova a Sud della **piazza Lyabi Khauz** ed è qui --- in una di quelle vie -
 
 {{< image src="people_of_bukhara.jpg" alt="People of Bukhara" >}}
 
-Le vie la notte sono completamente buie ed avrete bisogno di una torcia per muovervi agevolmente la notte. Mettete in conto di perdervi --- anche di giorno --- in quanto non tutte le viuzze sono rappresentate su Google Maps ed il GPS non garantisce una buona precisione tra le vie strette che appaiono cunicoli!
+Le vie la notte sono completamente buie ed avrete bisogno di una torcia per muovervi agevolmente. Mettete in conto di perdervi --- anche di giorno --- in quanto non tutte le viuzze sono rappresentate su Google Maps ed il GPS non garantisce una buona precisione tra le vie strette che appaiono cunicoli!
 
 {{< image src="bukhara_vie_3.jpg" alt="Vie di Bukhara al buio" >}}
 
@@ -319,11 +325,11 @@ Per tutte le altre esigenze troverete comodo affidarvi __ad un taxi__.
 
 ### Taxi
 
-Come già detto nella [parte introduttiva]({<< ref "racconti-di-viaggio/ep-0-1-capire-uzbekistan/index.md" >}}) ogni autovettura è un potenziale taxi. Alzate il pollice ed iniziate a fermare; qualcuno nel giro di istanti si fermerà.
+Come già detto nella [parte introduttiva]({{< ref "racconti-di-viaggio/uzbekistan/ep-0-1-capire-uzbekistan/index.md" >}}) ogni autovettura è un potenziale taxi. Alzate il pollice ed iniziate a fermare; qualcuno nel giro di istanti si fermerà.
 
 Qualora non siate di indole avventurosa --- **Yandex Taxi** funziona discretamente bene a Tashkent.
 
-{{< appbox name="Yandex Taxi" image="https://play-lh.googleusercontent.com/OHQ4EKBXtp99QHmxKP17rq5ACNddPukcMt_wnRSx4c5QfOqUg5hAJfbtUay8X4CD7OS3=w240-h480-rw" package="ru.yandex.taxi">}}
+{{< appbox name="Yandex Taxi" img="https://play-lh.googleusercontent.com/OHQ4EKBXtp99QHmxKP17rq5ACNddPukcMt_wnRSx4c5QfOqUg5hAJfbtUay8X4CD7OS3=w240-h480-rw" package="ru.yandex.taxi">}}
 
 ## Dove mangiare
 
@@ -375,15 +381,15 @@ Conclusa la funzione, esce. Non parla inglese. Parla russo ed il traduttore non 
 
 Ci spiega che la prima notte non può cancellarla e che dovremo stare lì. A nulla valgono le rimostranze sul fatto che non ci sono lenzuola e asciugamani (**elementi che, da descrizione e da foto, ci sarebbero invece dovuti essere**).
 
-Dopo mezz'ora di urla, sceneggiate, sbracciate --- entra in gioco un interprete contattata telefonicamente --- che ci spiega: l'unica sua preoccupazione per il fatto che, facendo il check-in altrove, gli sarebbero stati comunque addebitati 7€ di commissione che Booking.com.
+Dopo mezz'ora di urla, sceneggiate, sbracciate --- entra in gioco un interprete contattata telefonicamente --- che ci spiega: l'unica sua preoccupazione per il fatto che, facendo il check-in altrove, gli sarebbero stati comunque addebitati 7€ di commissione di Booking.com.
 
 Alla fine demordiamo. Cerchiamo un alternativa su Booking e ci spostiamo.
 
-Prendiamo le valigie e ci spostiamo nell'unico posto che, nel circondario, aveva ancora una stanza libera --- l'{{< external_link "https://www.booking.com/hotel/uz/atrium-smart-bukhara.it.html" "Atrium Smart Hotel" >}}
+Prendiamo le valigie e andiamo nell'unico posto che, nel circondario, aveva ancora una stanza libera --- l'{{< external_link "https://www.booking.com/hotel/uz/atrium-smart-bukhara.it.html" "Atrium Smart Hotel" >}}
 
 * * *
 
-Un ambiente pulito, ordinato e distinto --- con la colazione che non viene servita in struttura mal in un altro hotel --- un ⭐⭐⭐⭐ --- a pochi minuti di distanza --- presso l'{{< external_link "https://goo.gl/maps/9yc1kzn2QGQgbjPh9" "Ayvan Hotel" >}}.
+Un ambiente pulito, ordinato e distinto --- con la colazione che non viene servita in struttura ma in un altro hotel --- un ⭐⭐⭐⭐ --- a pochi minuti di distanza --- presso l'{{< external_link "https://goo.gl/maps/9yc1kzn2QGQgbjPh9" "Ayvan Hotel" >}}.
 
 ## Altre informazioni
 
