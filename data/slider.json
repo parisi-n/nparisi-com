@@ -1,6 +1,11 @@
 {
     "array" : [
         {
+            "image" : "kyzyl_kum_cover.jpg" ,
+            "text_title" : "Uzbekistan: il deserto del Kyzyl Kum ed le cinque fortezze // Ep. 4" ,
+            "url" : "racconti-di-viaggio/uzbekistan/ep-4-deserto-5-castelli/"
+        } ,
+        {
             "image" : "bukhara_cover.jpg" ,
             "text_title" : "Uzbekistan: smarriti a Bukhara // Ep. 3" ,
             "url" : "racconti-di-viaggio/uzbekistan/ep-3-bukhara/"
@@ -36,24 +41,9 @@
             "url" : "lifestyle/worldseaschallange/"
         } ,
         {
-            "image" : "oslo_cover.png" ,
-            "text_title" : "Norvegia // L'ultima tappa: Oslo" ,
-            "url" : "racconti-di-viaggio/norvegia/day-8-oslo/"
-        } ,
-        {
             "image" : "lofoten_cover.jpg" ,
             "text_title" : "Norvegia // Il Paradiso delle Lofoten" ,
             "url" : "racconti-di-viaggio/norvegia/day-7-lofoten/"
-        } ,
-        {
-            "image" : "bodo_cover.jpg" ,
-            "text_title" : "Norvegia // L'imprevisto di Bodø" ,
-            "url" : "racconti-di-viaggio/norvegia/day-6-bodo/"
-        } ,
-        {
-            "image" : "lavik_cover.jpg" ,
-            "text_title" : "Norvegia // Il Sognefjord" ,
-            "url" : "racconti-di-viaggio/norvegia/day-5-sognefjord/"
         } ,
         {
             "image" : "preikestolen_cover.jpg" ,
@@ -71,29 +61,9 @@
             "url" : "racconti-di-viaggio/norvegia/day-2-odda-trolltunga/"
         } ,
         {
-            "image" : "cover_bergen.jpg" ,
-            "text_title" : "Norvegia // Bergen" ,
-            "url" : "racconti-di-viaggio/norvegia/day-1-bergen/"
-        } ,
-        {
-            "image" : "norway_day0_cover.jpg" ,
-            "text_title" : "Norvegia: sulla via del Nord // Itinerario e preparativi" ,
-            "url" : "racconti-di-viaggio/norvegia/day-0-sulla-via-del-nord/"
-        } ,
-        {
             "image" : "curve-cryptocom-cards-cover.jpg" ,
             "text_title" : "Curve e Crypto: la mia esperienza" ,
             "url" : "lifestyle/curve-crypto-in-viaggio/"
-        } ,
-        {
-            "image" : "cover-chernobyl-pripyat.jpg" ,
-            "text_title" : "Day-tour nella città post-apocalitica: Chernobyl e Pripyat // Ep. 3" ,
-            "url" : "racconti-di-viaggio/ucraina/kiev/ep-3-tour-chernobyl/"
-        } ,
-        {
-            "image" : "20190927_192156.jpg" ,
-            "text_title" : "Georgia-Azerbaijan // Night train Tbilisi-Baku" ,
-            "url" : "racconti-di-viaggio/georgia-azerbaijan/day-5-night-train/"
         }
     ]
 }
