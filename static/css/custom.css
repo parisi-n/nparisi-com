@@ -261,6 +261,7 @@
         .slick-title { font-size: 1.75em; color: #f8f8f8; width: 100%; padding: 0 15%; font-weight: 600; letter-spacing: 1px; }
         .slick-image { height: 40em !important; position: relative; filter: brightness(70%); width: 100%; object-fit: cover; }
         .slick-action-button { margin: 1.3em; }
+        .slick-title .ep-interspace { margin: -22px; }
         
         /**
          * DISQUS

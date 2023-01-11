@@ -74,9 +74,17 @@
                         
     "mondo" : [ 
                     {
+                        "title" :   "Uzbekistan" ,
+                        "subtitle"  :   "Da Tashkent al Lago d'Aral" ,
+                        "href"  :   "racconti-di-viaggio/uzbekistan/ep-0-preparativi" ,
+                        "url"   :   "racconti-di-viaggio/uzbekistan/ep-3-bukhara" ,
+                        "img"   :   "bukhara_cover.jpg" ,
+                        "series"    :   1
+                    } ,
+                    {
                         "title" :   "Georgia-Azerbaijan" ,
                         "subtitle"  :   "Da Tbilisi a Baku" ,
-                        "href"  :   "georgia-e-azerbaijan" ,
+                        "href"  :   "racconti-di-viaggio/georgia-azerbaijan/day-0-preparativi/" ,
                         "url"   :   "racconti-di-viaggio/georgia-azerbaijan/day-4-batumi" ,
                         "img"   :   "IMG_3999.jpg" ,
                         "series"    :   1

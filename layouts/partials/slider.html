@@ -16,7 +16,9 @@
                         </div>
                         <div class="slick-content">
                             <div class="slick-title">
-                                {{ $text_title }}
+                                <div>
+                                    {{ replace $text_title "//" "<div class='ep-interspace'><br/></div>" | safeHTML }}
+                                </div>
                             </div>
                             <div class="slick-action-button">
                                 <a href="{{ $url }}" class="more-link">Leggi</a>
