@@ -1,6 +1,6 @@
 ---
 title: "Uzbekistan: verso Khiva. Il deserto del Kyzyl Kum ed le cinque fortezze // Ep. 4"
-date: "2023-01-09"
+date: "2023-01-11"
 image: "images/kyzyl_kum_cover.jpg"
 
 summary : "Sapevamo che tra Bukhara e Khiva si trovava il deserto, ma mai avremmo creduto fosse così vasto, così infinito, così spietato. E pensare che secoli fa veniva percorso regolarmente da squadre di carovanieri non fa che rendere l'impresa ancora più eroica e leggendaria."
@@ -18,7 +18,7 @@ Bukhara e Khiva distano circa 450km l'una dall'altra e sono separate da una lung
 ## Da Bukhara a Khiva
 
 Distanti circa 450km --- tra le due città si stende immenso ed indifferente il deserto. Paesaggi monotoni e ripetitivi, polvere, essenzialmente il nulla.
-Il primo giorno a Tashkent, cogliendo al balzo [la disponibilità del personale dell'hotel], oltre al biglietto **Samarcanda-Bukhara** abbiamo dato uno sguardo ai collegamenti via treno alla tratta **Bukhara-Khiva**.
+Il primo giorno a Tashkent, cogliendo al balzo [la disponibilità del personale dell'hotel]({{< ref "racconti-di-viaggio/uzbekistan/ep-1-tashkent/index.md" >}}), oltre al biglietto **Samarcanda-Bukhara** abbiamo dato uno sguardo ai collegamenti via treno alla tratta **Bukhara-Khiva**.
 
 Tempo di viaggio: **10 ore**. Costo per due passeggeri: __220ooo sum__ (circa 20€).
 
@@ -34,11 +34,15 @@ L'agenzia mette a disposizione auto e driver privato che ci porterà dal punto A
 
 {{< image src="lavori_in_corso.jpg" caption="Lavori in corso lungo la strada" type="wide-screen" >}}
 
-Il listino delle prestazioni è abbastanza ampio --- e comprende.
+Il listino delle prestazioni è abbastanza ampio --- e comprende, tra le varie cose:
 
 | Tratta | Prezzo |
 | - | - |
-| A-B | 59$ |
+| Khiva-Bukhara (o viceversa) | 59$ |
+| Khiva-Bukhara via 2 castelli | 69$ |
+| Khiva-Bukhara via 5 castelli | 79$ |
+| Daytrip a Muynak (da Nukus) | 59$ |
+| Daytrip a Muynak (da Khiva) | 79$ |
 
 Optiamo per la tratta **Bukhara-Khiva** con incluso il **tour delle 5 fortezze** al costo di 20$ oltre il normale costo e __2 ore__ in più di viaggio.
 
@@ -46,7 +50,7 @@ Preventivate quindi l'intero giorno per questo giro, a patto di partire estremam
 
 {{< image src="rifornimento_metano.jpg" alt="Stazione di rifornimento di metano in Uzbekistan" type="wide-screen" >}}
 
-Cosa che ovviamente noi non abbiamo fatto perchè abbiamo dovuto attendere le 9 l'apertura della {{< external_link "https://goo.gl/maps/4EQdCXBBfy5D4PRu6" "Kapital Bank" >}} in centro a Bukhara per poter cambiare altri soldi in quanto da quel momento in poi non ne avremo più avuto la possibilità.
+Cosa che ovviamente noi non abbiamo fatto perchè abbiamo dovuto attendere alle 9 l'apertura della {{< external_link "https://goo.gl/maps/4EQdCXBBfy5D4PRu6" "Kapital Bank" >}} in centro a Bukhara per poter cambiare altri soldi in quanto da quel momento in poi non ne avremo più avuto la possibilità.
 
 Facciamo il pieno di metano e siamo pronti a partire.
 
@@ -58,7 +62,7 @@ Avendo una vaga idea del viaggio e del fatto che con qualche difficoltà avremo 
 
 ## Il deserto del Kyzyl Kum
 
-Si estende indifferente ed brullo tra Kazakhstan, Turkmenistan e Uzbekistan.
+Si estende indifferente e brullo tra Kazakhstan, Turkmenistan e Uzbekistan.
 
 {{< itinerario "https://www.google.com/maps/d/embed?mid=1SsqOtXNOZeifTrgdOouD0cjvAh8ad0Y&hl=en&ehbc=2E312F" >}}
 
@@ -82,7 +86,7 @@ Il sole è piacevolmente caldo.
 
 Lungo stada incontriamo numerose stazioni di servizio, alcune anche molto grandi e dall'aspetto carino con tanto di ostelli per i viaggiatori e **piazzale pavimentato**: delle vere e proprie **cattedrali nel deserto**.
 
-Ma ovviamente noi non ci fermeremo in una di queste che ha la parvenza esterna un minimo decente; ci fermeremo invece in {{< external_link "https://goo.gl/maps/4Sm3RQNjVSu8VU4e8" "uno stabile costruito nel nulla" >}}, con un traliccio arruginito che svetta di fronte e nessun'altra cosa nel raggio visibile dell'occhio umano.
+Ma ovviamente noi non ci fermeremo in una di queste che ha la parvenza esterna un minimo decente; ci fermeremo invece in {{< external_link "https://goo.gl/maps/4Sm3RQNjVSu8VU4e8" "uno stabile costruito nel nulla" >}}, con un traliccio arrugginito che svetta di fronte e nessun'altra cosa nel raggio visibile dell'occhio umano.
 
 {{< image src="stazione_servizio.jpg" caption="Pranzo lungo la superstrada" type="wide-screen" >}}
 
@@ -92,7 +96,7 @@ Da fuori non ispira per nulla.
 
 Ringraziamo di aver preparato alcuni panini e mangiamo al di fuori della caffetteria, tra una folata di polvere desertica e l'altra, sollevata ora dal vento ora dai camion che passano --- in una e nell'altra direzione.
 
-Prima però ci serviamo della toilete --- la cui direzione è subito individuata non da segnaletica ben piazzata ma dall'odore che emana.
+Prima però ci serviamo della toilette --- la cui direzione è subito individuata non da segnaletica ben piazzata ma dall'odore che emana.
 
 Anche se descritto come ho fatto sembrerebbe un'esperienza pessima --- è stata estremamente divertente. In fondo, tutto fa parte del viaggio, e vivere questo genere di esperienza era ciò che --- in fondo --- desideravamo.
 
@@ -102,7 +106,7 @@ Anche se descritto come ho fatto sembrerebbe un'esperienza pessima --- è stata 
 
 Osservo la cartina su Google Maps; ad un certo punto dovremmo essere a **due passi dal confine turkmeno**.
 Prendo coraggio e con un russo un po' stentato chiedo al __driver__ se si possa fermare lungo il confine.
-__Da__ --- mi risponde --- ed aggiunge che si fermerà più in là, perchè la strada sarà esattamento lungo il confine.
+"__Da__" --- mi risponde --- ed aggiunge che si fermerà più in là, perchè la strada sarà esattamento lungo il confine.
 
 {{< image src="confine_1.jpg" alt="Confine uzbeko-turkmeno" caption="Confine armato" type="wide-screen" >}}
 
