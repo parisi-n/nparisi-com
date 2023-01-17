@@ -26,6 +26,8 @@ Il viaggio inteso come spostamento è, ancora una volta, il cardine di questo pe
 
 Viaggiamo da Samarcanda verso Bukhara e pian piano la vegetazione si dirada fino a scomparire e lasciare spazio a terra drulla, colonizzata solo da cespugli, in cui di tanto in tanto si intravede qualche potente mezzo sovietico muscoloso che percorre sentieri non tracciati.
 
+{{< vimeo src="790080486" >}}
+
 Alla **stazione di Samarcanda** un tabellone criptico in uzbeko (niente russo, niente inglese) dovrebbe comunicarci il binario da cui il treno dovrebbe partire. Ci soffermiamo a lungo, nel tentativo di interpretarlo, tuttavia senza successo.
 
 {{< image src="stazione_in.jpg" caption="Stazione di Samarcanda --- Interno" >}}
