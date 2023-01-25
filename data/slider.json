@@ -1,6 +1,11 @@
 {
     "array" : [
         {
+            "image" : "moynaq_cover.jpg" ,
+            "text_title" : "Uzbekistan // Moynaq, le iurte, l'alba ed il Lago d'Aral // Ep. 5" ,
+            "url" : "racconti-di-viaggio/uzbekistan/ep-5moynaq-lago-aral/"
+        } ,
+        {
             "image" : "kyzyl_kum_cover.jpg" ,
             "text_title" : "Uzbekistan // Il deserto del Kyzyl Kum ed le cinque fortezze // Ep. 4" ,
             "url" : "racconti-di-viaggio/uzbekistan/ep-4-deserto-5-castelli/"
