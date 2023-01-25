@@ -130,7 +130,7 @@ Anche chiamato il __louvre delle steppe__.
 
 All'intero sono contenuti numerosi dipinti della tradizione karakalpaka ed è considerato il secondo collezione più grande del mondo per quel che riguarda __l'avanguardia sovietica__.
 
-Il curatotore della collezione era __Igor Savitksy__ che portò personalmente alcuni dei rinvenimenti all'interno delle [cinque fortezze]({{< ref "racconti-di-viaggio/uzbekistan/ep-5-deserto-5-castelli/index.md" >}}).
+Il curatotore della collezione era __Igor Savitksy__ che portò personalmente alcuni dei rinvenimenti all'interno delle [cinque fortezze]({{< ref "racconti-di-viaggio/uzbekistan/ep-4-deserto-5-castelli/index.md" >}}).
 
 ## Si cambia con un 4x4
 
@@ -189,7 +189,7 @@ Guardiamo fuori. Non vediamo insegne di ristoranti, niente che avesse sembianze 
 
 Contrariamente a quanto ci saremmo aspettati (e con nostra grande sorpresa!) mangiamo in una casa tipica uzbeka. Alla disperazione iniziale si fa strada il gustare una cucina semplice ma saporita.
 
-Ci viene offerta una [shurpa]({{< ref "racconti-di-viaggio/ep-0-1-capire-uzbekistan/index.md#piatti-tipici" >}}) (ovvero brodo con carne), kutabi (simil piadina ripiena di carne o verdure) e dei manti accompagnati da un discreto tè verde. 
+Ci viene offerta una [shurpa]({{< ref "racconti-di-viaggio/uzbekistan/ep-0-1-capire-uzbekistan/index.md#piatti-tipici" >}}) (ovvero brodo con carne), kutabi (simil piadina ripiena di carne o verdure) e dei manti accompagnati da un discreto tè verde. 
 
 {{< image src="moynaq_pranzo.jpg" alt="Pranzo a Moynaq" type="wide-screen">}}
 
