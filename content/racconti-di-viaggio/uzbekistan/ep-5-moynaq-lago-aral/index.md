@@ -1,6 +1,6 @@
 ---
 title: "Uzbekistan: Moynaq, le iurte, l'alba ed il Lago d'Aral // Ep. 5"
-date: "2023-01-23"
+date: "2023-01-26"
 image: "images/moynaq_cover.jpg"
 
 summary : "Alla ricerca delle sponde del Lago scomparso, ci lasciamo alle spalle chilometri di terra inospitale a bordo del nostro 4x4. Arriviamo in tempo per il tramonto, ed assaporiamo un'esperienza differente, surreale; però tutto troppo veloce per renderci conto della fortuna per essere lì, quel giorno."
