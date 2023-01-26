@@ -12,10 +12,10 @@ type: "article"
 ---
 
 {{< capital_letter_open >}}
-Aspettavamo con un misto di ansia ed impazienza il giorno in cui saremmo partiti alla volta del Lago d'Aral e lì saremmo stati per trascorrere la notte. Un po' perchè online non trovavamo informazioni su come fosse lo __yurt camp__ sulle rive del Lago, un po' perchè avevamo il terrore la zona fosse pericolosa. In mezzo al nulla, sul fondo di un lago scomparso di cui rimane solo il ricordo, senza telefono, con un estraneo che non parla che poche parole d'inglese (e noi non parliamo che poche parole di russo). A scriverla così, la storia, gli ingredienti affinchè qualcosa vada male ci sono tutti.
+Aspettavamo con un misto di ansia ed impazienza il giorno in cui saremmo partiti alla volta del Lago d'Aral e lì saremmo stati per trascorrere la notte. Un po' perché online non trovavamo informazioni su come fosse lo __yurt camp__ sulle rive del Lago, un po' perché avevamo il terrore la zona fosse pericolosa. In mezzo al nulla, sul fondo di un lago scomparso di cui rimane solo il ricordo, senza telefono, con un estraneo che non parla che poche parole d'inglese (e noi non parliamo che poche parole di russo). A scriverla così, la storia, gli ingredienti affinchè qualcosa vada male ci sono tutti.
 {{< capital_letter_close >}}
 
-**Eppure tutto è andato oltre le aspettative.**
+**Eppure tutto é andato oltre le aspettative.**
 
 ## L'organizzazione
 
@@ -33,13 +33,13 @@ L'idea di trascorrere due giorni con un autista che, in caso di qualunque proble
 
 {{< image src="autostrada.jpg" alt="Strada verso Nukus" type="wide-screen">}}
 
-Col senno di poi --- **tutto è andato alla perfezione**, merito anche dell'incontro casuale avvenuto all'ora di pranzo con Richard e Brigitta, due italiani che come noi --- lo stesso giorno --- condividevano lo stesso percorso e destinazione, con la stessa agenzia, ma con un auto differente.
+Col senno di poi --- **tutto é andato alla perfezione**, merito anche dell'incontro casuale avvenuto all'ora di pranzo con Richard e Brigitta, due italiani che come noi --- lo stesso giorno --- condividevano lo stesso percorso e destinazione, con la stessa agenzia, ma con un auto differente.
 
-Per gli appassionati del **turismo delle catastrofi** --- questo è un viaggio che va fatto. Per riflettere, per imparare, per migliorarsi. Ed imparare dagli errori altrui --- se mai dovesse capitare l'eventualità in futuro.
+Per gli appassionati del **turismo delle catastrofi** --- questo é un viaggio che va fatto. Per riflettere, per imparare, per migliorarsi. Ed imparare dagli errori altrui --- se mai dovesse capitare l'eventualità in futuro.
 
 ### Le agenzie
 
-__Islambek Travel__ può esservi utile nel momento in cui deciderete di partire da Khiva. Nel caso siate già a Nukus l'agenzia di riferimento è __Aral Discovery__. 
+__Islambek Travel__ può esservi utile nel momento in cui deciderete di partire da Khiva. Nel caso siate già a Nukus l'agenzia di riferimento é __Aral Discovery__. 
 
 Tuttavia, in base al vostro punto di partenza, valutate entrambe le offerte in termini economici in quanto partire da Khiva potrebbe convenirvi nel caso in cui non abbiate interesse a raggiungere e soggiornare a Nukus solo come punto di partenza per la spedizione sul Lago d'Aral.
 
@@ -63,7 +63,7 @@ Da Khiva alle rive del Lago d'Aral sono la bellezza di 570 km per un totale, tra
 
 {{< image src="chipilk_kala.jpg" alt="Fortezza di Chipilk Kala" type="wide-screen">}}
 
-Verso Nord enigmatiche rovine di città fortificate emergono da distese semi desertiche --- e si intravvede ciò che resta di insediamenti che presidiavano il confine tra le zone di pianura coltivate e la steppa del deserto.
+Verso Nord enigmatiche rovine di città fortificate emergono da distese semi desertiche --- e si intravede ciò che resta di insediamenti che presidiavano il confine tra le zone di pianura coltivate e la steppa del deserto.
 
 Il viaggio verso Nukus prevede uno stop presso le rovine di _chilpik kala_ : qui venivano compiuti atti di purificazione dei corpi dei defunti secondo la tradizione zoroastriana secondo cui questi dovevano essere esposti alle intemperie ed agli uccelli rapaci affinchè venissero spolpati e le ossa purificate.
 
@@ -72,15 +72,15 @@ Il viaggio verso Nukus prevede uno stop presso le rovine di _chilpik kala_ : qui
 
 ## Il Karakalpakstan
 
-Letteralmente __capello nero__. Questo è il nome della **Repubblica Autonoma del Karakalpakstan**.
+Letteralmente __capello nero__. Questo é il nome della **Repubblica Autonoma del Karakalpakstan**.
 
-Oggi il Karakalpakstan è tra le zone più povere e sottosviluppate dell'Uzbekistan --- nonostante la ricchezza del sottosuolo in **gas propano**. Ai tempi d'oro, quando intorno al Lago d'Aral gravitavano persone, pescatori, mercanti, tonnellate di pesce (fino a 40 tonnellate al giorno!) --- la regione godeva di un discreto tenore di vita.
+Oggi il Karakalpakstan é tra le zone più povere e sottosviluppate dell'Uzbekistan --- nonostante la ricchezza del sottosuolo in **gas propano**. Ai tempi d'oro, quando intorno al Lago d'Aral gravitavano persone, pescatori, mercanti, tonnellate di pesce (fino a 40 tonnellate al giorno!) --- la regione godeva di un discreto tenore di vita.
 
 {{< image src="strada.jpg" alt="Verso Nukus, tra strade mal tenute e strette" type="wide-screen">}}
 
-Un giorno il Lago è sparito, e con lui i sogni di gloria della regione.
+Un giorno il Lago é sparito, e con lui i sogni di gloria della regione.
 
-Come se non bastasse --- il clima ha risentito in modo importante della sparizione del lago ed è divenuto ancor più rigido ed ostile.
+Come se non bastasse --- il clima ha risentito in modo importante della sparizione del lago ed é divenuto ancor più rigido ed ostile.
 
 Durante il periodo sovietico il Karakalpakstan era territorio interdetto a causa dell'elevata militarizzazione della zona.
 
@@ -88,7 +88,7 @@ Lungo la strada attraversiamo un ponte malmesso, che ci permette di attraversare
 
 {{< image src="ponte_distrutto.jpg" alt="Ponte distrutto ma transitabile" type="wide-screen">}}
 
-Nell'ultimo tratto però è semplice scambiarlo per un canale --- piuttosto che per un fiume.
+Nell'ultimo tratto però é semplice scambiarlo per un canale --- piuttosto che per un fiume.
 
 Negli anni '50 migliaia di bulldozer ed escavatori crearono un numero infinito di canali per garantire l'irrigazione delle nuove piantagioni intensive di cotone volute dal __governo centrale di Mosca__.
 
@@ -98,23 +98,23 @@ Motivo per cui si rese necessario l'uso di fertilizzanti e concimi ben oltre i d
 ### Il deserto del Karakum
 
 Letteralmente __sabbie nere__; il deserto si estende tra Turkmenistam, Kazakhstan e Uzbekistan. Si divide in tre zone: una a nord, una centrale ed una meridionale.
-La parte centrale è quella pianeggiante; la parte settentrionale è stata nel tempo modellata da venti violenti.
+La parte centrale é quella pianeggiante; la parte settentrionale é stata nel tempo modellata da venti violenti.
 
 A Nord del deserto --- l'antipiano di Ustyurt sancisce la sua fine.
 
-Di tanto in tanto avvistiamo **centrali termoelettriche** alimentate a **gas propano**, di cui il sottosuolo in questa regione è ricco.
+Di tanto in tanto avvistiamo **centrali termoelettriche** alimentate a **gas propano**, di cui il sottosuolo in questa regione é ricco.
 
-La catastrofe ecologica si è trasformata, in un certo senso, in un vantaggio per l'Uzbekistan: nel fondo del Lago e nei suoi spazi limitrofi è stato trovato un grande giacimento di gas propano --- cui seguì la costruzione delle varie centrali termoelettriche.
+La catastrofe ecologica si é trasformata, in un certo senso, in un vantaggio per l'Uzbekistan: nel fondo del Lago e nei suoi spazi limitrofi é stato trovato un grande giacimento di gas propano --- cui seguì la costruzione delle varie centrali termoelettriche.
 
 ### La capitale Nukus
 
-E' una città grigia fatta di palazzoni sovietici, con viali lunghi e larghi. Paradossalmente rispetto alla sua posizione --- oggi conta 320 mila abitanti ed il trend di crescita è più che positivo.
+E' una città grigia fatta di palazzoni sovietici, con viali lunghi e larghi. Paradossalmente rispetto alla sua posizione --- oggi conta 320 mila abitanti ed il trend di crescita é più che positivo.
 
-A pochi chilometri da confine turkmeno, è il capoluogo della **Repubblica Autonoma del Karakalpakstan**.
+A pochi chilometri da confine turkmeno, é il capoluogo della **Repubblica Autonoma del Karakalpakstan**.
 
 {{< image src="strade_nukus.jpg" type="wide-screen" caption="Strade di Nukus (attraverso il parabrezza)">}}
 
-La città è servita dall'aeroporto con voli Uzbekistan Airways che la collegano alla capitale [Tashkent]({{< ref "racconti-di-viaggio/uzbekistan/ep-1-tashkent/index.md" >}}) e con 70$ (al momento della nostra simulazione) potrete volare dalla capitale a Nukus in circa un'ora e quaranta minuti.
+La città é servita dall'aeroporto con voli Uzbekistan Airways che la collegano alla capitale [Tashkent]({{< ref "racconti-di-viaggio/uzbekistan/ep-1-tashkent/index.md" >}}) e con 70$ (al momento della nostra simulazione) potrete volare dalla capitale a Nukus in circa un'ora e quaranta minuti.
 
 #### Il museo d'arte sovietica
 
@@ -128,7 +128,7 @@ Il museo d'arte sovietica vanta intorno ai 5 mila visitatori l'anno --- un numer
 
 Anche chiamato il __louvre delle steppe__.
 
-All'intero sono contenuti numerosi dipinti della tradizione karakalpaka ed è considerato il secondo collezione più grande del mondo per quel che riguarda __l'avanguardia sovietica__.
+All'intero sono contenuti numerosi dipinti della tradizione karakalpaka ed é considerato il secondo collezione più grande del mondo per quel che riguarda __l'avanguardia sovietica__.
 
 Il curatotore della collezione era __Igor Savitksy__ che portò personalmente alcuni dei rinvenimenti all'interno delle [cinque fortezze]({{< ref "racconti-di-viaggio/uzbekistan/ep-4-deserto-5-castelli/index.md" >}}).
 
@@ -146,7 +146,7 @@ Il tutto per un totale di quasi 150L di benzina per alimentare l'immenso fuorist
 
 {{< image src="deserto_sentiero.jpg" alt="Pietra miliare lungo il percorso nel deserto" caption="Pietra miliare segnaletica" >}}
 
-Il viaggio è un continuo saltellare da Moynaq in poi. Non un metro di strada è esente da un buco, un fosso, una crepa. Strada che un tempo era stata asfaltata per permettere l'accesso alle varie centrali termoelettriche che, dopo la catastrofe ambientale, sono state costruite con la scoperta dei giacimenti di propano nel sottosuolo.
+Il viaggio é un continuo saltellare da Moynaq in poi. Non un metro di strada é esente da un buco, un fosso, una crepa. Strada che un tempo era stata asfaltata per permettere l'accesso alle varie centrali termoelettriche che, dopo la catastrofe ambientale, sono state costruite con la scoperta dei giacimenti di propano nel sottosuolo.
 
 ## Moynaq: la città portuale
 
@@ -160,7 +160,7 @@ Sugli scafi un'infinità di coppiette ha inciso nomi ed iniziali; dietro gli sca
 
 {{< image src="cimitero_barche_6.jpg" alt="Cimitero delle barche, un tempo porto di Moynaq" caption="Cimitero delle barche --- un tempo porto" >}}
 
-Oggi è l'unica attrazione che la città ha da offrire ai suoi visitatori.
+Oggi é l'unica attrazione che la città ha da offrire ai suoi visitatori.
 
 {{< image src="cimitero_barche_1.jpg" alt="Dettaglio barca arrugginita di Moynaq" type="wide-screen">}}
 
@@ -176,7 +176,7 @@ Oggi non rimangono che poche famiglie e le strade son piene di sabbia.
 
 {{< image src="cimitero_barche_4.jpg" alt="Barca arrugginita del vecchio porto di Moynaq" type="wide-screen">}}
 
-In estate i 50°C sono più una certezza che una minaccia e la polvere trascinata dal vento del deserto riempie le strade --- insieme a residui di concimi chimici e verosimilmente armi biologiche (come quelle rinvenute nella [Penisola della Rinascita]({{< ref "racconti-di-viaggio/uzbekistan/ep-5-moynaq-lago-aral/index.md#il-lago-d-aral" >}} e Komsal, oggi non più penisole ma vera e propria terraferma).
+In estate i 50°C sono più una certezza che una minaccia e la polvere trascinata dal vento del deserto riempie le strade --- insieme a residui di concimi chimici e verosimilmente armi biologiche (come quelle rinvenute nella [Penisola della Rinascita]({{< ref "racconti-di-viaggio/uzbekistan/ep-5-moynaq-lago-aral/index.md#il-lago-d-aral" >}}) e Komsal, oggi non più penisole ma vera e propria terraferma).
 
 {{< image src="cimitero_barche_5.jpg" alt="Dettaglio di un altro scafo" >}}
 
@@ -193,7 +193,7 @@ Ci viene offerta una [shurpa]({{< ref "racconti-di-viaggio/uzbekistan/ep-0-1-cap
 
 {{< image src="moynaq_pranzo.jpg" alt="Pranzo a Moynaq" type="wide-screen">}}
 
-Ed è durante questo pranzo che conosciamo _Richard e Brigitta_, due italiani che stanno procedendo nel nostro stesso percorso --- ma con diversa agenzia.
+Ed é durante questo pranzo che conosciamo _Richard e Brigitta_, due italiani che stanno procedendo nel nostro stesso percorso --- ma con diversa agenzia.
 
 ## Sul fondo del lago
 
@@ -201,7 +201,7 @@ Da Moyunaq ci dirigiamo verso Ovest, antica sponda del lago, per poi proseguire 
 
 {{< vimeo src="790087583" alt="Timelapse" caption="Timelapse dell'incursione verso il deserto" >}}
 
-Il bacino è asciutto da così tanto tempo che si è trasformato in una densa steppa di artemisia. Dopo qualche ora di strada tutta uguale, un po' asfaltata, un po' off-road scorgiamo il **canyon Ustyurt**.
+Il bacino é asciutto da così tanto tempo che si é trasformato in una densa steppa di artemisia. Dopo qualche ora di strada tutta uguale, un po' asfaltata, un po' off-road scorgiamo il **canyon Ustyurt**.
 
 ## Il canyon Ustyurt
 
@@ -213,7 +213,7 @@ Al termine della strada il 4x4 rallenta, inserisce le __ridotte__ e sembra quasi
 
 {{< image src="gregge_pecore.jpg" alt="Gregge di pecore" type="wide-screen">}}
 
-Il contrasto con lo sfondo arido del vecchio bacino idrico ed il cielo è magnifico.
+Il contrasto con lo sfondo arido del vecchio bacino idrico ed il cielo é magnifico.
 
 ## La tomba dei carovanieri
 
@@ -221,7 +221,7 @@ Sull'altipiano incrociamo la **tomba dei carovanieri**, un mausoleo comune in cu
 
 {{< image src="caravanserraglio_tomba.jpg" caption="Tomba dei carovanieri" >}}
 
-Rimaniamo in silenzio di fronte a tanta cura ed attenzione che l'uomo ha voluto dedicare alla Morte, anche in un contesto così distante e lontano da tutto ciò che è civile.
+Rimaniamo in silenzio di fronte a tanta cura ed attenzione che l'uomo ha voluto dedicare alla Morte, anche in un contesto così distante e lontano da tutto ciò che é civile.
 
 {{< image src="land_cruise_deserto.jpg" caption="Land cruise nel deserto" type="wide-screen">}}
 
@@ -229,11 +229,11 @@ Rimaniamo in silenzio di fronte a tanta cura ed attenzione che l'uomo ha voluto 
 
 Sul far della sera, con gli occhi carichi di meraviglia e stupore per la Natura che ci circonda --- la terra si trasforma in sabbia ed **avvistiamo in lontananza il Lago d'Aral**, una meraviglia che cambia in continuazione e, purtroppo, si assottiglia sempre di più.
 
-Strizziamo l'occhio --- e vediamo, al di là del bacino, la terra ferma. Vediamo la **Penisola della Rinascita**, che ormai è terraferma, circondata da arida sabbia.
+Strizziamo l'occhio --- e vediamo, al di là del bacino, la terra ferma. Vediamo la **Penisola della Rinascita**, che ormai é terraferma, circondata da arida sabbia.
 
 {{< box "blue" "La Penisola della Rinascita" >}}
 
-La _Penisola della Rinascita_ era un'isola del Lago d'Aral che, a causa del progressivo ritirarsi delle acque, è divenuta penisola.
+La _Penisola della Rinascita_ era un'isola del Lago d'Aral che, a causa del progressivo ritirarsi delle acque, é divenuta penisola.
 
 Data l'inaccessibilità del luogo divenne sede di laboratori segretissimi sovietici per la ricerca di armi chimiche e biologiche (antrace e peste bubbonica).
 
@@ -243,7 +243,7 @@ Per questo motivo nel 2002 un ingegnere biochimico statunitense tramite spedizio
 
 {{< /box >}}
 
-L'acqua è molto salata e solo certe specie ittiche riescono a sopravvivere sul versante uzbeko del Lago d'Aral.
+L'acqua é molto salata e solo certe specie ittiche riescono a sopravvivere sul versante uzbeko del Lago d'Aral.
 
 Arriviamo nell'__insediamento di iurte__ ma non scendiamo dall'auto; andremo ad assistere al tramonto dalle rive del Lago.
 
@@ -287,7 +287,7 @@ Una tavola imbandita con frutta fresca, frutta secca, pane (intero, come simbolo
 
 {{< image src="iurta_cena.jpg" alt="Plov" >}}
 
-Siamo seduti a chiacchierare da un po' quando ci viene servito **il plov caldo**, appena tolto dalla pentola. Ogni regione ha la sua ricetta e questo __plov è con i peperoni, invece che con i ceci__.
+Siamo seduti a chiacchierare da un po' quando ci viene servito **il plov caldo**, appena tolto dalla pentola. Ogni regione ha la sua ricetta e questo __plov é con i peperoni, invece che con i ceci__.
 
 ### La notte in tenda
 
@@ -297,7 +297,7 @@ Facciamo i letti, un po' incuriositi, un po' affascinati, un po' guardinghi.
 
 Dei cinque letti disponibili, scegliamo i due centrali.
 
-Fuori non è eccessivamente freddo, ma la notte sappiamo la temperatura scenderà parecchio e non lesiniamo sui piumoni.
+Fuori non é eccessivamente freddo, ma la notte sappiamo la temperatura scenderà parecchio e non lesiniamo sui piumoni.
 
 {{< image src="iurta_interno_2.jpg" alt="Interno di una iurta vista da un'altra angolazione" >}}
 
@@ -319,7 +319,7 @@ Solo la notte poteva dircelo.
 
 Un sonno pesante si impossessa di noi, ma solo fino alle 5.
 
-{{< image src="iurta_camp.jpg" alt="Accampamento alle prime luci dell'alba" caption="La colazione è sul fuoco">}}
+{{< image src="iurta_camp.jpg" alt="Accampamento alle prime luci dell'alba" caption="La colazione é sul fuoco">}}
 
 Mi desto, svegliato dal sonno dall'abbaiare di un cane solitario che urla alla luna.
 
@@ -333,11 +333,11 @@ La GoPro, silenziosa ed impassibile, aspetta sveglia l'alba.
 
 {{< image src="iurte_alba_2.jpg" alt="Accampamento delle iurte all'alba" >}}
 
-Ma ancora per poco --- perchè un sole silenzioso si fa prepotentemente spazio all'orizzonte, in direzione del Lago d'Aral.
+Ma ancora per poco --- perché un sole silenzioso si fa prepotentemente spazio all'orizzonte, in direzione del Lago d'Aral.
 
 {{< image src="aral_alba_2.jpg" caption="Aspettando l'alba" >}}
 
-Ed è in quel momento --- all'alba --- che, per la seconda volta, siamo grati per tutta la fatica compiuta per arrivare fino a lì, in quello __yurt camp__ costruito sul fondo del lago prosciugato, lontano più di 200km dal paese più vicino --- e ci sentiamo in qualche modo fortunati, nell'aver avuto la possibilità di essere lì.
+Ed é in quel momento --- all'alba --- che, per la seconda volta, siamo grati per tutta la fatica compiuta per arrivare fino a lì, in quello __yurt camp__ costruito sul fondo del lago prosciugato, lontano più di 200km dal paese più vicino --- e ci sentiamo in qualche modo fortunati, nell'aver avuto la possibilità di essere lì.
 
 {{< image src="alba_aral_iurt_camp.jpg" alt="Alba sul lago d'Aral" type="wide-screen">}}
 
@@ -371,13 +371,13 @@ Lungo il percorso vediamo quel che rimane di vecchi caravanserragli, un tempo oa
 
 {{< posizione "https://goo.gl/maps/drZE7k2q1Au8fX2F8" >}}
 
-Sulla via del ritorno incrociamo un piccolo insediamento che da lontano ci appare abbandonato; in verità è abitato.
+Sulla via del ritorno incrociamo un piccolo insediamento che da lontano ci appare abbandonato; in verità é abitato.
 
 {{< image src="4wd_polvere.jpg" alt="Land Cruise impolverata dopo la traversata nel deserto" >}}
 
-La prima sosta è nella pista di quel che un tempo era l'aeroporto della zona --- oltre a quello di Moynaq.
+La prima sosta é nella pista di quel che un tempo era l'aeroporto della zona --- oltre a quello di Moynaq.
 
-**Komsomolsk sull'Ustyurte** è il nome del villaggio --- che un tempo vantava perfino un aeroporto e serviva come postazione militare sovietica.
+**Komsomolsk sull'Ustyurte** é il nome del villaggio --- che un tempo vantava perfino un aeroporto e serviva come postazione militare sovietica.
 
 ## La necropoli di Mizdakkhan
 
@@ -402,7 +402,7 @@ Accostiamo in un largo piazzale lungo quella che sembra una strada a scorrimento
 
 Entriamo, sala da pranzo estremamente ampia, ci fanno accomodare in un __cabinet__.
 
-Mangiamo cose buone, forse perchè siamo felici.
+Mangiamo cose buone, forse perché siamo felici.
 
 {{< image src="ritorno_pranzo.jpg" alt="Esterno del ristorante in cui ci fermiamo a pranzare" >}}
 
