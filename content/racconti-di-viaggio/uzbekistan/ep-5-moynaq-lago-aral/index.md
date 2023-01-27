@@ -237,7 +237,7 @@ La _Penisola della Rinascita_ era un'isola del Lago d'Aral che, a causa del prog
 
 Data l'inaccessibilità del luogo divenne sede di laboratori segretissimi sovietici per la ricerca di armi chimiche e biologiche (antrace e peste bubbonica).
 
-I laborastori della penisola furono dismessi nel 1991, senza tuttavia un corretto smaltimento dei contenitori in cui erano racchiusi i patogeni biologici. Con il tempo c'era il pericolo che questi ultimi si deteriorassero e facessero fuoriuscire il loro contenuto e che qualche animale selvatico ne venisse in contatto con il rischio di gravi epidemie mortali.
+I laboratori della penisola furono dismessi nel 1991, senza tuttavia un corretto smaltimento dei contenitori in cui erano racchiusi i patogeni biologici. Con il tempo c'era il pericolo che questi ultimi si deteriorassero e facessero fuoriuscire il loro contenuto e che qualche animale selvatico ne venisse in contatto con il rischio di gravi epidemie mortali.
 
 Per questo motivo nel 2002 un ingegnere biochimico statunitense tramite spedizione autorizzata neutralizzò tra 100 e 200 tonnellate di antrace in quel che si può considerare, ancora oggi, la discarica di antrace più grande al mondo.
 
@@ -303,7 +303,7 @@ Fuori non é eccessivamente freddo, ma la notte sappiamo la temperatura scender�
 
 Per anni avevo sognato quel momento --- l'essere in mezzo al deserto dell'Asia Centrale --- e fotografare le stelle al buio più totale, spoglie di ogni riflesso o luce artificiale, solo io e loro, con in mezzo la mia macchina fotografica.
 
-"Ma la vita non sempre va come si desidera" (come recitava un insegna nei pressi dell'ostello in cui soggiornai durante [la mia settimana a Seoul]({{< ref "" >}}) nel 2017).
+"Ma la vita non sempre va come si desidera" (come recitava un'insegna nei pressi dell'ostello in cui soggiornai durante [la mia settimana a Seoul]({{< ref "" >}}) nel 2017).
 
 Quella notte una **luna piena** illuminava a giorno il mondo sottostante.
 
