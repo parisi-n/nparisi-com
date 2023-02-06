@@ -50,7 +50,7 @@ Letteralmente devastati dagli ultimi tre giorni di viaggio --- decidiamo di usci
 
 Khiva è davvero piccola e, in caso di alloggio nel centro, ogni cosa è a pochi minuti _walking distance_.
 
-{{< video src="khiva_siunrise.mp4" caption="Timelapse dell'alba a Khiva" >}}
+{{< video src="khiva_sunrise.mp4" caption="Timelapse dell'alba a Khiva" type="wide-screen" >}}
 
 ### Driver privato
 
@@ -82,7 +82,7 @@ La sala da pranzo in cui viene servita la colazione è sicuramente la più bella
 
 Alloggiando qui sarete letteralmente in centro, a cinque minuti (contati) da ogni attrazione di Khiva.
 
-{{< image src="caravanserraglio_interno.jpg" caption="Veduta esterna di un caravanserraglio" type="wide-screen" >}}
+{{< image src="caravanserraglio_interno.jpg" caption="Veduta esterna di un caravanserraglio" >}}
 
 L'hotel dispone anche di terrazza con servizio di ristorante ma le recensioni non erano invoglianti.
 
@@ -181,8 +181,6 @@ Il cuore della fortezza è rappresentato dal **Bastione Ak Sheik Bobo**. Salite 
 {{< image src="scale_cima_ark.jpg" alt="Scale che portano sulla terrazza del Khuna Ark" >}}
 
 Verso l'uscita vi imbatterete nella **moschea estiva**, decorata con piastrelle turchese e motivi floreali.
-
-{{< image src="caravanserraglio_interno.jpg" caption="" type="wide-screen" >}}
 
 Particolare --- il dettaglio della volta.
 
