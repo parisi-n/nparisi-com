@@ -22,9 +22,9 @@ E' Khiva.
 
 {{< image src="skyline_khiva.jpg" caption="Dettaglio di Khiva" type="wide-screen" >}}
 
-__Khi-va!__ --- ovvero __acqua dolce!__ --- avrebbe esclamato secondo la leggenda il figlio maggiore di Noè quando fondò cKhiva 2500 anni fa.
+__Khi-va!__ --- ovvero __acqua dolce!__ --- avrebbe esclamato secondo la leggenda il figlio maggiore di Noè quando fondò Khiva 2500 anni fa.
 
-Enormi mura di fango proteggono quel che un tempo era la città di Khiva. Quattro porte permettevano alle carovane di entrare nella città fortificata al cui interno ospitava moschee, madrase, mausolei.
+Enormi mura di fango proteggono quel che un tempo era la città di Khiva. Quattro porte permettevano alle carovane di entrare nella città fortificata che ospitava al suo interno moschee, madrase, mausolei.
 
 {{< image src="cinta_muraria.jpg" caption="Cinta muraria" type="wide-screen" >}}
 
@@ -54,7 +54,7 @@ Khiva è davvero piccola e, in caso di alloggio nel centro, ogni cosa è a pochi
 
 ### Driver privato
 
-Contattando il vostro hotel di Bukhara oppure di Khiva, è probabile che riescano ad organizzarvi un transfer. In alternativa --- {{< external_link "" "Islambek Travel" >}} può aiutarvi a raggiungere la vostra destinazione offrendo per 59$ (ad Ottobre 2022) oppure 79$ (in caso vogliate passare per le __cinque fortezze della Corasmia__) la possibilità di percorrere i quasi 500km da Bukhara a Khiva (o Urgench).
+Contattando il vostro hotel di Bukhara (oppure di Khiva) è probabile che riesca ad organizzarvi un transfer. In alternativa --- {{< external_link "" "Islambek Travel" >}} può aiutarvi a raggiungere la vostra destinazione offrendo per 59$ (ad Ottobre 2022) oppure 79$ (in caso vogliate passare per le __cinque fortezze della Corasmia__) la possibilità di percorrere i quasi 500km da Bukhara a Khiva (o Urgench).
 
 ### Treno
 
@@ -118,7 +118,7 @@ __Itchon kala__ ovvero la città vecchia, __dentro le mura__. Per entrare all'in
 
 {{< image src="strade_khiva_3.jpg" alt="Strade di Khiva popolate da gente e mercanti" >}}
 
-I contrappone al __Dichon Kala__ ovvero __fuori le mura__, dove vive la maggior parte della popolazione.
+Si contrappone al __Dichon Kala__ ovvero __fuori le mura__, dove vive la maggior parte della popolazione.
 
 {{< image src="strade_khiva_4.jpg" alt="Strada sterrata di Khiva fuori le mura (Dichon Kala)" >}}
 
@@ -194,11 +194,11 @@ Nei suoi pressi anche **la zecca**.
 
 Letteralmente __casa di pietra__. La sua storia è affascinante, e merita di essere raccontata.
 
-Al primo architetto cui fu commissionata lìopera fu imposto un tempo massimo di di due anni --- tempistiche irrealistiche per i tempi. L'architetto ovviamente fallì e venne fatto decapitare...
+Al primo architetto cui fu commissionata l'opera fu imposto un tempo massimo di di due anni --- tempistiche irrealistiche per i tempi. L'architetto ovviamente fallì e venne fatto decapitare...
 
 L'architetto che gli successe ci impiegò altri otto anni per completare l'opera, con la manovalanza di oltre mille schiavi.
 
-Le varie sezioni furono costruite in tempi diversi: oltre centocinquanta stanza si affacciano su nove cortili.
+Le varie sezioni furono costruite in tempi diversi: oltre centocinquanta stanze si affacciano su nove cortili.
 
 {{< image src="strade_khiva_2.jpg" caption="Dettaglio delle strade di Khiva" >}}
 
