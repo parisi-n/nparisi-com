@@ -1,6 +1,11 @@
 {
     "array" : [
         {
+            "image" : "khiva_cover.jpg" ,
+            "text_title" : "Uzbekistan // Khiva ed il suo dedalo di strade misteriose // Ep. 6" ,
+            "url" : "racconti-di-viaggio/uzbekistan/ep-6-khiva/"
+        } ,
+        {
             "image" : "moynaq_cover.jpg" ,
             "text_title" : "Uzbekistan // Moynaq, le iurte, l'alba ed il Lago d'Aral // Ep. 5" ,
             "url" : "racconti-di-viaggio/uzbekistan/ep-5-moynaq-lago-aral/"
