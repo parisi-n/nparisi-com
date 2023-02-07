@@ -128,7 +128,7 @@ Tuttavia lo sconsiglio perchè, con lo stesso ticket, avrete la possibilità di 
 
 {{< image src="strade_khiva.jpg" alt="Strade di Khiva old town" >}}
 
-Appena entrati dalla , porta ad Ovest --- sulla sinistra troverete il Khu
+Appena entrati dalla porta ad Ovest --- sulla sinistra troverete il __Kuhna Ark__.
 
 {{< image src="porta_ovest.jpg" alt="Statue raffiguranti una carovana di cammelli e mercanti" type="wide-screen" >}}
 
