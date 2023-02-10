@@ -60,7 +60,7 @@ Contattando il vostro hotel di Bukhara (oppure di Khiva) è probabile che riesca
 
 Dal sito {{< external_link "https://railway.uz/en/" "Uzbekistan Railways" >}} potrete prenotare la tratta Bukhara-Khiva con il vostro posto a sedere per circa __80ooo sum__ (circa 8€) dalla durata di quasi 8 ore.
 
-In alternativa, qualora abbiate voglia di svegliarvi all'alba e partire alle 4:22 --- è disponibile **il treno notturno** con cucetta che --- per __233ooo sum__ (circa 23€) vi offre un letto in scomparto doppio (singolo letto a castello, __suite__) oppure per _138ooo sum__ (circa 13€) vi offre un singolo letto in scomparto quadruplo (2 letti a castello, __kupe__).
+In alternativa, qualora abbiate voglia di svegliarvi all'alba e partire alle 4:22 --- è disponibile **il treno notturno** con cucetta che --- per __233ooo sum__ (circa 23€) vi offre un letto in scomparto doppio (singolo letto a castello, __suite__) oppure per __138ooo sum__ (circa 13€) vi offre un singolo letto in scomparto quadruplo (2 letti a castello, __kupe__).
 
 **Va prenotato con largo anticipo** in quanto i posti, nei momenti di maggiore flusso turistico, vanno velocemente a ruba.
 
@@ -275,7 +275,7 @@ Per arrivarci dovrete salire per tre piani di scale ma sia la vista notturna sia
 {{< image src="cena.jpg" caption="" >}}
 
 ### Tea house Mirza Boshi
-{{ posizione "https://goo.gl/maps/7FCH1fGQ6K2qEBz67" >}}
+{{< posizione "https://goo.gl/maps/7FCH1fGQ6K2qEBz67" >}}
 
 Incontrato un po' per caso, durante la passeggiata all'interno delle mura, ci è piaciuto e per questo abbiamo deciso di provarlo per quanto la nostra destinazione fosse il __Khorzem Art Restaurant__.
 
