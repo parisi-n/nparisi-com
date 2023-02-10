@@ -146,11 +146,10 @@ Quel che vi propongo è quindi un itinerario _full immersion_ in Uzbekistan **di
 
 * [Day #1]({{< ref "racconti-di-viaggio/uzbekistan/ep-1-tashkent/index.md" >}}): Tashkent;
 * [Day #2]({{< ref "racconti-di-viaggio/uzbekistan/ep-2-samarcanda/index.md" >}}): Samarcanda;
-* **Day #4-#5**: Bukhara;
-* **Day #6**: tour dei 5 castelli e pernottamento a Khiva;
-* **Day #7-#8**: Lago d'Aral e notte in iurta;
-* **Day #9**: Khiva;
-* **Day #10**: partenza da Urgench;
+* [Day #4-#5]({{< ref "racconti-di-viaggio/uzbekistan/ep-3-bukhara/index.md" >}}): Bukhara;
+* [Day #6]({{< ref "racconti-di-viaggio/uzbekistan/ep-4-deserto-5-castelli/index.md" >}}): tour dei 5 castelli e pernottamento a Khiva;
+* [Day #7-#8]({{< ref "racconti-di-viaggio/uzbekistan/ep-5-moynaq-lago-aral/index.md" >}}): Lago d'Aral e notte in iurta;
+* [Day #9-#10]({{< ref "racconti-di-viaggio/uzbekistan/ep-6-khiva/index.md" >}}): Khiva e partenza da Urgench;
 
 Prima di approcciarvi ai **post esplorativi** potrete trovare utile il post [Capire l'Uzbekistan]({{< ref "racconti-di-viaggio/uzbekistan/ep-0-1-capire-uzbekistan/index.md" >}})
 
