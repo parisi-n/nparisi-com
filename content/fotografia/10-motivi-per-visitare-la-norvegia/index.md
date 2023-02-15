@@ -21,7 +21,7 @@ Ed è così che il titolo cambia; anche se forse sarebbe stato più giusto chiam
 Certi paesaggi inaspettati, autunnali, mentre si percorrono le strade che si snodano per le insenature dei fjordi si manifestano talvolta in tutta la loro *drammaticità*.
 Fermarsi a contemplare certi scenari _pre-apocalitici_, al limite con il concetto romantico di _sturm und drag_, diventa un momento obbligato e necessario.
 
-{{< image src="moody_fjord.jpg" type="wide-screen" >}}
+{{< image src="moody_fjord.jpg" alt="Fjordo norvegese reso drammatico dalla nebbia" type="wide-screen" >}}
 
 {{< dettagli_foto apertura="5.6" focale="22" iso="100" shutter_speed="1/30" lente="11-22" >}}
 
@@ -31,7 +31,7 @@ La calma, il silenzio, la pace dei sensi nascosta negli anfratti naturali dei fj
 
 L'aria fresca del mattino rinvigorisce e pizzica la pelle del viso mentre si aspetta che il sole sorga al di là del **Lofoten Wall** ed illumini l'angolo di Paradiso.
 
-{{< image src="quiete_lofoten.jpg" type="wide-screen" >}}
+{{< image src="quiete_lofoten.jpg" alt="Mare calmo nelle Lofoten" type="wide-screen" >}}
 
 {{< dettagli_foto apertura="6.3" focale="11" iso="100" shutter_speed="1/160" lente="11-22" >}}
 
@@ -41,7 +41,7 @@ L'aria fresca del mattino rinvigorisce e pizzica la pelle del viso mentre si asp
 Tonnellate di infinita acqua di riversano **fragorosamente** dai ghiacciai delle alte quote norvegesi e cercano con prepotenza di farsi strada per riversarsi e gettarsi in mare.
 L'uomo può solo ammirare, in silenzio.
 
-{{< image src="big_nature.jpg" type="wide-screen" >}}
+{{< image src="big_nature.jpg" alt="Cascata che si riversa su un torrente in modo fragoroso" type="wide-screen" >}}
 
 {{< dettagli_foto apertura="5" focale="32" iso="100" shutter_speed="1/200" lente="32" >}}
 
@@ -50,7 +50,7 @@ L'uomo può solo ammirare, in silenzio.
 In certi angoli dei villaggi di pescatori delle Lofoten sembra quasi che **il tempo si sia fermato**.
 Ordinato, dignitoso, sembrano non soffrire la fatica del mare.
 
-{{< image src="tenacia.jpg" type="wide-screen" >}}
+{{< image src="tenacia.jpg" alt="Porto delle Lofoten" type="wide-screen" >}}
 
 {{< dettagli_foto apertura="10" focale="22" iso="100" shutter_speed="1/200" lente="11-22" >}}
 
@@ -58,7 +58,7 @@ Ordinato, dignitoso, sembrano non soffrire la fatica del mare.
 
 Braccata da tutti i viaggiatori del Nord ― si mostra solo a chi ha la pazienza di aspettarla sognante con naso all'insù.
 
-{{< image src="aurora_borealis.jpg" type="wide-screen" >}}
+{{< image src="aurora_borealis.jpg" alt="Aurora boreale" type="wide-screen" >}}
 
 {{< dettagli_foto apertura="4" focale="11" iso="100" shutter_speed="30" lente="11-22" >}}
 
@@ -67,7 +67,7 @@ Braccata da tutti i viaggiatori del Nord ― si mostra solo a chi ha la pazienza
 Se volete rendervi conto di **quanto piccolo sia l'Uomo** ― avventuratevi alla conquista di Trolltunga.
 Ogni metro conquistato a fatica verso la meta vi renderà via via più impressionati e grati.
 
-{{< image src="trolltunga.jpg" type="wide-screen" >}}
+{{< image src="trolltunga.jpg" alt="Roccia di Trolltunga" type="wide-screen" >}}
 
 {{< dettagli_foto apertura="6.3" focale="32" iso="100" shutter_speed="1/320" lente="32" >}}
 
@@ -77,7 +77,7 @@ Una pausa di riflessione, di riposo per il corpo e per lo spirito oltreché per 
 
 Una birra alle Lofoten per timbrare per sempre il ricordo di un'esperienza unica.
 
-{{< image src="lofoten_bier.jpg" type="wide-screen" >}}
+{{< image src="lofoten_bier.jpg" alt="Birra su tavolo bevuta con panorama il Mare delle Lofoten da Anita" type="wide-screen" >}}
 
 {{< dettagli_foto apertura="4.5" focale="32" iso="100" shutter_speed="1/160" lente="32" >}}
 
@@ -89,7 +89,7 @@ Oggi le strade rimangono come Ieri, e si lasciano esplorare tra il silenzio e la
 
 A pochi passi, invece, la vita continua a scorrere.
 
-{{< image src="stavanger_white.jpg" type="wide-screen" >}}
+{{< image src="stavanger_white.jpg" alt="Case di Stavanger" type="wide-screen" >}}
 
 {{< dettagli_foto apertura="1.4" focale="32" iso="100" shutter_speed="1/50" lente="32" >}}
 
@@ -97,7 +97,7 @@ A pochi passi, invece, la vita continua a scorrere.
 
 Il tramonto è un evento quotidiano. Talmente quotidiano da non farci più nemmeno caso. Eppure non tutti i tramonti sono uguali (i [cacciatori di tramonti]({{< ref "fotografia/il-cacciatore-di-tramonti/index.md" >}}) mi daranno ragione): **il tramonto sul fjordo è quanto di più romantico possiate vivere** in un viaggio che vi proporrà una sorpresa dopo l'altra.
 
-{{< image src="sunsetfjord.jpg" type="wide-screen" >}}
+{{< image src="sunsetfjord.jpg" alt="Tramonto sul fjordo" type="wide-screen" >}}
 
 {{< dettagli_foto apertura="1.4" focale="32" iso="640" shutter_speed="1/60" lente="32">}}
 
@@ -107,7 +107,7 @@ Viaggiare in Norvegia da Sud a Nord vi metterà di fronte a scelte di percorso d
 
 Nessuna strada è meglio di un'altra per arrivare a destinazione, perché rimarrete comunque **sorpresi e meravigliati**. Sempre.
 
-{{< image src="scenic_roads.jpg" type="wide-screen" >}}
+{{< image src="scenic_roads.jpg" alt="Strada norvegese" type="wide-screen" >}}
 
 {{< dettagli_foto apertura="5" focale="32" iso="100" shutter_speed="1/200" lente="32" >}}
 
