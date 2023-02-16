@@ -1,5 +1,5 @@
 ---
-title: "Uzbekistan: i preparativi per la via della seta"
+title: "Uzbekistan: i preparativi e l'itinerario (di 8 giorni) per la via della seta"
 date: "2022-11-21"
 image: "images/uzbekistan_preparativi_cover.jpg"
 
