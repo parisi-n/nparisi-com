@@ -1,5 +1,5 @@
 ---
-title: "Uzbekistan: verso Khiva. Il deserto del Kyzyl Kum ed le cinque fortezze // Ep. 4"
+title: "Uzbekistan: verso Khiva. Il deserto del Kyzyl Kum e le cinque fortezze // Ep. 4"
 date: "2023-01-11"
 image: "images/kyzyl_kum_cover.jpg"
 
