@@ -57,7 +57,7 @@ Maggiori informazioni con dovizia di dettagli sugli aeromobili disponibili, conf
 
 ### Airbus
 
-Sono prevalentemente *Airbus A320* (10 di 13); i restanti tre divisi tra *Airbus A210 neo* e *Airbus A321* - prevalentemente per il corto-medio raggio.
+Sono prevalentemente *Airbus A320* (10 di 13); i restanti tre divisi tra *Airbus A210 neo* e *Airbus A321* - per il corto-medio raggio.
 
 {{< image src="aeromobile_parcheggio_2.jpg" alt="Airbus nel parcheggio di Urgench in fase di boarding (landscape)" >}}
 
