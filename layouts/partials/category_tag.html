@@ -51,7 +51,7 @@
                         <div class='excerpt-content'>
                             <article>
                                 <p>
-                                    {{ .Params.summary }}
+                                    {{ .Params.summary | markdownify }}
                                 </p>
                                 <div class="more-link-wrapper"><a class="more-link" href="{{ .Permalink }}" alt="Continua a leggere {{ .Title }}" title="Continua a leggere {{ .Title }}">Continua a leggere<span class="screen-reader-text">Questo è un post </span></a></div>
 
