@@ -45,7 +45,7 @@ La tratta *URG - MXP - URG* operata dal volo *HY 255* con un *Airbus A320 Neo* h
 
 ### Tashkent - Roma Fiumicino - Tashkent
 
-La tratta *TAS - FCO - TAS* é invece operata dal volo *HY 258* - anche questa volta con un *Airbus A320 Neo* e ha come frequenza *ogni martedì*.
+La tratta *TAS - FCO - TAS* é invece operata dal volo *HY 258* - anche questa volta con un *Airbus A320 Neo* e ha come frequenza *ogni martedì* e *ogni giovedì*.
 
 {{< image src="fco_gate.jpg" alt="Gate di Fiumicino" >}}
 
