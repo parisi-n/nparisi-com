@@ -68,7 +68,7 @@ Noi abbiamo avuto difficoltà nel prenotarli dall'Italia, motivo per il quale ab
 
 ### Aereo
 
-Khiva è a circa un'ora di distanza dall'**aeroporto di Urgench** motivo per cui con una cifra accettabile (al momento della simulazione 65$) potrete volare con [Uzbekistan Airways]({{< ref "" >}}) da **Tashkent a Urgench** in circa un'ora e trenta minuti.
+Khiva è a circa un'ora di distanza dall'**aeroporto di Urgench** motivo per cui con una cifra accettabile (al momento della simulazione 65$) potrete volare con [Uzbekistan Airways]({{< ref "compagnie-aeree/uzbekistan-airways/index.md" >}}) da **Tashkent a Urgench** in circa un'ora e trenta minuti.
 
 Se sommate i vari spostamenti ed il tempo necessari per arrivare via terra da Tashkent a Khiva, qualora la vostra idea sia fare il percorso inverso al nostro --- da Khiva a Tashkent --- il prezzo è estremamente interessante.
 
@@ -335,6 +335,6 @@ Alle 14:35 è il nostro turno.
 
 {{< image src="uzbair.jpg" caption="" >}}
 
-L'aereo [Uzbekistan Airways], in arrivo da **Tashkent**, ci aspetta per accompagnarci nell'ultima parte del nostro viaggio --- la tratta da **Urgench a Milano Malpensa**.
+L'aereo [Uzbekistan Airways]({{< ref "compagnie-aeree/uzbekistan-airways/index.md" >}}), in arrivo da **Tashkent**, ci aspetta per accompagnarci nell'ultima parte del nostro viaggio --- la tratta da **Urgench a Milano Malpensa**.
 
 {{< video src="uzbairways_decollo.mp4" type="vertical_9x16" >}}

@@ -60,7 +60,7 @@ Le uniche due compagnie che permettono i collegamenti tra Italia e Uzbekistan so
 
 {{< image src="uzbekistan_airways_tickets.jpg" alt="Biglietti Uzbekistan Airways e Passaporto Italiano" >}}
 
-Nel nostro caso abbiamo optato per il volo diretto **operato da Uzbekistan Airways** __FCO-TAS__ prenotato ad Agosto per i primi giorni di Ottobre per timore che i prezzi aumentassero.
+Nel nostro caso abbiamo optato per il volo diretto [operato da Uzbekistan Airways]({{< ref "compagnie-aeree/uzbekistan-airways/index.md" >}}) __FCO-TAS__ prenotato ad Agosto per i primi giorni di Ottobre per timore che i prezzi aumentassero.
 
 Il costo della tratta, però, sembra costante nel tempo e non tende ad aumentare --- se non di poche decine di euro --- all'approssimarsi della data di partenza.
 
@@ -124,7 +124,7 @@ In caso di partenza autunnale consiglio di portare indumenti che vi permetterann
 
 Oltre alla **Lonely Planet** --- che non apprezzo per tanti motivi --- solo un'alternativa (in lingua italiana) può essere considerata e parlo della {{< affiliate_link "polaris-uzbekistan" "Polaris --- Uzbekistan, nelle steppe dell'Asia Centrale" >}}
 
-La guida _Polaris_ offre una panoramica a 360° sulla cultura dell'Uzbekistan, per quanto per certe cose sia purtroppo superata --- offre comunque spunti e curiosità storiche di estremo interesse. Un libro da sfogliare mentre si passeggia per le vie di Khiva, Bukhara o Samarcanda, da leggere nel momento e una volta tornati in hotel, con gusto e simpatia.
+La guida _Polaris_ offre una panoramica a 360° sulla cultura dell'Uzbekistan, per quanto per certe cose sia purtroppo superata --- offre comunque spunti e curiosità storiche di estremo interesse. Un libro da sfogliare mentre si passeggia per le vie di [Khiva]({{< ref "racconti-di-viaggio/uzbekistan/ep-6-khiva/index.md" >}}), [Bukhara]({{< ref "racconti-di-viaggio/uzbekistan/ep-3-bukhara/index.md" >}}) o [Samarcanda]({{< ref "racconti-di-viaggio/uzbekistan/ep-2-samarcanda/index.md" >}}), da leggere nel momento e una volta tornati in hotel, con gusto e simpatia.
 
 {{< image src="polaris_uzbekistan_guida.jpg" alt="Guida Polaris | Uzbekistan, nelle steppe dell'Asia Centrale" caption="Uzbekistan: nelle steppe dell'Asia Centrale" >}}
 

@@ -114,7 +114,7 @@ A pochi chilometri da confine turkmeno, é il capoluogo della **Repubblica Auton
 
 {{< image src="strade_nukus.jpg" type="wide-screen" caption="Strade di Nukus (attraverso il parabrezza)">}}
 
-La città é servita dall'aeroporto con voli Uzbekistan Airways che la collegano alla capitale [Tashkent]({{< ref "racconti-di-viaggio/uzbekistan/ep-1-tashkent/index.md" >}}) e con 70$ (al momento della nostra simulazione) potrete volare dalla capitale a Nukus in circa un'ora e quaranta minuti.
+La città é servita dall'aeroporto con voli [Uzbekistan Airways]({{< ref "compagnie-aeree/uzbekistan-airways/index.md" >}}) che la collegano alla capitale [Tashkent]({{< ref "racconti-di-viaggio/uzbekistan/ep-1-tashkent/index.md" >}}) e con 70$ (al momento della nostra simulazione) potrete volare dalla capitale a Nukus in circa un'ora e quaranta minuti.
 
 #### Il museo d'arte sovietica
 

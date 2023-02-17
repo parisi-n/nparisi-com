@@ -13,7 +13,7 @@ type: "article"
 ---
 
 {{< capital_letter_open >}}
-Per alcuni Tashkent, la capitale dell'Uzbekistan, (o Ташке́нт, in russo, come mi piace scrivere per il profondo legame con lo stile russo che l'anima della città inesorabilmente mostra) è il capolinea del viaggio: "__per aspera ad astra__" --- dicevano i latini --- ed è un po' quel che molti viaggiatori sperimentano dopo essere passati per l'infinita monotonia dei paesaggi offerti dal deserto e dalle varie città millenarie (Khiva, Bukhara, Samarcanda) dell'Asia Centrale che sembrano uscite direttamente dal 1300.
+Per alcuni Tashkent, la capitale dell'Uzbekistan, (o Ташке́нт, in russo, come mi piace scrivere per il profondo legame con lo stile russo che l'anima della città inesorabilmente mostra) è il capolinea del viaggio: "__per aspera ad astra__" --- dicevano i latini --- ed è un po' quel che molti viaggiatori sperimentano dopo essere passati per l'infinita monotonia dei paesaggi offerti dal deserto e dalle varie città millenarie ([Khiva]({{< ref "racconti-di-viaggio/uzbekistan/ep-6-khiva/index.md" >}}), [Bukhara]({{< ref "racconti-di-viaggio/uzbekistan/ep-3-bukhara/index.md" >}}), [Samarcanda]({{< ref "racconti-di-viaggio/uzbekistan/ep-2-samarcanda/index.md" >}})) dell'Asia Centrale che sembrano uscite direttamente dal 1300.
 Nel nostro caso, però, è stata la prima città. Il primo approccio con la cultura, la società, il modo di guidare ed il lifestyle uzbeko.
 {{< capital_letter_close >}}
 
@@ -72,7 +72,7 @@ Il vantaggio dell'hotel è comunque quello di essere "nelle vicinanze" (in verit
 
 * * *
 
-Il nostro aereo con partenza da **FCO** (Roma Fiumicino) ed operato da **Uzbekistan Airways** è atterrato alle ore 4:30 locali; il tempo di sbrigare le formalità doganali ed arrivare (tramite __transfer__) in hotel che -- alle 6:00 circa -- il sole stava albeggiando.
+Il nostro aereo con partenza da **FCO** (Roma Fiumicino) ed operato da [Uzbekistan Airways]({{< ref "compagnie-aeree/uzbekistan-airways/index.md" >}}) è atterrato alle ore 4:30 locali; il tempo di sbrigare le formalità doganali ed arrivare (tramite __transfer__) in hotel che -- alle 6:00 circa -- il sole stava albeggiando.
 
 Riposiamo due ore, ci alziamo più devastati che mai --- facciamo colazione --- ed usciamo.
 
