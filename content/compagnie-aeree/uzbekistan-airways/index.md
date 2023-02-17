@@ -13,7 +13,7 @@ type: "article"
 ---
 
 {{< box "blue" "Disclaimer" >}}
-Le informazioni contenute in questo post risalgono al momento della mia esperienza nel *Settembre 2022*.
+Le informazioni contenute in questo post risalgono al momento della mia esperienza nel *Ottobre 2022*.
 
 Non si può escludere possano non essere aggiornate.
 {{< /box >}}
@@ -120,7 +120,7 @@ Il fatto di prenotare (per esempio) l'arrivo a Tashkent ed il ritorno da Urgench
 
 ## Il check-in
 
-Non avrete la possibilità di fare il check-in online --- motivo per cui dovrete fare la fia ai __desk check-in__ per fare il check-in (ovviamente gratuito) ed ottenere il __boardin pass__ con cui accedere po all'area dei gate.
+Non avrete la possibilità di fare il check-in online --- motivo per cui dovrete fare la fila ai __desk check-in__ per fare il check-in (ovviamente gratuito) ed ottenere il __boarding pass__ con cui accedere poi all'area dei gate.
 
 ## L'esperienza a bordo
 
@@ -215,4 +215,6 @@ __Ma questa__ --- __é un'altra storia.__
 
 * * *
 
-Potete vedere un A320N della flotta __Uzbekistan Airways__ in fase di decollo sulla pista dell'__Aeroporto Internazionale di Urgench__ [dal post conclusivo del viaggio in Uzbekistan]({{< ref "racconti-di-viaggio/uzbekistan/ep-6-khiva/index.md#la-partenza" >}})
+Nel video A320N della flotta __Uzbekistan Airways__ in fase di decollo sulla pista dell'__Aeroporto Internazionale di Urgench__ [dal post conclusivo del viaggio in Uzbekistan]({{< ref "racconti-di-viaggio/uzbekistan/ep-6-khiva/index.md#la-partenza" >}}):
+
+{{< video src="uzbairways_decollo.mp4" type="vertical_9x16" >}}
