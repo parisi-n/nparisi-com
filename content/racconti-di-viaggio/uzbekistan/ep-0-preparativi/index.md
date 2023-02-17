@@ -293,6 +293,10 @@ Di tanto in tanto qualche giovane vi abborderà lungo le vie e vi chiederà se s
 
 Ricordate però la **sempreverde** regola aurea, insegnata a tutti gli studenti Erasmus dai loro mentori: **se vi sentite in pericolo --- molto probabilmente lo siete**.
 
+* * *
+
+Lo stesso dicasi per [il Lago d'Aral]({{< ref "racconti-di-viaggio/uzbekistan/ep-5-moynaq-lago-aral/index.md" >}}): vi troverete a soggiornare nello **yurt camp** sulle sue rive, lontani chilometri da tutto e da tutti, **senza telefono cellulare** per poter chiedere aiuto. Considerate le premesse, un vero e proprio incubo. Tuttavia non ci siamo sentiti _in pericolo_ nemmeno per un secondo. I nostri accompagnatori, seppur con problematiche comunicative date dalle differenze linguistiche, non ci hanno mai fatto mancare indicazioni sulla nostra sicurezza.
+
 ### VPN 🔒
 
 Per quanto le cose stiano cambiando negli anni, merito anche del Presidente in carica dal 2016 che sancisce una franca rottura con il presidente precedente --- {{< external_link "https://it.wikipedia.org/wiki/Islom_Karimov" "Islom Karimov" >}} --- l'Uzbekistan possiede uno score di **27 su 100** che classificano il suo internet come **non libero**.
