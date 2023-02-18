@@ -8,8 +8,6 @@
         
             {{ $boardpage := $.outerScope.GetPage ( printf "%s/index.md" .url ) }}
             {{ $img := printf "images/%s" .image }}
-            
-            {{ $img := printf "images/%s" .image }}
 
             {{ with $boardpage.Resources.GetMatch $img }}
                 {{ $scaled := .Crop "480x1024 Center q85" }}
