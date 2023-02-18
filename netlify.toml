@@ -1,9 +1,8 @@
 [build]
 command = "hugo --gc --minify"
-publish = "/"
+publish = "/opt/build/repo"
 
-
-[context.production.environment]
-HUGO_VERSION = "0.101.0"
-HUGO_ENV = "production"
-HUGO_ENABLEGITINFO = "true"
+  [context.production.environment]
+  HUGO_VERSION = "0.101.0"
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
