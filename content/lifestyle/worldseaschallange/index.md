@@ -18,7 +18,8 @@ type: "article"
 
 ` `
 {{< box "green" "Aggiornamenti" >}}
-* Ottobre 2022: pubblicazione post
+* **Ottobre 2022**: pubblicazione post
+* **Novembre 2022**: aggiunto il _check-point_ del **Lago d'Aral**
 {{< /box >}}
 
 {{< capital_letter_open >}}
@@ -76,7 +77,7 @@ L'acqua era sporca: non ho avuto il coraggio di immergere i piedi.
 
 ## Mare del Nord
 
-_Å, II Ottobre 2022_
+_Å, II Ottobre 2021_
 
 Siamo quasi alla conclusione del viaggio alla scoperta dei tesori naturali nascosti della [Norvegia]({{< ref "norvegia" >}}) e ci meravigliamo ancora, ad ogni angolo, come bambini.
 
@@ -89,3 +90,14 @@ Ecco come è andata.
 {{< image src="mar_norvegia.jpg" alt="Foto con cartello in Mare del Nord" caption="Mare del Nord - Norvegia" >}}
 
 Era estremamente freddo: non ho avuto il coraggio di immergere i piedi.
+
+## Lago d'Aral
+
+_Yurt camp, XI Ottobre 2022_
+
+
+Partiamo che ancora il sole non era sorto da [Khiva]({{< ref "racconti-di-viaggio/uzbekistan/ep-6-khiva/index.md" >}}) ben consci che ci saremo fermati solo 500km e svariate ore più tardi.
+
+Arriviamo sulle rive del Lago che scompare giusto in tempo per godere delle ultime luci del tramonto. Un immenso silenzio ci circonda; più in là un [accampamento di iurte]{{< ref "racconti-di-viaggio/uzbekistan/ep-5-moynaq-lago-aral/index.md#lo-yurt-camp" >}} ci ricorda dove passeremo la notte.
+
+{{< image src="lago_aral.jpg" alt="Foto con cartello in Lago d'Aral" caption="Lago d'Aral" >}}
