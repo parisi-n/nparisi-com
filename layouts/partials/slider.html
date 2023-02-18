@@ -1,31 +1,31 @@
-<!-- Sito: http://kenwheeler.github.io -->
-<div class="slick-container">
+<div class="slider-container">
     {{ range .slider }}
         {{ $boardpage := $.outerScope.GetPage .url }}
         {{ $text_title := .text_title }}
         {{ $url := .url | absURL }}
+        {{ $category := .category }}
+        {{ $category_color := .color_category }}
         
-            {{ if .image }}
-                {{ $img := printf "images/%s" .image }}
+            {{ $boardpage := $.outerScope.GetPage ( printf "%s/index.md" .url ) }}
+            {{ $img := printf "images/%s" .image }}
+            
+            {{ $img := printf "images/%s" .image }}
 
-                {{ with $boardpage.Resources.GetMatch $img }}
-                    {{ $scaled := .Resize "1080x q80" }}
+            {{ with $boardpage.Resources.GetMatch $img }}
+                {{ $scaled := .Crop "480x1024 Center q85" }}
 
-                    <div style="display: inline-block; vertical-align: middle">
-                        <div style="background: url('{{ $scaled.Permalink }}') no-repeat; background-size: cover; background-position: center;" class="slick-image">            
-                        </div>
-                        <div class="slick-content">
-                            <div class="slick-title">
-                                <div>
-                                    {{ replace $text_title "//" "<div class='ep-interspace'><br/></div>" | safeHTML }}
-                                </div>
-                            </div>
-                            <div class="slick-action-button">
-                                <a href="{{ $url }}" class="more-link">Leggi</a>
-                            </div>
-                        </div>
+                <a href="{{ $url }}">
+                    <div class="slider-box" style="background: url('{{ $scaled.Permalink }}') no-repeat; background-size: cover; background-position: center;">
+
+                        <h5 class="category" style="background-color: {{ $category_color }}">{{ $category }}</h5>
+
+                        <div class="title"><h4>{{ replace $text_title "//" "<div class='ep-interspace'><br/><br/></div>" | safeHTML }}</h4></div>
+
+                        <!--<div class="button"><a class="more-link" href="{{ $url | absURL }}" alt="Continua a leggere {{ .Title }}" title="Continua a leggere {{ .Title }}">Leggi<span class="screen-reader-text">Questo è un post </span></a></div>-->
                     </div>
-                    {{ end }}
-            {{end}}
-        {{end}}
+                </a>
+            {{ end }}
+            
+    {{ end }}
+        
   </div>

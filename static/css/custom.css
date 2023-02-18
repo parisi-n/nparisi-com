@@ -100,7 +100,7 @@
     /*
      * Ombra degli oggetti
      */
-     .post-box, .slick-container, .instagram-pic, #disqus_thread, .appbox, .block-image img, .panorama-block-image img, .block-image div, .entry-content img  { box-shadow: 0 5px 12px 0 rgba(0,0,0,0.07); }
+     .post-box, .instagram-pic, #disqus_thread, .appbox, .block-image img, .panorama-block-image img, .block-image div, .entry-content img  { box-shadow: 0 5px 12px 0 rgba(0,0,0,0.07); }
     
     /*
      * POST
@@ -257,11 +257,14 @@
         /*
          * SLIDER
          */
-        .slick-content { text-align: center; left: 0; position: absolute; width: 100%; top: 50%;   -ms-transform: translateY(-50%); transform: translateY(-50%); }
-        .slick-title { font-size: 1.75em; color: #f8f8f8; width: 100%; padding: 0 15%; font-weight: 600; letter-spacing: 1px; }
-        .slick-image { height: 40em !important; position: relative; filter: brightness(70%); width: 100%; object-fit: cover; }
-        .slick-action-button { margin: 1.3em; }
-        .slick-title .ep-interspace { margin: -22px; }
+        .slider-container { display: inline-flex; overflow-x: scroll; width: 100%; }
+        .slider-box { height: 30rem !important; min-width: 18rem !important; display: block; border-radius: 3px; margin: 1.3rem; margin-left: 0rem; text-align: center; transition: all ease 0.5s; filter: saturate(0.7); position: relative; cursor: crosshair; }
+        .slider-box:hover { filter: saturate(1); }
+
+        .slider-box .category { margin: 1.3rem auto; position: absolute; top: 17px; margin-left: auto; margin-right: auto; left: 0; right: 0; padding: 8px 13px; border-radius: 7px; width: fit-content; font-weight: 600; color: #FFF; }
+        .slider-box .title { margin: 1.3rem auto; position: absolute; margin: auto; left: 0; right: 0; bottom: 10px; padding: 8px 13px; background-color: #22222299; height: 5.7rem; display: flex; align-items: center; }
+        .slider-box .title h4 { font-weight: 600; color: #FFF; letter-spacing: 1px; width: 100%; }
+        .slider-box .button { margin: 1.3rem auto; position: absolute; bottom: 10px; margin-left: auto; margin-right: auto; left: 0; right: 0; }      
         
         /**
          * DISQUS
@@ -639,6 +642,9 @@
         #menu-primary { text-align: left; }
         .menu-primary-items { float: left; }
         .menu-unset > ul .sub-menu, .menu-unset > ul .children, .menu-primary-items .sub-menu, .menu-primary-items .children { width: 100%; }
+        
+        .menu-item.sub-menu { display: none !important; }
+        .menu-item a:hover > .menu-item.sub-menu { display: block !important; }
         
         /**
          * FOOTER

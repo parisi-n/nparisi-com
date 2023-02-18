@@ -705,6 +705,7 @@ a img {
             transition: opacity 0.3s ease, transform 0.3s ease;
     -webkit-transform: scale(0.95);
             transform: scale(0.95);
+    display: none;
   }
   .menu-unset > ul ul li,
   .menu-unset > ul ul a,
@@ -718,6 +719,7 @@ a img {
     opacity: 1;
     -webkit-transform: scale(1);
             transform: scale(1);
+    display: block;
   }
   .menu-unset > ul ul a,
   .menu-primary-items ul a {
@@ -739,6 +741,7 @@ a img {
     opacity: 1;
     -webkit-transform: scale(1);
             transform: scale(1);
+    display: block;
   }
   .menu-unset > ul ul ul,
   .menu-primary-items ul ul {

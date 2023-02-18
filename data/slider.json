@@ -2,66 +2,92 @@
     "array" : [
         {
             "image" : "khiva_cover.jpg" ,
-            "text_title" : "Uzbekistan // Khiva ed il suo dedalo di strade misteriose // Ep. 6" ,
+            "color_category": "#f4511e" ,
+            "category": "Uzbekistan" ,
+            "text_title" : "Khiva ed il suo dedalo di strade misteriose" ,
             "url" : "racconti-di-viaggio/uzbekistan/ep-6-khiva/"
         } ,
         {
             "image" : "moynaq_cover.jpg" ,
-            "text_title" : "Uzbekistan // Moynaq, le iurte, l'alba ed il Lago d'Aral // Ep. 5" ,
+            "color_category": "#f4511e" ,
+            "category": "Uzbekistan" ,
+            "text_title" : "Moynaq, le iurte, l'alba ed il Lago d'Aral" ,
             "url" : "racconti-di-viaggio/uzbekistan/ep-5-moynaq-lago-aral/"
         } ,
         {
             "image" : "kyzyl_kum_cover.jpg" ,
-            "text_title" : "Uzbekistan // Il deserto del Kyzyl Kum ed le cinque fortezze // Ep. 4" ,
+            "color_category": "#f4511e" ,
+            "category": "Uzbekistan" ,
+            "text_title" : "Il deserto del Kyzyl Kum ed le cinque fortezze" ,
             "url" : "racconti-di-viaggio/uzbekistan/ep-4-deserto-5-castelli/"
         } ,
         {
             "image" : "bukhara_cover.jpg" ,
-            "text_title" : "Uzbekistan // Smarriti a Bukhara // Ep. 3" ,
+            "color_category": "#f4511e" ,
+            "category": "Uzbekistan" ,
+            "text_title" : "Smarriti a Bukhara" ,
             "url" : "racconti-di-viaggio/uzbekistan/ep-3-bukhara/"
         } ,
         {
             "image" : "samarcanda_cover.jpg" ,
-            "text_title" : "Uzbekistan // La fiaba di Samarcanda // Ep. 2" ,
+            "color_category": "#f4511e" ,
+            "category": "Uzbekistan" ,
+            "text_title" : "La fiaba di Samarcanda" ,
             "url" : "racconti-di-viaggio/uzbekistan/ep-2-samarcanda/"
         } ,
         {
             "image" : "tashkent_cover.jpg" ,
-            "text_title" : "Uzbekistan // L'arrivo nella modernità di Tashkent // Ep. 1" ,
+            "color_category": "#f4511e" ,
+            "category": "Uzbekistan" ,
+            "text_title" : "L'arrivo nella modernità di Tashkent" ,
             "url" : "racconti-di-viaggio/uzbekistan/ep-1-tashkent/"
         } ,
         {
             "image" : "capire_uzbekistan_cover.jpg" ,
-            "text_title" : "Uzbekistan // Capire l'Uzbekistan tra storia e presente" ,
+            "color_category": "#f4511e" ,
+            "category": "Uzbekistan" ,
+            "text_title" : "Capire l'Uzbekistan tra storia e presente" ,
             "url" : "racconti-di-viaggio/uzbekistan/ep-0-1-capire-uzbekistan/"
         } ,
         {
             "image" : "uzbekistan_preparativi_cover.jpg" ,
-            "text_title" : "Uzbekistan // I preparativi per la via della seta" ,
+            "color_category": "#f4511e" ,
+            "category": "Uzbekistan" ,
+            "text_title" : "I preparativi per la via della seta" ,
             "url" : "racconti-di-viaggio/uzbekistan/ep-0-preparativi/"
         } ,
         {
             "image" : "attrezzatura_cover.jpg" ,
+            "color_category": "#048d79" ,
+            "category": "Accessori" ,
             "text_title" : "Zaino fotografico: l'essenziale per la fotografia da viaggio" ,
             "url" : "accessori/attrezzatura-fotografica/"
         } ,
         {
             "image" : "worldseaschallage_cover.jpg" ,
+            "color_category": "#fcbc05" ,
+            "category": "Lifestyle" ,
             "text_title" : "#worldseaschallange" ,
             "url" : "lifestyle/worldseaschallange/"
         } ,
         {
             "image" : "lofoten_cover.jpg" ,
-            "text_title" : "Norvegia // Il Paradiso delle Lofoten" ,
+            "color_category": "#f4511e" ,
+            "category": "Norvegia" ,
+            "text_title" : "Il Paradiso delle Lofoten" ,
             "url" : "racconti-di-viaggio/norvegia/day-7-lofoten/"
         } ,
         {
             "image" : "trolltunga_cover.jpg" ,
-            "text_title" : "Norvegia // Trolltunga" ,
+            "color_category": "#f4511e" ,
+            "category": "Norvegia" ,
+            "text_title" : "Trolltunga" ,
             "url" : "racconti-di-viaggio/norvegia/day-2-odda-trolltunga/"
         } ,
         {
             "image" : "curve-cryptocom-cards-cover.jpg" ,
+            "color_category": "#048d79" ,
+            "category": "Accessori" ,
             "text_title" : "Curve e Crypto: la mia esperienza" ,
             "url" : "lifestyle/curve-crypto-in-viaggio/"
         }
