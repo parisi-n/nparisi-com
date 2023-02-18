@@ -14,12 +14,12 @@
             {{ with $boardpage.Resources.GetMatch $img }}
                 {{ $scaled := .Crop "480x1024 Center q85" }}
 
-                <a href="{{ $url }}">
+                <a href="{{ $url }}" alt="Leggi il post {{ $text_title }}">
                     <div class="slider-box" style="background: url('{{ $scaled.Permalink }}') no-repeat; background-size: cover; background-position: center;">
 
                         <h5 class="category" style="background-color: {{ $category_color }}">{{ $category }}</h5>
 
-                        <div class="title"><h4>{{ replace $text_title "//" "<div class='ep-interspace'><br/><br/></div>" | safeHTML }}</h4></div>
+                        <div class="title"><h4>{{ $text_title }}</h4></div>
 
                         <!--<div class="button"><a class="more-link" href="{{ $url | absURL }}" alt="Continua a leggere {{ .Title }}" title="Continua a leggere {{ .Title }}">Leggi<span class="screen-reader-text">Questo è un post </span></a></div>-->
                     </div>

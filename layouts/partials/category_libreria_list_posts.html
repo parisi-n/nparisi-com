@@ -7,7 +7,7 @@
             {{ if and (isset .Params "image") .Params.image }}
                 {{ $cover := .Resources.GetMatch .Params.image }}
                 {{ $scaled := $cover.Resize "1280x q70" }}
-                <a class="featured-image-link" href="{{ .Permalink }}" alt="Leggi il post">
+                <a class="featured-image-link" href="{{ .Permalink }}" alt="Leggi {{ .Title }}">
                     <div class='featured-image lazy lazy-bg-image' data-background="{{ $scaled.Permalink }}">
                     {{ if and (isset .Params "video") .Params.video }}
                         <svg class="cover-video" aria-label="Click to Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
@@ -28,7 +28,7 @@
                 </div>
                 <div class='excerpt-header'>
                     <h2 class='excerpt-title'>
-                        <a href="{{ .Permalink }} "> {{ .Title }} </a>
+                        <a href="{{ .Permalink }}"> {{ .Title }} </a>
                     </h2>
                 </div>
                 <div class='excerpt-content'>
@@ -36,7 +36,7 @@
                         <p>
                             {{ .Params.summary }}
                         </p>
-                        <div class="more-link-wrapper"><a class="more-link" href="{{ .Permalink }}">Continua a leggere<span class="screen-reader-text">Questo è un post </span></a></div>
+                        <div class="more-link-wrapper"><a class="more-link" href="{{ .Permalink }}" alt="Leggi {{ .Title }}">Continua a leggere<span class="screen-reader-text">Questo è un post </span></a></div>
 
                     </article>
                 </div>
