@@ -47,7 +47,7 @@
                 {{/* Mostra sempre e solo l'immagine */}}
                 {{ $cover := .Resources.GetMatch .Params.image }}
                     {{ $scaled := $cover.Resize "1080x q80" }}
-                    <a class="featured-image-link" href="{{ .Permalink }}" alt="Leggi il post">
+                    <a class="featured-image-link" href="{{ .Permalink }}" alt="Leggi {{ .Title }}">
                         <div class='featured-image lazy lazy-bg-image' data-background="{{ $scaled.Permalink }}" style="top: -1px;">
 
                         {{ if and (isset .Params "video") .Params.video }}
@@ -124,7 +124,7 @@
                 {{/* Mostra sempre e solo l'immagine */}}
                 {{ $cover := .Resources.GetMatch .Params.image }}
                     {{ $scaled := $cover.Resize "1080x q80" }}
-                    <a class="featured-image-link" href="{{ .Permalink }}" alt="Leggi il post">
+                    <a class="featured-image-link" href="{{ .Permalink }}" alt="Leggi {{ .Title }}">
                         <div class='featured-image lazy lazy-bg-image' data-background="{{ $scaled.Permalink }}" style="top: -1px;">
 
                         {{ if and (isset .Params "video") .Params.video }}
