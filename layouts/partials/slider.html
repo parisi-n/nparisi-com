@@ -10,8 +10,8 @@
             {{ $img := printf "images/%s" .image }}
 
             {{ with $boardpage.Resources.GetMatch $img }}
-                {{ $scaled := .Crop "480x1024 Center q100" }}
-                {{ $scaled := $scaled.Resize "webp 480x q90" }}
+                {{ $scaled := .Crop "480x800 Center q100" }}
+                {{ $scaled := $scaled.Resize "webp 480x q70" }}
 
                 <a href="{{ $url }}" alt="Leggi il post {{ $text_title }}">
                     <div class="slider-box" style="background: url('{{ $scaled.Permalink }}') no-repeat; background-size: cover; background-position: center;">
