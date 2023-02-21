@@ -7,17 +7,18 @@
 <script src="{{ "js/instagramFeed.js" | absURL }}"></script>
  -->
 <script>
+    /*
     (function($){
         $(window).on('load', function(){
                 if ( getCookie('nparisiCookieApproved') )
-                    /*
+                    *
                      * Se non ci sono cookie non carica la sezione di instagram!
-                     */
+                     *
                     startInstaFeed();
             });
         })(jQuery);
 
-    /*
+
     function startInstaFeed()
     {
         var feed = new Instafeed({
