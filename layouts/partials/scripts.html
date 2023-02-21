@@ -1,33 +1,17 @@
 <script src="{{ "js/jquery.min.js" | absURL }}"></script>
 <script src="{{ "js/jquerymigrate.min.js" | absURL }}"></script>
 <script src="{{ "js/production.min.js" | absURL }}?v={{ now.Unix }}"></script>
-{{if $.IsHome}}
 
-<!-- Instagram .min
-<script src="{{ "js/instagramFeed.js" | absURL }}"></script>
- -->
-<script>
-    /*
-    (function($){
-        $(window).on('load', function(){
-                if ( getCookie('nparisiCookieApproved') )
-                    *
-                     * Se non ci sono cookie non carica la sezione di instagram!
-                     *
-                    startInstaFeed();
-            });
-        })(jQuery);
-
-
-    function startInstaFeed()
-    {
-        var feed = new Instafeed({
-          accessToken: 'your-token'
-        });
-        feed.run();
-    } */
+{{/* Carica fontawesome.css in modo asincrono */}}
+<script type="text/javascript">
+    (function() {
+        var css = document.createElement('link');
+        css.href = 'https://use.fontawesome.com/releases/v5.3.1/css/all.css';
+        css.rel = 'stylesheet';
+        css.type = 'text/css';
+        document.getElementsByTagName('head')[0].appendChild(css);
+    })();
 </script>
-{{- end}}
 
 <!-- Table of Content -->
 <script>
