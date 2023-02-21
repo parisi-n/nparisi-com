@@ -10,7 +10,8 @@
             {{ $img := printf "images/%s" .image }}
 
             {{ with $boardpage.Resources.GetMatch $img }}
-                {{ $scaled := .Crop "480x1024 Center q85" }}
+                {{ $scaled := .Crop "480x1024 Center q100" }}
+                {{ $scaled := $scaled.Resize "webp 480x" }}
 
                 <a href="{{ $url }}" alt="Leggi il post {{ $text_title }}">
                     <div class="slider-box" style="background: url('{{ $scaled.Permalink }}') no-repeat; background-size: cover; background-position: center;">
@@ -19,7 +20,6 @@
 
                         <div class="title"><h4>{{ $text_title }}</h4></div>
 
-                        <!--<div class="button"><a class="more-link" href="{{ $url | absURL }}" alt="Continua a leggere {{ .Title }}" title="Continua a leggere {{ .Title }}">Leggi<span class="screen-reader-text">Questo è un post </span></a></div>-->
                     </div>
                 </a>
             {{ end }}
