@@ -13,10 +13,10 @@ type: "article"
 
 {{< capital_letter_open >}}
 Ammetto di averci preso gusto e, a fine _report fotografico_ mi piace tirare le somme, facendo un recap delle foto più suggestive e sognatrici.
-Già di per sè, pensare di essere nel cuore dell'Asia Centrale, lontano dal mare, "lontano da casa", in territorio straniero immerso in una cultura tanto diversa dalla propria, è già di per se una cosa sufficiente per respirare **emozioni nuove**.
+Pensare di essere nel cuore dell'Asia Centrale, lontano dal mare, "lontano da casa", in territorio straniero immerso in una cultura tanto diversa dalla propria, è già di per se una cosa sufficiente per respirare **emozioni nuove**.
 {{< capital_letter_close >}}
 
-Ma se mi dovessero chiedere: quali sono stati i momenti più comici o "emozionali" del viaggio, che sicuramente ricorderò, e rappresentarli con una foto?
+Ma se mi dovessero chiedere: quali sono stati i momenti più comici o "emozionali" del viaggio, che sicuramente ricorderò? Come li rappresentarei con una foto?
 
 {{< quote "Ci sono cose che si conoscono e cose che non si conoscono; in mezzo c'è il viaggio" >}}
 
@@ -44,7 +44,7 @@ Terra per cui anche chiedere il visto è, di per sè, un viaggio.
 
 ## La notte in iurta
 
-Il solo nome rievoca popolazione lontane che parlano lingue sconosciute negli angoli più remoti e complessi da raggiungere del pianeta --- nel cui viaggio si rimandano le più grandi gesta e compromessi che una persona possa compiere.
+Il solo nome rievoca popolazioni lontane che parlano lingue sconosciute negli angoli più remoti e complessi da raggiungere del pianeta --- nel cui viaggio si rimandano le più grandi gesta e compromessi che una persona possa compiere.
 
 {{< image src="iurta.jpg" alt="Iurta" >}}
 
@@ -66,7 +66,7 @@ Giaciono immobili, silenziosi, ordinati ed allineati --- come l'ultima onda di m
 
 ## Il Registan
 
-Dove un tempo un piazzale di sabbia individuava dove montare la bancarella su cui disporre le merci provenienti da ogni angolo del mondo --- oggi si ergono maestose tre strutture che delimitano esattamente quel fazzoletto di terra dove un tempo si tenevano gli scambi di merce, cultura ed idee.
+Dove un tempo un piazzale di sabbia individuava dove montare la bancarella su cui disporre le merci provenienti da ogni angolo del mondo --- oggi si ergono maestose tre strutture che delimitano esattamente quel fazzoletto di terra su cui si tenevano gli scambi di merce, cultura ed idee.
 
 {{< image src="registan.jpg" alt="Registan di Samarcanda" type="wide-screen" >}}
 
@@ -80,7 +80,7 @@ Insieme delimitano la piazza di Samarcanda, probabilmente la più suggestiva del
 
 ## Il tramonto
 
-Per nove volte durante il viaggio ci siamo fermati, tra le 17:30 e le 18, ad ammirare il tramonto: uno degli eventi più scontati, vecchi e banali del mondo eppure mai così magico durante il nostro viaggio.
+Per nove volte durante il viaggio ci siamo fermati, tra le 17:30 e le 18, ad ammirare il tramonto: uno degli eventi più scontati, vecchi e banali del mondo eppure mai così magico come durante il nostro viaggio.
 
 {{< image src="tramonto_khiva.jpg" alt="Tramonto a Khiva" >}}
 
@@ -98,7 +98,7 @@ L'alba sulle rive del Lago d'Aral ha più i contorni dell'impresa che del quadro
 
 Non ci stupisce nei colori (simili a qualunque alba sulle rive del mare) --- quanto per quel che rappresenta.
 
-Rappresenta la riuscita di un'impresa che, fino a qwualche giorno prima, progettata alla luce della lampada della scrivania, sognata, letta, desiderata --- sembrava impossibile.
+Rappresenta la riuscita di un'impresa che, fino a qualche giorno prima, progettata alla luce della lampada della scrivania, sognata, letta, desiderata --- sembrava impossibile.
 
 Essere lì, quella mattina, ad aspettare l'alba ha più il sapore di rivincita verso se stessi.
 
