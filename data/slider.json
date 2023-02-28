@@ -1,6 +1,13 @@
 {
     "array" : [
         {
+            "image" : "lowepro_photosport_cover.jpg" ,
+            "color_category": "#048d79" ,
+            "category": "Accessori" ,
+            "text_title" : "LowePro PhotoSport BP24L: il battesimo sul campo" ,
+            "url" : "accessori/lowepro-photosport-24l/"
+        } ,
+        {
             "image" : "khiva_cover.jpg" ,
             "color_category": "#f4511e" ,
             "category": "Uzbekistan" ,
