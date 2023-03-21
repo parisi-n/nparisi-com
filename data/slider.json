@@ -1,6 +1,13 @@
 {
     "array" : [
         {
+            "image" : "chisinau_cover.jpg" ,
+            "color_category": "#f4511e" ,
+            "category": "Moldova" ,
+            "text_title" : "Chisinau: cosa fare e cosa vedere in un week-end" ,
+            "url" : "racconti-di-viaggio/moldova/chisinau/"
+        } ,
+        {
             "image" : "lowepro_photosport_cover.jpg" ,
             "color_category": "#048d79" ,
             "category": "Accessori" ,
