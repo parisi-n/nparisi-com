@@ -110,7 +110,7 @@ Se prenderete un albergo in centro non avrete tuttavia granchè bisogno del taxi
 
 ### Taxi
 
-Potrete usare l'app __Yandex Taxi__ per organizzare i vostri spostamenti, e in tal caso potrete direttamente pagare _il driver_ con la carta direttamente inserita nell'app invece che in contanti.
+Potrete usare l'app __Yandex Taxi__ per organizzare i vostri spostamenti, e in tal caso potrete direttamente pagare _il driver_ con la carta inserita nell'app invece che in contanti.
 
 {{< appbox img="https://lh3.googleusercontent.com/cgPJXsu2GMhmAK3Wv2ecdiCpyyNoV_4X23phsFurN7CrSro2mrZZb2JVQktfvuyPcA=s180-rw" name="Yandex.Taxi Ride-Hailing Service. Book a car." package="ru.yandex.taxi" >}}
 
@@ -178,7 +178,7 @@ Troverete addirittura {{< external_link "https://it.wikipedia.org/wiki/Vino_mold
 
 {{< posizione "https://goo.gl/maps/d1X2h8RGmns53mNk8" >}}
 
-Questa è quella che definirei __a place off the beaten tracks__. La maggior parte dei suggerimenti nei forum suggerivano di visitare la {{< external_link "" "Cantina Cricova???? MANKA LINK" >}} in quanto la più grande.
+Questa è quella che definirei __a place off the beaten tracks__. La maggior parte dei suggerimenti nei forum suggerivano di visitare la {{< external_link "https://winetours.md/eng/winery-tours/cricova-winery" "Cantina Cricova" >}} in quanto la più grande.
 
 {{< image src="mimi_notturna.jpg" alt="Vista notturna del Castello di Mimi" type="wide-screen" >}}
 
