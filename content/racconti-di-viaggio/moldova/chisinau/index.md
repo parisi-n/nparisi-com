@@ -19,11 +19,11 @@ Ho un'attrazione inspiegabile (e forse ingiustificata?) per i paesi dell'Est Eur
 
 Non viaggio alla ricerca di avventure amorose (visto che viaggio accompagnato). Ci dev'essere un motivo più profondo, che ancora non ho ben concretizzato. Sta di fatto che, non appena scendo dall'aereo e nei polmoni entra la prima aria frizzante e fresca di quei posti, mi sento in qualche modo a casa.
 
-{{< video src="moldova_flag.mp4" type="vertical_9x16" >}}
+{{< video src="moldova_flag.mp4" type="vertical_9x16" alt="Bandiera Moldava" >}}
 
 Certe volte --- __l'experience__ ed i __vibes__ del posto sono più importantidelle attrazioni.
 
-{{< image src="chisinau_skyline.jpg" alt="" type="wide-screen" >}}
+{{< image src="chisinau_skyline.jpg" alt="Skyline di Chisinau" type="wide-screen" >}}
 
 Soprattutto se il viaggio è a ridosso del Natale ortodosso.
 
@@ -35,7 +35,7 @@ Con queste premesse --- la scelta è stata quasi condotta dall'ovvietà: un week
 
 Piccolo spoiler, per confermare i sospetti: __non troverete granchè di turistico__.
 
-{{< image src="bubble_bar.jpg" alt="" type="wide-screen" >}}
+{{< image src="bubble_bar.jpg" alt="Foto di Bubble bar di Chisinau" type="wide-screen" >}}
 
 La permanenza è stata tuttavia __resa gradevole__ dai suggerimenti di __Ana__ --- collega conosciuta ai tempi di Vilnius --- che con grande solerzia ha stilato un elenco di posti che avremo potuto visitare in qualche giorno (nel nostro caso __tre giorni__)!
 
@@ -47,7 +47,7 @@ Città tutto fuorchè vivace e caotica --- sembra più un grande paese. Non trov
 
 A Gennaio 2023 per accedere non avrete bisogno di visto; vi basterà __il passaporto__ con validità residua maggiore di sei mesi.
 
-{{< image src="chisinau_skyline_2.jpg" alt="" type="wide-screen" >}}
+{{< image src="chisinau_skyline_2.jpg" caption="Skyline di Chisinau" type="wide-screen" >}}
 
 ### SIM Card
 
@@ -55,7 +55,7 @@ Solitamente non vado alla ricerca delle sim card locali in quanto ciò aggiunge 
 
 Qualora arriviate in aeroporto durante le _working hours_ locali avrete la possibilità --- immediatamente prima dell'uscita __negli Arrivi dell'aeroporto di Chisinau_ --- di acquistare {{< external_link "https://www.orange.md/" "una sim Orange" >}} per _49MDL_ (ca. 2.50€) con incluse chiamate e 2GB dati internet (presumo però che il servizio offerto possa variare in base alla promozione del momento).
 
-{{< image src="simcard.jpg" alt="" >}}
+{{< image src="simcard.jpg" alt="Simcard Orange e sveglia smart Lenovo" >}}
 
 In caso arriviate tardi --- troverete una _vending machine_ di sim card (accetta __solo cash__) nei pressi della [piazza dell'Arco di Trionfo](#), precisamente {{< external_link "https://goo.gl/maps/5rX3UmbupYbvZfdc9" "qui" >}}.
 
@@ -63,7 +63,7 @@ In caso arriviate tardi --- troverete una _vending machine_ di sim card (accetta
 
 In aeroporto avrete la possibilità, appena atterrati, di convertire EURO in Leu moldavi nell'_money exchange_ __agli Arrivi dell'aeroporto di Chisinau__. Sappiate però che il tasso di cambio applicato sarà prossimo all'8% ed il giorno dopo troverete __numerosissimi _money exchange___ in centro con tassi di cambio estremamente più vantaggiosi.
 
-{{< image src="lei_moldavi.jpg" alt="" >}}
+{{< image src="lei_moldavi.jpg" alt="Lei moldavi, una rosa ed il portacarte" >}}
 
 Il problema è però che avrete bisogno di contanti per pagare il taxi per il centro città.
 
@@ -105,7 +105,7 @@ Nei luoghi turistici come hotel e ristoranti è probabile riuscirete a comunicar
 
 I metodi di spostamento sono i soliti già provati in altri paesi del blocco ex-sovietico.
 
-{{< image src="strade_semaforo.jpg" alt="" >}}
+{{< image src="strade_semaforo.jpg" alt="Incrocio di Chsinau in via Bulgaria" >}}
 
 Se prenderete un albergo in centro non avrete tuttavia granchè bisogno del taxi.
 
@@ -130,7 +130,7 @@ Nel caso abbiate mire territoriali che vadano oltre i confini della città --- f
 * non c'è limite al numero di persone che caricherà
 * non farà la strada più veloce
 
-{{< image src="stazione_sud.jpg" alt="" type="wide-screen" >}}
+{{< image src="stazione_sud.jpg" alt="Marshrutke della Stazione Sud parcheggiate" type="wide-screen" >}}
 
 Nel nostro caso abbiamo fatto uso della Marshrutka diretta __a Bulboca__ (posteggia all'interno della {{< external_link "https://goo.gl/maps/Psrmk9H8XmukCeBK9" "Stazione CENTRALE di Chisinau" >}}) che per __35MDL/cad__ ci ha portato fino al [Castello di Mimi]().
 
@@ -153,13 +153,13 @@ Eppure ha funzionato: si è fermato!
 
 Accettano pagamenti con carta e lo considererei quel che si dice _un buon hotel_. Ci siamo trovati bene: materassi duri quanto basta, temperatura interna regolabile a piacere tramite pompa di calore (oltre a quella garantita dal sistema di areazione), bagno con doccia spaziosa __ma soprattutto con ventola di areazione__, buona posizione.
 
-{{< image src="hotel_thomas_albert.jpg" alt="" >}}
+{{< image src="hotel_thomas_albert.jpg" alt="Pianta di cotone" >}}
 
 __Lo consiglio.__
 
 Particolarità non trascurabile --- seppur inutile ai fini pratici --- la presenza di Google Home nella stanza cui chiedere semplici comandi (no, non spegne la luce!).
 
-{{< image src="buona_notte_piccolo_principe_russo.jpg" alt="" >}}
+{{< image src="buona_notte_piccolo_principe_russo.jpg" alt="Piccolo Principe in lingua russa" >}}
 
 ## Experiences
 
@@ -167,7 +167,7 @@ La Moldavia produce __dei vini eccellenti__ 🍷
 
 Io stesso dubitavo della loro qualità e palatabilità (pur non essendo assolutamente un esperto di vini) --- pensando che fossero vini simili a quelli tipicamente bevibili in lituania, dolci e stucchevoli.
 
-{{< image src="mimi_vino.jpg" alt="" >}}
+{{< image src="mimi_vino.jpg" alt="Bottiglia di vino di Mimi" >}}
 
 Ebbene --- ovunque andrete (a patto di prendere non il vino della casa) --- avrete la possibilità di bere __un ottimo vino__.
 
@@ -181,13 +181,13 @@ Troverete addirittura {{< external_link "https://it.wikipedia.org/wiki/Vino_mold
 
 Questa è quella che definirei __a place off the beaten tracks__. La maggior parte dei suggerimenti nei forum suggerivano di visitare la {{< external_link "" "Cantina Cricova???? MANKA LINK" >}} in quanto la più grande.
 
-{{< image src="mimi_notturna.jpg" alt="" type="wide-screen" >}}
+{{< image src="mimi_notturna.jpg" alt="Vista notturna del Castello di Mimi" type="wide-screen" >}}
 
 Ana tuttavia ci ha suggerito questo posto...quindi perchè non fidarsi?
 
 Vitigno, museo, cantina, rivendita e albergo e ristorante --- tutto nello stesso posto. Personale che parla buon inglese, con possibilità di prenotare tramite email. Il tutto a 60km da Chisinau.
 
-{{< image src="mimi_finestra.jpg" alt="" >}}
+{{< image src="mimi_finestra.jpg" alt="Vista dell'albero di Natale dalla finestra" >}}
 
 Il nostro obiettivo era tuttavia pranzare. Menù vario seppur non complesso da leggere, varietà di vini invece estrema per cui potrete affidarvi ai consigli di chi vi seguirà al tavolo in base a ciò che sceglierete di mangiare.
 
@@ -195,11 +195,11 @@ Nel nostro caso abbiamo deciso di __eccedere__ (con le kcal).
 
 Prendiamo un __Mimi -- Feteasca Neagra__ per accompagnare l'antipasto: __lardo speziato marinato__.
 
-{{< image src="mimi_lardo.jpg" alt="" >}}
+{{< image src="mimi_lardo.jpg" alt="Lardo aromatizzato" >}}
 
 A seguire prendiamo costina di manzo accompagnato da zucchine arrosto e ed uno stinco.
 
-{{< image src="mimi_cibo.jpg" alt="" >}}
+{{< image src="mimi_cibo.jpg" alt="Costina di manzo con zucchine" >}}
 
 * * *
 
@@ -211,7 +211,7 @@ Chiediamo al bancone all'ingresso e con grande serenità ci viene detto che avre
 
 Approfittiamo dell'attesa per fare qualche acquisto (calamite e vino).
 
-{{< image src="mimi_esterno.jpg" alt="" >}}
+{{< image src="mimi_esterno.jpg" alt="Piazzale antistante il castello di Mimi" >}}
 
 Il viaggio di rientro ci viene meno di quanto previsto, seppur (ovviamente) di più che con la marshrutka, ma un prezzo accettabile per essere lasciati direttamente di fronte al nostro hotel: __300 MDL__ (ca. 15€).
 
@@ -221,7 +221,7 @@ Il viaggio di rientro ci viene meno di quanto previsto, seppur (ovviamente) di p
 
 Il secondo giorno è il momento della __SPA del Radisson__.
 
-{{< image src="radisson_entrance.jpg" alt="" >}}
+{{< image src="radisson_entrance.jpg" alt="Entrata del Radisson di Chisinau" >}}
 
 Il Radisson non ha bisogno di presentazioni: in Norvegia abbiamo avuto il piacere di soggiornare spesso presso i loro hotel (a memoria ricordo [Bergen]({{< ref "" >}}) e [Oslo]({{< ref "" >}}) ).
 
@@ -255,7 +255,7 @@ Ci siamo accontentati di degustare un vinello _rosè_ preso il giorno prima nel 
 
 Due ore sono state più che sufficienti per ristorare il corpo e la mente, pianificare il presente ed il futuro, fare sogni ed anche disfarli.
 
-{{< image src="spa_indoor.jpg" alt="" >}}
+{{< image src="spa_indoor.jpg" alt="Interno della SPA" >}}
 
 La SPA del Radisson è a pagamento, ma sognare al suo interno è del tutto gratuito. E l'ambiente stimola in modo particolare.
 
@@ -267,21 +267,21 @@ Troverete invece un'altra SPA anche presso l'{{< external_link "https://berdshot
 
 Incapperete spesso in dei _bubble bar_ in cui potrete consumare una tisana calda all'interno (e soprattutto al caldo), senza per questo rinunciare alla sensazione di stare all'aperto.
 
-{{< image src="bubble_bar_2.jpg" alt="" type="wide-screen" >}}
+{{< image src="bubble_bar_2.jpg" alt="Bubble bar" type="wide-screen" >}}
 
 ## Cosa vedere
 
 Curioso come a poche centinaia di metri di distanza la parvenza delle vie --- ancora centrali --- cambi in modo così netto e brutale.
 
-{{< video src="arc_square.mp4" type="wide-screen" >}}
+{{< video src="arc_square.mp4" alt="Piazza dell'Arco di Trionfo" type="wide-screen" >}}
 
 Si passa da vie ben curate, con edifici nuovi, larghe...
 
-{{< image src="vie_centrali_1.jpg" alt="" type="wide-screen" >}}
+{{< image src="vie_centrali_1.jpg" alt="Vie di Chisinau" type="wide-screen" >}}
 
 ...a vie degne della peggior periferia.
 
-{{< image src="vie_centrali_2.jpg" alt="" type="wide-screen" >}}
+{{< image src="vie_centrali_2.jpg" alt="Vie di Chisinau" type="wide-screen" >}}
 
 Chi viaggia da tempo nell'Est Europa però lo sa, ed ormai ci è anche un po' abituato: contesti simili che in altre circostanze farebbero pensare a zone povere, poco rassicuranti e pericolose in questo caso invece hanno l'unica colpa di resistere con immensa dignità al fardello del passato derivante dai tempi dell'Unione Sovietica.
 
@@ -291,7 +291,7 @@ Chi viaggia da tempo nell'Est Europa però lo sa, ed ormai ci è anche un po' ab
 
 _Stephan cel Mare_ o più semplicemente _Stefano il Grande_ è stato il sovrano moldavo che ha governato più a lungo, durante la seconda metà del 1400.
 
-{{< image src="stefan_cel_mar.jpg" alt="" >}}
+{{< image src="stefan_cel_mar.jpg" alt="Statua di Stefan Cel Mar" >}}
 
 Durante il suo regno vennero costruite numerose chiese e monasteri, alcuni rinvenibili ancora oggi, e considerati _patrimonio dell'UNESCO_.
 
@@ -303,11 +303,11 @@ A lui è dedicata la statua al vertice _nord-ovest_ del _parco Stephan cel Mare_
 
 Situato a Sud-Est della piazza della Natività fu eretto nel 1840 per celebrare la vittoria di venti anni prima contro gli Ottomani.
 
-{{< image src="arco_trionfo.jpg" alt="" >}}
+{{< image src="arco_trionfo.jpg" alt="Arco di Trionfo di Chisinay" >}}
 
 Percorrete la piazza per arrivare all'estremo Nord, e da qui a pochi passi troverete la simpatica realizzazione rappresentante __due amanti__.
 
-{{< image src="chiesa_piazza_nativita.jpg" alt="" >}}
+{{< image src="chiesa_piazza_nativita.jpg" alt="Chiesa" >}}
 
 ### I due amanti
 
@@ -315,7 +315,7 @@ Percorrete la piazza per arrivare all'estremo Nord, e da qui a pochi passi trove
 
 Attraversate la piazza della Nativit' e dirigetevi verso _Strada Eugen Doga_: troverete la simpatica rappresentazione di due amanti che, datisi appuntamento, si aspettano l'un l'altro: lui fissa l'orologio; lei arriva silenziosa alle sue spalle.
 
-{{< image src="lovers.jpg" alt="" >}}
+{{< image src="lovers.jpg" alt="Due amanti" >}}
 
 ### Il museo militare
 
@@ -323,43 +323,49 @@ Attraversate la piazza della Nativit' e dirigetevi verso _Strada Eugen Doga_: tr
 
 Sicuramente il momento più alto e di valore dell'intera permanenza a Chișinău: per la modica cifra di __10MDL__ avrete la possibilità di visitare letteralmente un posto spettacolare ed immergervi nella storia militare moldava (ed inevitabilmente sovietica). Al costo di ulteriori __10MDL__ invece avrete la possibilità di fare fotografie all'interno del museo e del percorso storico interattivo (__super consigliato!__).
 
-{{< image src="museo_guerra_selfie.jpg" alt="" >}}
+{{< image src="museo_guerra_selfie.jpg" alt="Me sul carroarmato" caption="Foto di rito sul carrarmato" >}}
+
+{{< box "⚠ Disclaimer ⚠️" >}}
+
+Disclaimer dovuto, qualora ce ne fosse bisogno: il cuore disegnato sulla neve è stato realizzato da dei visitatori che precedentemente si sono fatti la foto con quello stesso carrarmato.
+
+Eliminarlo poco dopo, ancora in loro presenza, non mi è sembrato carina; motivo per il quale in questa foto è rappresentato ancora il cuore, che in nessun modo rappresenta il mio pensiero nei confronti dei mezzi militari e della guerra in senso lato.
+
+{{</box>}}
 
 La parte esterna è visitabile gratuitamente: qui troverete vari mezzi militari
 
-{{< image src="museo_guerra.jpg" alt="" >}}
-
 Come sempre non aspettatevi alcunchè di inglese o visite guidate: al nostro arrivo il banchetto dei biglietti è presidiato da un'anziana signora moldavo-russofona.
 
-{{< image src="museo_guerra_2.jpg" alt="" >}}
+{{< image src="museo_guerra_2.jpg" alt="Mezzo militare" >}}
 
 Una volta incassato il dovuto vi indicherà la strada ed il percorso: non lasciatevi ingannare dalle prime stanze --- che possono apparire particolarmente noiose e banali. Il bello arriverà, stanza dopo stanza, documento dopo documento --- avendo la possibilità di ripercorrere tutta la storia delle conquiste moldavo-sovietiche durante l'Unione --- fino ad arrivare ai confini dell'Afghanistan.
 
-{{< image src="museo_guerra_3.jpg" alt="" >}}
+{{< image src="museo_guerra_3.jpg" alt="Soldato" >}}
 
 Una volta concluso il tour del piano superiore --- verrete condotti al piano inferiore --- in cui sono rappresentati in modo quanto più fedele possibile la vita di trincea, la vita nei goulag e la quotidianità di quel che era la guerra.
 
-{{< image src="museo_guerra_4.jpg" alt="" >}}
+{{< image src="museo_guerra_4.jpg" alt="Bambino con casa distrutta" >}}
 
 Di estremo impatto emotivo è la rappresentazione audio-video in cui, lungo il percorso, vi ritroverete quasi nel mezzo di uno scontro armato!
 
-{{< image src="museo_guerra_5.jpg" alt="" >}}
+{{< image src="museo_guerra_5.jpg" alt="Militare che spara" >}}
 
 __Concluso il giro avrete subito voglia di rifarlo!__
 
-{{< image src="museo_guerra_6.jpg" alt="" >}}
+{{< image src="museo_guerra_6.jpg" alt="Busto di Stalin" >}}
 
 Camminare all'interno, anche senza guida, è un viaggio nel passato, al tempo (considerato da alcuni) glorioso dell'Unione Sovietica.
 
-{{< image src="museo_guerra_7.jpg" alt="" >}}
+{{< image src="museo_guerra_7.jpg" alt="Scritte in cirillico" >}}
 
 Documenti del passato e rappresentazioni si intrecciano in un percorso storico di cui è impossibile non rimanere sorpresi o impressionati.
 
-{{< image src="museo_guerra_8.jpg" alt="" type="wide-screen" >}}
+{{< image src="museo_guerra_8.jpg" alt="Busto di Stalin e Lenin" type="wide-screen" >}}
 
 In base alla vostra velocità impiegherete circa 45 minuti-un'ora per completare l'intero giro.
 
-{{< video src="museo_guerra.mp4" type="vertical_9x16" >}}
+{{< video src="museo_guerra.mp4" type="vertical_9x16" alt="Animazione di guerra" >}}
 
 ### Mall-dova
 
@@ -367,17 +373,19 @@ In base alla vostra velocità impiegherete circa 45 minuti-un'ora per completare
 
 Carina l'idea di chiamare il centro commerciale più grande della nazione con la pronuncia di "moldova".
 
-{{< image src="malldova.jpg" alt="" >}}
+{{< image src="malldova.jpg" caption="Mall-dova" >}}
 
 Al suo interno non troverete però un centro commerciale alimentare ma solo negozi di moda ed elettronica (a prezzi tendenzialmente più alti rispetto a quelli cui siamo abituati)
 
 ### Plata Centrala
 
-{{< image src="plata_centrala_ingresso.jpg" alt="" >}}
+{{< image src="plata_centrala_ingresso.jpg" alt="Ingresso del Mercato Centrale" >}}
 
-SCRIVERE QUALKE KOSA
+Mercato centrale, in cui potrete trovare vari tipi di prodotti --- dal cibo agli utensili al vino.
 
-{{< image src="plata_centrala_mercato.jpg" alt="" >}}
+Frequentato soprattutto da locals, merita di essere visitato.
+
+{{< image src="plata_centrala_mercato.jpg" alt="Mercato centrale" >}}
 
 ## Dove mangiare
 
@@ -391,11 +399,11 @@ Catena di ristorazione di cui troverete vari centri dislocati in tutta la città
 
 Ottimo posto in cui far colazione e poter assaggiare dolci locali come gli __ecler fistil__ in vari gusti: pistacchio e cioccolato.
 
-{{< image src="colazione.jpg" alt="" type="wide-screen" >}}
+{{< image src="colazione.jpg" caption="Colazione" type="wide-screen" >}}
 
 __Assolutamente da provare__.
 
-{{< image src="dolci_tipici.jpg" alt="" type="wide-screen" >}}
+{{< image src="dolci_tipici.jpg" alt="Dolci tipici moldavi" type="wide-screen" >}}
 
 ### McDonald's
 
@@ -420,7 +428,7 @@ Ci svegliamo all'alba (per quanto la partenza sia prevista per le 14:30) per un 
 
 Le due città sono ben collegate, quasi come che non sia inusuale, per gli abitanti del posto, partire da Iasi invece che dall'aeroporto della città.
 
-{{< image src="stazione_sud_iasi.jpg" alt="" >}}
+{{< image src="stazione_sud_iasi.jpg" alt="Platform di partenza del minibus" >}}
 
 | Chisinau-Aeroporto di Iasi |
 | - |
@@ -449,7 +457,7 @@ _Airside_ la situazione non è più felice: un'_open-space_ con una serie di pol
 
 __Non esiste una lounge__ per quanto la segnaletica la indichi; forse è in costruzione ed in un prossimo futuro potrebbe esserci.
 
-{{< image src="iasi_airport.jpg" alt="" type="wide-screen" >}}
+{{< image src="iasi_airport.jpg" alt="Sala di attesa landside dell'Aeroporto di Iasi in Romania" type="wide-screen" >}}
 
 E' servito quasi esclusivamente da {{< external_link "https://www.wizzair.com" "WizzAir" >}}.
 
