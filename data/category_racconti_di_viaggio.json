@@ -1,6 +1,13 @@
 {
     "europa" : [
                     {
+                        "title" :   "Moldova" ,
+                        "subtitle"  :   "Chisinau" ,
+                        "href"  :   "racconti-di-viaggio/moldova/chisinau" ,
+                        "url"   :   "racconti-di-viaggio/moldova/chisinau" ,
+                        "img"   :   "chisinau_cover.jpg"
+                    } ,
+                    {
                         "title" :   "Norvegia" ,
                         "subtitle"  :   "Da Oslo alle Lofoten" ,
                         "href"  :   "racconti-di-viaggio/norvegia/day-0-sulla-via-del-nord" ,
