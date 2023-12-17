@@ -73,5 +73,8 @@ function cookieConsent() {
 function cookieApproved() {
   setCookie('nparisiCookieApproved','1', 365);
   pureFadeOut("cookieConsentContainer");
-  startInstaFeed();
+  
+  // Forza il refresh della pagina
+  location.reload(true);
+  //startInstaFeed();
 }

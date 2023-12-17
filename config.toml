@@ -6,7 +6,7 @@ theme = "tracks"
 publishDir = ""
 
 disqusShortname = "nparisi-com"
-googleAnalytics = "UA-128082042-1"
+googleAnalytics = "G-1JLFJ4WDCC"
 
 preserveTaxonomyNames = true
 enableRobotsTXT = true

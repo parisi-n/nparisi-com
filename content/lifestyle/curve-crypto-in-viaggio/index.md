@@ -12,6 +12,7 @@ type: "article"
 ---
 
 {{< box "green" "Aggiornamenti">}}
+* **Aggiornamento del 22/05/2023**: LoungeKey viene dismesso a partire dal 01/06/2023 in favore di _Priority Pass_. Gli ingress in lounge passano da _illimitati_ a _massimo 4 per anno_. Maggiori informazioni {{< external_link "https://help.crypto.com/en/articles/7733288-priority-pass-airport-lounge-access" "qui" >}}
 * **Aggiornamento del 24/10/2022**: viene elimitato il _0 fee_ di conversione valuta che passa a **0.2% per le conversione all'interno dell'Europa** e **2% per le conversioni all'esterno dell'Europa**.
 Con queste nuove modifiche la carta non risulta più essere vantaggiosa per i _frequent traveler_ al di fuori dell'Europea.
 
