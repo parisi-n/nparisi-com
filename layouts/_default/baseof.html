@@ -31,6 +31,9 @@
 
             {{ partial "footer.html" . }}
         </div>
+        
+        {{/* Box creato appositamente per ospitare il box per approvare i cookie. E' necessario posizionarlo prima di scripts.html per evitare problemi al menù laterale */}}
+        <div id="cookieBox"></div>
 
         {{ partial "scripts.html" . }}
     </body>
