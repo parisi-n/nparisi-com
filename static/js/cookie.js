@@ -61,11 +61,12 @@ function eraseCookie(name) {
 
 function cookieConsent() {
   if (!getCookie('nparisiCookieApproved')) {
-    document.body.innerHTML += '<div class="super-cookieConsentContainer" id="cookieConsentContainer"><div class="cookieConsentContainer article" style="color: #f8f8f8; padding: 1.5em">'
+    document.getElementById("cookieBox").innerHTML += '<div class="super-cookieConsentContainer" id="cookieConsentContainer"><div class="cookieConsentContainer article" style="color: #f8f8f8; padding: 1.5em">'
                             +   '<div style="margin-top: -0.5em">' + purecookieDesc
                             +   '</div>'
                             +   '<div style="text-align: center"><a href="#" onclick="cookieApproved();" class="more-link" style="cursor: pointer; padding: 1em 1.73em">OK</a></div>'
                             +   '</div></div>';
+    
     pureFadeIn("cookieConsentContainer");
   }
 }
@@ -75,6 +76,6 @@ function cookieApproved() {
   pureFadeOut("cookieConsentContainer");
   
   // Forza il refresh della pagina
-  location.reload(true);
+  //location.reload(true);
   //startInstaFeed();
 }

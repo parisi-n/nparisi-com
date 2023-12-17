@@ -105,7 +105,7 @@
     /*
      * POST
      */
-    article p, article ul { font-family: "Open Sans", sans-serif !important; line-height: 1.8em !important; font-size: 1.32rem; text-align: justify !important; word-spacing: -2px; }
+    article p, article ul, article ol { font-family: "Open Sans", sans-serif !important; line-height: 1.8em !important; font-size: 1.32rem; text-align: justify !important; word-spacing: -2px; }
     p a, .entry-content li a { color: #f4511e !important; text-decoration: none !important; -o-transition: 0.45s; transition: 0.45s; overflow-wrap: break-word; word-break: break-word; word-wrap: break-word; padding: 2px; margin: -2px; -webkit-box-shadow: initial; box-shadow: initial; font-weight: 600; opacity: 0.8; }
     p a:hover, .entry-content li a:hover { color: #f4511e !important; opacity: 1; }
     aricle strong, article b, #wtr-content strong, article blackquote strong { color: #4d4d4d !important;  font-weight: 600; }
