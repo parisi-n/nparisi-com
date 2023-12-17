@@ -14,10 +14,11 @@
 {{/* Guida: https://www.skcript.com/svr/perfect-seo-meta-tags-with-hugo/ */ -}}
 
 {{ $img := (cond ( eq .Type "article") ( printf "%s" ( $s.Get "cover_thumbnail_link" ) ) ( .Site.Params.image | absURL ) ) }}
+{{ $description := (cond ( gt (len .Description) 0 ) ( .Description | markdownify ) ( (cond ( .IsPage) ( .Params.summary | markdownify ) ( .Site.Params.Description | markdownify ) ) ) ) }}
 
 <title>{{if $.IsHome}}{{ .Title }}{{ else if eq .Type "article" }}{{ .Title }}{{else}}{{ humanize .Title }}{{end}} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}</title>
 <meta name="application-name" content="{{ humanize .Title }} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}" />
-<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else if .IsPage}}{{ .Params.summary }}{{else}}{{ .Site.Params.Description }}{{ end }}" />
+<meta name="description" content="{{ $description }}" />
 <meta name="author" content="{{ humanize .Site.Params.author }}" /> 
 <meta name="language" content="Italiano">
 <meta name="url" content="{{ .Permalink }}" />
@@ -29,7 +30,7 @@
 <meta property="og:image" content="{{ $img }}" />
 <meta property="og:site_name" content="{{ .Site.Title | default "" }}" />
 <meta property="og:title" content="{{ .Title }} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}" />
-<meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else if .IsPage}}{{ .Params.summary }}{{else}}{{ .Site.Params.Description }}{{ end }}" />
+<meta property="og:description" content="{{ $description }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:locale" content="it">
 {{- if eq .Type "article" }}
@@ -43,7 +44,7 @@
 
 {{/* Twitter card */}}
 <meta name="twitter:title" content="{{ .Title }} - {{if not $.IsHome}}{{ $.Site.Title | default "" | safeHTML }}{{else}}{{ $.Site.Params.slogan | default "" | safeHTML }}{{end}}" />
-<meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else if .IsPage}}{{ .Params.summary }}{{else}}{{ .Site.Params.Description }}{{ end }}" />
+<meta name="twitter:description" content="{{ $description }}" />
 <meta name="twitter:image" content="{{ $img }}" />
 {{/* <meta name="twitter:image:src" content=" $img " " />*/}}
 <meta name="twitter:url" content="{{ .Permalink }}" />
