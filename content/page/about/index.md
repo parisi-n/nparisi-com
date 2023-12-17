@@ -35,3 +35,9 @@ Amo le lingue, per quanto dedichi loro meno tempo di quello che dovrei. L'ingles
 Dopo una breve pausa linguistica con il tedesco, sto provando con il cinese.
 
 Sognatore, perfezionista.
+
+* * *
+
+La memoria in fondo è così corta!
+
+Mi piace pensare che --- un giorno --- questo blog possa diventare come il libro che il Noah legge all'anziana e malata Allie: __le pagine della mia vita__.
