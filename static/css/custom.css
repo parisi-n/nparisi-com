@@ -276,7 +276,7 @@
         /**
          * INDICE
          */
-        div#toc-container { background-color: #FDFDFD;  border: 1px solid #4d4d4d; margin-top: 1.5em; margin-bottom: 2.3em; border-radius: 3px; display: inline-block;  padding-right: 1.2em; resize: vertical; }
+        div#toc-container { background-color: #FDFDFD;  border: 1px solid #4d4d4d; margin-top: 1.5em; margin-bottom: 2.3em; border-radius: 3px; display: inline-block;  padding-right: 1.2em; resize: vertical; width: 100%; max-width: 450px; }
         div#toc-container .toc-title { font-weight: 800; padding: 1.2em; display: table-cell; }
         div#toc-container #toc-button, div#toc-container #toc-button:focus, div#toc-container #toc-button:active { cursor: pointer; transition: all 0.45s ease; padding-left: 7em; display: table-cell; font-size: 16pt; float: right; }
         div#toc-container #TableOfContents { display: block; }
