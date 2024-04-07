@@ -1,6 +1,13 @@
 {
     "array" : [
         {
+            "image" : "kyrgyzstan_intro_header.jpg" ,
+            "color_category": "#f4511e" ,
+            "category": "Kyrgyzstan" ,
+            "text_title" : "Kyrgyzstan: i preparativi" ,
+            "url" : "racconti-di-viaggio/kyrgyzstan/ep-0-preparativi/"
+        } ,
+        {
             "image" : "chisinau_cover.jpg" ,
             "color_category": "#f4511e" ,
             "category": "Moldova" ,
@@ -48,20 +55,6 @@
             "category": "Uzbekistan" ,
             "text_title" : "La fiaba di Samarcanda" ,
             "url" : "racconti-di-viaggio/uzbekistan/ep-2-samarcanda/"
-        } ,
-        {
-            "image" : "tashkent_cover.jpg" ,
-            "color_category": "#f4511e" ,
-            "category": "Uzbekistan" ,
-            "text_title" : "L'arrivo nella modernità di Tashkent" ,
-            "url" : "racconti-di-viaggio/uzbekistan/ep-1-tashkent/"
-        } ,
-        {
-            "image" : "capire_uzbekistan_cover.jpg" ,
-            "color_category": "#f4511e" ,
-            "category": "Uzbekistan" ,
-            "text_title" : "Capire l'Uzbekistan tra storia e presente" ,
-            "url" : "racconti-di-viaggio/uzbekistan/ep-0-1-capire-uzbekistan/"
         } ,
         {
             "image" : "uzbekistan_preparativi_cover.jpg" ,

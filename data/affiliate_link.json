@@ -352,10 +352,49 @@
             "url" : "https://amzn.to/3IyiVgB"
         } ,
         {
+            "refer" : "bradt-kyrgyzstan" ,
+            "url" : "BRADT-KYRGYZSTAN"
+        },
+        {
+            "refer" : "explore-kyrgyzstan" ,
+            "url" : "EXPLORE-KYRGYZSTAN"
+        },
+        {
+            "refer" : "dji-mini-pro-3" ,
+            "url" : "DJI DRONE 3 PRO MINI"
+        } ,
+        {
+            "refer" : "nord-vpn" ,
+            "url" : ""
+        } ,    
+        {
+            "refer" : "efm-22" ,
+            "url" : ""
+        } ,    
+        {
+            "refer" : "thermos-12v" ,
+            "url" : "LINK E ANCHE DI QUELLO XIAOMI"
+        } ,    
+        {
             "refer" : "" ,
             "url" : ""
-        }
-     
+        } ,    
+        {
+            "refer" : "" ,
+            "url" : ""
+        } ,    
+        {
+            "refer" : "" ,
+            "url" : ""
+        } ,    
+        {
+            "refer" : "" ,
+            "url" : ""
+        } ,    
+        {
+            "refer" : "" ,
+            "url" : ""
+        } 
      
         
     ]
