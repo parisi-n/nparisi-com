@@ -1,21 +1,21 @@
----
+—
 title: "Zaino fotografico: l'essenziale per la fotografia da viaggio"
 date: "2022-11-07"
 image: "images/attrezzatura_cover.jpg"
 
-summary : "(Quasi) tutta l'attrezzatura fotografica di cui dispongo e che, dopo certe valutazioni, decido di portare dietro in ogni viaggio. Ma poichè ogni viaggio è diverso dal precedente --- così ogni percorso necessita di proprie valutazioni su cosa lasciare a casa e cosa portarsi a presso."
+summary : "(Quasi) tutta l'attrezzatura fotografica di cui dispongo e che, dopo certe valutazioni, decido di portare dietro in ogni viaggio. Ma poichè ogni viaggio è diverso dal precedente — così ogni percorso necessita di proprie valutazioni su cosa lasciare a casa e cosa portarsi a presso."
 categories : [ "accessori", "", "" ]
 tags : [ "travel" ]
 
 showToc : true
 type: "article"
----
+—
 [//]: # "{{<box "green" "Aggiornamenti" >}}* **Novembre 2022**: pubblicazione post{{</box>}}"
 
 {{< box "blue" "Informazione importante" >}}
 I link contenuti in questo post sono __referral link__.
 
-Da ogni acquisto fatto da questi link mi verrà girata da Amazon una piccola commissione --- per chi compra in modo del tutto **gratuito**.
+Da ogni acquisto fatto da questi link mi verrà girata da Amazon una piccola commissione — per chi compra in modo del tutto **gratuito**.
 {{< /box >}}
 
 {{< capital_letter_open >}}
@@ -24,7 +24,7 @@ _Come parto? Valigia e zaino o solo zaino?_ Queste ed altre domande son le prime
 
 Una volta stabilito che sì, ancora una volta viaggerò con solo uno zainetto, lo step successivo è pure peggio: _che attrezzatura mi porto dietro?_ ovvero, tradotto: _che foto conto di fare?_
 
-Semplici foto di viaggio --- dalla qualità maggiore rispetto a quelle che farei con il telefono --- oppure foto di reportage, foto naturalistiche o urbane --- magari qualche _long exposure_?
+Semplici foto di viaggio — dalla qualità maggiore rispetto a quelle che farei con il telefono — oppure foto di reportage, foto naturalistiche o urbane — magari qualche _long exposure_?
 
 Doverosa premessa: *non sono un fotografo*. Sono solo uno con una fotocamera in mano che si diverte a far foto per poi inserirle in questo blog, per il puro gusto di _blogging_.
 
@@ -36,6 +36,12 @@ La scelta del gruppo è abbastanza semplice: *dipende dalla destinazione*. Per u
 
 {{< image src="accessori.jpg" alt="Accessori da viaggio" caption="Alcuni accessori" >}}
 
+## Lo zaino
+
+Si tratta del *Lowepro Photosport BP 24L*. [Ne ho parlato in un post]({{< ref "accessori/lowepro-photosport-24l/index.md" >}}) e ne vado particolarmente soddisfatto.
+
+Con le sue mille tasche ed organizzazioin interne-esterne permette una versatilità estrema senza diventare mai ingombrante ma, a seconda di quel che ci metterete — sicuramente pesante.
+
 ## Attrezzatura essenziale
 
 Metto in questo gruppo l'attrezzatura essenziale, indispensabile, *senza la quale non parto*.
@@ -44,7 +50,7 @@ Metto in questo gruppo l'attrezzatura essenziale, indispensabile, *senza la qual
 
 Corpo macchina Canon m50, corpo macchina con sensore APS-C da 24.1mpx e possibilità di scattare fino a _10 frames per secondo_.
 
-Ora si può trovare quasi allo stesso prezzo la versione successiva --- la {{< affiliate_link "canon-m50-ii" "Canon M50 mark II" >}}.
+Ora si può trovare quasi allo stesso prezzo la versione successiva — la {{< affiliate_link "canon-m50-ii" "Canon M50 mark II" >}}.
 
 Piccola, compatta, ideale come fotocamera _d'attacco_ per chi ha un budget ridotto ma non vuole rinunciare alla portabilità. Nei suoi *pro* ha la possibilità di avere a disposizione un ventaglio di obiettivi *compatti* che coprono quasi interamente il range di focali più comuni.
 
@@ -61,7 +67,7 @@ Può montare direttamente:
 * EF-M 55-250 f4.5-6.3 *IS* STM
 
 Significato delle sigle che accompagnano ogni obiettivo:
-* *IS*: _Image Stabilizer_ --- ovvero la lente è dotata di stabilizzatore fisico interno
+* *IS*: _Image Stabilizer_ — ovvero la lente è dotata di stabilizzatore fisico interno
 * *STM*: _STepping Motor_
 
 {{< image src="m50_lenses.jpg" alt="Obiettivi Canon m50" caption="Canon M50 con EF-M 55-250 (a sx) e EF-M 11-22 (a dx)" >}}
@@ -79,14 +85,14 @@ Pur non nascendo per questo fine e non essendo adeguata allo scopo, per il mio u
 
 {{< image src="m50_32mm.jpg" alt="Canon M50 con collegato EF-M 32mm" caption="EF-M 32mm F1.4 STM" >}}
 
-Al momento della scrittura di questo post si trova a circa 540€. Si tratta di una lente complessa da realizzare dal punto di vista ingegneristico (date uno sguardo al peso ed alle dimensioni di altri obiettivi --- come il Tamron --- per rendervi conto di *quanto sia leggero e piccolo questo della Canon*).
+Al momento della scrittura di questo post si trova a circa 540€. Si tratta di una lente complessa da realizzare dal punto di vista ingegneristico (date uno sguardo al peso ed alle dimensioni di altri obiettivi — come il Tamron — per rendervi conto di *quanto sia leggero e piccolo questo della Canon*).
 
 {{< button_affiliate_link ref="efm-32" type="Amazon" >}}
 
 ### Manfrotto Tripod da tavolo
 
 Possiedo **questo in foto** (che trovate {{< affiliate_link "manfrotto-tripod-small" "qui" >}}) e permette l'orientamento solo su un piano.
-Al momento dell'acquisto (errore mio!) non avevo valutato completamente l'offerta Manfrotto, che comprendeva anche un Tripod da tavolo con possibilità di orientamento su due piani --- permettendo all'operatore di scattare sia in _landscape_ sia in _portrait_.
+Al momento dell'acquisto (errore mio!) non avevo valutato completamente l'offerta Manfrotto, che comprendeva anche un Tripod da tavolo con possibilità di orientamento su due piani — permettendo all'operatore di scattare sia in _landscape_ sia in _portrait_.
 
 {{< image src="manfrotto_tripod.jpg" alt="Manfrotto Tripod" caption="Il ''Manfrottino''" >}}
 
@@ -106,9 +112,9 @@ Con tre batterie non dovrete aver timore di non arrivare a fine giornata. Una vo
 
 ### GoPro Hero 5
 
-Ormai siamo alla {{< affiliate_link "gopro-11" "versione 11" >}} della famosa _action cam_ --- ma a questo oltre ad essere particolarmente affezionato a questo modello, continua anche a funzionare dignitosamente --- motivi per il quale non ho intenzione nel breve di cambiarla.
+Ormai siamo alla {{< affiliate_link "gopro-11" "versione 11" >}} della famosa _action cam_ — ma a questo oltre ad essere particolarmente affezionato a questo modello, continua anche a funzionare dignitosamente — motivi per il quale non ho intenzione nel breve di cambiarla.
 
-La uso prevalentemente per **timelapse** [notturni]({{< ref "racconti-di-viaggio/norvegia/day-7-lofoten/index.md" >}}) e [diurni]({{< ref "racconti-di-viaggio/norvegia/day-5-sognefjord/index.md" >}}), ma all'occorrenza --- montata [sul gimbal]({{< ref "#yi-gimbal" >}}) --- produce anche video fluidi e stabilizzati di alta qualità 💪
+La uso prevalentemente per **timelapse** [notturni]({{< ref "racconti-di-viaggio/norvegia/day-7-lofoten/index.md" >}}) e [diurni]({{< ref "racconti-di-viaggio/norvegia/day-5-sognefjord/index.md" >}}), ma all'occorrenza — montata [sul gimbal]({{< ref "#yi-gimbal" >}}) — produce anche video fluidi e stabilizzati di alta qualità 💪
 
 {{< image src="gopro.jpg" alt="GoPro Hero 5" caption="GoPro Hero 5 in azione" >}}
 
@@ -125,7 +131,7 @@ Insieme alla *Go Pro Hero 5* è elemento essenziale per la realizzazione di time
 
 Potete leggere [la recensione qui]({{< ref "accessori/joby-ventosa/index.md" >}}) (in cui la metto sottosforzo) oppure vederla nel dettaglio [qui]({{< ref "racconti-di-viaggio/georgia-azerbaijan/day-1-kutaisi/index.md" >}}) o [qui]({{< ref "racconti-di-viaggio/georgia-azerbaijan/day-5-night-train/index.md" >}}).
 
-Potete trovarla su Amazon --- di tanto in tanto --- scontata.
+Potete trovarla su Amazon — di tanto in tanto — scontata.
 
 {{< button_affiliate_link ref="joby-ventosa" type="Amazon" >}}
 
@@ -142,11 +148,11 @@ La pazienza premia il portafogli! 🥳
 
 ### PowerBank 🔋: solo RavPower
 
-E' una RavPower --- di quelle che su Amazon per {{< external_link "https://www.hdblog.it/amazon/articoli/n539799/amazon-recensioni-false-ravpower-rimosso/" "varie ragioni" >}} non sono più vendute 😞
+E' una RavPower — di quelle che su Amazon per {{< external_link "https://www.hdblog.it/amazon/articoli/n539799/amazon-recensioni-false-ravpower-rimosso/" "varie ragioni" >}} non sono più vendute 😞
 
-Ne possiedo due --- una piccola (da 7200mAh) ed una grande (da 22000mAh), quest'ultima ricaricabile tramite _type C_.
+Ne possiedo due — una piccola (da 7200mAh) ed una grande (da 22000mAh), quest'ultima ricaricabile tramite _type C_.
 
-Quella da 22000mAh ha un output di 5V/3A. Non la più moderna delle _quick-charge_ (che dovrebbe arrivare a 9V) --- ma fa il suo lavoro.
+Quella da 22000mAh ha un output di 5V/3A. Non la più moderna delle _quick-charge_ (che dovrebbe arrivare a 9V) — ma fa il suo lavoro.
 
 {{< image src="ravpower_powerbank.jpg" alt="Ravpower Powerbank 22ooomAh" caption="RavPower Powerbank 22ooo mAh" >}}
 
@@ -158,15 +164,15 @@ Di scorta porto con me invece una {{< external_link "sd-samsung" "MicroSD EVO Pl
 
 ### Cavi vari
 
-Porto dentro la borsa un _type A --- type B_ (da una parte USB, dall'altra micro-usb) ed un _type A --- type C_ --- entrambi di 50cm.
+Porto dentro la borsa un _type A — type B_ (da una parte USB, dall'altra micro-usb) ed un _type A — type C_ — entrambi di 50cm.
 
-Potete trovarli ad un prezzo accessibile *su AliExpress*; per i cavetti --- preferisco quando possibile optare per il brand *Ugreen*.
+Potete trovarli ad un prezzo accessibile *su AliExpress*; per i cavetti — preferisco quando possibile optare per il brand *Ugreen*.
 
 ### Packing con Gear-Up M
 
 Si tratta della piccola tra le due borse offerte da {{< external_link "https://www.lowepro.com" "LowePro" >}} (l'altra è la **size L**).
 
-La borsetta è capace di accogliere all'interno **il corpo macchina con l'obiettivo**, **le due batterie di riserva con il loro caricabatteria** e --- a seconda dell'obiettivo che decido di portare --- anche il **filtro ND1000 ed il CPL**.
+La borsetta è capace di accogliere all'interno **il corpo macchina con l'obiettivo**, **le due batterie di riserva con il loro caricabatteria** e — a seconda dell'obiettivo che decido di portare — anche il **filtro ND1000 ed il CPL**.
 
 {{< image src="gearup_m.jpg" alt="Lowepro Gear Up M" caption="Lowepro Gear-Up M" >}}
 
@@ -182,7 +188,7 @@ Non poteva mancare un **obiettivo grandangolare**. Certe volte l'immensità dell
 
 Con una buona ricerca e tanta pazienza potrete portarlo a casa per circa 380€.
 
-Oltre alle foto diurne --- si comporta discretamente bene anche nelle *milky way missions*.
+Oltre alle foto diurne — si comporta discretamente bene anche nelle *milky way missions*.
 
 Di che si tratta? **Indovinate.** 😎
 
@@ -202,7 +208,7 @@ Solo recentemente ho deciso di affidarmi a qualcosa di più "serio" e ho acquist
 
 #### Filtro ND1000
 
-Per quanto il filtro *ND1000* sia quello che più uso in assoluto per le varie __long exposure__ diurne (e quindi ci si aspetterebbe sia un prodotto di qualità) --- proviene da Aliexpress.
+Per quanto il filtro *ND1000* sia quello che più uso in assoluto per le varie __long exposure__ diurne (e quindi ci si aspetterebbe sia un prodotto di qualità) — proviene da Aliexpress.
 
 Dispongo anche di un set di filtri K&F di densità crescente (2, 4, 8, 16, 32) che...non ho mai usato perché non congrui all'uso per cui in verità li ho acquistati.
 
@@ -214,15 +220,15 @@ Attualmente ho in uso un **Gobe ND1000** (Gobe e Urth identificano ormai lo stes
 
 ### Obiettivo EF-M 55-250mm
 
-Un **obiettivo telescopico** --- quando si parla di foto naturalistiche --- *non deve mai mancare*.
+Un **obiettivo telescopico** — quando si parla di foto naturalistiche — *non deve mai mancare*.
 
-Anche in questo caso --- dal peso e dalle dimensioni estremamente contenute.
+Anche in questo caso — dal peso e dalle dimensioni estremamente contenute.
 
 Il costo si aggira sui 320€.
 
-Se dovessi fare una classifica --- mi ritrovo la maggior parte delle volte a scattare in mezzo alla natura con il *EF-M 11-22mm* e con il *EF-M 32mm*.
+Se dovessi fare una classifica — mi ritrovo la maggior parte delle volte a scattare in mezzo alla natura con il *EF-M 11-22mm* e con il *EF-M 32mm*.
 
-E' raro usi il telescopico --- a meno di voler **catturare particolari dettagli della natura** lontani dalla mia posizione di spotter.
+E' raro usi il telescopico — a meno di voler **catturare particolari dettagli della natura** lontani dalla mia posizione di spotter.
 
 {{< button_affiliate_link ref="efm-55-250" type="Amazon" >}}
 
@@ -235,7 +241,7 @@ Oltre a *non essere _arc swiss_ nativa* la slitta con cui viene venduto *non per
 
 {{< image src="manfrotto_travel_tripod.jpg" alt="Manfrotto Travel Elements Tripod" caption="Manfrotto Elements Travel Tripod" >}}
 
-La soluzione a ciò è abbastanza economica --- se si ha un minimo di fantasia.
+La soluzione a ciò è abbastanza economica — se si ha un minimo di fantasia.
 
 Basta acquistare {{< affiliate_link "arc-swiss-manfrotto" "questa placca ad attacco rapido" >}} e montarla con un filetto di 3/4" ed _un bulloncino come battente_.
 
@@ -243,13 +249,13 @@ Basta acquistare {{< affiliate_link "arc-swiss-manfrotto" "questa placca ad atta
 
 ### YI Gimbal
 
-Un vecchio gimbal YI stabilizzato sui 3 assi non più in vendita --- ma pagato alcuni anni fa **intorno ai 60€** --- svolge ancora oggi egregiamente il suo lavoro --- soprattutto quando ha su montata la *Go Pro Hero 5*.
+Un vecchio gimbal YI stabilizzato sui 3 assi non più in vendita — ma pagato alcuni anni fa **intorno ai 60€** — svolge ancora oggi egregiamente il suo lavoro — soprattutto quando ha su montata la *Go Pro Hero 5*.
 
-Nasce per montare le _action cam_ di marca YI ma --- con un piccolo riadattamento --- può accogliere senza troppi problemi di stabilizzazione *anche la Go Pro Hero 5*.
+Nasce per montare le _action cam_ di marca YI ma — con un piccolo riadattamento — può accogliere senza troppi problemi di stabilizzazione *anche la Go Pro Hero 5*.
 
 {{< image src="gimbal_yi.jpg" alt="Gimbal YI per casco" caption="Gimbal YI per casco" >}}
 
-Non più disponibile su Amazon --- fa ancora a distanza di anni il suo dovere producendo stabilizzazioni che altrimenti con la GoPro non sarebbero possibili.
+Non più disponibile su Amazon — fa ancora a distanza di anni il suo dovere producendo stabilizzazioni che altrimenti con la GoPro non sarebbero possibili.
 
 * * *
 
