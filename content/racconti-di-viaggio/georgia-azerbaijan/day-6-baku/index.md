@@ -24,7 +24,7 @@ Volete mettere la magia di vedere l'alba da un treno in movimento?
 
 {{<youtube id="631f-j9kVl4" >}}
 
-Quel che vedrete sarà un’ambiente naturale completamente diverso rispetto a quello cui eravate abituati in Georgia, ricco in verde, alberi e cespugli rigogliosi.
+Quel che vedrete sarà un ambiente naturale completamente diverso rispetto a quello cui eravate abituati in Georgia, ricco in verde, alberi e cespugli rigogliosi.
 
 {{< image src="IMG_4156.jpg" alt="Distese aride e desertiche in contrasto con i panorami georgiani" >}}
 
