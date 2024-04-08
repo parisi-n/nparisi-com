@@ -64,7 +64,7 @@ A Settembre 2023 è possibile entrare in Kyrgyzstan per un massimo di 90 giorni 
 ## La guida 📕
 
 Organizzare un itinerario che ci permettesse un'esplorazione dignitosa del territorio nei tempi a disposizione è stata forse la cosa più difficile. **Non trattandosi di attrazioni in città ma di attrazioni naturalistiche** l'intinerario, e per questo gli spostamenti, andavano calibrati con cura.
-Come se non bastasse, non sempre in base alle testimonianze online avremmo trovato un _setting turistico ed accogliente_ al nostro arrivo in tarda notte — per cui era necessario non solo programmare attentamente gli orari di partenza onde **evitare di guidare la notte** — ma per far sì che al **nostro arrivo non dovessimo digiunare** poichè ogni attività avesse già chiuso.
+Come se non bastasse, non sempre in base alle testimonianze online avremmo trovato un _setting turistico ed accogliente_ al nostro arrivo in tarda notte — per cui era necessario non solo programmare attentamente gli orari di partenza onde **evitare di guidare la notte** — ma per far sì che al **nostro arrivo non dovessimo digiunare** trovando ogni attività di ristorazione già chiusa.
 
 {{< image src="bandiera_kyr.gif" caption="" >}}
 
@@ -119,13 +119,13 @@ Per questo vi consiglio — tra i vari:
 
 ## Itinerario 🗺️
 
-L'itinerario illustrato rispecchia esattamente quel che è stata la nostra tabella di marcia. _Poteva essere fatto di più nello stesso tempo?_
+L'itinerario illustrato rispecchia esattamente quella che è stata la nostra tabella di marcia. _Poteva essere fatto di più nello stesso tempo?_
 
 __Probabilmente si__.
 
 {{< vimeo src="929106973" type="horizontal" >}}
 
-In Kyrgyzstan ci siamo scontrati con le distanze fisiche che ci separavano dai luoghi, non sempre semplici da raggiungere, ed il cui raggiungimento non sempre era agevole e si prestava ad un itinerario da _mordi e fuggi_ come invece siamo abituati noi.
+In Kyrgyzstan ci siamo scontrati con le distanze fisiche che ci separavano dai luoghi, ed il cui raggiungimento non sempre era agevole e si prestava ad un itinerario da _mordi e fuggi_ come invece siamo abituati noi.
 
 * **Giorno #1**: partenza da Malpensa (MXP) alle 17:45 con __Neos__ e direzione _Almaty_ con arrivo previsto alle ore 4.51.
 * **Giorno #2**: arrivo ad Almaty ed _early check-in_ in hotel. Giro per la città. Notte al Almaty.
@@ -137,7 +137,7 @@ In Kyrgyzstan ci siamo scontrati con le distanze fisiche che ci separavano dai l
 * **Giorno #8**: partenza per Song Kul (route 15). Notte a Song Kul (<3).
 * **Giorno #9**: ritorno a Bishkek per consegnare l'auto. Notte a Bishkek.
 * **Giorno #10**: giro per la città di Bishkek. Notte a Bishkek. Partenza nel cuore della notte per l'Italia.
-* **Giorno #11**: arriviamo in Italia nel primo pomeriggio. Torniamo alla realtà, dopo dieci giorni immersi nell'avventura e con sfide quotidiane. Torniamo col sogno di tornare, un giorno, nuovamente in Kyrgyzstan.
+* **Giorno #11**: arriviamo in Italia nel primo pomeriggio. Torniamo alla realtà, dopo dieci giorni immersi nell'avventura e con sfide quotidiane, ma col sogno di tornare, un giorno, nuovamente in Kyrgyzstan.
 
 Qui la mappa interattiva:
 
@@ -337,7 +337,7 @@ Se il russo vi spaventa — sappiate che soprattutto nei percorsi turistici trov
 
 ### Assicurazione sanitaria
 
-E' sempre consigliabile stipulare un'assicurazione viaggi quando si intraprende un viaggio all'estero, sia per quanto riguarda il trasporto aereo e il bagaglio che si trasporta, sia perchè non si sa mai quello che possa succedere. NUmerose sono le agenzie assicurative che propongono pacchetti diversi per ogni necessità: si va dalla copertura base che copre solo le spese di viaggio, a quella completa che copre anche le spese mediche e il supporto a casa in caso di seri problemi.   
+E' sempre consigliabile stipulare un'assicurazione viaggi quando si intraprende un viaggio all'estero, sia per quanto riguarda il trasporto aereo e il bagaglio che si trasporta, sia perchè non si sa mai quello che potrebbe succedere. NUmerose sono le agenzie assicurative che propongono pacchetti diversi per ogni necessità: si va dalla copertura base che copre solo le spese di viaggio, a quella completa che copre anche le spese mediche e il supporto a casa in caso di seri problemi.   
 
 {{< image src="song_kul_drone.jpg" alt="" caption="Panorama del Lago Song Kul da Nord" type="wide-screen" >}}
 
@@ -349,7 +349,7 @@ A differenza del viaggio precedente [in Uzbekistan]({{< ref "/racconti-di-viaggi
 
 ### Simcard 📱
 
-A differenza degli altri viaggi in questo abbiamo deciso di dotarci di simcard — per quanto il territorio.
+A differenza degli altri viaggi in questo abbiamo deciso di dotarci di simcard — per quanto il territorio prevalentemente montuoso al limite del disabitato renda la copertura ridotta.
 
 Troverete una mappa sulla copertura di rete cellulare ufficiale {{< external_link "https://www.nperf.com/en/map/KG/-/208148.MegaCom-Mobile/signal/?ll=41.713110039728086\&lg=76.66699212044477\&zoom=8" "attraverso questo link" >}}.
 
