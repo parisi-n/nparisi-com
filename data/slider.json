@@ -8,6 +8,13 @@
             "url" : "racconti-di-viaggio/kyrgyzstan/ep-0-preparativi/"
         } ,
         {
+            "image" : "almaty_header.jpg" ,
+            "color_category": "#f4511e" ,
+            "category": "Kyrgyzstan" ,
+            "text_title" : "Kazakhstan: l'atterraggio dal Almaty e la frontiera" ,
+            "url" : "racconti-di-viaggio/kyrgyzstan/ep-1-almaty/"
+        } ,
+        {
             "image" : "chisinau_cover.jpg" ,
             "color_category": "#f4511e" ,
             "category": "Moldova" ,
