@@ -13,7 +13,7 @@ type: "article"
 ---
 
 {{< capital_letter_open >}}
-Possiamo in un certo qual modo dire che l'Uzbekistan, oltre ad insegnarci e ricordarci quanto meraviglioso e vario il mondo possa essere — ci ha anche preparato ed insegnato a come gestire l'ansia correlata all'arrivare nel cuore della notte in un aeroporto del Centrasia e nel cui parcheggio letteralmente orde di persone ti assalgono e ti sbarrano la strada per chiederti se abbia necessità di un taxi.
+Possiamo in un certo qual modo dire che l'Uzbekistan, oltre ad insegnarci e ricordarci quanto meraviglioso e vario il mondo possa essere — ci ha anche preparato ed insegnato a come gestire l'ansia da arrivo nel cuore della notte in un aeroporto del Centrasia e l'assalto di orde di persone nel parcheggio che ti assalgono e sbarrano la strada per chiederti se abbia necessità di un taxi.
 
 La notte, già di per sè, aumenta le paure ed i timori.
 {{< capital_letter_close >}}
@@ -86,7 +86,7 @@ Questa volta è tutto diverso, quasi "ordinato".
 
 Non veniamo assaliti, veniamo giusto intercettati da qualche bel signore che ci propone il trasporto a prezzi imbarazzanti.
 
-Come già accennato nella parte introduttiva, la VPN ci permette di collegarci al WiFi gratuito dell'aeroporto (che questa volta **funziona**) e tramite [Yandex Taxi](#Taxi) chiamiamo una macchina che con 2600 tange ci porta al Kazakhstan Hotel.
+Come già accennato nella parte introduttiva, la VPN ci permette di collegarci al WiFi gratuito dell'aeroporto (che questa volta **funziona**) e tramite [Yandex Taxi](#Taxi) chiamiamo una macchina che con 2600 tange (circa 5.50€) ci porta al Kazakhstan Hotel.
 
 ## Cambio valuta
 
@@ -158,7 +158,7 @@ Inoltre, considerato che il nostro arrivo è stato alle 6 del mattino — ci è 
 
 {{< image src="camera_hotel.jpg" alt="Camera del Kazakhstan Express" type="wide-screen">}}
 
-Vedere gli ultimi palazzi moderni che si stagliano sulle montagne dalle vette innevate dal 17esimo piano ha il sapore del riscatto: a Tashkent non avevamo pernottato all'hotel Uzbekistan, hotel-icona della città. Lo facciamo ad Almaty, nell'hotel-icona della città.
+Vedere gli ultimi palazzi moderni, che si stagliano sulle montagne dalle vette innevate, dal 17esimo piano ha il sapore del riscatto: a Tashkent non avevamo pernottato all'hotel Uzbekistan, hotel-icona della città. Lo facciamo ad Almaty, nell'hotel-icona della città.
 
 All'interno la struttura è aggiornata agli standard estetici moderni e di comfort, in cui riaffiora la vecchia personalità ed il dettaglio dal gusto _retrò_.
 
@@ -312,7 +312,7 @@ Camminiamo e passeggiamo, per respirare i _vibes_ che la città ha da offrirci. 
 
 Visitiamo la {{< external_link "https://maps.app.goo.gl/eUYVoyXE7B5J77kTA" "Bottega di Hermes" >}}: i prezzi sono maggiori rispetto all'Italia, anche considerando eventuale **tax refund** dato dal programma **Global Blue** di cui in ogni caso non potremmo usufruire perchè abbandoneremo il Kazakhstan via terra ed il _tax refund office_ si trova esclusivamente in aeroporto, tra l'altro ci dicono dopo i controlli di sicurezza.
 
-Sono circa mezzogiorno quando camminiamo per inerzia: il sonno ci arriva improvvisamente (a {{< affiliate_link "frupari-instagram" "@frupari" >}} più che a me) e decidiamo di tornare in hotel per riposare un attimo prima di pranzo.
+E' circa mezzogiorno quando camminiamo per inerzia: il sonno ci arriva improvvisamente (a {{< affiliate_link "frupari-instagram" "@frupari" >}} più che a me) e decidiamo di tornare in hotel per riposare un attimo prima di pranzo.
 
 {{< image src="almaty_abrai_university.jpg" alt="Esterno dell'Abai University" >}}
 
