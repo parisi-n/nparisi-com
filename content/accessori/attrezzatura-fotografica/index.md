@@ -32,7 +32,7 @@ Doverosa premessa: *non sono un fotografo*. Sono solo uno con una fotocamera in 
 
 Dividerò l'articolo in due filoni: *uno contenente gli elementi essenziali* ed *un altro contenente attrezzatura per foto più varie ed elaborate*.
 
-La scelta del gruppo è abbastanza semplice: *dipende dalla destinazione*. Per un viaggio di un weekend [come quello a Riga e Tallinn]({{< ref "racconti-di-viaggio/tallinn-riga/ep-1-ritorno-a-casa/index.md" >}}) sicuramente porterò il minimo per fare un po' di _street photography_. Per un viaggio più lungo e complesso, con magari qualche pausa naturalistica (come quello in [Georgia ed in Azerbaijan]({{< ref "racconti-di-viaggio/georgia-azerbaijan/day-0-preparativi/index.md" >}}) oppure in [Norvegia]({{< ref "racconti-di-viaggio/norvegia/day-0-sulla-via-del-nord/index.md" >}}) ) prediligerò il gruppo con più attrezzatura.
+La scelta del gruppo è abbastanza semplice: *dipende dalla destinazione*. Per un viaggio di un weekend [come quello a Riga e Tallinn]({{< ref "racconti-di-viaggio/repubbliche-baltiche/tallinn-riga/ep-1-ritorno-a-casa/index.md" >}}) sicuramente porterò il minimo per fare un po' di _street photography_. Per un viaggio più lungo e complesso, con magari qualche pausa naturalistica (come quello in [Georgia ed in Azerbaijan]({{< ref "racconti-di-viaggio/georgia-azerbaijan/day-0-preparativi/index.md" >}}) oppure in [Norvegia]({{< ref "racconti-di-viaggio/norvegia/day-0-sulla-via-del-nord/index.md" >}}) ) prediligerò il gruppo con più attrezzatura.
 
 {{< image src="accessori.jpg" alt="Accessori da viaggio" caption="Alcuni accessori" >}}
 
