@@ -12,6 +12,12 @@ type: "article"
 
 ---
 
+{{< box "green" >}}
+**Aggiornamento di Aprile 2024**
+
+Aggiunta risorsa online con descrizione delle principali rotte offroad.
+{{< /box >}}
+
 {{< box "blue" >}}
 In questa pagina fornirò tutte le indicazioni, i suggerimenti ed i consigli affinchè possiate organizzarvi autonomamente — senza fare affidamento a pacchetti turistici preconfezionati — **il vostro personale viaggio in Kyrgyzstan**.
 
@@ -84,7 +90,7 @@ Il libro — insieme al {{< external_link "https://www.facebook.com/OunTravela" 
 
 {{< image src="ponte_legno_avventura.jpg" alt="Ponte pericoloso lungo la valle di Kyzyl-Suu" caption="Uno dei tanti ponti su cui vi torverete a dover passare" type="wide-screen" >}}
 
-Il libro offre XXX percorsi _off-road_ da intraprendere **con un'auto apposita, meglio se 4x4 (4WD)**.
+Il libro offre 34 percorsi _off-road_ da intraprendere **con un'auto apposita, meglio se 4x4 (4WD)**.
 
 {{< box "orange" "Zone off-limits e off-road" >}}
 A questo punto è doverosa una precisazione: il libro, seppur riferisca per ogni percorso il livello di difficoltà del percorso indicato, è stato redato ormai alcuni anni fa e **le condizioni stradali** potrebbero essere mutate **in peggio**.
@@ -117,6 +123,10 @@ Per questo vi consiglio — tra i vari:
 * {{< external_link "https://www.facebook.com/groups/CentralAsiaBackpackerTraveler/" "Kyrgyzstan Travel Group" >}}: gruppo internazionale esteso a tutta l'Asia Centrale
 * {{< external_link "https://www.facebook.com/groups/voyageraukirghizistan" "Kyrgyzstan Travel" >}}: gruppo in francese in cui tuttavia potrete trovare utili informazioni, facendovi aiutare dalla funzione _translate_ offerta automaticamente da Facebook.
 
+### Altre risorse
+
+* {{< external_link "https://www.wikiloc.com/trails/offroading/kyrgyzstan" "Percorsi offroad su Wikiloc" >}}: descrive con documentazione fotografica alcuni percorsi offroad.
+
 ## Itinerario 🗺️
 
 L'itinerario illustrato rispecchia esattamente quella che è stata la nostra tabella di marcia. _Poteva essere fatto di più nello stesso tempo?_
@@ -132,7 +142,7 @@ In Kyrgyzstan ci siamo scontrati con le distanze fisiche che ci separavano dai l
 * **Giorno #3**: mattino ad Almaty e partenza nel pomeriggio per Bishkek attraverso la frontiera terrestre. Notte a Bishkek.
 * **Giorno #4**: noleggio dell'auto e partenza per Cholpon-Ata con breve stop a _Burana Tower_. Notte a Cholpon-Ata.
 * **Giorno #5**: breve giro a Cholpon-Ata e partenza per Karakol. Notte a Karakol.
-* **Giorno #6**: escursione a XXXXX (route 9) e giro per la valle di Altyn-Arashan (zona proibita!). Notte a Karakol.
+* **Giorno #6**: escursione alla Stazione Metereologica a Kyzyl-Suu (route 9) e giro per la valle di Altyn-Arashan (zona proibita!). Notte a Karakol.
 * **Giorno #7**: escursione a Jety-Oguz e a Barksoon. Notte a Bokonbayevo.
 * **Giorno #8**: partenza per Song Kul (route 15). Notte a Song Kul (<3).
 * **Giorno #9**: ritorno a Bishkek per consegnare l'auto. Notte a Bishkek.
