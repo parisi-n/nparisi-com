@@ -79,7 +79,7 @@ L'acqua era sporca: non ho avuto il coraggio di immergere i piedi.
 
 _Å, II Ottobre 2021_
 
-Siamo quasi alla conclusione del viaggio alla scoperta dei tesori naturali nascosti della [Norvegia]({{< ref "norvegia" >}}) e ci meravigliamo ancora, ad ogni angolo, come bambini.
+Siamo quasi alla conclusione del viaggio alla scoperta dei tesori naturali nascosti della [Norvegia]({{< ref "racconti-di-viaggio/norvegia" >}}) e ci meravigliamo ancora, ad ogni angolo, come bambini.
 
 Tutto programmato: con me in viaggio è venuto anche il quaderno acquistato *in Georgia*.
 
