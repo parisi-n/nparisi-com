@@ -183,11 +183,11 @@ La prima differenza con le agenzie di noleggio con cui normalmente si ha a che f
 
 * * *
 
-Nel nostro caso — ci siamo rivolti all'agenzia {{< external_link "https://trvlland.com/" "Travel Land Kyrhyzstan" >}} — trovata un po' a fortuna perchè era l'unica agenzia con a disposizione un veicolo nelle date di nostro interesse (per inciso, richiesta di disponibilità effettuata cinque giorni prima della partenza — giusto per non fare le cose all'ultimo...:D).
+Nel nostro caso — ci siamo rivolti all'agenzia {{< external_link "https://trvlland.com/" "Travel Land Kyrhyzstan" >}} — trovata un po' a fortuna perchè era l'unica agenzia con a disposizione un veicolo nelle date di nostro interesse (per inciso, richiesta di disponibilità effettuata cinque giorni prima della partenza — giusto per non fare le cose all'ultimo...😁).
 
 Le recensioni — sia su {{< external_link "https://maps.app.goo.gl/tptHtEEwktuaCFj58""Google Maps"  >}} sia su {{< external_link "https://www.tripadvisor.com/Attraction_Review-g293948-d12876520-Reviews-Travel_Land_Kyrgyzstan-Bishkek.html""TripAdvisor"  >}} **sono positive**.
 
-Il fatto che **non sia necessario il pagamento anticipato** è un altro elemento che ci da tranquillità.
+Il fatto che **non sia necessario il pagamento anticipato** è un altro elemento che ci da tranquillità (ci viene richiesto di bloccare la prenotazione con appena il 5% del totale della prenotazione, quindi poche decine di euro).
 
 Forniscono una polizza mini-kasko in caso di incidente con altra vettura + una polizza accessoria che copre il sottoscocca, il parabrezza e gli pneumatici (costo: 10€/die) — che consiglio caldamente di fare in quanto le strade kyrgyze sono molto più aspre e spietate delle nostre e non risparmieranno la vostra vettura. Aggiungete che sono vetture con già qualche anno alle spalle: **meglio non rischiare**.
 
@@ -195,7 +195,30 @@ Tuttavia a noi interessava una polizza **kasko**, più completa di quella offert
 
 **Per fortuna è andato tutto bene e non è stato necessario ricorrere ad alcuna assicurazione**.
 
-La [carta Curve Metal]({{< ref "lifestyle/curve-crypto-in-viaggio/index.md" >}}) ci avrebbe fornito un'assicurazione per valore dell'auto fino a 25ooo€ (il valore dell'auto sottoscritto era esattamente questa cifra) — tuttavia a causa di un criterio di esclusione sulla mia persona non sarei rientrato nelle tutele ed abbiamo stipulato la polizza accessoria...:)
+La [carta Curve Metal]({{< ref "lifestyle/curve-crypto-in-viaggio/index.md" >}}) ci avrebbe fornito un'assicurazione per valore dell'auto fino a 25ooo€ (il valore dell'auto sottoscritto era esattamente questa cifra) — tuttavia a causa di un criterio di esclusione sulla mia persona non sarei rientrato nelle tutele ed abbiamo stipulato la polizza accessoria...😁
+
+* * *
+
+Al momento del noleggio firmerete Maxim (il coordinatore dell'agenzia) vi darà tutte le indicazioni del caso sia sull'itinerario, in caso vogliate condividerlo, sia su eventuali modifiche o accorgimenti.
+Al momento della firma del contratto dovrete saldare l'intera somma: in caso decidiate di pagare con carta la somma sarà maggiorata del 5% per coprire le commissioni...in caso di pagamento cash, invece, dovrete corrispondere esattamente la cifra patuita nella prenotazione.
+
+Vi verrà richiesta, inoltre, una cauzione di 600€ ed una carta di credito su cui bloccarla. La transazione non verrà contabilizzata, ma la cifra risulterà bloccata sulla carta.
+
+Per fare ciò avevo richiesto pochi mesi prima una {{< affiliate_link "carta_you" "Carta di credito gratuita You" >}}.
+
+Alla riconsegna il veicolo verrà ispezionato e, in caso sia restituito in condizioni pari al momento del noleggio, vi verrà rilasciata sulla carta la cauzione nel giro di qualche giorno.
+
+{{< box "orange" >}}
+Prestate bene attenzione alla {{< external_link "https://www.google.com/maps/d/u/0/viewer?mid=1GtIB8xJpRp4JSiIxSi3aSx81r_Kb3ts&femb=1&ll=42.099856444905576%2C76.1229127708129&z=8" "mappa delle zone proibite" >}} in cui non potrete guidare.
+
+Seppur siano una serie di nomi di località che potrebbero apparirvi insignificanti, improbabili e non vi innescano alcunchè nella mente, è importante che verifichiate una ad una che le vostre mete non siano incluse in queste zone.
+
+Seguendo l'itinerario che abbiamo fatto noi potrete stare tranquilli, a meno di modifiche successive al nostro viaggio...
+
+Per questo motivo: **verificate prima di mettervi alla guida**!
+{{< /box >}}
+
+{{< external_link "https://carrent.trvlland.com/driving-in-kyrgyzstan" "Qui" >}} troverete maggiori informazioni su ciò che dovete assolutamente sapere per guidare in Kyrgyzstan. 
 
 ### La patente
 
