@@ -1,7 +1,7 @@
 [build]
 command = "hugo --gc --minify"
 publish = ""
-HUGO_TIMEOUT = 60000
+HUGO_TIMEOUT = 90000
 
 [context.production.environment]
 HUGO_VERSION = "0.93.0"
