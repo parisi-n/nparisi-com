@@ -148,7 +148,7 @@ Le rive del fiume sono estremamente fotogeniche e si prestano sia a foto sia a v
 
 Continuiamo il giro e l'intuito ci porta nella piazza del municipio e della {{< external_link "https://goo.gl/maps/4S6pK5eyThhVmaDPA" "Casa delle Teste nere" >}}.
 
-Qui un piccolo albero di Natale in metallo ricorda che ― secondo la tradizione lettone ― sia stato posizionato il primo albero di Natale di tutta Europa, nel 1510 anche se ― a sentire i fratelli estoni ― il primo albero di Natale di tutta Europa sarebbe stato posizionato nella piazza dello [Jõuluturg a Tallinn]({{< ref "racconti-di-viaggio/tallinn-riga/ep-2-the-times-we-had/index.md">}}).
+Qui un piccolo albero di Natale in metallo ricorda che ― secondo la tradizione lettone ― sia stato posizionato il primo albero di Natale di tutta Europa, nel 1510 anche se ― a sentire i fratelli estoni ― il primo albero di Natale di tutta Europa sarebbe stato posizionato nella piazza dello [Jõuluturg a Tallinn]({{< ref "racconti-di-viaggio/repubbliche-baltiche/tallinn-riga/ep-2-the-times-we-had/index.md">}}).
 
 {{< image src="riga_oldest_christmas_tree.jpg" alt="" caption="">}}
 
