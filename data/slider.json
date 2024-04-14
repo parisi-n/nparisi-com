@@ -1,18 +1,18 @@
 {
     "array" : [
         {
-            "image" : "kyrgyzstan_intro_header.jpg" ,
-            "color_category": "#f4511e" ,
-            "category": "Kyrgyzstan" ,
-            "text_title" : "Kyrgyzstan: i preparativi" ,
-            "url" : "racconti-di-viaggio/kyrgyzstan/ep-0-preparativi/"
-        } ,
-        {
             "image" : "almaty_header.jpg" ,
             "color_category": "#f4511e" ,
             "category": "Kyrgyzstan" ,
-            "text_title" : "Kazakhstan: l'atterraggio dal Almaty e la frontiera" ,
+            "text_title" : "L'atterraggio dal Almaty e la frontiera" ,
             "url" : "racconti-di-viaggio/kyrgyzstan/ep-1-almaty/"
+        } ,
+        {
+            "image" : "kyrgyzstan_intro_header.jpg" ,
+            "color_category": "#f4511e" ,
+            "category": "Kyrgyzstan" ,
+            "text_title" : "I preparativi" ,
+            "url" : "racconti-di-viaggio/kyrgyzstan/ep-0-preparativi/"
         } ,
         {
             "image" : "chisinau_cover.jpg" ,
