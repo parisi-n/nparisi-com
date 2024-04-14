@@ -10,7 +10,7 @@
                     {
                         "title" :   "Norvegia" ,
                         "subtitle"  :   "Da Oslo alle Lofoten" ,
-                        "href"  :   "racconti-di-viaggio/norvegia/day-0-sulla-via-del-nord" ,
+                        "href"  :   "racconti-di-viaggio/norvegia/" ,
                         "url"   :   "racconti-di-viaggio/norvegia/day-7-lofoten" ,
                         "img"   :   "lofoten_cover.jpg" ,
                         "series"    :   1
@@ -18,7 +18,7 @@
                     {
                         "title" :   "Ucraina" ,
                         "subtitle"  :  "Kiyv, Chernobyl e Ternopil" ,
-                        "href"  :   "ucraina" ,
+                        "href"  :   "racconti-di-viaggio/ucraina" ,
                         "url"   :   "racconti-di-viaggio/ucraina/kiev/ep-1-passeggiata-per-kiev" ,
                         "img"   :   "IMG_7308.jpg" ,
                         "series"    :   1
@@ -56,15 +56,15 @@
                     {
                         "title" :   "Lettonia-Estonia" ,
                         "subtitle"  :   "Tallinn e Riga" ,
-                        "href"  :   "repubbliche-baltiche" ,
-                        "url"   :   "racconti-di-viaggio/tallinn-riga/ep-2-the-times-we-had" ,
+                        "href"  :   "racconti-di-viaggio/repubbliche-baltiche" ,
+                        "url"   :   "racconti-di-viaggio/repubbliche-baltiche/tallinn-riga/ep-2-the-times-we-had" ,
                         "img"   :   "cover-tallinn.jpg" ,
                         "series"    :   1
                     } ,
                     {
                         "title" :   "Ungheria-Serbia" ,
                         "subtitle"  :   "Budapest e Beograd" ,
-                        "href"  :   "ungheria-e-serbia" ,
+                        "href"  :   "racconti-di-viaggio/budapest" ,
                         "url"   :   "racconti-di-viaggio/budapest/ep-1-cosa-fare-dove-andare" ,
                         "img"   :   "IMG_6054.jpg" ,
                         "series"    :   1
@@ -81,9 +81,17 @@
                         
     "mondo" : [ 
                     {
+                        "title" :   "Kyrgyzstan" ,
+                        "subtitle"  :   "Persi in Kyrgyzstan" ,
+                        "href"  :   "racconti-di-viaggio/kyrgyzstan/" ,
+                        "url"   :   "racconti-di-viaggio/kyrgyzstan/ep-0-preparativi" ,
+                        "img"   :   "kyrgyzstan_intro_header.jpg" ,
+                        "series"    :   1
+                    } ,
+                    {
                         "title" :   "Uzbekistan" ,
                         "subtitle"  :   "Da Tashkent al Lago d'Aral" ,
-                        "href"  :   "racconti-di-viaggio/uzbekistan/ep-0-preparativi" ,
+                        "href"  :   "racconti-di-viaggio/uzbekistan/" ,
                         "url"   :   "racconti-di-viaggio/uzbekistan/ep-3-bukhara" ,
                         "img"   :   "bukhara_cover.jpg" ,
                         "series"    :   1
@@ -91,7 +99,7 @@
                     {
                         "title" :   "Georgia-Azerbaijan" ,
                         "subtitle"  :   "Da Tbilisi a Baku" ,
-                        "href"  :   "racconti-di-viaggio/georgia-azerbaijan/day-0-preparativi/" ,
+                        "href"  :   "racconti-di-viaggio/georgia-azerbaijan/" ,
                         "url"   :   "racconti-di-viaggio/georgia-azerbaijan/day-4-batumi" ,
                         "img"   :   "IMG_3999.jpg" ,
                         "series"    :   1

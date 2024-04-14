@@ -1,35 +1,45 @@
 [
-    "Italia" ,
-    "Slovenia" ,
-    "Svizzera" ,
-    "Francia" ,
-    "Spagna" ,
-    "Portogallo" ,
-    "Regno Unito" ,
-    "Danimarca" ,
-    "Olanda" ,
+    "Azerbaijan" ,
+    "Bulgaria" ,
+    "Belarus" ,
     "Belgio" ,
+
+    "Danimarca" ,
+
+    "Finlandia" ,
+    "Francia" ,
+    
+    "Giappone" ,
+    "Georgia" ,
+    
+    "Kyrgyzstan",
+    "Kazakhstan",
+    
+    "Italia" ,
+    
     "Lituania" ,
     "Lettonia" ,
     "Estonia" ,
-    "Ungheria" ,
-    "Romania" ,
-    "Serbia" ,
-    "Bulgaria" ,
-    "Repubblica Ceca" ,
-    "Finlandia" ,
-    "Norvegia" ,
-    "Russia" ,
-    "Belarus" ,
-    "Ucraina" ,
-    "Georgia" ,
-    "Azerbaijan" ,
-    "Sud Corea" ,
-    "Giappone" ,
-    "Uzbekistan",
+
     "Moldova",
-    "Kyrgyzstan",
-    "Kazakhstan",
+   
+    "Olanda" ,
     "Polonia",
-    "Svezia"
+    "Portogallo" ,
+    "Romania" ,
+    "Repubblica Ceca" ,
+    "Russia" ,
+    "Regno Unito" ,
+    
+    "Ucraina" ,
+    "Ungheria" ,
+    
+    "Slovenia" ,
+    "Svizzera" ,
+    "Svezia" ,
+    "Spagna" ,
+    
+    "Sud Corea" ,
+    "Uzbekistan"
+    
 ]
