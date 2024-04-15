@@ -18,9 +18,9 @@ Possiamo in un certo qual modo dire che l'Uzbekistan, oltre ad insegnarci e rico
 La notte, già di per sè, aumenta le paure ed i timori.
 {{< capital_letter_close >}}
 
-{{< image src="cavallo_cattedrale.gif" alt="Cavallo di fronte alla Cattedrale dell'Ascensione ad Almaty" >}}
-
 Ma non è stato questo il caso perchè, questa volta, __eravamo preparati__.
+
+{{< vimeo src="931793883" type="horizontal">}}
 
 Appena giunti in aeroporto le cose sono rese però più semplici dal fatto che è disponibile un wifi pubblico e, anche grazie alla sicurezza data da {{< affiliate_link "nord-vpn" "NordVPN" >}}, tramite [Yandex Go]({{< ref "racconti-di-viaggio/kyrgyzstan/ep-0-preparativi/index.md#Taxi" >}}) prenotiamo una corsa verso l'hotel.
 
@@ -170,8 +170,6 @@ La colazione è internazionale, gustosa e varia anche per i gusti più ricercati
 
 E se non bastasse la colazione, a riempirvi ed appagarvi, potrebbe farlo il panorama ammirabile dalle finestre dei piani superiori del _Kazakhstan Hotel_.
 
-{{< vimeo src="931793883" type="horizontal">}}
-
 ## Il programma
 
 Per visitare Almaty abbiamo appena un giorno e mezzo, che decidiamo di organizzare come segue: il primo giorno passeggiata per le vie e vedere quanto più possibile mentre, il secondo giorno, a luce, salire fin sulla collina di [Kok-Tobe](#kok-tobe) per ammirare la città dell'alto.
@@ -203,6 +201,9 @@ Anche chiamata **Cattedrale di Zenkov** — è una cattedrale ortodossa risalent
 La cattedrale si trova al centro di una piazza circondata da un vialetto alberato in cui potete avere il piacere di incrociare nel vostro cammino degli scoiattoli che corrono da un albero all'altro. 
 
 Nella piazza sono presenti, oltre che dei magnifici gruppi di piccioni, anche dei punto di ristoro e dei punti di noleggio di risciò, mezzi di trasporto a 4 ruote che vi consentono di effettuare un giro della piazza più comodamente. 
+
+{{< image src="cavallo_cattedrale.gif" alt="Cavallo di fronte alla Cattedrale dell'Ascensione ad Almaty" >}}
+
 Vi auguro di passeggiare in una giornata soleggiata perché nelle giornate piovose (come quella in cui siamo capitati noi...) il servizio non è disponibile.
 
 {{< image src="cattedrale_ascensione_2.jpg" alt="Giardini antistanti la Cattedrale dell'Ascensione" type="wide-screen">}}
