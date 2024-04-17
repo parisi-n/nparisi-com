@@ -115,6 +115,14 @@ I _noodles_ a tal proposito si sono rivelati una scelta vincente, anche consider
 
 {{< image src="verso_burana_tower.jpg" alt="Cartello che indica Burana avenue" >}}
 
+{{< box "blue" >}}
+Se l'idea di maneggiare una cartina vera, cartacea, eccita almeno quanto noi e pensate possa aiutarvi a ricreare ulteriormente il mood _adventure_ — apprezzerete il negozio {{< external_link "https://maps.app.goo.gl/1kx14pt6C2BB8Y3n9" "Geoid" >}}.
+
+Faticherete un po' a trovarlo: si trova al secondo piano di un palazzo a tre piani, all'interno di un condiminio. Le indicazioni sono scarse ma, seguendo esattamente la posizione fornita, lo troverete.
+
+Per poco meno di 1€ porterete a casa una cartina stradale del Kyrgyzstan. Un po' inutile considerato che vi muoverete per la maggior parte del tempo usando _Yandex Map_ ma, visto il costo contenuto, perchè rinunciare a questo souvenir così retrò?
+{{< /box >}}
+
 ## Burana Tower
 
 {{< posizione "https://maps.app.goo.gl/CHBZdgrSpjvKrkTZ8" >}}
