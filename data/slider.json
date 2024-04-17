@@ -1,6 +1,13 @@
 {
     "array" : [
         {
+            "image" : "burana_header.jpg" ,
+            "color_category": "#f4511e" ,
+            "category": "Kyrgyzstan" ,
+            "text_title" : "Le rive Nord del lago Issyk-Kul" ,
+            "url" : "racconti-di-viaggio/kyrgyzstan/ep-2-bishkek-burana-cholponata/"
+        } ,
+        {
             "image" : "almaty_header.jpg" ,
             "color_category": "#f4511e" ,
             "category": "Kyrgyzstan" ,
