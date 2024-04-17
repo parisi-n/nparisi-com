@@ -1,6 +1,6 @@
 ---
 title: "Kyrgyzstan: Bishkek, Burana Tower e Cholpon-Ata // Ep. 2"
-date: "2023-10-28"
+date: "2023-10-16"
 image: "images/burana_header.jpg"
 
 summary : "Bishkek è la nostra seconda capitale del Centro Asia, in cui arriviamo in modo _old style_, con un vecchio bus con alle spalle qualche milione di km, cigolante e scomodo, viaggiando come dei veri _local_ perchè anche questo, in fondo, è viaggiare."
