@@ -165,7 +165,7 @@ Noi abbiamo optato per un' __auto a noleggio__.
 
 {{< vimeo src="929106653" type="vertical-9x16" >}}
 
-Con la nostra __Land Cruise 105__ con cilindrata 4600cc e 150CV abbiamo percorso __1450 km__ in __sei giorni__ spendendo circa __YYYY €__ in _benzina 95_ per una media di __ZZZ km/L__.
+Con la nostra __Land Cruise 105__ con cilindrata 4600cc e 150CV abbiamo percorso __1450 km__ in __sei giorni__ spendendo poco meno di __150 €__ in _benzina 95_ per una media di __14.5 km/L__.
 
 ### L'auto 🚖
 
@@ -190,6 +190,10 @@ Di seguito alcuni siti da cui far partire la ricerca:
 Il prezzo varia in base al periodo e — in alta stagione — contate tra gli 80$ ed i 100$ al giorno.
 
 La prima differenza con le agenzie di noleggio con cui normalmente si ha a che fare — **non sono offerte assicurazioni kasko**.
+
+Per quanto di primo acchito la vostra Land Cruise 105 (che sulla carta è tra le più costose da noleggiare) vi possa sembrare letteralmente inarrestabile, l'esperienza su strada ci ha insegnato che per sovrastare e vincere la Natura e le sue insidie serve ben altro.
+
+{{< image src="land_cruise_vs_land_cruise.jpg" caption="Land Cruise 105 vs Land Cruise accessoriata" type="wide-screen" >}}
 
 * * *
 
