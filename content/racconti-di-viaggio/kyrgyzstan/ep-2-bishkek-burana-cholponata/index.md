@@ -12,7 +12,7 @@ type: "article"
 ---
 
 {{< capital_letter_open >}}
-Le frontiere poste al confine degli Stati che un tempo appartenevano ad un unica bandiera — quella dell'URSS — evocano nell'immaginario collettivo un posto buio, austero, con il grigio il colore principale — protetto da guardie armate i cui volti non lasciano trasparire emozioni se non l'austera convinzione di servire per un bene superiore.
+Le frontiere poste al confine degli Stati che un tempo appartenevano ad un unica bandiera — quella dell'URSS — evocano nell'immaginario collettivo un posto buio, austero, con il grigio come colore principale — protetto da guardie armate i cui volti non lasciano trasparire emozioni se non l'austera convinzione di servire per un bene superiore.
 
 La frontiera tra Kazakhstan e Kyrgyzstan invece è una struttura moderna, o comunque ben conservata, con varie componenti in vetro che conferiscono un aspetto minimale e luminoso, anche nelle giornate più cupe.
 {{< capital_letter_close >}}
@@ -41,7 +41,7 @@ Il viaggio dura circa _3 ore e mezza_ (anche se la durata può essere più o men
 
 {{< image src="strada.jpg" alt="Strada dissestata con auto" >}}
 
-Il bus con cui viaggerete avrà probabilmente svariati milioni di km alle spalle, comfort pari a zero, finestrini inesistenti, aria condizionata funzionante a tratti; **vestitevi dunque a stratti** per potervi agilmente spogliare in caso di troppo caldo.
+Il bus con cui viaggerete avrà probabilmente svariati milioni di km alle spalle, comfort pari a zero, finestrini inesistenti, aria condizionata funzionante a tratti; **vestitevi dunque a strati** per potervi agilmente spogliare in caso di troppo caldo.
 
 {{< image src="bishkek_almaty_bus.jpg" alt="Bus designato per la traversata Bishkek-Almaty di derivazione italiana" caption="Il bus" >}}
 
@@ -65,7 +65,7 @@ Alternerete tratti a quattro corsie ben asfaltati, a tratti non asfaltati — ma
 
 {{< image src="strada_cartello.jpg" alt="Strada con numerosi cartelli di limite di velocità" caption="La strada" type="wide-screen">}}
 
-La frontiera, invece, vi lascerà probabilmente sorpresi: si austero e sovietico ha ben poco, ed anzi sembra di fare una passeggiata in una galleria al di vetro al coperto.
+La frontiera, invece, vi lascerà probabilmente sorpresi: di austero e sovietico ha ben poco, ed anzi sembra di fare una passeggiata in una galleria di vetro al coperto.
 
 {{< image src="confine.jpg" caption="La frontiera kirghiza" type="wide-screen" >}}
 
@@ -73,7 +73,7 @@ Passerete prima attraverso il controllo kazako e, successivamente — ovviamente
 
 {{< image src="kyrgyzstan_dogana.jpg" caption="La frontiera kazakha" >}}
 
-Ci sorprende però che il passaggio non avenga a ciel sereno ma attraverso un tunnel a vetrata che in caso di intemperie potrebbe risultare la cosa più bella che vedrete nelle prossime ore.
+Ci sorprende però che il passaggio non avvenga a ciel sereno ma attraverso un tunnel a vetrata che in caso di intemperie potrebbe risultare la cosa più bella che vedrete nelle prossime ore.
 
 {{< box "blue" >}}
 Prestate attenzione a non acquistare le simcard **kirghize** prima di aver effettivamente superato la dogana. Una serie di persone, più o meno affidabili, cercherà di vendervene una in modo insistente — ovviamente sovrapprezzandola.
@@ -89,13 +89,13 @@ Arriviamo a Bishkek sul far della sera, intorno alle 19:30. Calato il sole la te
 
 {{< image src="bishkek_traffico.jpg" alt="Strade di Bishkek all'ora di punta" type="wide-screen">}}
 
-La stazione, forse complice anche l'orario, appare spopolata e decadente. Ricorda, in un certo senso, il decadentismo e l'incuria che ci aveva trasmetto la [stazione di Tbilisi]({{< ref "racconti-di-viaggio/georgia-azerbaijan/day-5-night-train/index.md" >}})
+La stazione, forse complice anche l'orario, appare spopolata e decadente. Ricorda, in un certo senso, il decadentismo e l'incuria che ci aveva trasmesso la [stazione di Tbilisi]({{< ref "racconti-di-viaggio/georgia-azerbaijan/day-5-night-train/index.md" >}})
 
 {{< image src="bishkek_stazione.jpg" alt="Stazione di Bishkek" caption="Stazione di Bishkek" type="wide-screen">}}
 
 ## Il noleggio dell'auto
 
-Ho già parlato dell'[auto a noleggio]({{< ref "/racconti-di-viaggio/kyrgyzstan/ep-0-preparativi/index.md#Come-spostarsi" >}}) nel post introduttivo, e non potevo che parlarne bene perchè alla registrazione dei documenti è seguita una bella chiacchierata su dove avremo potuto andare e dove invece erano i posti vietati.
+Ho già parlato dell'[auto a noleggio]({{< ref "/racconti-di-viaggio/kyrgyzstan/ep-0-preparativi/index.md#Come-spostarsi" >}}) nel post introduttivo, e non avrei potuto che parlarne bene perchè alla registrazione dei documenti è seguita una bella chiacchierata su dove avremo potuto andare e dove invece erano i posti vietati.
 
 Ci spiega anche il motivo per cui nessuna assicurazione offre una polizza _kasko_ per l'auto: in Kyrgyzstan solo una piccola percentuale del territorio è servito da strade, il restante territorio è montano ed è servito da passi o strade di montagna senza manutenzione — quando non addirittura percorribili se non con fuoristrada specifici e gomme adatte — per cui il rischio di distruggere l'auto per valanghe, ribaltamenti, smottamenti **è elevatissimo**. Per questo motivo venivamo invitati a studiare bene le zone **vietate da contratto** e per cui **il mancato rispetto avrebbe comportato un'ammenda pari a 5000$**.
 
