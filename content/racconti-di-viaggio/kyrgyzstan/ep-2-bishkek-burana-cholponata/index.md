@@ -274,7 +274,7 @@ Sulla carta sono pochi km, ma vuoi per il limite di velocità (90km/h, quindi ot
 
 Arriviamo a Cholpon-Ata a notte inoltrata — alle 21 circa.
 
-{{< image src="president_park_montagne.jpg" caption="President park e le montagne"  type="wide-screen">}}
+{{< image src="residence_park_montagne.jpg" caption="Residence park e le montagne"  type="wide-screen">}}
 
 Il paese conta 14'ooo abitanti ed è considerato un _paese-resort_ proprio perchè l'estate è la principale località balneare e turistica di tutta la zona del Kyrgyzstan settentrionale.
 
@@ -354,7 +354,7 @@ Cholpon-Ata è un paese di cui rimangono probabilmente i resti di un passato glo
 
 {{< video src="aquila.mp4" >}}
 
-#### President Park
+#### Residence Park
 
 {{< posizione "https://maps.app.goo.gl/N3KoTyXqu5PS5D6P9" >}}
 
@@ -362,11 +362,11 @@ Centro culturale "Ruh Ordo" che include 5 cappelle delle quattro principali del 
 
 Il ticket di ingresso ammonta a _500 Som_ (circa 5€) e subito dopo una guida vi porterà in giro per il parco per un tour di circa 10 minuti illustrandovi le principali strutture e la storia del posto.
 
-{{< image src="president_park.jpg" alt="Parco all'interno del President Park"  type="wide-screen">}}
+{{< image src="residence_park.jpg" alt="Parco all'interno del Residence Park"  type="wide-screen">}}
 
 All'interno varie realizzazioni artistiche e architettoniche particolarmente fotografabili, quasi maestose.
 
-{{< image src="president_park_dettaglio_statua.jpg" alt="Dettaglio di una statua all'interno del parco" >}}
+{{< image src="residence_park_dettaglio_statua.jpg" alt="Dettaglio di una statua all'interno del parco" >}}
 
 Nei pressi una spiaggia accessibile in cui (a piacere) poter fare il bagno con annesso acqua-park...nel lago!
 
