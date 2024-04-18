@@ -164,6 +164,8 @@ Attualmente esiste un villaggio omonimo a circa 6km di distanza.
 
 La _Zona di Burana_ include sia la **torre** sia una serie di **pietroglifi**.
 
+{{< video src="burana_drone.mp4" type="wide-screen" >}}
+
 A parte troverete anche un **museo** il cui ingresso va pagato con un biglietto a parte.
 
 ### La leggenda
@@ -175,6 +177,8 @@ La leggenda legata alla torre narra invece che quest'ultima fu costruita per pro
 Il khan, per evitarne la morte, fece erigere la torre al cui interno viveva la figlia e tutto ciò di cui aveva necessità veniva cautamente ispezionato per escludere la presenza di ragni velenosi.
 
 Il giorno del suo 16 esimo compleanno — il padre le regalò un cesto di frutta fresca, anch'esso attentamente ispezionato. Ma non sufficientemente con scrupolo perchè la figlia, nell'atto di prenderne un frutto, fu morsa dal ragno velenoso e morì.
+
+{{< video src="burana_pano.mp4" type="wide-screen" >}}
 
 ### Come raggiungerla
 
@@ -199,6 +203,8 @@ Il ticket di ingresso ha un **costo di 60som** da corrispondere all'ingresso, su
 Per raggiungere la sommità della torre dovrete prima arrampicarvi su una ripida scala a chiocciola esterna in ferro, dopodichè dovrete gattonare e farvi luce nella salita della scala a chiocciola interna, con una pendenza non da ridere ed un buio all'interno tanto che avrete necessità di farvi luce con una torcia per evitare di inciampare con il rischio di farvi anche malissimo.
 
 La vista dalla sommità non è granchè.
+
+{{< video src="burana_drone_2.mp4" type="wide-screen" >}}
 
 Tuttavia ne abbiamo approfittato per riprendere un po' il fiato, mangiare e **far volare il drone {{< affiliate_link "DJI Mini Pro 3" "LINK AFFILIATO NON PRESENTE" >}} **.
 
@@ -259,6 +265,10 @@ E a tratti si snoda tra le montagne, altre su altipiani in cui sembra addirittur
 Ci incuriosiscono un po' certi cartelli, a cui non riusciamo a dare un chiaro senso, se non uno: la Cina sta investendo nella realizzazione delle infrastrutture anche in Kyrgyzstan (così come avevamo visto anni prima in Georgia), se non fosse che qui troviamo la cosa più coerente essendo le strade kirgize attraversate da tantissimi camion cinesi.
 
 {{< image src="direzione_cholponata_scritte_giapponesi.jpg" alt="Cartello in cinese e russo sull'amicizia tra Kirghizstan e Cina" >}}
+
+Sulla carta sono pochi km, ma vuoi per il limite di velocità (90km/h, quindi ottimo), vuoi per la strada...ci stanchiamo parecchio.
+
+{{< video src="alla_guida.mp4" type="wide-screen" >}}
 
 ## Cholpon-Ata
 
@@ -341,6 +351,8 @@ Il giorno della nostra passeggiata era atteso nel parco una personalità illustr
 {{< image src="ammaestratori_aquile_gruppo.jpg" alt="Foto di gruppo degli addestratori di aquile"  type="wide-screen">}}
 
 Cholpon-Ata è un paese di cui rimangono probabilmente i resti di un passato glorioso, e lo testimoniano le numerose fontane senza acqua, le statue presenti, i giardini pubblici non più curati o addirittura senza più piante.
+
+{{< video src="aquila.mp4" >}}
 
 #### President Park
 
