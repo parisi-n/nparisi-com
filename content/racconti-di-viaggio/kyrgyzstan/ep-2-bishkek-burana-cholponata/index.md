@@ -352,7 +352,7 @@ Il giorno della nostra passeggiata era atteso nel parco una personalità illustr
 
 Cholpon-Ata è un paese di cui rimangono probabilmente i resti di un passato glorioso, e lo testimoniano le numerose fontane senza acqua, le statue presenti, i giardini pubblici non più curati o addirittura senza più piante.
 
-{{< video src="aquila.mp4" >}}
+{{< vimeo src="936195245" type="vertical-9x16" >}}
 
 #### Residence Park
 
