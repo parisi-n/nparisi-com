@@ -330,3 +330,5 @@ La mattina dopo è il momento di salire a [Kok-Tobe](#kok-tobe) e renderci conto
 * * *
 
 Ceniamo poco sotto l'hotel, da {{< external_link "https://maps.app.goo.gl/mpg6cBCMAvFjhFrG7" "Noodles">}}, con un buon hamburger ed una buona birra. Almaty ci ha fatto un'ottima impressione. Non è una città da vedere, è una città da vivere nei piccoli angoli che, gelosa, conserva dove parla ancora del suo passato glorioso di capitale della Repubblica del Kazakh.
+
+Ci prepariamo per [il giorno successivo]({{< ref "racconti-di-viaggio/kyrgyzstan/ep-2-bishkek-burana-cholponata/index.md" >}}): l'attraversamento della frontiera Kazakhstan-Kyrgyzstan via terra (per cui, lo ammetto, siamo un po' emozionati).
