@@ -1,6 +1,13 @@
 {
     "array" : [
         {
+            "image" : "kyzylsuu_valley_header.jpg" ,
+            "color_category": "#f4511e" ,
+            "category": "Kyrgyzstan" ,
+            "text_title" : "Karakol e la valle di Kyzyl-Suu" ,
+            "url" : "racconti-di-viaggio/kyrgyzstan/ep-3-karakol-kyzyl-suu/"
+        } ,
+        {
             "image" : "burana_header.jpg" ,
             "color_category": "#f4511e" ,
             "category": "Kyrgyzstan" ,
