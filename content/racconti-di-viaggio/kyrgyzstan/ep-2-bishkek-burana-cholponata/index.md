@@ -372,7 +372,7 @@ Nei pressi una spiaggia accessibile in cui (a piacere) poter fare il bagno con a
 
 Noi abbiamo evitato, ma solo perchè eravamo con i tempi contati 😁
 
-{{< image src="rive_issikul_cholponata_dettaglio.jpg" alt="Spiaggia del lago Issyk-Kul"  type="wide-screen">}}
+{{< image src="rive_issikul_cholponata_dettaglio.jpg" alt="Spiaggia del lago Issyk-Kul" type="wide-screen">}}
 
 Subito accanto, un attracco di imbarcazioni. Non saprei dire se l'imbarcazione fosse adibita all'uso privato o permettesse ad eventuali turisti di fare un tour del lago.
 
@@ -383,3 +383,7 @@ Subito accanto, un attracco di imbarcazioni. Non saprei dire se l'imbarcazione f
 A ridosso delle rive incolte delle sponde nord del Lago Issyk-Kul un viale con portici di particolare fattura che portano indelebile il marchio di fabbricazione _made in urss_ ospitano varie nicchie di negozi in cui troverete, a mo' di bazar, quasi ogni cosa possa servirvi, dal cibo alla chincaglieria al vestiario. Trovete anche numerosi negozi di _simcard e telefoni_.
 
 {{< image src="cholponata_vie_lungolago.jpg" alt="Negozi nel porticato del lungo-lago" >}}
+
+* * *
+
+Decidiamo di non trattenerci ulteriormente: ci aspettano 150km, pochi sulla carta — ma proprio per questo siamo consapevoli del fatto che perdere tempo pensando di averne a sufficienza è il miglior modo per arrivare, ancora una volta, tardi alla prossima destinazione: [Karakol]({{< ref "racconti-di-viaggio/kyrgyzstan/ep-3-karakol-kyzyl-suu/index.md" >}}).
