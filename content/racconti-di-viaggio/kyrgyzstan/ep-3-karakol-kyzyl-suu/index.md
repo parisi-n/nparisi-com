@@ -50,7 +50,7 @@ Ciò ci obbliga, un po' perchè il paesaggio è davvero bello, un po' perchè ci
 
 {{< video src="macchina_drone.mp4" type="wide-screen" >}}
 
-Guidare in queste strade non è difficile; non sono granchè trafficate ma il traffico è, fatta eccezione per qualche pazzo spericolato, abbastanza ordinato.
+Guidare in queste strade non è difficile; non sono granchè trafficate e il traffico è, fatta eccezione per qualche pazzo spericolato, abbastanza ordinato.
 
 {{< image src="karakol_strade_4.jpg" alt="Auto sulla strada con nube tossica data dai fumi di scarico" >}}
 
@@ -105,7 +105,7 @@ Nell'hotel ritroviamo lo stesso bus con a bordo tedeschi che precedentemente ave
 
 {{< image src="karakol_stele_ingresso.jpg" alt="Obelisco all'entrata di Karakol" caption="Karakol" >}}
 
-Karakol è presente nella maggior parte degli itinerari che si snodano attorno al lago Issyk-Kul sia perchè è uno dei centri più grossi attorno al lago (è la quarta città del Kyrgyzstan per popolazione) ed è il capoluogo della _regione dell'Issyk-kul_. In virtù del suo ruolo demografico, offre tutta una serie di servizi e comfort che, nel nostro caso, erano graditi, primi tra tutti vari supermarket (con scelta alimentare) ed hotel (invece che solo guest-house come invece i restanti centri limitrofi).
+Karakol è presente nella maggior parte degli itinerari che si snodano attorno al lago Issyk-Kul sia perchè è uno dei centri più grossi attorno al lago (è la quarta città del Kyrgyzstan per popolazione) sia perchè è il capoluogo della _regione dell'Issyk-kul_. In virtù del suo ruolo demografico, offre tutta una serie di servizi e comfort che, nel nostro caso, erano graditi, primi tra tutti vari supermarket (con scelta alimentare) ed hotel (invece che solo guest-house come invece i restanti centri limitrofi).
 
 ## Dove soggiornare
 
@@ -165,7 +165,7 @@ Ovviamente non ho resistito ed ho optato per uno shashlik (l'ennesimo dall'inizi
 
 All'uscita — l'amara sorpresa: una ruota a terra.
 
-Per fortuna l'auto aveva a disposizione del _kit di sopravvivenza_ anche un mini compressore che ci ha permesso di gonfiarla il tanto che ci ha permesso di ritornare in hotel.
+Per fortuna l'auto aveva a disposizione nel _kit di sopravvivenza_ anche un mini compressore che ci ha permesso di gonfiarla il tanto sufficiente per ritornare in hotel.
 
 ### Visitare Karakol
 
@@ -175,7 +175,7 @@ Non abbiamo girato granchè a Karakol, ma solo per mancanza di tempo.
 
 Curioso però come soltanto le vie principali siano asfaltate; le vie secondarie, di quartiere — sono sterrate.
 
-Dapprima rimaniamo stupiti, ma ricordiamo che anche in Italia — fino a 60 anni fa — alcune vie di molti paesi erano sterrate (e, se proprio dobbiamo dirlo, rimangono ancora ora!)
+Dapprima rimaniamo stupiti, ma ricordiamo che anche in Italia — fino a 60 anni fa — alcune vie di molti paesi erano sterrate (e, se proprio dobbiamo dirlo, rimangono ancora ora tali!)
 
 {{< image src="karakol_vie.jpg" alt="Vie di Karakol non asfaltate" >}}
 
@@ -199,13 +199,13 @@ Se deciderete di fare un percorso simile al nostro (magari in auto — v. oltre)
 
 {{< image src="rocce_rosse.jpg" alt="Rocce rosse nella valle di Kyzyl-Suu" type="wide-screen" >}}
 
-La valle di Kyzyl-suu, che geograficamente si trova esattamente ed immediatamente dopo (verso Est) della valle di Jety-Oguz, inizia a mostrare le sue _rocce rosse_ in anteprima di quello che poi sarà praticamente il _leit motiv_ delle valli successive, da questa a *Skazka*.
+La valle di Kyzyl-suu, che geograficamente si trova esattamente ed immediatamente dopo (verso Est) la valle di Jety-Oguz, inizia a mostrare le sue _rocce rosse_ in anteprima di quello che poi sarà praticamente il _leit motiv_ delle valli successive, sino a *Skazka*.
 
 In caso decidiate di spingervi oltre la _Stazione Metereologica_ ed usare la _zip-line_ per guadare il fiume — dopo un percorso trekking di 10-12 km — vi ritroverete nella valle di *Jety Oguz*. 
 
 {{< image src="kyzylsuu_valle_horizontal_2.jpg" caption="Vallata di Kyzyl-Suu vista dal drone" type="wide-screen" >}}
 
-In tal caso potreste aver bisogno addirittura più di un giorno.
+In tal caso potreste aver bisogno addirittura di più di un giorno.
 
 La _gola_ della valle, nei cui pressi sorge una _guest-house_ — dista circa _50km_ — un'ora e mezza abbondante percorso in auto.
 
@@ -215,7 +215,7 @@ La _gola_ della valle, nei cui pressi sorge una _guest-house_ — dista circa _5
 
 Ci avventuriamo lungo la valle, attraversando alcuni ponti dalla dubbia affidabilità e sicurezza, finchè non arriviamo alla {{< external_link "https://maps.app.goo.gl/cgAY64Ag4H7HuPdMA" "Gola di Chon-Kyzyl-Suu" >}}.
 
-Le immancabili _toilete_ a forma di cabina, costruiti con materiale di recupero, permettono di realizzarsi a diretto contatto con la Natura in un momento catartico.
+Le immancabili _toilete_ a forma di cabina, costruite con materiale di recupero, permettono di realizzarsi a diretto contatto con la Natura in un momento catartico.
 
 {{< image src="valle_kyzylsuu.jpg" alt="Toilete nei pressi della hot spring vicino alla guesthouse" >}}
 
@@ -223,11 +223,11 @@ A questo livello incontriamo altri traveler, sia _locals_ sia forestieri — con
 
 {{< image src="guesthouse_kyzylsuu.jpg" caption="Guest-house e le hot springs" type="wide-screen" >}}
 
-Nei paraggi troverete anche una _hot springs_ con acqua naturalmente calda; non ci siamo informati perchè, visto il vascone, ci è passata ogni fantasia. Per i più coraggiosi sarà necessario chiedere all'interno della guesthouse.
+Nei paraggi troverete anche una _hot springs_ con acqua naturalmente calda; non ci siamo informati perchè, visto il vascone e le sue condizioni, ci è passata ogni fantasia. Per i più coraggiosi sarà necessario chiedere all'interno della guesthouse.
 
 {{< image src="guesthouse_parcheggio.jpg" alt="Parcheggio della guesthouse" >}}
 
-Facciamo un attimo il punto della situazione: siamo in viaggio già da due ore, e siamo in quella che dovrebbe essere l'ultimo tratto del percorso carrozzabile anche da auto classiche; da qui in poi dovrebbe iniziare il sentiero per cui è necessaria un auto più potente.
+Facciamo un attimo il punto della situazione: siamo in viaggio già da due ore, e siamo in quello che dovrebbe essere l'ultimo tratto del percorso carrozzabile anche da auto classiche; da qui in poi dovrebbe iniziare il sentiero per cui è necessaria un auto più potente.
 
 Ci dicono che solo la parte iniziale è particolarmente complessa per via delle rocce ma che dopo il sentiero è rappresentato da terra battuta e facilmente carrozzabile.
 
@@ -243,11 +243,11 @@ Solo con il drone, di tanto in tanto fatto volare, realizziamo quanto sia sconfi
 
 {{< image src="kyzylsuu_valle_vertical.jpg" alt="Vallata di Kyzyl-Suu" >}}
 
-Decidiamo quindi di parcheggiarlo nei pressi della _gola_ e di fare il percorso a piedi — almeno fino alla {{< external_link "https://maps.app.goo.gl/dWHYSsncjx5KrUgF6" "Stazione Meteo" >}}.
+Decidiamo quindi di parcheggiare il Land Cruise nei pressi della _gola_ e di fare il percorso a piedi — almeno fino alla {{< external_link "https://maps.app.goo.gl/dWHYSsncjx5KrUgF6" "Stazione Meteo" >}}.
 
 {{< image src="montagne.jpg" alt="Montagne sul fondo della Valle di Kyzyl-Suu" type="wide-screen" >}}
 
-Ci lasciamo alle spalle gruppi di turisti russi che organizzano fuochi e grigliate a l'ambiente pian piano cambia, seguendo il sentiero di terra battuta — perfettamente carrozzabile (su cui un paio di volte dobbiamo fermarci per far passare delle auto che, invece, sono state più coraggiose di noi) lungo il fiume.
+Ci lasciamo alle spalle gruppi di turisti russi che organizzano fuochi e grigliate e l'ambiente pian piano cambia, seguendo il sentiero di terra battuta — perfettamente carrozzabile (su cui un paio di volte dobbiamo fermarci per far passare delle auto che, invece, sono state più coraggiose di noi) lungo il fiume.
 
 {{< panorama src="pano_valle_kyzylsuu.jpg" title="Valle di Kyzyl-Suu" >}}
 
@@ -315,7 +315,7 @@ Si trova ad un altitudine di circa 3000 metri ed oggi è abitata da animali selv
 Potete trovare maggiori informazioni {{< external_link "https://www.kyrgyzstantravel.com/travel-guide/destination/altyn-arashan" "qui" >}}.
 {{< /box >}}
 
-Ci rendiamo però ben presto conto che la strada è molto più impervia della valle di Kyzyl-Suu, ed le tenebre iniziano a calare sempre più velocemente.
+Ci rendiamo però ben presto conto che la strada è molto più impervia della valle di Kyzyl-Suu, e le tenebre iniziano a calare sempre più velocemente.
 
 * * * 
 
@@ -329,7 +329,7 @@ Non conoscendo benissimo le zone, essendoci state descritte come impervie e peri
 
 {{< image src="altynarasan_limite_auto.jpg" alt="Foto dal drone del punto in cui è sconsigliato proseguire con un auto normale" type="wide-screen" >}}
 
-Il motivo — a posteriori — ci verrà detto alla riconsegna dell'auto (con tanto di nostre scuse) in quanto, la precedente stagione, un'auto era andata distrutta in quanto ribaltatasi in un percorso scosceso che di lì a poco avremo incontrato anche noi.
+Il motivo — a posteriori — ci verrà detto alla riconsegna dell'auto (con tanto di nostre scuse) in quanto, la precedente stagione, un'auto era andata distrutta ribaltandosi in un percorso scosceso che di lì a poco avremo incontrato anche noi.
 
 Non ci è rimasto che fermarci — una volta realizzato che eravamo, {{< external_link "https://maps.app.goo.gl/FkK2bFWcQzmTm5RS9" "seppur di poco" >}}, in {{< external_link "LINK AREA VIETATA" "area vietata" >}}.
 
