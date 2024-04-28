@@ -1,5 +1,5 @@
 ---
-title: "Kyrgyzstan: Jety-Oguz e le Sette Rocce, Skazka Canyon e le rive sud del Lago Issyk-Kul // Ep. 5"
+title: "Kyrgyzstan: Jety-Oguz e le Sette Rocce, Skazka Canyon e le rive sud del Lago Issyk-Kul // Ep. 4"
 date: "2023-10-30"
 image: "images/skazka_canion_header.jpg"
 
