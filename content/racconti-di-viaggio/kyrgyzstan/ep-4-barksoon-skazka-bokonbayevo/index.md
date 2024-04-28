@@ -13,18 +13,18 @@ type: "article"
 ---
 
 {{< capital_letter_open >}}
-Al mattino del nostro ultimo giorno a Karakol siamo un po' preoccupati: l'aver superato — anche se di poco — il confine della zona proibita ed incorrere nella sanzione di 5000$ ci mette un po' di ansia, anche tenendo conto che al momento del noleggio ci viene richiesta.
+Al mattino del nostro ultimo giorno a Karakol siamo un po' preoccupati: l'aver superato — anche se di poco — il confine della zona proibita e pensare di poter incorrere nella sanzione di 5000$ ci mette un po' di ansia, anche tenendo conto che al momento del noleggio viene richiesta la _carta di credito_ a garanzia.
 
-Scriviamo una mail a Maxim per confessare il nostro errore che, nel giro di alcuni minuti, ci tranquillizza: in caso si sia superato il limite di poche centinaia di metri e successivamente abbiamo girato — possiamo stare tranquilli.
+Scriviamo una mail a Maxim per confessare il nostro errore e lui, nel giro di alcuni minuti, ci tranquillizza: nel caso si sia superato il limite di poche centinaia di metri e successivamente si sia tornati indietro — possiamo stare tranquilli.
 {{< capital_letter_close >}}
 
 {{< box "blue" >}}
 L'aver valicato il limite di una delle {{< external_link "https://www.google.com/maps/d/u/0/viewer?mid=1GtIB8xJpRp4JSiIxSi3aSx81r_Kb3ts&femb=1&ll=42.099856444905576%2C76.1229127708129&z=8" "zone proibite" >}} a causa del fatto di non aver attentamente studiato l'itinerario, anche se cambiato e deciso su due piedi, ci è costato un bel rischio.
 
-Per fortuna tutto si è risolto per il meglio
+Per fortuna tutto si è risolto per il meglio.
 {{< /box >}}
 
-L'itinerario del giorno prevede come direzione **Bokonbayevo** — il paese delle aquile; lungo il percorso ci fermiamo **Seven bulls rocks**, **Cascate di Barksoon** e **Skazka canyon** (forse meglio conosciuto come _fairytale canyon_ o _canyon delle fiabe_).
+L'itinerario del giorno prevede come direzione **Bokonbayevo** — il paese delle aquile; lungo il percorso visiteremo **Seven bulls rocks**, **Cascate di Barksoon** e **Skazka canyon** (forse meglio conosciuto come _fairytale canyon_ o _canyon delle fiabe_).
 
 In verità a _Bokonbayevo_ non ci arriveremo mai (😂) e decideremo di fermarci, esattamente a 24 ore dal nostro arrivo — a **Tong**.
 
@@ -66,13 +66,15 @@ Vi renderete conto di essere arrivati quando arriverete al capolinea, in cui tro
 
 {{< image src="jetyoguz_sanatorio.jpg" alt="" caption="" >}}
 
-Nel nostro caso ci siamo anche accorti di essere arrivati nei pressi di, forse, un punto di primo intervento per via sia di _un automedica_ sia di un _autoambulanza_,
+Nel nostro caso ci siamo anche accorti di essere arrivati nei pressi di, forse, un punto di primo intervento per via sia di _un'autoambulanza_...
 
 {{< image src="autoambulanza_kyrgyzstan.jpg" alt="" caption="" >}}
 
-Che tuttavia ci son sembrati intenti a fare tante cose fuorchè essere in urgenza.
+sia di _un'automedica_...
 
 {{< image src="automedica_kyrgyzstan.jpg" alt="" caption="" type="wide-screen" >}}
+
+Tuttavia, ci son sembrati intenti a fare tante cose fuorchè essere in urgenza. Forse, semplicemente, era la loro _base_.
 
 Un cartello non lascia dubbi su cosa fosse la struttura di fronte a noi: _il sanatorio di Jety Oguz_.
 
@@ -82,16 +84,18 @@ Un cartello non lascia dubbi su cosa fosse la struttura di fronte a noi: _il san
 
 Erano delle strutture diffusamente presenti nel territorio sovietico ai tempi dell'Unione Sovietica ed erano una via di mezzo tra centri ospedalieri, di cura, e centri termali, di benessere.
 
-Nati infatti come centri di cura delle patologie più comune, vennero pian piano declinati i centri vacanza per le classi di lavoratori del periodo sovietico, in cui potevano essere spese le proprie ferie.
+Nati infatti come centri di cura delle patologie più comuni, vennero pian piano declinati in centri vacanza per le classi di lavoratori del periodo sovietico, in cui potevano essere spese le proprie ferie.
 
-Alla luce dei tempi moderni, potevano essere considerati come _strumenti di propaganda_ ma che rivalutavano il lavoratore e gli riconoscevano il proprio _diritto al riposo_.
+Alla luce dei tempi moderni, potevano essere considerati come _strumenti di propaganda_, ma che rivalutavano il lavoratore e gli riconoscevano il proprio _diritto al riposo_.
 
-Se desiderate maggiori informazioni vi consiglio {{< external_link "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMDk3MDUxYy9wb2RjYXN0L3Jzcw/episode/M2JkMjYwMWQtNGQzNy00Y2I0LThkYjYtZTcyM2NjY2QyZDhm?sa=X&ved=0CAUQkfYCahcKEwjYi7e2uL-FAxUAAAAAHQAAAAAQAQ" "questa puntata" >}} del Podcast {{< external_link "https://cementopodcast.it/" "Cemento" >}} che tratta in modo approfondito l'argomento.
+Se desiderate maggiori informazioni vi consiglio [questa puntata](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMDk3MDUxYy9wb2RjYXN0L3Jzcw/episode/M2JkMjYwMWQtNGQzNy00Y2I0LThkYjYtZTcyM2NjY2QyZDhm?sa=X&ved=0CAUQkfYCahcKEwjYi7e2uL-FAxUAAAAAHQAAAAAQAQ) del Podcast [Cemento](https://cementopodcast.it/) che tratta in modo approfondito l'argomento.
 {{< /box >}}
+
+Arrivati all'ingresso del _sanatorio_ **voltatevi**: alle vostre spalle riconoscerete facilmente il motivo per cui avete deciso di percorrere l'intera vallata.
 
 {{< image src="7bulls_rock.jpg" alt="" caption="" type="wide-screen" >}}
 
-Arrivati all'ingresso del _sanatorio_ **voltatevi**: alle vostre spalle riconoscerete facilmente il motivo per cui avete deciso di percorrere l'intera vallata.
+Sulla sinistra del _sanatorio_, invece, una salita abbastanza ripida vi porterà su un piano rialzato per ammirare direttamente e dall'alto _i sette tori_.
 
 {{< image src="salita_7bulls_rocks.jpg" alt="" caption="" type="wide-screen" >}}
 
@@ -145,7 +149,7 @@ A quanto pare poco prima della sua missione nello spazio il cosmonauta Yuri Gaga
 
 La leggenda narra invece che nelle fasi di atterraggio — a causa di calcoli errati, Yuri Gagarin sia atterrato proprio nelle vicinanze della cascata di Barskoon. Questo racconto, benchè simpatico, rimane comunque una leggenda in quanto le fonti storiche del Partito raccontano che invece sia atterrato nei pressi del _villaggio di Smelovka_, in Russia.
 
-{{<external_link "https://www.atlasobscura.com/places/monument-to-yuri-gagarin" "Qui la fonte" >}}
+[Fonte](https://www.atlasobscura.com/places/monument-to-yuri-gagarin)
 {{< /box >}}
 
 {{< image src="iuri_gagarin.jpg" alt="" caption="" >}}
@@ -160,7 +164,7 @@ Qui facciamo due foto e, resici conto delle distanze effettive e del tempo impie
 
 {{< image src="barskoon_valle.jpg" alt="" caption="" type="wide-screen" >}}
 
-Sono già le 15, iniziamo ad avere fame e mentre cerchiamo un posto in cui mangiare non facciamo in tempo a concludere il pasto al sacco che inizia un **diluvio quasi universale** che ci obbliga a terminare anzitempo il tanto desiderato pranzo.
+Sono già le 15, iniziamo ad avere fame e mentre cerchiamo un posto in cui mangiare.
 
 * * *
 
@@ -171,7 +175,7 @@ Basta poco: una tovaglietta, un supporto rigido, un coltello. Il resto sta alla 
 
 E ovviamente tanta acqua, perchè in Kyrgyzstan non si ha la certezza di poter avere acqua potabile ovunque ci si trovi.
 
-Tiriam fuori tutto ciò che abbiamo ed iniziamo a mangiare e bere — seduti in prossimità di un ruscello — su due rocce che ci permettono di stare, non dico comodi, ma almeno seduti. Ma l'idillio è interrotto prematuramente dal sopraggiungere di un acquazzone torrenziale stagionale che ci lascia appena il tempo di riorganizzare e riparare tutti i nostri averi.
+Tiriam fuori tutto ciò che abbiamo ed iniziamo a mangiare e bere — seduti in prossimità di un ruscello — su due rocce che ci permettono di stare, non dico comodi, ma almeno seduti. Ma l'idillio è interrotto prematuramente dal sopraggiungere di un **diluvio quasi universale** che ci obbliga anzitempo a concludere il pasto e riparare tutti i nostri averi celermente.
 
 Sotto il diluvio, con la foschia sopraggiunta, ci incamminiamo verso **le rive del Lago Issyk-Kul** e deviamo verso Ovest — verso la prossima tappa: **lo Skazka Canyon**.
 
@@ -208,7 +212,7 @@ Ci addentriamo nel canyon per circa 2km su una stradina serpiginosa contornata d
 
 {{< vimeo src="937411834" type="horizontal">}}
 
-Ci addentriamo nel canion con passo letto ma deciso, prestando attenzione ad ogni curva cieca.
+Ci addentriamo nel canion con passo lento ma deciso, prestando attenzione ad ogni curva cieca.
 
 {{< image src="skazka_canion_selfie.jpg" alt="" caption="" type="wide-screen" >}}
 
@@ -292,7 +296,7 @@ Questa sarà la nostra ultima notte con un punto di appoggio umano, prima di avv
 
 ### La notte
 
-In verità la tappa critica con gli avvenimenti già raccontati per cui a meno di 24 ore ci siamo ritrovati senza alloggio si è potenzialmente dilatata: passeremo non una notte in iurta ma addirittura due!
+In verità la durata della nostra _tappa critica_ si è potenzialmente dilatata, alla luce della disdetta dell'alloggio giunta a meno di 24 ore: passeremo non una notte in iurta ma addirittura due!
 
 La mia gioia è massima, meno quella di  {{< affiliate_link "frupari-instagram" "@frupari" >}}: lei in iurta non ci vuole proprio stare!
 
@@ -326,7 +330,7 @@ La nostra scelta è caduta su {{< external_link "https://www.booking.com/hotel/k
 
 Avremmo volentieri evitato una doppia notte in iurta, a poche ore di distanza dalla _grande prova_ che ci avrebbe messo sotto esame a Song Kul, ma non è stato possibile.
 
-Ma, con il senno del Poi, è stata una grandissima esperienza. Probabilmente non avremmo vissuto le stesse emozioni: dormire in una iurta, con l'odore acre di plastica ed altri materiali con cui viene costruita (legname, canne, paglia...), è un emozione forte, indelebile. Si viaggia per scoprire se stessi, alla fine.
+Ma, con il senno del Poi, è stata una grandissima esperienza. Probabilmente non avremmo vissuto le stesse emozioni: dormire in una iurta, con l'odore acre di plastica ed altri materiali con cui viene costruita (legname, canne, paglia...), è un'emozione forte, indelebile. Si viaggia per scoprire se stessi, alla fine.
 
 {{< image src="tong_iurt_camp.jpg" alt="" caption="" >}}
 
