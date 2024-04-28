@@ -1,6 +1,13 @@
 {
     "array" : [
         {
+            "image" : "skazka_canion_header.jpg" ,
+            "color_category": "#f4511e" ,
+            "category": "Kyrgyzstan" ,
+            "text_title" : "Jety-Oguz e le Sette Rocce, Skazka Canyon e le rive sud del Lago Issyk-Kul" ,
+            "url" : "racconti-di-viaggio/kyrgyzstan/ep-4-barksoon-skazka-bokonbayevo/"
+        } ,
+        {
             "image" : "kyzylsuu_valley_header.jpg" ,
             "color_category": "#f4511e" ,
             "category": "Kyrgyzstan" ,
