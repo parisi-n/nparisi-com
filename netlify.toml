@@ -1,5 +1,5 @@
 [build]
-command = "hugo --minify" # rimuovo -gc ovvero garbacecollector
+command = "hugo --gc --minify" # rimuovo -gc ovvero garbacecollector
 publish = ""
 HUGO_TIMEOUT = 180000
 
