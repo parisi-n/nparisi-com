@@ -1,5 +1,5 @@
 [build]
-command = "hugo --gc --minify"
+command = "hugo --minify"
 publish = ""
 HUGO_TIMEOUT = 120000
 
