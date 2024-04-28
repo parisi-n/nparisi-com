@@ -235,6 +235,7 @@ Il perchè sia chiamato _canyon delle fiabe_ lo capirete appena parcheggiato: pr
 Scesi dall'auto guardatevi intorno: vi verrà il dubbio di non essere più sulla Terra ma in qualche universo parallelo. Il silenzio assoluto renderà ulteriormente l'esperienza surreale, quasi mistica ed incantata.
 
 Ovunque andiate, troverete rocce modellate dal tempo e dal vento di un colore rosso terracotta intenso — che contrasterebbe benissimo con il cielo celeste — se solo fossimo arrivati non nel tardo pomeriggio 😄
+
 Alcune rocce hanno addirittura un nome proprio, dato dalla loro somiglianza con oggetti reali — come _La muraglia cinese_ o _dragoni_.
 
 La leggenda narra che un dragone rosso si innamorò di una giovane ragazza della valle. Lei però non ricambiò — ed il dragone giurò che avrebbe prosciugato i pozzi dell'intera vallata finchè lei non avesse cambiato idea.
