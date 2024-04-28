@@ -40,7 +40,7 @@ Ma andiamo con ordine.
 
 Facciamo un ultimo giro a Karakol e ci dirigiamo verso la prima tappa della giornata.
 
-{{< vimeo src="937410389" type="horizontal">}}
+{{< youtube id="8x3AoFueodY" caption="Tra villaggi">}}
 
 ## Seven bulls rocks
 
@@ -48,19 +48,19 @@ Facciamo un ultimo giro a Karakol e ci dirigiamo verso la prima tappa della gior
 
 Li troverete nel fondo della **valle di Jety Oguz**.
 
-{{< image src="jety_oguz_ilove.jpg" alt="" caption="" type="wide-screen" >}}
+{{< vimeo src="937410389" type="horizontal">}}
 
 Ad appena 20 km da Karakol direzione Est troverete il villaggio di _Jele Tobe_, da cui partirà la valle delle _rocce dei sette tori_.
 
-{{< image src="rocce_rosse.jpg" alt="" caption="" type="wide-screen" >}}
+{{< image src="jety_oguz_ilove.jpg" alt="" caption="" type="wide-screen" >}}
 
 Avventurandovi nella valle, in una strada dignitosa ed asfaltata, avrete di tanto in tanto il sentore di conoscere l'ambiente, la vegetazione, i colori… [sono gli stessi del giorno prima]({{< ref "/racconti-di-viaggio/kyrgyzstan/ep-3-karakol-kyzyl-suu/index.md" >}}), nella valle di _Kyzyl-Suu_!
 
-{{< image src="iurte_jetyoguz.jpg" alt="" caption="" >}}
+{{< image src="rocce_rosse.jpg" alt="" caption="" type="wide-screen" >}}
 
 La valle però, a differenza di quella di Kyzyl-Suu, è profonda appena 15 km.
 
-{{< image src="rocce_rosse_selfie.jpg" alt="" caption="" >}}
+{{< image src="iurte_jetyoguz.jpg" alt="" caption="" >}}
 
 Vi renderete conto di essere arrivati quando arriverete al capolinea, in cui troverete le indicazioni per il **sanatorio** locale.
 
@@ -97,11 +97,15 @@ Arrivati all'ingresso del _sanatorio_ **voltatevi**: alle vostre spalle riconosc
 
 Alla vostra sinistra troverete, allineati, le **rocce dei sette tori**. Il nome origina dal fatto che, nella fantasia di cui ha dato il nome al luogo — quelle rocce rappresenterebbero il sedere di 7 tori, tutti allineati e vicini.
 
+{{< image src="rocce_rosse_selfie.jpg" alt="" caption="" >}}
+
 Sulla destra una strada scoscesa, particolarmente ripida, sterrata e sdruciolevole vi porterà su un altipiano leggermente sopraelevato da cui potrete ammirare ancora meglio i _sederi dei sette tori_.
 
 {{< image src="7bulls_rock_view.jpg" alt="" caption="" type="wide-screen" >}}
 
 La visita ed il giro vi ruberà al massimo un'ora, a meno che non siate curiosi di entrare ed ispezionare, almeno dall'esterno, il sanatorio.
+
+{{< youtube id="U3dd1B6juYA" caption="Discesa dall'Osservatorio delle Rocce dei Sette Tori">}}
 
 Facciamo le ultime foto e decidiamo i partire verso il prossimo stop: le **cascate di Barskoon**.
 
