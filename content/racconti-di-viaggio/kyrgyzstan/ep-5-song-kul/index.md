@@ -13,7 +13,7 @@ type: "article"
 ---
 
 {{< capital_letter_open >}}
-Partiamo. Sappiamo che stiamo andando incontro alla **tappa critica** del viaggio. Ogni viaggio ha per definizione una _tappa critica_: è quella fase del viaggio un po' più complesso delle altre, in cui varie cose potrebbero andare male oppure varie sono le cose da gestire contemporaneamente ed il margine di errore è maggiore.
+Partiamo. Sappiamo che stiamo andando incontro alla **tappa critica** del viaggio. Ogni viaggio ha per definizione una _tappa critica_: è quella fase del viaggio un po' più complessa delle altre, in cui varie cose potrebbero andare male oppure ci sono più cose da gestire contemporaneamente ed il margine di errore è maggiore.
 {{< capital_letter_close >}}
 
 **Questa è una di queste.**
@@ -42,13 +42,13 @@ Una buona strategia sarebbe dunque di munirsi di crema solare o di maglia a mani
 
 Potrà sembrare banale ma mai, come in questo caso, dovrete prenotare un alloggio onde evitare di rimanere senza un tetto per dormire.
 
-Che poi, probabilmente un tetto lo troverete comunque, ma orientarvi al buio, senza riferimenti e senza strade, senza sapere dove sono i vari _campi di iurte_ — potrebbe essere una delle cose più difficili da fare.
+Che poi, probabilmente un tetto lo trovereste comunque, ma orientarvi al buio, senza riferimenti e senza strade, senza sapere dove sono i vari _campi di iurte_ — potrebbe essere una delle cose più difficili da fare.
 
-Abbiamo in mente la direzione [da prendere una volta raggiunta la cima](#delle-vecchie-foto) e vediamo numerosi _iurt camp_ che potenzialmente ci potrebbero accogliere ma ci facciamo ammaliare dall' {{< external_link "https://www.booking.com/hotel/kg/yurt-camp-quot-tuz-ashuu-azamat-quot-in-song-kol-lake.it.html" "Azamat Iurt Camp" >}} per la presenza **dell'acqua calda, della luce all'interno della iurta e di toilet con wc** — che però si trova in direzione (Nord) esattamente opposta alla direzione verso cui ci saremmo diretti (Ovest).
+Abbiamo in mente la direzione [da prendere una volta raggiunta la cima](#delle-vecchie-foto) e vediamo numerosi _iurt camp_ che potenzialmente ci potrebbero accogliere, ma ci facciamo ammaliare dall' {{< external_link "https://www.booking.com/hotel/kg/yurt-camp-quot-tuz-ashuu-azamat-quot-in-song-kol-lake.it.html" "Azamat Iurt Camp" >}} per la presenza **dell'acqua calda, della luce all'interno della iurta e di toilet con wc** — che però si trova in direzione (Nord) esattamente opposta alla direzione verso cui ci saremmo diretti (Ovest).
 
 Confidiamo però sul fatto che potremmo finire di circumnavigare il lago… **ma mai ci saremmo aspettati una tale vastità** con chilometri e chilometri e con tempi di percorrenza davvero estremi che rendono le distanze ancora più complesse da colmare.
 
-Questo campo non lo suggeriamo nè lo sconsigliamo ma, in base al vostro itinerario, considerata l'ubicazione all'estremo Nord con un'unica via di accesso, a meno che non sia di passaggio magari seguendo la _route #16_ potrebbe non essere un buon compromesso.
+Questo campo non lo suggeriamo nè lo sconsigliamo ma, in base al vostro itinerario, considerata l'ubicazione all'estremo Nord con un'unica via di accesso, a meno che non siate di passaggio magari seguendo la _route #16_ potrebbe non essere un buon compromesso.
 
 ## Il percorso
 
@@ -193,7 +193,7 @@ Abbiamo constatato di non essere gli unici a trafficare nella zona dopo aver vis
 
 {{< image src="songkul_strada_3.jpg" alt="Macchina che solleva polvere durante la corsa" >}}
 
-Mandrie di cavalli popolano l'antipiano, sparsi in gruppi a perdita d'occhio.
+Mandrie di cavalli popolano l'altipiano, sparsi in gruppi a perdita d'occhio.
 
 In lontananza, però — si scorge **il Lago Song-Kul**.
 
@@ -225,13 +225,13 @@ Questa foto panoramica rende solo in parte l'idea di **sconfinato** che percepia
 
 {{< panorama src="panorama_songkul.jpg" alt="Polvere sollevato da Land Cruiser in movimento" title="Song-Kul" >}}
 
-Da quando abbiamo raggiunto la sommità abbiamo percorso già altri 50km circumnavigando il lago. Ci siamo diretti infatti subito verso Sud e poi verso Ovest — seppur la nostra iurta si trosse **in direzione opposta**, verso Nord.
+Da quando abbiamo raggiunto la sommità abbiamo percorso già altri 50km circumnavigando il lago. Ci siamo diretti infatti subito verso Sud e poi verso Ovest — seppur la nostra iurta si trovasse **in direzione opposta**, verso Nord.
 
 Perchè? Avevamo una missione da portare a termine.
 
 ### Alla ricerca della iurta perduta: KD
 
-Pochi giorni dopo la metà di Agosti tre amici sono stati ospitati da una famiglia nomade kirghiza quando hanno raggiunto, in piena notte, nel loro percorso **verso la Mongolia**, la sommità del lago.
+Pochi giorni dopo la metà di Agosto tre amici sono stati ospitati da una famiglia nomade kirghiza quando hanno raggiunto, in piena notte, nel loro percorso **verso la Mongolia**, la sommità del lago.
 
 {{< image src="cavalli_zoom_songkul.jpg" alt="Cavalli che brucano l'erba" >}}
 
@@ -362,7 +362,7 @@ Sconsolato — faccio partire il circo per la sostituzione della ruota con mater
 
 La testimonianza arriva in modo inaspettato dalla GoPro che era piazzata in modalità timelapse e che veniva rimossa per essere portata in auto, ancora accesa.
 
-{{< image src="sostituzione_gomma_songkul.jpg" alt="Sostituzione della ruota bucata" caption="Foto bomb inedita" type="wide-screen" >}}
+{{< image src="sostituzione_gomma_songkul.jpg" alt="Sostituzione della ruota bucata" caption="Fotobomb inedita" type="wide-screen" >}}
 
 Dopo vari tentativi e l'aiuto di forza bruta di un astante finalmente riesco a sostituire la ruota — giusto in tempo per la colazione.
 
@@ -370,10 +370,10 @@ Più sereno, mi lancio in qualche foto e volo con il drone per ammirare il paesa
 
 **E' davvero spettacolare**.
 
-{{< panorama src="pano_songkul.jpg" alt="" title="L'alba a Song-Kul" >}}
+{{< panorama src="pano_songkul.jpg" title="L'alba a Song-Kul" >}}
 
 {{< box "orange" >}}
-L'indomani capiamo perchè KD ci avesse suggerito di rifare la strada a ritroso: sul versante Nord **non è presente un sentiero** in quanto prevalentemente terreno monuoso.
+L'indomani capiamo perchè KD ci avesse suggerito di rifare la strada a ritroso: sul versante Nord **non è presente un sentiero** in quanto prevalentemente terreno montuoso.
 
 Arrivati ad un certo punto saremmo stati incapaci a proseguire, o se avessimo proseguito sarebbe stato pericoloso a causa di frane — ci dicono il giorno dopo.
 {{< /box >}}
@@ -412,7 +412,7 @@ Senza contare che dobbiamo quanto prima cercare un gommista per riparare la gomm
 
 Faccio volare il drone — ma con un po' di timore: ho paura che la regina dei cieli lo adocchi e me lo porti via 😆
 
-{{< image src="aquila.jpg" alt="" type="wide-screen" >}}
+{{< image src="aquila.jpg" type="wide-screen" >}}
 
 Però — forse complice l'idea che sappiamo già la strada che ci aspetta — questa volta ci godiamo un po' di più il paesaggio.
 
