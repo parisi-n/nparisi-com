@@ -384,7 +384,7 @@ Non rimane che partire.
 
 Ci aspetta il confronto finale, l'esame da sostenere con noi stessi.
 
-**Song-Kul ci aspetta**.
+[Song-Kul ci aspetta]({{< ref "racconti-di-viaggio/kyrgyzstan/ep-5-song-kul/index.md" >}}).
 
 
 
