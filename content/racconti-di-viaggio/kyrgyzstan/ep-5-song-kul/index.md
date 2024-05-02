@@ -20,7 +20,7 @@ Partiamo. Sappiamo che stiamo andando incontro alla **tappa critica** del viaggi
 
 {{< image src="aquila_2.jpg" alt="" caption="" >}}
 
-Questa è la giornata che da _Tong_, villaggio con tutti i servizi — ci porterà sull'altipiano del **Lago Song-Kul** in cui saremo solo noi, le nostre provviste, le nostre capacità di _problem solving_ e di adattamento — oltre alle nostre capacità comunicative di russo: **lassù non funziona internet**.
+Questa è la giornata che da _Tong_, villaggio con tutti i servizi — ci porterà sull'altipiano del **lago Song-Kul** in cui saremo solo noi, le nostre provviste, le nostre capacità di _problem solving_ e di adattamento — oltre alle nostre capacità comunicative di russo: **lassù non funziona internet**.
 
 Staremo per quasi due giorni senza poter comunicare con il mondo esterno, o poter comunicare in caso di pericolo. E' in queste situazioni che ci si rende conto quanto l'uso di internet — che in certe circostanze banalmente si traduce nell'uso del _traduttore online_ o del _video su Youtube_ che ci aiuti a fare una certa cosa — sia ormai estremamente radicato nella nostra quotidianità.
 
