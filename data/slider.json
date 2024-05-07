@@ -1,6 +1,13 @@
 {
     "array" : [
         {
+            "image" : "bishkek_header.jpg" ,
+            "color_category": "#f4511e" ,
+            "category": "Kyrgyzstan" ,
+            "text_title" : "Esplorando Bishkek" ,
+            "url" : "racconti-di-viaggio/kyrgyzstan/ep-6-bishkek/"
+        } ,
+        {
             "image" : "iurt_camp_songkul_nord_2_header.jpg" ,
             "color_category": "#f4511e" ,
             "category": "Kyrgyzstan" ,
