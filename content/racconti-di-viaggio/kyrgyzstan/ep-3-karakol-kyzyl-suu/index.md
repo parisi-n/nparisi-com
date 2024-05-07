@@ -3,7 +3,7 @@ title: "Kyrgyzstan: Karakol e la valle di Kyzyl-Suu // Ep. 3"
 date: "2023-10-23"
 image: "images/kyzylsuu_valley_header.jpg"
 
-summary : "Da Karakol — all'estremo Est del Lago Issyk-Kul, dalle cui periferie nascono i monti della catena montuosa del _Tian Shan_ — esploriamo la valle di Kyzyl-Suu — in una passeggiata epica e sbalorditiva nella Natura più profonda ed aspra, lontano da tutto e tutti."
+summary : "Da Karakol — all'estremo Est del Lago Issyk-Kul, dalle cui rive nascono i monti della catena montuosa del _Tian Shan_ — esploriamo la valle di Kyzyl-Suu — in una passeggiata epica e sbalorditiva nella Natura più profonda ed aspra, lontano da tutto e tutti."
 categories : [ "racconti-di-viaggio", "kyrgyzstan" ]
 tags : [ "travel", "kyrgyzstan" ]
 
