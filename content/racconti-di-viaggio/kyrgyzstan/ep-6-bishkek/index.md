@@ -20,16 +20,18 @@ In verità le cose sono andate un po' diversamente.
 
 {{< image src="statua_giardini_centro.jpg" alt="Statua su un basamento di marmo marrone lucido" caption="La Libertà" >}}
 
-Per raggiungerlo non ho dovuto soffrire nemmeno una curva, e ci siamo risparmiati — forse anche grazie ad un po' di lungimiranza — una tossinfezione alimentare.
+Per raggiungerlo non abbiamo dovuto soffrire nemmeno una curva, e ci siamo risparmiati — forse anche grazie ad un po' di lungimiranza — una tossinfezione alimentare.
 
 {{< image src="panettiere_forno.jpg" alt="Panettiere cuoce il pane in un forno tradizionale kirghizo" caption="Il pane è servito" >}}
 
-Ed è così che l'ultima sera usciamo con le mani in tasca: abbiamo già visto quasi tutto, ci manca solo da viverne i _vibes_.
+Ed è così che l'ultima sera usciamo per il gusto di uscire e di vedere gli stessi posti visti di giorno, ma di notte: abbiamo già visto quasi tutto, ci manca solo viverne i _vibes_.
 {{< affiliate_link "frupari-instagram" "@frupari" >}} ha ormai imparato a leggere il cirillico e legge ogni insegna come fanno i bambini appena imparano a leggere l'alfabeto. Qualcuna l'azzecca anche.
 
 Camminiamo con le mani in tasca lungo la **Chuy Avenue** — che passa attraverso la **piazza Ala-Too**. Fa freschino, siamo a metà Settembre. Ma non è per nulla fastidioso. Osserviamo i ragazzi del posto che vivono esattamente come noi, a cui piacciono esattamente le nostre stesse cose.
 
 Potrebbe apparire una cosa scontata, ma non lo è affatto.
+
+Ma ripercorriamo come siamo arrivati fino a Bishkek.
 
 ## Il rientro da Song-Kul
 
@@ -58,15 +60,15 @@ Superarli è difficile ma non impossibile, e farlo in sicurezza è comunque fatt
 
 {{< image src="camion_cinese_2.jpg" alt="Camion con targa cinese" caption=""  >}}
 
-Per risparmiare tempo decidiamo di non fermarmi lungo il percorso per pranzare, ma sgranocchiamo qualcosa durante il viaggio.
+Per risparmiare tempo decidiamo di non fermarci lungo il percorso per pranzare, ma sgranocchiamo qualcosa durante il viaggio.
 
 {{< image src="prezzi_benzina.jpg" alt="Prezzi della benzina" caption="Benzina con prezzi decisamente accessibili" >}}
 
 * * *
 
-Ritornati "in pianura", sulla direttrice Cholpon-Ata - Bishkek, poco dopo {{< external_link "https://maps.app.goo.gl/j2SpHgB9Mp5AFo3G8" "Kemin" >}} ci aspetta una grande sorpresa: **la temperatura esterna raggiunge i 39 gradi** ma in auto, pur con il climatizzatore, decidiamo di non accenderlo per preservarci i polmoni dopo tutta la polvere raccolta a Song Kul — motivo per cui decidiamo con fare stoico di proseguire con finestrino abbassato e grande pace dell'anima.
+Ritornati "in pianura", sulla direttrice Cholpon-Ata - Bishkek, poco dopo {{< external_link "https://maps.app.goo.gl/j2SpHgB9Mp5AFo3G8" "Kemin" >}} ci aspetta una grande sorpresa: **la temperatura esterna raggiunge i 39 gradi** ma decidiamo di non accendere il condizionatore per preservarci i polmoni dopo tutta la polvere raccolta a Song Kul — motivo per cui decidiamo con fare stoico di proseguire con finestrino abbassato e grande pace dell'anima.
 
-Pace che viene interrotta da {{< affiliate_link "frupari-instagram" "@frupari" >}} che, improvvisamente, ha il desiderio di mangiare delle mele da uno dei tantissimi venditori di mele che lungo strada proponevano i loro prodotti. Pertanto, dopo varie insistenze, decide di fermarsi e far interagire il sottoscritto con i venditori che...son due bambini di 8 anni. Non sembrano comprendere al 100% il mio russo, tanto che per due mele mi chiedono 100som (1€!). Trovando l'affare poco conveniente, rimaniamo senza frutto e proseguiamo con solo acqua e speranze verso la capitale — cercando di ripristinare tutte le perdite idriche date dalla sudorazione con lunghe bevute d'acqua.
+Pace che viene interrotta da {{< affiliate_link "frupari-instagram" "@frupari" >}} che, improvvisamente, ha il desiderio di mangiare delle mele da uno dei tantissimi venditori di mele che lungo strada proponevano i loro prodotti. Pertanto, dopo varie insistenze, decide di fermarsi e far interagire il sottoscritto con i venditori che...son due bambini di 8 anni. Non sembrano comprendere al 100% il mio russo, tanto che per due mele mi chiedono 100som (1€!) 😃 Trovando l'affare poco conveniente, rimaniamo senza frutto e proseguiamo con solo acqua e speranze verso la capitale — cercando di ripristinare tutte le perdite idriche date dalla sudorazione con lunghe bevute d'acqua.
 
 * * *
 
@@ -144,7 +146,7 @@ Nel 2005 è stata teatro di una grande manifestazione con 15 mila persone contro
 Maggiori informazioni [qui](https://www.kyrgyzstantravel.com/travel-guide/attraction/ala-too-square).
 {{< /box >}}
 
-Apprezerete a mio avviso subito il famoso pennone che regge la bandiera nazionale del Kyrgyzstan.
+Apprezzerete, a mio avviso subito, il famoso pennone che regge la bandiera nazionale del Kyrgyzstan.
 
 Ne avete sentito parlare nel libro piacevolissimo e brillantissimo di {{< affiliate_link "sovietistan-book" "Sovietistan di Erika Fatland" >}} che — se non avete ancora letto — vi invito senza ombra di dubbio a dargli una lettura.
 
@@ -164,7 +166,7 @@ Dietro si trova il **State history museum**, in passato chiamato _Lenin's histor
 
 {{< box "blue" "Chi era Manas?" >}}
 
-Manas è il protegonista di un poema epico appartenente alla letteratura kirghiza. Si dice sia in assoluto il primo kirghizo e le sue avventure coincidono con quella che è la storia della fondazione della Repubblica del Kyrghiz.
+Manas è il protagonista di un poema epico appartenente alla letteratura kirghiza. Si dice sia in assoluto il primo kirghizo e le sue avventure coincidono con quella che è la storia della fondazione della Repubblica del Kyrghiz.
 
 Le sue avventure mitologiche sono databili intorno al 1000 d.C. e vengono narrate le sue interazioni con i popoli delle regioni circostanti: i mongoli, i turchi ed i cinesi.
 
@@ -174,7 +176,7 @@ Potete trovare maggiori informazioni [qui](https://en.wikipedia.org/wiki/Epic_of
 
 ### Chuy Proskektas
 
-E' la via che attraversa tangenzialmente la piazza Ala-Too. Sono presenti tanti locali, sia commerciali, sia ristoranti e pub, e la sera sembra essere la zona della movida. Durante la nostra passeggiata il meteo consentiva addirittura di rimanere a maniche corte senza avvertire freddo ma, anzi, in completo benessere. Passeggiamo con le mani in tasca, l'ultima sera, e senza fretta. Ci sembra di essere quasi di Bishkek, tanto ci sentiamo comfortevoli a girare per la città.
+E' la via che attraversa tangenzialmente la piazza Ala-Too. Sono presenti tanti locali, sia commerciali, sia ristoranti e pub, e la sera sembra essere la zona della movida. Durante la nostra passeggiata il meteo consentiva addirittura di rimanere a maniche corte senza avvertire freddo ma, anzi, in completo benessere. Passeggiamo molto tranquillamente, l'ultima sera, e senza fretta. Ci sembra di essere quasi di Bishkek, tanto ci sentiamo a nostro agio a girare per la città.
 
 {{< image src="marciapiede.jpg" alt="Edificio lungo la zona pedonabile di Chuy Prospektas" caption="" type="wide-screen" >}}
 
@@ -190,7 +192,7 @@ Il caso ha voluto che proprio nel periodo della nostra permanenza a Bishkek un u
 
 {{< image src="cinema_alatoo_interno_2.jpg" alt="Riconoscimenti e premi affissi sul muro all'entrata del cinema Ala-Too" caption="" >}}
 
-Ci intrufoliamo all'interno e, appena capiscono che siamo turisti, non fanno resistenza e ci permettono di esplorarne l'interno.
+Ci intrufoliamo e, appena capiscono che siamo turisti, non fanno resistenza e ci permettono di esplorarne l'interno.
 
 {{< image src="cinema_alatoo_interno_3.jpg" alt="Poltrone in pelle all'interno del cinema" caption="" >}}
 
@@ -216,19 +218,19 @@ Ad Ovest della statua di Manas troverete questa immensa struttura, all'interno d
 
 {{< image src="monumento_amicizia_popoli.jpg" alt="Monumento del'amicizia a Bishkek" caption="" >}}
 
-Il monumento dell'Amicizia tra le Nazioni è composto da due colonne bianche rivestite di marmo bianco alte 28 metri e fu costruito nel _centenario_ nell'ingresso **volontario** del Kyrgyzstan nell'URSS nel 1974.
+Il monumento dell'Amicizia tra le Nazioni è composto da due colonne rivestite di marmo bianco alte 28 metri e fu costruito nel _centenario_ nell'ingresso **volontario** del Kyrgyzstan nell'URSS nel 1974.
 
 ### Statua di Lenin
 
 {{< posizione "https://maps.app.goo.gl/447T16CRvV23txA97" >}}
 
-Come in ogni città o paese avanposto della filosofia sovietica si trova una statua di Lenin a simboleggiarne l'appartenenza spirituale, filosofica e di idee.
+Come in ogni città o paese avamposto della filosofia sovietica si trova una statua di Lenin a simboleggiarne l'appartenenza spirituale, filosofica e di idee.
 
 {{< image src="statua_lenin.jpg" alt="Statua di Lenin a Bishkek" caption="" >}}
 
 Bishkek non fa eccezione.
 
-In verità questo è l'ultimo posto che abbiamo visitato, l'ultimo pomeriggio a Bishkek. Volevo chiudere simbolicamente il viaggio con il saluto formale al principale sognatore su cui sogni è stata poi costruita l'immensa Unione Sovietica che tanto ci sta facendo e appassionare.
+In verità questo è l'ultimo posto che abbiamo visitato, l'ultimo pomeriggio a Bishkek. Volevo chiudere simbolicamente il viaggio con il saluto formale al principale sognatore su cui sogni è stata poi costruita l'immensa Unione Sovietica che tanto ci sta facendo appassionare.
 
 ### Osh bazar
 
