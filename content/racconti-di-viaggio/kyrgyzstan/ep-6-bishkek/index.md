@@ -128,13 +128,21 @@ Passiamo attorno a questa piazza, cercando di esplorarne ogni angolo ed ogni via
 
 {{< image src="alatoo_square_monumento.jpg" caption="Statua di Manas ed il State Museum" >}}
 
-Lo spazio antistante racchiude un ampia piazza ornata da fiori rossi che rendono la piazza ancor più vivibile e gioviale.
+Lo spazio antistante racchiude un'ampia piazza ornata da fiori rossi che rendono la piazza ancor più vivibile e gioviale.
 
 {{< image src="giardini_bishkek.jpg" alt="Decorazioni floreali rosse che ornano le aiuole della piaza Ala-Too di Bishkek" caption="Fiori, zampille e fontane" type="wide-screen" >}}
 
 La serie di cartelloni raffiguranti persone a noi ignote, su sfondo rosso, conferisce ulteriormente un aspetto caratteristico alla zona.
 
 {{< panorama src="alatoo_square_panorama.jpg" alt="Panorama della piazza ala-Too" caption="" title="Piazza Ala-Too" >}}
+
+{{< box "blue" "Un po' di storia" >}}
+La piazza Ala-Too fu costruita nel 1984 per celebrare il 60esimo anniversario della Repubblica del Kirgyz e per ornarla ci fu piazzata la **statua di Lenin** che nel 2003 fu invece postata in un'altra piazza più piccola.
+
+Nel 2005 è stata teatro di una grande manifestazione con 15 mila persone contro il governo che si concluse con due morti. La manifestazione prese il nome di _rivoluzione dei tulipani_.
+
+Maggiori informazioni [qui](https://www.kyrgyzstantravel.com/travel-guide/attraction/ala-too-square).
+{{< /box >}}
 
 Apprezerete a mio avviso subito il famoso pennone che regge la bandiera nazionale del Kyrgyzstan.
 
@@ -166,7 +174,7 @@ Potete trovare maggiori informazioni [qui](https://en.wikipedia.org/wiki/Epic_of
 
 ### Chuy Proskektas
 
-E' la via che attraversa tangenzialmente la piazza Ala-Too. Sono presenti tanti locali, sia commerciali sia ristoranti e pub, e la sera sembra essere la zona della movida. Durante la nostra passeggiata il meteo consentiva addirittura di rimanere a maniche corte senza avvertire freddo ma anzi in completo benessere. Passeggiamo con le mani in tasca, l'ultima sera, e senza fretta. Ci sembra di essere quasi di Bishkek, tanto ci sentiamo comfortevoli a girare per la città.
+E' la via che attraversa tangenzialmente la piazza Ala-Too. Sono presenti tanti locali, sia commerciali, sia ristoranti e pub, e la sera sembra essere la zona della movida. Durante la nostra passeggiata il meteo consentiva addirittura di rimanere a maniche corte senza avvertire freddo ma, anzi, in completo benessere. Passeggiamo con le mani in tasca, l'ultima sera, e senza fretta. Ci sembra di essere quasi di Bishkek, tanto ci sentiamo comfortevoli a girare per la città.
 
 {{< image src="marciapiede.jpg" alt="Edificio lungo la zona pedonabile di Chuy Prospektas" caption="" type="wide-screen" >}}
 
@@ -178,11 +186,11 @@ Questa chicca viene direttamente dal gruppo Facebook {{< external_link "https://
 
 {{< image src="cinema_alatoo_interno.jpg" alt="Bancone con popcorn e bibite all'interno del cinema" caption="" type="wide-screen" >}}
 
-Il caso ha voluto che proprio nel periodo della nostra permanenza a Bishkek un utente avesse scritto sugli _spot_ nascosti e meno turistici di Bishkek e parlasse proprio di questo cinema che è il più vecchio e famoso di tutta Bishkek.
+Il caso ha voluto che proprio nel periodo della nostra permanenza a Bishkek un utente avesse scritto riguardo _spot_ nascosti e meno turistici di Bishkek e parlasse proprio di questo cinema che è il più vecchio e famoso di tutta Bishkek.
 
 {{< image src="cinema_alatoo_interno_2.jpg" alt="Riconoscimenti e premi affissi sul muro all'entrata del cinema Ala-Too" caption="" >}}
 
-Ci intrufoliamo all'interno, appena capiscono che siamo turisti non fanno resistenza e ci permettono di esplorarne l'interno.
+Ci intrufoliamo all'interno e, appena capiscono che siamo turisti, non fanno resistenza e ci permettono di esplorarne l'interno.
 
 {{< image src="cinema_alatoo_interno_3.jpg" alt="Poltrone in pelle all'interno del cinema" caption="" >}}
 
@@ -220,7 +228,7 @@ Come in ogni città o paese avanposto della filosofia sovietica si trova una sta
 
 Bishkek non fa eccezione.
 
-In verità questo è l'ultimo posto che abbiamo visitato, l'ultimo pomeriggio a Bishkek. Volevo chiudere simbolicamente il viaggio con saluto formale al principale sognatore su cui sogni è stata poi costruita l'immensa Unione Sovietica che tanto ci sta facendo e appassionare.
+In verità questo è l'ultimo posto che abbiamo visitato, l'ultimo pomeriggio a Bishkek. Volevo chiudere simbolicamente il viaggio con il saluto formale al principale sognatore su cui sogni è stata poi costruita l'immensa Unione Sovietica che tanto ci sta facendo e appassionare.
 
 ### Osh bazar
 
@@ -254,11 +262,11 @@ di ogni genere e forma
 
 {{< image src="people_of_bishkek_3.jpg" alt="Due signore con copricapo di fronte alla bancarella del pane" caption="" >}}
 
-Senza contare la zona del vestiario, degli utentisli da cucina o utensili in senso lato.
+Senza contare la zona del vestiario, degli utensili da cucina o utensili in senso lato.
 
 {{< image src="people_of_bishkek_2.jpg" alt="Interno dell'Osh Bazar di Bishkek" caption="" type="wide-screen" >}}
 
-Incarna lo stereotipo del mercato centroasiatico solo per la confusione che regna sovrana e per le facce da _people of Bishkek_ (in questo caso) perchè per il resto si ha una percezione ben diversa da quella avuta per esempio in **Uzbekistan** nei mercati di [MERCATONE UNO DOVE?]({{< ref "/racconti-di-viaggio/uzbekistan/ep-2-samarcanda/index.md" >}}) o [MERCATONE DUE]({{< ref "/racconti-di-viaggio/uzbekistan/ep-3-bukhara/index.md" >}}).
+Incarna lo stereotipo del mercato centroasiatico solo per la confusione che regna sovrana e per le facce da _people of Bishkek_ (in questo caso) perchè per il resto si ha una percezione ben diversa da quella avuta per esempio in **Uzbekistan** nei mercati di [Bukhara]({{< ref "/racconti-di-viaggio/uzbekistan/ep-3-bukhara/index.md" >}}) o [Khiva]({{< ref "/racconti-di-viaggio/uzbekistan/ep-6-khiva/index.md" >}}).
 
 Ma soprattutto è possibile scorgere facce solcate dalla fatica di vivere e dal lavoro.
 
@@ -274,7 +282,7 @@ Oltrechè persone di tutte le età, dai più giovani...
 
 Mi aspettavo di più, e non è altro che un bazar come un altro, come tanti che si possono vedere in Centr'Asia: caotico, confusionario, pieno di minuteria, oggettistica, antiquariato e con un'ampia parte dedicata al cibo.
 
-Ogni volta che metto piede in questo genere di posto non posso non notare come le condizioni igieniche spesso siano abbastanza carenti, talvolta le minime norme un optional. Eppure…
+Ogni volta che metto piede in questo genere di posto non posso non notare come le condizioni igieniche spesso siano abbastanza carenti, talvolta le minime norme sono un optional. Eppure…
 
 Eppure è un ottimo teatro per poter apprezzare, direttamente, la tipologia di persone che normalmente frequenza i bazar.
 
@@ -294,7 +302,7 @@ Con strutture teoricamente strategiche assegnate ad edifici quasi fatiscenti, co
 
 {{< image src="bishkek_clinica.jpg" alt="Facciata fatiscente della camera di commercio di Bishkek" caption="" >}}
 
-Con strutture che invece vincono il tempo, costruite come progetto universale sovietico per attività commerciali, rialzate rispetto al piano stradale ma con un seminterrato capace di ospitare un ulteriore attività commerciale.
+Con strutture che invece vincono il tempo, costruite come progetto universale sovietico per attività commerciali, rialzate rispetto al piano stradale ma con un seminterrato capace di ospitare un'ulteriore attività commerciale.
 
 Nei piani superiori, invece — abitazioni.
 
