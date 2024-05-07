@@ -123,6 +123,12 @@ Per questo vi consiglio — tra i vari:
 * {{< external_link "https://www.facebook.com/groups/CentralAsiaBackpackerTraveler/" "Kyrgyzstan Travel Group" >}}: gruppo internazionale esteso a tutta l'Asia Centrale
 * {{< external_link "https://www.facebook.com/groups/voyageraukirghizistan" "Kyrgyzstan Travel" >}}: gruppo in francese in cui tuttavia potrete trovare utili informazioni, facendovi aiutare dalla funzione _translate_ offerta automaticamente da Facebook.
 
+### Caravanistan
+
+Sito di riferimento per tutto ciò che è il mondo del Centrasia. **Indispensabile**.
+
+Potete trovarlo {{< external_link "https://caravanistan.com/kyrgyzstan/" "qui" >}}.
+
 ### Altre risorse
 
 * {{< external_link "https://www.wikiloc.com/trails/offroading/kyrgyzstan" "Percorsi offroad su Wikiloc" >}}: descrive con documentazione fotografica alcuni percorsi offroad.
@@ -138,15 +144,15 @@ __Probabilmente si__.
 In Kyrgyzstan ci siamo scontrati con le distanze fisiche che ci separavano dai luoghi, ed il cui raggiungimento non sempre era agevole e si prestava ad un itinerario da _mordi e fuggi_ come invece siamo abituati noi.
 
 * **Giorno #1**: partenza da Malpensa (MXP) alle 17:45 con __Neos__ e direzione _Almaty_ con arrivo previsto alle ore 4.51.
-* **Giorno #2**: arrivo ad Almaty ed _early check-in_ in hotel. Giro per la città. Notte al Almaty.
-* **Giorno #3**: mattino ad Almaty e partenza nel pomeriggio per Bishkek attraverso la frontiera terrestre. Notte a Bishkek.
-* **Giorno #4**: noleggio dell'auto e partenza per Cholpon-Ata con breve stop a _Burana Tower_. Notte a Cholpon-Ata.
-* **Giorno #5**: breve giro a Cholpon-Ata e partenza per Karakol. Notte a Karakol.
-* **Giorno #6**: escursione alla Stazione Metereologica a Kyzyl-Suu (route 9) e giro per la valle di Altyn-Arashan (zona proibita!). Notte a Karakol.
-* **Giorno #7**: escursione a Jety-Oguz e a Barksoon. Notte a Bokonbayevo.
-* **Giorno #8**: partenza per Song Kul (route 15). Notte a Song Kul (<3).
-* **Giorno #9**: ritorno a Bishkek per consegnare l'auto. Notte a Bishkek.
-* **Giorno #10**: giro per la città di Bishkek. Notte a Bishkek. Partenza nel cuore della notte per l'Italia.
+* [Giorno #2]({{< ref "racconti-di-viaggio/kyrgyzstan/ep-1-almaty/index.md" >}}): arrivo ad Almaty ed _early check-in_ in hotel. Giro per la città. Notte al Almaty.
+* [Giorno #3]({{< ref "racconti-di-viaggio/kyrgyzstan/ep-2-bishkek-burana-cholponata/index.md#Il-bus-Almaty-Bishkek" >}}): mattino ad Almaty e partenza nel pomeriggio per Bishkek attraverso la frontiera terrestre. Notte a Bishkek.
+* [Giorno #4]({{< ref "racconti-di-viaggio/kyrgyzstan/ep-2-bishkek-burana-cholponata/index.md" >}}): noleggio dell'auto e partenza per Cholpon-Ata con breve stop a _Burana Tower_. Notte a Cholpon-Ata.
+* [Giorno #5]({{< ref "racconti-di-viaggio/kyrgyzstan/ep-3-karakol-kyzyl-suu/index.md#Da-Cholpon-Ata-a-Karakol" >}}): breve giro a Cholpon-Ata e partenza per Karakol. Notte a Karakol.
+* [Giorno #6]({{< ref "racconti-di-viaggio/kyrgyzstan/ep-3-karakol-kyzyl-suu/index.md" >}}): escursione alla Stazione Metereologica a Kyzyl-Suu (route 9) e giro per la valle di Altyn-Arashan (zona proibita!). Notte a Karakol.
+* [Giorno #7]({{< ref "racconti-di-viaggio/kyrgyzstan/ep-4-barksoon-skazka-bokonbayevo/index.md" >}}): escursione a Jety-Oguz e a Barksoon. Notte a Bokonbayevo.
+* [Giorno #8]({{< ref "racconti-di-viaggio/kyrgyzstan/ep-5-song-kul/index.md" >}}): partenza per Song Kul (route 15). Notte a Song Kul (<3).
+* [Giorno #9]({{< ref "racconti-di-viaggio/kyrgyzstan/ep-5-song-kul/index.md#il-ritorno" >}}): ritorno a Bishkek per consegnare l'auto. Notte a Bishkek.
+* [Giorno #10]({{< ref "racconti-di-viaggio/kyrgyzstan/ep-6-bishkek/index.md" >}}): giro per la città di Bishkek. Notte a Bishkek. Partenza nel cuore della notte per l'Italia.
 * **Giorno #11**: arriviamo in Italia nel primo pomeriggio. Torniamo alla realtà, dopo dieci giorni immersi nell'avventura e con sfide quotidiane, ma col sogno di tornare, un giorno, nuovamente in Kyrgyzstan.
 
 Qui la mappa interattiva:
@@ -186,6 +192,8 @@ Di seguito alcuni siti da cui far partire la ricerca:
 * {{< external_link "https://ountravela.com/en/things-to-do-in-kyrgyzstan/4x4-rental-in-bishkek-osh-4wd-to-travel/" "OunTravela" >}} troverete invece una serie di agenzie o persone **partner del sito** (lo stesso della [guida suggerita sopra](#explore-kyrgyzstan)) da contattare.
   
 * {{< external_link "https://pamirjeeprentals.com/self-drive-rentals/" "Pamir Jeep Rental" >}} altro sito in cui verificare la disponibilità.
+
+* {{< external_link "https://caravanistan.com/car-rental/" "Caravanistan" >}} direttamente dal sito di riferimento per il Centrasia.
 
 Il prezzo varia in base al periodo e — in alta stagione — contate tra gli 80$ ed i 100$ al giorno.
 
@@ -239,7 +247,6 @@ Per questo motivo: **verificate prima di mettervi alla guida**!
 Altro grande problema: la patente italiana non è (come del resto ci si poteva aspettare) valida per la guida in Kyrgyzstan. Per guidare un veicolo le strade percorribili sono due:
 * fare richiesta di *Patente Internazionale* in _Motorizzazione civile_ con appositi moduli e bollettini ({{< external_link "https://www.mit.gov.it/permesso-internazionale-di-guida" "maggiori informazioni qui" >}}). In Kyrgyzstan sono valide entrambe le patenti, sia quella secondo la _Convenzione di Ginevra_ sia quella secondo la _Convenzione di Vienna_ (differiscono per il formato di fototessera che dovrete presentare quindi **attenzione**). {{< external_link "https://en.wikipedia.org/wiki/International_Driving_Permit" "Ulteriori informazioni qui" >}}.
 * chiedere all'agenzia cui vi affiderete se possono rilasciare una certificazione tradotta in russo con i dati della vostra patente per la guida dei veicoli con patente europea sul suolo Kyrgyzo. Questa opzione a fronte di una spesa di **30$** ed al costo di **una mail**.
-
 
 ### Taxi
 
@@ -451,6 +458,12 @@ La __rabbia__ è diffusa per cui sarebbe auspicabile, anche considerata la diffu
 La __poliomielite__ è estremamente diffusa per cui, a discrezione del vostro medico, potrebbe essere fatto anche una dose booster — seppur già vaccinati.
 
 Potete trovare maggiori informazioni {{< external_link "https://wwwnc.cdc.gov/travel/destinations/traveler/none/kyrgyzstan" "qui" >}}.
+
+* * *
+
+In caso vi avventuriate in aree remote e montuose con difficoltà nella conservazione o cottura dei cibi — una intossicazione o peggio tossinfezione alimentare è un'eventualità da considerare.
+
+Le strutture sanitarie specialmente nelle aree montuose (più interessanti per il turista) difficilmente sono raggiungibili, assicuratevi dunque di poter contare su un consulto medico ogniqualvolta abbiate un problema, anche minimo, di salute.
 
 ## Un lavoro a quattro mani 🙏
 
