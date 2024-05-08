@@ -310,6 +310,8 @@ C'è poco di positivo, però, in questa storia: la gomma necessita di essere gon
 
 Nel frattempo inizio a disperarmi, tra me e me.
 
+{{< video src="strada_notte.mp4" type="vertical_9x16" >}}
+
 Finchè in lontananza — non scorgiamo dei fari, velocissimi.
 
 Si fermano in prossimità della nostra auto. Non parlano inglese, parlano russo.
