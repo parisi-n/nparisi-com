@@ -1,5 +1,5 @@
 ---
-title: "Kyrgyzstan: Jety-Oguz e le Sette Rocce, Skazka Canyon e le rive sud del Lago Issyk-Kul // Ep. 4"
+title: "Kyrgyzstan // Jety-Oguz e le Sette Rocce, Skazka Canyon e le rive sud del Lago Issyk-Kul // Ep. 4"
 date: "2023-10-30"
 image: "images/skazka_canion_header.jpg"
 
@@ -387,10 +387,8 @@ Ci aspetta il confronto finale, l'esame da sostenere con noi stessi.
 [Song-Kul ci aspetta]({{< ref "racconti-di-viaggio/kyrgyzstan/ep-5-song-kul/index.md" >}}).
 
 
+* * *
 
+Puoi leggere il [l'episodio #5 qui]({{< ref "racconti-di-viaggio/kyrgyzstan/ep-5-song-kul/index.md" >}}).
 
-
-
-
-
-
+Se invece vuoi leggere quali sono stati i preparativi per il *Kyrgyzstan* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/kyrgyzstan/ep-0-preparativi/index.md" >}}).

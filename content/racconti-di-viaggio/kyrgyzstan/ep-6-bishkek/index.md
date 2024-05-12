@@ -1,5 +1,5 @@
 ---
-title: "Kyrgyzstan: esplorando Bishkek // Ep. 6"
+title: "Kyrgyzstan // Esplorando Bishkek // Ep. 6"
 date: "2023-11-13"
 image: "images/bishkek_header.jpg"
 
@@ -411,3 +411,10 @@ Torniamo arricchiti, felici, contenti — con un desiderio: tornare.
 * * *
 
 Grazie a {{< affiliate_link "frupari-instagram" "@frupari" >}} per avermi accompagnato — sperando che il prossimo sia sempre in Centrasia, sempre tra i monti, sempre tra nomi e posti leggendari.
+
+
+* * *
+
+Questo era l'**ultimo episodio**.
+
+Se vuoi leggere quali sono stati i preparativi per il *Kyrgyzstan* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/kyrgyzstan/ep-0-preparativi/index.md" >}}).

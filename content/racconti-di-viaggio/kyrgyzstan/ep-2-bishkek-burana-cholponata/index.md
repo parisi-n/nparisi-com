@@ -1,5 +1,5 @@
 ---
-title: "Kyrgyzstan: Bishkek, Burana Tower e Cholpon-Ata // Ep. 2"
+title: "Kyrgyzstan // Bishkek, Burana Tower e Cholpon-Ata // Ep. 2"
 date: "2023-10-16"
 image: "images/burana_header.jpg"
 
@@ -387,3 +387,9 @@ A ridosso delle rive incolte delle sponde nord del Lago Issyk-Kul un viale con p
 * * *
 
 Decidiamo di non trattenerci ulteriormente: ci aspettano 150km, pochi sulla carta — ma proprio per questo siamo consapevoli del fatto che perdere tempo pensando di averne a sufficienza è il miglior modo per arrivare, ancora una volta, tardi alla prossima destinazione: [Karakol]({{< ref "racconti-di-viaggio/kyrgyzstan/ep-3-karakol-kyzyl-suu/index.md" >}}).
+
+* * *
+
+Puoi leggere il [l'episodio #3 qui]({{< ref "racconti-di-viaggio/kyrgyzstan/ep-3-karakol-kyzyl-suu/index.md" >}}).
+
+Se invece vuoi leggere quali sono stati i preparativi per il *Kyrgyzstan* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/kyrgyzstan/ep-0-preparativi/index.md" >}}).

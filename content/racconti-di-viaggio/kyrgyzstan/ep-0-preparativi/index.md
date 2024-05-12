@@ -1,5 +1,5 @@
 ---
-title: "Kyrgyzstan: itinerario e preparativi per dieci giorni"
+title: "Kyrgyzstan // Itinerario e preparativi per dieci giorni"
 date: "2023-10-02"
 image: "images/kyrgyzstan_intro_header.jpg"
 

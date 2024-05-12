@@ -1,5 +1,5 @@
 ---
-title: "Kyrgyzstan: Karakol e la valle di Kyzyl-Suu // Ep. 3"
+title: "Kyrgyzstan // Karakol e la valle di Kyzyl-Suu // Ep. 3"
 date: "2023-10-23"
 image: "images/kyzylsuu_valley_header.jpg"
 
@@ -366,3 +366,10 @@ In caso ne abbiate necessità — nei pressi del [Karagat Hotel](#dove-soggiorna
 Questo è stato l'unico nostro giorno "pieno" disponibile per esplorare i paraggi di Karakol e come da programma l'abbiamo usato per esplorare la _valle di Kyzyl-Suu_ seguendo le indicazioni della **route** #9 del libro {{< affiliate_link "explore-kyrgyzstan" "Explore Kyrgyzstan" >}}. Siamo stanchi ma estremamente appagati dei paesaggi che abbiamo avuto la possibilità (e fortuna!) di contemplare.
 
 La notte al _Karagat hotel_ sarà anche la nostra ultima notte in albergo prima della tanto attesa **tappa critica**: l'indomani ci avrebbe aspettato [la valle di Jety Oguz, le cascate di Barskoon e lo Skazka canyon]({{< ref "racconti-di-viaggio/kyrgyzstan/ep-4-barksoon-skazka-bokonbayevo/index.md" >}}).
+
+
+* * *
+
+Puoi leggere il [l'episodio #4 qui]({{< ref "racconti-di-viaggio/kyrgyzstan/ep-4-barksoon-skazka-bokonbayevo/index.md" >}}).
+
+Se invece vuoi leggere quali sono stati i preparativi per il *Kyrgyzstan* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/kyrgyzstan/ep-0-preparativi/index.md" >}}).

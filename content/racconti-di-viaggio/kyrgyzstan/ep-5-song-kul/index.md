@@ -1,5 +1,5 @@
 ---
-title: "Kyrgyzstan: Song-Kul e la ricerca di KD // Ep. 5"
+title: "Kyrgyzstan // Song-Kul e la ricerca di KD // Ep. 5"
 date: "2023-11-06"
 image: "images/iurt_camp_songkul_nord_2_header.jpg"
 
@@ -438,3 +438,8 @@ Inizio a scrivere un sms — anche se non avremo campo prima dei prossimi 40-50k
 
 _"Mamma stiamo bene, tutto ok, stiamo partendo. Quando leggerai questo messaggio saremo già diretti verso Bishkek"_.
 
+* * *
+
+Puoi leggere il [l'episodio #6 qui]({{< ref "racconti-di-viaggio/kyrgyzstan/ep-6-bishkek/index.md" >}}).
+
+Se invece vuoi leggere quali sono stati i preparativi per il *Kyrgyzstan* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/kyrgyzstan/ep-0-preparativi/index.md" >}}).
