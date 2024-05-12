@@ -197,7 +197,7 @@
      * VIDEO - VIMEO
      */
     .block-video-vimeo iframe { border: 0; }
-    .block-video-vimeo.vertical-4x5, .block-video-vimeo.vertical-9x16 { display: block; position: relative; margin: -3% 4.56% 0; }
+    .block-video-vimeo.vertical-4x5, .block-video-vimeo.vertical-9x16 { display: block; position: relative; margin: 4.56% 0; }
     .block-video-vimeo.horizontal { display: block; position: relative; margin: 3% 4.56% 0; }
     
     /**
@@ -583,7 +583,7 @@
         .post table { width: 100%; }
         .page { margin-top: 0em !important; }
         
-        .orange-box, .green-box { margin: initial; margin-left: 0em; margin-right: 0em; padding: 1em 1.3em; }
+        .orange-box, .green-box { margin: 2.56em 0em; padding: 1em 1.3em; }
         
         /* PAGE */
         .page .entry-container { margin-top: -2.55em !important; }
