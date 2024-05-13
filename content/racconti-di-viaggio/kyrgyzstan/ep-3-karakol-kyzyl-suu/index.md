@@ -26,6 +26,8 @@ Anche perchè, altrimenti, come avrei potuto godermi certi paesaggi mozzafiato, 
 
 ## Da Cholpon-Ata a Karakol
 
+{{< image src="cholponata-karakol.jpg" caption="Il percorso da Cholpon-Ata a Karakol" >}}
+
 Cholpon-Ata è la destinazione turistica più in di tutto il Kyrgyzstan; nel periodo estivo tutto il turismo "fugge" dalla città, in cui le temperature salgono senza pietà — e va a cercare refrigerio lungo le rive del lago Issyk-Kul.
 
 {{< image src="autovelox_speedcamera.jpg" alt="Autovelox lungo la strada da Cholpon-Ata a Karakol" caption="Attenzione: autovelox" type="wide-screen" >}}

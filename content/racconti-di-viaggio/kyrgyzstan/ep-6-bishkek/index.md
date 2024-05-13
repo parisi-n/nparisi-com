@@ -35,6 +35,8 @@ Ma ripercorriamo come siamo arrivati fino a Bishkek.
 
 ## Il rientro da Song-Kul
 
+{{< image src="songkul-bishkek.jpg" caption="Il percorso da Song kul a Bishkek" >}}
+
 Scendiamo dall'altipiano di Song-Kul, riprendiamo l'asse maestro Naryn-Kochkor e ci dirigiamo verso Nord, fino ad arrivare a Kochkor.
 
 Qui la prima cosa che facciamo è cercare un gommista. L'idea di non avere più nè compressore portatile nè una ruota di scorta non ci fa stare per nulla tranquilli, e le gomme montate ci hanno dimostrato di essere poco affidabili — usate sulle strade del Kyrgyzstan: alla prima sostituzione ci era stato detto che a cedere era stata la riparazione pre-esistente…

@@ -21,6 +21,8 @@ La frontiera tra Kazakhstan e Kyrgyzstan invece è una struttura moderna, o comu
 
 ## Il bus Almaty-Bishkek
 
+{{< image src="almaty-bishkek.jpg" caption="Il percorso da Almaty a Bishkek" >}}
+
 La città di Almaty è collegata alla città di Bishkek da un bus che parte dalla {{< external_link "https://maps.app.goo.gl/JhpXJyzha72raYGi8" "stazione di Sayran" >}} con una frequenza di **cinque volte al giorno**: _08:00_ , _10:00_ , _12:00_, _14:00_, _18:00_ — al costo di **3 280 ₸** (circa 7€).
 
 {{< image src="almaty_stazione.jpg" caption="Entrata della stazione dei bus di Almaty" type="wide-screen">}}
@@ -122,6 +124,8 @@ Faticherete un po' a trovarlo: si trova al secondo piano di un palazzo a tre pia
 
 Per poco meno di 1€ porterete a casa una cartina stradale del Kyrgyzstan. Un po' inutile considerato che vi muoverete per la maggior parte del tempo usando _Yandex Map_ ma, visto il costo contenuto, perchè rinunciare a questo souvenir così retrò?
 {{< /box >}}
+
+{{< image src="bishkek-cholponata.jpg" caption="Il percorso da Bishkek a Cholpon-Ata" >}}
 
 ## Burana Tower
 

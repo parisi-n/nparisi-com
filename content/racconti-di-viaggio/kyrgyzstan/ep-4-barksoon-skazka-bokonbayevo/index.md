@@ -18,6 +18,8 @@ Al mattino del nostro ultimo giorno a Karakol siamo un po' preoccupati: l'aver s
 Scriviamo una mail a Maxim per confessare il nostro errore e lui, nel giro di alcuni minuti, ci tranquillizza: nel caso si sia superato il limite di poche centinaia di metri e successivamente si sia tornati indietro — possiamo stare tranquilli.
 {{< capital_letter_close >}}
 
+{{< image src="karakol-tong.jpg" caption="Il percorso da Karakol a Tong" >}}
+
 {{< box "blue" >}}
 L'aver valicato il limite di una delle {{< external_link "https://www.google.com/maps/d/u/0/viewer?mid=1GtIB8xJpRp4JSiIxSi3aSx81r_Kb3ts&femb=1&ll=42.099856444905576%2C76.1229127708129&z=8" "zone proibite" >}} a causa del fatto di non aver attentamente studiato l'itinerario, anche se cambiato e deciso su due piedi, ci è costato un bel rischio.
 

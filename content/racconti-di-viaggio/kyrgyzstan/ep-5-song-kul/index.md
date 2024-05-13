@@ -16,6 +16,8 @@ type: "article"
 Partiamo. Sappiamo che stiamo andando incontro alla **tappa critica** del viaggio. Ogni viaggio ha per definizione una _tappa critica_: è quella fase del viaggio un po' più complessa delle altre, in cui varie cose potrebbero andare male oppure ci sono più cose da gestire contemporaneamente ed il margine di errore è maggiore.
 {{< capital_letter_close >}}
 
+{{< image src="tong-songkul.jpg" caption="Il percorso da Tong a Song kul" >}}
+
 **Questa è una di queste.**
 
 {{< image src="aquila_2.jpg" alt="Aquila che vola" >}}
