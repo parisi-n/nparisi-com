@@ -2,6 +2,7 @@
     {{ range .slider }}
         {{ $boardpage := $.outerScope.GetPage .url }}
         {{ $text_title := .text_title }}
+        {{ $text_description := .text_description }}
         {{ $url := .url | absURL }}
         {{ $category := .category }}
         {{ $category_color := .color_category }}
@@ -10,15 +11,19 @@
             {{ $img := printf "images/%s" .image }}
 
             {{ with $boardpage.Resources.GetMatch $img }}
-                {{ $scaled := .Crop "480x800 Center q100" }}
-                {{ $scaled := $scaled.Resize "webp 480x q70" }}
+
+                {{ $scaled := .Resize "webp 450x270 q70" }}
 
                 <a href="{{ $url }}" alt="Leggi il post {{ $text_title }}">
-                    <div class="slider-box" style="background: url('{{ $scaled.Permalink }}') no-repeat; background-size: cover; background-position: center;">
+                    <div class="slider-box">
+                        
+                        <div class="picture" style="background: url('{{ $scaled.Permalink }}') no-repeat; background-size: cover; background-position: center;"></div>
 
-                        <h5 class="category" style="background-color: {{ $category_color }}">{{ $category }}</h5>
+                        <h5 class="category" style="color: {{ $category_color }}">{{ $category }}</h5>
 
                         <div class="title"><h4>{{ $text_title }}</h4></div>
+                        
+                        <div class="description">{{ $text_description }}</div>
 
                     </div>
                 </a>
