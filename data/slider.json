@@ -37,15 +37,15 @@
             "color_category": "#f4511e" ,
             "category": "Kyrgyzstan" ,
             "text_title" : "Il nord del'Issyk-Kul" ,
-            "text_description" : "Da bishkek a Burana e poi a Cholpon-Ata: i luoghi salienti della sponda nord del lago Yssyk-Kul" ,
+            "text_description" : "La frontiera da Almaty a Bishkek, poi Burana e infine Cholpon-Ata: i luoghi salienti della sponda nord dell'Issyk-Kul" ,
             "url" : "racconti-di-viaggio/kyrgyzstan/ep-2-bishkek-burana-cholponata/"
         } ,
         {
             "image" : "almaty_header.jpg" ,
             "color_category": "#f4511e" ,
             "category": "Kyrgyzstan" ,
-            "text_title" : "Almaty e la frontiera" ,
-            "text_description" : "Cosa vedere, cosa fare, e come spostarsi da Almaty a Bishkek" ,
+            "text_title" : "Almaty" ,
+            "text_description" : "Cosa vedere, cosa fare, e dove mangiare per esplorare Almaty" ,
             "url" : "racconti-di-viaggio/kyrgyzstan/ep-1-almaty/"
         } ,
         {
@@ -92,7 +92,7 @@
             "image" : "kyzyl_kum_cover.jpg" ,
             "color_category": "#f4511e" ,
             "category": "Uzbekistan" ,
-            "text_title" : "Il deserto del Kyzyl Kum ed le cinque fortezze" ,
+            "text_title" : "Il deserto del Kyzyl Kum e le cinque fortezze" ,
             "text_description" : "Attraversiamo in auto il deserto del Kyzyl Kum e ci lanciamo in un tour delle cinque fortezze poco prima di arrivare a Khiva" ,
             "url" : "racconti-di-viaggio/uzbekistan/ep-4-deserto-5-castelli/"
         } ,
