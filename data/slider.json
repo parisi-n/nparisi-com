@@ -5,7 +5,7 @@
             "color_category": "#f4511e" ,
             "category": "Kyrgyzstan" ,
             "text_title" : "Esplorando Bishkek" ,
-            "text_description" : "Cosa vedere, dove dormire, dove andare in due giorni nella capitale del Kyrgyzstan" ,
+            "text_description" : "Cosa vedere, dove dormire, dove andare in due giorni nella capitale del Kyrgyzstan." ,
             "url" : "racconti-di-viaggio/kyrgyzstan/ep-6-bishkek/"
         } ,
         {
@@ -13,7 +13,7 @@
             "color_category": "#f4511e" ,
             "category": "Kyrgyzstan" ,
             "text_title" : "Esplorando Song-Kul" ,
-            "text_description" : "Come arrivarci, dove dormire con inside-story: alla ricerca di KD per consegnargli delle vecchie foto" ,
+            "text_description" : "Come arrivarci, dove dormire con inside-story: alla ricerca di KD per consegnargli delle vecchie foto." ,
             "url" : "racconti-di-viaggio/kyrgyzstan/ep-5-song-kul/"
         } ,
         {
@@ -21,7 +21,7 @@
             "color_category": "#f4511e" ,
             "category": "Kyrgyzstan" ,
             "text_title" : "Il sud del'Issyk-Kul" ,
-            "text_description" : "Jety-Oguz, le Sette Rocce, Skazka Canyon: i punti salienti della sponda sud del lago Issyk-Kul" ,
+            "text_description" : "Jety-Oguz, le Sette Rocce, Skazka Canyon: i punti salienti della sponda sud del lago Issyk-Kul." ,
             "url" : "racconti-di-viaggio/kyrgyzstan/ep-4-barksoon-skazka-bokonbayevo/"
         } ,
         {
@@ -29,7 +29,7 @@
             "color_category": "#f4511e" ,
             "category": "Kyrgyzstan" ,
             "text_title" : "La valle di Kyzyl-Suu" ,
-            "text_description" : "Alla scoperta della valle di Kyzyl-Suu in quel che rappresenta un Kyrgyzstan genuino, puro, incontaminato" ,
+            "text_description" : "Alla scoperta della valle di Kyzyl-Suu in quel che rappresenta un Kyrgyzstan genuino, puro, incontaminato." ,
             "url" : "racconti-di-viaggio/kyrgyzstan/ep-3-karakol-kyzyl-suu/"
         } ,
         {
@@ -37,7 +37,7 @@
             "color_category": "#f4511e" ,
             "category": "Kyrgyzstan" ,
             "text_title" : "Il nord del'Issyk-Kul" ,
-            "text_description" : "La frontiera da Almaty a Bishkek, poi Burana e infine Cholpon-Ata: i luoghi salienti della sponda nord dell'Issyk-Kul" ,
+            "text_description" : "La frontiera da Almaty a Bishkek, poi Burana e infine Cholpon-Ata: i luoghi salienti della sponda nord dell'Issyk-Kul." ,
             "url" : "racconti-di-viaggio/kyrgyzstan/ep-2-bishkek-burana-cholponata/"
         } ,
         {
@@ -45,7 +45,7 @@
             "color_category": "#f4511e" ,
             "category": "Kyrgyzstan" ,
             "text_title" : "Almaty" ,
-            "text_description" : "Cosa vedere, cosa fare, e dove mangiare per esplorare Almaty" ,
+            "text_description" : "Cosa vedere, cosa fare, e dove mangiare per esplorare Almaty." ,
             "url" : "racconti-di-viaggio/kyrgyzstan/ep-1-almaty/"
         } ,
         {
@@ -53,7 +53,7 @@
             "color_category": "#f4511e" ,
             "category": "Kyrgyzstan" ,
             "text_title" : "Itinerario di 9 giorni" ,
-            "text_description" : "Come organizzare un viaggio in Kyrgyzstan dall'Italia dalla A alla Z" ,
+            "text_description" : "Come organizzare un viaggio in Kyrgyzstan dall'Italia dalla A alla Z." ,
             "url" : "racconti-di-viaggio/kyrgyzstan/ep-0-preparativi/"
         } ,
         {
@@ -61,14 +61,14 @@
             "color_category": "#f4511e" ,
             "category": "Moldova" ,
             "text_title" : "Chisinau" ,
-            "text_description" : "Cosa vedere e cosa fare in un week-end a Chisinau" ,
+            "text_description" : "Cosa vedere e cosa fare in un week-end a Chisinau." ,
             "url" : "racconti-di-viaggio/moldova/chisinau/"
         } ,
         {
             "image" : "lowepro_photosport_cover.jpg" ,
             "color_category": "#048d79" ,
             "category": "Accessori" ,
-            "text_title" : "LowePro PhotoSport BP24L: il battesimo sul campo" ,
+            "text_title" : "LowePro PhotoSport BP24L: il battesimo sul campo." ,
             "text_description" : "Cos'è e come mi son trovato con il nuovo zaino fotografico che ho deciso di prendere per i miei viaggi" ,
             "url" : "accessori/lowepro-photosport-24l/"
         } ,
@@ -77,7 +77,7 @@
             "color_category": "#f4511e" ,
             "category": "Uzbekistan" ,
             "text_title" : "Khiva ed il suo dedalo di strade misteriose" ,
-            "text_description" : "Cosa vedere, cosa fare e dove mangiare per scoprire nel profondo l'anima di Khiva" ,
+            "text_description" : "Cosa vedere, cosa fare e dove mangiare per scoprire nel profondo l'anima di Khiva." ,
             "url" : "racconti-di-viaggio/uzbekistan/ep-6-khiva/"
         } ,
         {
@@ -85,7 +85,7 @@
             "color_category": "#f4511e" ,
             "category": "Uzbekistan" ,
             "text_title" : "Moynaq, le iurte, l'alba ed il Lago d'Aral" ,
-            "text_description" : "In direzione del lago che muore alla scoperta di fasti e gloria di un'epoca passata" ,
+            "text_description" : "In direzione del lago che muore alla scoperta di fasti e gloria di un'epoca passata." ,
             "url" : "racconti-di-viaggio/uzbekistan/ep-5-moynaq-lago-aral/"
         } ,
         {
@@ -93,7 +93,7 @@
             "color_category": "#f4511e" ,
             "category": "Uzbekistan" ,
             "text_title" : "Il deserto del Kyzyl Kum e le cinque fortezze" ,
-            "text_description" : "Attraversiamo in auto il deserto del Kyzyl Kum e ci lanciamo in un tour delle cinque fortezze poco prima di arrivare a Khiva" ,
+            "text_description" : "Attraversiamo in auto il deserto del Kyzyl Kum e ci lanciamo in un tour delle cinque fortezze poco prima di arrivare a Khiva." ,
             "url" : "racconti-di-viaggio/uzbekistan/ep-4-deserto-5-castelli/"
         } ,
         {
@@ -101,7 +101,7 @@
             "color_category": "#f4511e" ,
             "category": "Uzbekistan" ,
             "text_title" : "Smarriti a Bukhara" ,
-            "text_description" : "Cosa vedere, cosa fare e dove mangiare per scoprire gli angoli più nascosti e genuini di Bukhara" ,
+            "text_description" : "Cosa vedere, cosa fare e dove mangiare per scoprire gli angoli più nascosti e genuini di Bukhara." ,
             "url" : "racconti-di-viaggio/uzbekistan/ep-3-bukhara/"
         } ,
         {
@@ -109,7 +109,7 @@
             "color_category": "#f4511e" ,
             "category": "Uzbekistan" ,
             "text_title" : "La fiaba di Samarcanda" ,
-            "text_description" : "Basta il nome per evocare le fiabe più lontane ed antiche. Cosa vedere, cosa fare e dove mangiare. " ,
+            "text_description" : "Basta il nome per evocare le fiabe più lontane ed antiche. Cosa vedere, cosa fare e dove mangiare." ,
             "url" : "racconti-di-viaggio/uzbekistan/ep-2-samarcanda/"
         } ,
         {
@@ -117,7 +117,7 @@
             "color_category": "#f4511e" ,
             "category": "Uzbekistan" ,
             "text_title" : "La via della seta" ,
-            "text_description" : "Itinerario e preparativi per organizzare il proprio viaggio di 10 giorni" ,
+            "text_description" : "Itinerario e preparativi per organizzare il proprio viaggio di 10 giorni." ,
             "url" : "racconti-di-viaggio/uzbekistan/ep-0-preparativi/"
         } ,
         {
@@ -125,7 +125,7 @@
             "color_category": "#048d79" ,
             "category": "Accessori" ,
             "text_title" : "Zaino fotografico: l'essenziale per la fotografia da viaggio" ,
-            "text_description" : "Cosa porto in giro durante i miei viaggi? Una carrellata di oggetti utili per la fotografia da viaggio" ,
+            "text_description" : "Cosa porto in giro durante i miei viaggi? Una carrellata di oggetti utili per la fotografia da viaggio." ,
             "url" : "accessori/attrezzatura-fotografica/"
         } ,
         {
@@ -133,7 +133,7 @@
             "color_category": "#fcbc05" ,
             "category": "Lifestyle" ,
             "text_title" : "#worldseaschallange" ,
-            "text_description" : "La mia challange personale: riuscire a fotografarmi con i piedi in acqua in tutti i mari (e laghi!) del mondo" ,
+            "text_description" : "La mia challange personale: riuscire a fotografarmi con i piedi in acqua in tutti i mari (e laghi!) del mondo." ,
             "url" : "lifestyle/worldseaschallange/"
         } ,
         {
@@ -141,7 +141,7 @@
             "color_category": "#f4511e" ,
             "category": "Norvegia" ,
             "text_title" : "Il Paradiso delle Lofoten" ,
-            "text_description" : "Cosa vedere, cosa fare e dove mangiare nelle Isole delle Lofoten, immersi nella natura" ,
+            "text_description" : "Cosa vedere, cosa fare e dove mangiare nelle Isole delle Lofoten, immersi nella natura." ,
             "url" : "racconti-di-viaggio/norvegia/day-7-lofoten/"
         } ,
         {
@@ -149,7 +149,7 @@
             "color_category": "#f4511e" ,
             "category": "Norvegia" ,
             "text_title" : "Trolltunga" ,
-            "text_description" : "Come organizzare l'escursione a Trolltunga, dove alloggiare e come arrivarci" ,
+            "text_description" : "Come organizzare l'escursione a Trolltunga, dove alloggiare e come arrivarci." ,
             "url" : "racconti-di-viaggio/norvegia/day-2-odda-trolltunga/"
         } ,
         {
@@ -157,7 +157,7 @@
             "color_category": "#048d79" ,
             "category": "Accessori" ,
             "text_title" : "Curve e Crypto: la mia esperienza" ,
-            "text_description" : "Le carte che uso in viaggio e perchè ne suggerisco il loro uso" ,
+            "text_description" : "Le carte che uso in viaggio e perchè ne suggerisco il loro uso." ,
             "url" : "lifestyle/curve-crypto-in-viaggio/"
         }
     ]

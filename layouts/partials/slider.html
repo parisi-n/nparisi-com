@@ -11,13 +11,12 @@
             {{ $img := printf "images/%s" .image }}
 
             {{ with $boardpage.Resources.GetMatch $img }}
-
                 {{ $scaled := .Resize "webp 450x270 q70" }}
 
                 <a href="{{ $url }}" alt="Leggi il post {{ $text_title }}">
                     <div class="slider-box">
                         
-                        <div class="picture" style="background: url('{{ $scaled.Permalink }}') no-repeat; background-size: cover; background-position: center;"></div>
+                        <div class="picture" style="background: url('{{ $scaled.Permalink }}') no-repeat; background-size: auto; background-position: center;"></div>
 
                         <h5 class="category" style="color: {{ $category_color }}">{{ $category }}</h5>
 

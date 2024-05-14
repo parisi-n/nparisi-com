@@ -258,14 +258,15 @@
          * SLIDER
          */
         .slider-container { display: inline-flex; overflow-x: scroll; width: 100%; }
-        .slider-box { height: 28.5rem !important; min-width: 20rem !important; display: block; border-radius: 3px; margin: 1.3rem; margin-left: 0rem; text-align: center; transition: all ease 0.5s; cursor: pointer; background-color: #fff; filter: saturate(0.7); }
+        .slider-box { height: 31.5rem !important; min-width: 20.1rem !important; display: block; border-radius: 3px; margin: 1.3rem; margin-left: 0rem; margin-right: 1.9rem; text-align: center; transition: all ease 0.5s; cursor: pointer; background-color: #fff; filter: saturate(0.7); }
         .slider-box:hover { filter: saturate(1); }
 
-        .slider-box .picture { height: 15rem !important; min-width: 20rem !important; filter: saturate(0.7); }
+        .slider-box .picture { height: 16.25rem !important; min-width: 22.5rem !important; filter: saturate(0.7); }
         .slider-box .category { margin: 1.3rem auto 0px; padding: 8px 13px; border-radius: 7px; width: fit-content; font-weight: 600; color: #aaaaaa; }
+        .slider-box .category { font-size: 1.02rem; }
         .slider-box .description { font-family: "Open Sans", sans-serif !important; line-height: 1.8em !important; text-align: center !important; word-spacing: -2px; padding: 8px 13px; border-radius: 7px; width: fit-content; color: #aaaaaa !important; }
         .slider-box .title { margin: 0px auto; padding: 8px 13px; display: flex; align-items: center; }
-        .slider-box .title h4 { font-weight: 600; color: #4d4d4d; letter-spacing: 1px; width: 100%; font-size: 1.02rem; }
+        .slider-box .title h4 { font-weight: 600; color: #4d4d4d; letter-spacing: 1px; width: 100%; font-size: 1.12rem; }
         .slider-box .button { margin: 1.3rem auto; position: absolute; bottom: 10px; margin-left: auto; margin-right: auto; left: 0; right: 0; }      
         
         /**
