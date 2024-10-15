@@ -41,6 +41,8 @@ Risposta rapida: bus e aereo.
 
 Non è possibile, a meno di non voler pagare cifre superiori ai 1000€ — raggiungere San Pietroburgo e Mosca via aria.
 
+{{< image src="percorso-bus.jpg" caption="Percorso da Tallinn a San Pietroburgo" >}}
+
 L'unica compagna che opera queste tratte con scalo tecnico-logistico a Istanbul è {{< external_link "www.turkish-airlines.tk" "Turkish Airlines" >}} — il cui costo per le date interessate raggiungeva i 1800€ a/r.
 
 Per questo motivo siamo volati su [Tallinn]({{< ref "/racconti-di-viaggio/repubbliche-baltiche/tallinn-riga/ep-2-the-times-we-had/index.md" >}}) e dalla sua {{< external_link "https://maps.app.goo.gl/jiniyXZKdQgQzVXj8" "stazione dei bus" >}} siamo partiti con un bus della compagnia **LuxExpress** verso San Pietroburgo.
