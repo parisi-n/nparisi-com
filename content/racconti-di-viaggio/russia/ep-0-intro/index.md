@@ -9,8 +9,6 @@ tags : [ "travel", "russia" ]
 
 showToc : true
 type: "article"
-
-bozza: true
 ---
 
 {{< box "blue" >}}
