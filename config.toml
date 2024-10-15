@@ -16,7 +16,7 @@ disableKinds = ["taxonomyTerm"]
 
 paginate = 7
 
-timeout = 120000
+timeout = 300000
 
 [taxonomy]
     category    =   "categories"
