@@ -391,6 +391,6 @@ Ci aspetta il confronto finale, l'esame da sostenere con noi stessi.
 
 * * *
 
-Puoi leggere il [l'episodio #5 qui]({{< ref "racconti-di-viaggio/kyrgyzstan/ep-5-song-kul/index.md" >}}).
+Puoi leggere [l'episodio #5 qui]({{< ref "racconti-di-viaggio/kyrgyzstan/ep-5-song-kul/index.md" >}}).
 
 Se invece vuoi leggere quali sono stati i preparativi per il *Kyrgyzstan* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/kyrgyzstan/ep-0-preparativi/index.md" >}}).

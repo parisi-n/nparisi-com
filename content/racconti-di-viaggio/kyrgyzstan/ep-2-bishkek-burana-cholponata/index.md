@@ -394,6 +394,6 @@ Decidiamo di non trattenerci ulteriormente: ci aspettano 150km, pochi sulla cart
 
 * * *
 
-Puoi leggere il [l'episodio #3 qui]({{< ref "racconti-di-viaggio/kyrgyzstan/ep-3-karakol-kyzyl-suu/index.md" >}}).
+Puoi leggere [l'episodio #3 qui]({{< ref "racconti-di-viaggio/kyrgyzstan/ep-3-karakol-kyzyl-suu/index.md" >}}).
 
 Se invece vuoi leggere quali sono stati i preparativi per il *Kyrgyzstan* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/kyrgyzstan/ep-0-preparativi/index.md" >}}).

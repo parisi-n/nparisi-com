@@ -414,7 +414,6 @@ Torniamo arricchiti, felici, contenti — con un desiderio: tornare.
 
 Grazie a {{< affiliate_link "frupari-instagram" "@frupari" >}} per avermi accompagnato — sperando che il prossimo sia sempre in Centrasia, sempre tra i monti, sempre tra nomi e posti leggendari.
 
-
 * * *
 
 Questo era l'**ultimo episodio**.

@@ -335,6 +335,6 @@ Ci prepariamo per [il giorno successivo]({{< ref "racconti-di-viaggio/kyrgyzstan
 
 * * *
 
-Puoi leggere il [l'episodio #2 qui]({{< ref "racconti-di-viaggio/kyrgyzstan/ep-2-bishkek-burana-cholponata/index.md" >}}).
+Puoi leggere [l'episodio #2 qui]({{< ref "racconti-di-viaggio/kyrgyzstan/ep-2-bishkek-burana-cholponata/index.md" >}}).
 
 Se invece vuoi leggere quali sono stati i preparativi per il *Kyrgyzstan* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/kyrgyzstan/ep-0-preparativi/index.md" >}}).

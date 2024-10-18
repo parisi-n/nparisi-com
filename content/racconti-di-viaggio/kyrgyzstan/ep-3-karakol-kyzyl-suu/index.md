@@ -372,6 +372,6 @@ La notte al _Karagat hotel_ sarà anche la nostra ultima notte in albergo prima 
 
 * * *
 
-Puoi leggere il [l'episodio #4 qui]({{< ref "racconti-di-viaggio/kyrgyzstan/ep-4-barksoon-skazka-bokonbayevo/index.md" >}}).
+Puoi leggere [l'episodio #4 qui]({{< ref "racconti-di-viaggio/kyrgyzstan/ep-4-barksoon-skazka-bokonbayevo/index.md" >}}).
 
 Se invece vuoi leggere quali sono stati i preparativi per il *Kyrgyzstan* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/kyrgyzstan/ep-0-preparativi/index.md" >}}).
