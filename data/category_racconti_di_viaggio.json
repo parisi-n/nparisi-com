@@ -1,6 +1,14 @@
 {
     "europa" : [
                     {
+                        "title" :   "Russia" ,
+                        "subtitle"  :   "Mosca e San Pietroburgo" ,
+                        "href"  :   "racconti-di-viaggio/russia/" ,
+                        "url"   :   "racconti-di-viaggio/russia/ep-0-intro" ,
+                        "img"   :   "russia_cover.jpg" ,
+                        "series" :  1
+                    } ,
+                    {
                         "title" :   "Moldova" ,
                         "subtitle"  :   "Chisinau" ,
                         "href"  :   "racconti-di-viaggio/moldova/chisinau" ,

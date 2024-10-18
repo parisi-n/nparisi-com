@@ -1,6 +1,14 @@
 {
     "array" : [
         {
+            "image" : "narva_cover.jpg" ,
+            "color_category": "#f4511e" ,
+            "category": "Russia" ,
+            "text_title" : "La frontiera estone-russa" ,
+            "text_description" : "Tallinn-San Pietroburgo: sulla carta un semplice spostamento, nella realtà ricco di sorprese" ,
+            "url" : "racconti-di-viaggio/russia/ep-1-viaggio-frontiera/"
+        } ,
+        {
             "image" : "russia_cover.jpg" ,
             "color_category": "#f4511e" ,
             "category": "Russia" ,
