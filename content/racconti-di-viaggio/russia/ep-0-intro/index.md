@@ -12,11 +12,11 @@ type: "article"
 ---
 
 {{< box "blue" >}}
-Le indicazioni fornite all'interno di quest post potrebbero non essere già più attuali al momento della pubblicazione, e si riferiscono alle informazioni raccolte in vista del viaggio avvenuto nella seconda metà di Giugno 2024.
+Le indicazioni fornite all'interno di questo post potrebbero non essere già più attuali al momento della pubblicazione, e si riferiscono alle informazioni raccolte in vista del viaggio avvenuto nella seconda metà di Giugno 2024.
 
-In particolare per quel che riguarda gli spostamenti attraverso quelli che sono i checkpoint attualmente operanti, a causa delle sanzioni e della tensione crescente tra blocco europeo e blocco russo — potrebbero subire repentine modifiche, anche durante il vostro viaggio — come esempio chiusure improvvise dei checkpoint e riaperture il giorno dopo che potrebbero portarvi a modificare repentinamente i programmi di viaggio — e per cui è necessaria non solo flessibilità temporale ma, soprattutto, mentale — per riorganizzare velocemente l'itinerario e programmare il prossimo step.
+In particolare per quel che riguarda gli spostamenti attraverso quelli che sono i checkpoint attualmente operanti, a causa delle sanzioni e della tensione crescente tra blocco europeo e blocco russo — potrebbero subire repentine modifiche, anche durante il vostro viaggio — come esempio chiusure improvvise dei checkpoint e riaperture il giorno dopo che potrebbero portarvi a dover modificare all'ultimo i programmi di viaggio — e per cui è necessaria non solo flessibilità temporale ma, soprattutto, mentale — per riorganizzare velocemente l'itinerario e programmare il prossimo step.
 
-Una minima competenza linguistica di russo è consigliata, non solo per poter parlare con gli ubriachi (la maggior parte delle volte innocui con cui vi troverete avere a che fare) ma anche per capire a grandi linee  — in caso di mutate condizioni politiche-amministrative — cosa accade e cosa è meglio fare in base al vostro giudizio.
+Una minima competenza linguistica di russo è consigliata, non solo per poter parlare con gli ubriachi (la maggior parte delle volte innocui, con cui vi troverete ad avere a che fare) ma anche per capire a grandi linee  — in caso di mutate condizioni politiche-amministrative — cosa accade e cosa è meglio fare in base al vostro giudizio.
 
 I fatti riportati in questo ciclo di post rappresentano quel che è stata la mia esperienza e non sono in alcun modo dei suggerimenti di itinerario da mettere in pratica alla cieca.
 {{< /box >}}
@@ -43,7 +43,7 @@ Non è possibile, a meno di non voler pagare cifre superiori ai 1000€ — ragg
 
 {{< image src="percorso-bus.jpg" caption="Percorso da Tallinn a San Pietroburgo" >}}
 
-L'unica compagna che opera queste tratte con scalo tecnico-logistico a Istanbul è {{< external_link "www.turkish-airlines.tk" "Turkish Airlines" >}} — il cui costo per le date interessate raggiungeva i 1800€ a/r.
+L'unica compagnia che opera queste tratte con scalo tecnico-logistico a Istanbul è {{< external_link "www.turkish-airlines.tk" "Turkish Airlines" >}} — il cui costo per le date interessate raggiungeva i 1800€ a/r.
 
 Per questo motivo siamo volati su [Tallinn]({{< ref "/racconti-di-viaggio/repubbliche-baltiche/tallinn-riga/ep-2-the-times-we-had/index.md" >}}) e dalla sua {{< external_link "https://maps.app.goo.gl/jiniyXZKdQgQzVXj8" "stazione dei bus" >}} siamo partiti con un bus della compagnia **LuxExpress** verso San Pietroburgo.
 
@@ -113,7 +113,7 @@ Passiamo così dalle 14:20 alle 21, con piccoli passi ogni quarto d'ora. Piove d
 
 Se ora l'attesa è così estenuante e siamo in estate, cosa sarà quando le temperature scenderanno a -20°, come è solito fare in queste zone in inverno?
 
-Durante l'attesa un gruppo di russofoni urla dalla torre di Ivangorod "rassyia! rassyia!". Ciò mi strappa un sorriso. Inneggiano ad uno stato che sta obbligando i suoi stessi concitadini ad attendere il nostro turno al freddo, bagnati, su un ponte attraversato da violenti venti, incurante di noi e delle nostre sofferenze, dei nostri sentimenti di Uomini. Il problema infatti è dal lato russo; mentre sul versante estone tramite il passaporto elettronico si passa agilmente ed i bagagli vengono passati allo scanner x-ray in pochi minuti — nella _casa verde_ sede del check-point russo si procede a rilento, e la coda si accumula sul ponte. All'interno — tre militari scrutano bagagli e passaporti, con un quarto che come un cerbero si assicura si mantenga un contegno adeguato, e si stia in silenzio.
+Durante l'attesa un gruppo di russofoni urla dalla torre di Ivangorod "rassyia! rassyia!". Ciò mi strappa un sorriso. Inneggiano ad uno stato che sta obbligando i suoi stessi concitadini ad attendere il loro turno al freddo, bagnati, su un ponte attraversato da violenti venti, incurante di loro e delle loro sofferenze, dei nostri sentimenti di Uomini. Il problema infatti è dal lato russo; mentre sul versante estone tramite il passaporto elettronico si passa agilmente ed i bagagli vengono passati allo scanner x-ray in pochi minuti — nella _casa verde_ sede del check-point russo si procede a rilento, e la coda si accumula sul ponte. All'interno — tre militari scrutano bagagli e passaporti, con un quarto che come un cerbero si assicura si mantenga un contegno adeguato, e si stia in silenzio.
 
 {{< image src="ponte_ee_ru.jpg" alt="" caption="Fila sul ponte al check-point russo vista dalla fortezza di Ivangorod" >}}
 
@@ -124,7 +124,7 @@ Sulla parete un orologio segna le 11:20 (o le 23:20) di un giorno del passato.
 
 * * *
 
-{{< video src="frontiera_attesa.mp4" caption="Fortezza di Ivangorod" type="wide-screen" >}}
+{{< vimeo src="1020003862" caption="Fortezza di Ivangorod" type="horizontal" gif="1" >}}
 
 Incontriamo anche una ragazza tedesca di 22 anni, che con voce discreta ma tremante ci chiede se può stare con noi durante l'attraversamento della frontiera, perchè è la sua prima esperienza, non sa come funzioni ed è da sola. E da soli le paure non si possono smezzare.
 E' diretta dal ragazzo, a San Pietroburgo.
@@ -141,7 +141,7 @@ Chi ci passa ha un bagaglio non solo fisico ma anche emotivo — che si porta di
 * * *
 
 In entrata nella Federazione Russa la fila si accalca sul ponte, in attesa del proprio verdetto.
-In uscita dalla Federazione Russa si trova solo un unico militare smaltisce abbastanza velocemente la coda — tanto che la coda in uscita viene smaltita abbastanza velocemente, a differenza di quella in entrata.
+In uscita dalla Federazione Russa si trova solo un unico militare che da solo smaltisce abbastanza velocemente la coda.
 
 ### Quali sono aperte?
 
@@ -175,7 +175,7 @@ Il checkpoint Narva-1 parrebbe essere stato soggetto a menutenzione recentemente
 
 La fila è unica, quindi non potrete accelerare questo controllo.
 
-All'interno della struttura **non** ci sono toilete. E' disponibile un servizio igienico al costo di 0.50€ al di là della piazza Petrovsky, seguendo le indicazioni contenute nei cartelli.
+All'interno della struttura **non** ci sono toilette. E' disponibile un servizio igienico al costo di 0.50€ al di là della piazza Petrovsky, seguendo le indicazioni contenute nei cartelli.
 
 {{< image src="cartelli_narva.jpg" alt="Cartelli direzionali per pedoni e ciclisti: a sinistra si va per Narva, a destra si va per Ivangorod" caption="" type="wide-screen" >}}
 
@@ -201,7 +201,7 @@ Dopo il ponte la copertura in **plexiglass verde** (che fa _pandant_ con il colo
 
 All'interno della _green house_ il controllo avviene in modo manuale, con tre sportelli di controllo documenti. Ogni controllo richiede circa un minuto, talvolta due o tre minuti. Si verrà controllati minuziosamente: e-visa, biglietto di ritorno e scopo del viaggio.
 
-A controllo eseguito ed ingresso accordato vi verrà rilasciata la _immigration card_ che dovrete conservare con cura in quanto vi verrà richiesta ad ogni soggiorno in hotel o al _money exchange_.
+A controllo eseguito ed ingresso accordato vi verrà rilasciata la _immigration card_ che dovrete conservare con cura in quanto vi verrà richiesta ad ogni soggiorno in hotel o al _money exchange_ — oltrechè in uscita.
 
 **Tempo impiegato: 6 ore.**
 
@@ -213,11 +213,11 @@ Dalla chat della frontiera si registrano invece anche **code di 8-9 ore**.
 La tempistica migliore sarebbe quella di presentarsi a Narva nel primo mattino, intorno alle 8, così da velocizzare tutte le procedure e poter essere dall'altro lato in circa un'ora.
 {{< /box >}}
 
-{{< image src="piazzale_ivangorod_allagato.jpg" alt="Vista dal finestrino del bus appena passata la frontiera russa: il piazzale era allagato" caption="Piazzale allagato di sosta dei bus in Ivangorod" >}}
+{{< image src="piazzale_ivangorod_allagato.jpg" alt="Vista dal finestrino del bus appena passata la frontiera russa: il piazzale era allagato" caption="Piazzale di sosta dei bus allagato in Ivangorod" >}}
 
 Dopo il nostro passaggio — pioveva ancora.
 
-{{< video src="paesaggio_bus_dopo_frontiera.mp4" caption="Campagne al confine russo-estone" type="vertical-9x16" >}}
+{{< vimeo src="1020003958" caption="Campagne al confine russo-estone" type="vertical-9x16" gif="1" >}}
 
 #### Come rimanere informati
 
@@ -246,7 +246,7 @@ In seguito alla chiusura inaspettata, i passeggeri di alcune compagnie (LuxExpre
 
 #### Cosa è vietato portare
 
-Dall'inizio del conflitto l'elenco degli oggetti importabili dalla Russia è variato in senso restrittivo; fino a prima del conflitto era possibile portare con se al attraverso la dogana **fino ad 1L di super-alcolico** per persona. Dal 2022 l'elenco è cambiato, ed è fatto assoluto divieto di importare qualunque prodotto superalcolico o altro prodotto possa generare guadagno per la Russia.
+Dall'inizio del conflitto l'elenco degli oggetti importabili dalla Russia è variato in senso restrittivo; fino a prima del conflitto era possibile portare con se attraverso la dogana **fino ad 1L di super-alcolico** per persona. Dal 2022 l'elenco è cambiato, ed è fatto assoluto divieto di importare qualunque prodotto superalcolico o altro prodotto possa generare guadagno per la Russia.
 
 Per chi se lo stesse chiedendo — nell'elenco è incluso **anche il caviale**.
 
@@ -260,7 +260,7 @@ Da grande affezionato di {{< external_link "www.booking.com" "Booking.com" >}} �
 
 Esistono vari siti in cui potrete cercare alloggi nel territorio russo — il problema principale è che non accetteranno a garanzia le vostre carte nè tantomeno potrete pagare nel momento della prenotazione per assicurarvi un prezzo ancor più competitivo — motivo per cui non ci siamo affidati a _Yandex_ ma direttamente a {{< external_link "https://ostrovok.ru/" "Ostravok.ru" >}} — disponibile anche con interfaccia in italiano (a differenza di _Yandex_, solo in russo!).
 
-Con nostra sorpresa _Ostravok.ru_ ha accettato la [carta Curve]({{< ref "/lifestyle/curve-crypto-in-viaggio/index.md" >}}) a garanzia. Yuttavia ci siamo limitati a scegliere locazioni con pagamento in loco e con cancellazione gratuita onde evitare problemi di sorta.
+Con nostra sorpresa _Ostravok.ru_ ha accettato la [carta Curve]({{< ref "/lifestyle/curve-crypto-in-viaggio/index.md" >}}) a garanzia. Tuttavia ci siamo limitati a scegliere locazioni con pagamento in loco e con cancellazione gratuita onde evitare problemi di sorta.
 
 ### Bus
 
@@ -283,6 +283,8 @@ Non abbiamo approfondito più di tanto l'argomento.
 Nella {{< external_link "https://maps.app.goo.gl/678Mte1CJeRhjW3e8" "Stazione dei Treni" >}} di San Pietroburgo sono presenti gli stand dei principali gestori russi: Megafon, Beeline e Tele2.
 
 Per _550 ₽_ (circa 6€) potrete ottenere una sim **Beeline** con 400 minuti, 400 sms e 15 Gigabyte dalla durata di un mese, con disattivazione al rinnovo in assenza di credito — già provata ai tempi del [viaggio in Kyrgyzstan]({{< ref "/racconti-di-viaggio/kyrgyzstan/ep-0-preparativi/index.md" >}}).
+
+Vi verrà chiesto il passaporto e l'__immigration card__; nel caso di **Beeline** una volta esaurito il primo mese di promozione ci è stato detto dall'operatrice che la promozione si sarebbe disattivata automaticamente.
 
 Se volete approfondire l'argomento _simcard_ {{< external_link "https://www.traveltomtom.net/destinations/europe/russia/best-prepaid-sim-card-russia" "qui sono presenti ulteriori dettagli" >}} compresa la copertura dei vari operatori.
 
@@ -316,9 +318,9 @@ Tornato in Europa — li ho subito contattati per spiegare il problema. Questa �
 > South Korea #89\
 > Greece #68\
 > [...]\
-> We recommend trying many of the servers one after another, if possible - all of them. It may take several to find one that works well for you.\
+> We recommend trying many of the servers one after another, if possible - all of them. It may take several to find one that works well for you.
 
-Come facilmente intuibile — non ho provato questa soluzione, che invece lascio ai lettori come possibile soluzione… almeno potrete mostrare in diretta le meraviglie che San Pietroburgo ha da offrire
+Come facilmente intuibile — non ho potuto provare ma lascio ai lettori questa possibile soluzione… almeno potrete mostrare in diretta le meraviglie che San Pietroburgo ha da offrire
 
 ## Il visto elettronico 🛂
 
@@ -441,13 +443,13 @@ Le sue funzioni di _hyperlapse_ e _timelapse_ con _focus tracking_ oltre alla fu
 
 ## Itinerario
 
-Non è tra i più comodi, ed è stato condizionato da necessità lavorative non altrimenti derogabili, che ci ha spinto anche questa volta verso una **tappa critica** — rappresentato dal doppio spostamento Mosca — San Pietroburgo — Tallinn senza permanenza in hotel.
+Non è tra i più comodi, ed è stato condizionato da necessità lavorative non altrimenti derogabili, che ci hanno spinto anche questa volta verso una **tappa critica** — rappresentata dal doppio spostamento Mosca — San Pietroburgo — Tallinn senza permanenza in hotel.
 
 * **Giorno #1**: arrivo a Tallinn all'alba e partenza in mattinata per San Pietroburgo (SPB) — con arrivo in serata e notte in città;
 * **Giorno #2** e **#3** : San Pietroburgo;
 * **Giorno #4**: partenza in serata per Mosca e notte in viaggio, in autobus;
 * **Giorno #5** e **#6**: Mosca; partenza la notte del secondo giorno per San Pietroburgo e notte in viaggio, in autobus;
-* **Giorno #7**: giornata a San Pietroburgo, gironata di acquisti; partenza nel pomeriggio per Tallinn;
+* **Giorno #7**: giornata a San Pietroburgo e di acquisti un po' pigri; partenza nel pomeriggio per Tallinn;
 * **Giorno #8** e **#9**: quanto sei bella, Tallinn?
 
 Un itinerario un po' obbligato, un po' sofferto, molto vissuto, con un valore umano elevatissimo. Stancante ma mai noioso.
