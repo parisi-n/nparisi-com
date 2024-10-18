@@ -14,11 +14,11 @@ type: "article"
 {{< box "blue" >}}
 Le indicazioni fornite all'interno di quest post potrebbero non essere già più attuali al momento della pubblicazione, e si riferiscono alle informazioni raccolte in vista del viaggio avvenuto nella seconda metà di Giugno 2024.
 
-Per maggiori informazioni sul _planning_ del viaggio fare riferimento a [quanto contenuto in questo post]({{< ref "/racconti-di-viaggio/russia/ep-0-intro/index.md" >}}).
+Per maggiori informazioni sul _planning_ del viaggio fare riferimento a [quanto contenuto in questo post]({{< ref "/racconti-di-viaggio/russia/ep-0-preparativi-itinerario/index.md" >}}).
 {{< /box >}}
 
 {{< capital_letter_open >}}
-L'arrivo nella città degli Eroi di Leningrado non è dei più trionfali: a causa dei ritardi alla frontiera (di cui parlo in [questo post]({{< ref "/racconti-di-viaggio/russia/ep-0-intro/index.md" >}})) ci ritroviamo letteralmente scaricati nel cuore della notte nella {{< external_link "https://maps.app.goo.gl/pBdD53nddh3WpPJB7" "Stazione dei Bus" >}}, su una via di mezzo tra il Centro e la Periferia, senza un rublo e senza potenzialmente essere sicuri che saremo stati accolti dall'hotel che avevamo prenotato.
+L'arrivo nella città degli Eroi di Leningrado non è dei più trionfali: a causa dei ritardi alla frontiera (di cui parlo in [questo post]({{< ref "/racconti-di-viaggio/russia/ep-0-preparativi-itinerario/index.md" >}})) ci ritroviamo letteralmente scaricati nel cuore della notte nella {{< external_link "https://maps.app.goo.gl/pBdD53nddh3WpPJB7" "Stazione dei Bus" >}}, su una via di mezzo tra il Centro e la Periferia, senza un rublo e senza potenzialmente essere sicuri che saremo stati accolti dall'hotel che avevamo prenotato.
 {{< capital_letter_close >}}
 
 Il *grande ritardo* alla frontiera ha un po' scombussolato tutti i piani; avevamo già pensato che potessimo avere un ritardo tale per cui era bene cambiare qualche euro in rublo — e per questo eravamo stati tentati di fare lo scambio all'aeroporto di Tallinn — in cui i rubli venivano scambiati con uno spread prossimo al 20%.
@@ -29,7 +29,7 @@ Ma procediamo con ordine.
 
 ## Il viaggio
 
-Partiamo verso Bergamo ad un orario forse mai registrato prima: alle 3 siamo già con il motore acceso, bagagli caricati, in uscita dal giardino di casa. L'aereo per Tallinn è in partenza alle 5:50.
+Partiamo verso Bergamo ad un orario forse mai registrato prima: alle 3 siamo già con il motore acceso, i bagagli caricati, in uscita dal giardino di casa. L'aereo per Tallinn è in partenza alle 5:50.
 
 L'autostrada è frequentata da pochi lavoratori e qualche mezzo pesante, il che ci permette di arrivare — nonostante la distanza — a Orio al Serio per le 4 e 15. Parcheggiamo come di consueto al P3 Smart (che per 9 giorni, considerato anche lo sconto in convenzione, ci è venuto meno di 5€ al giorno) — e tramite navetta siamo in aeroporto in poco meno di 10 minuti.
 
@@ -37,7 +37,7 @@ Ai controlli di sicurezza la solita, lunga, pesante coda ai controlli di sicurez
 
 Decidiamo di attendere 10 minuti per transitare dal Fast Track attraverso la lounge landside, e ne approfittiamo per bere un caffè al volo.
 
-Non facciamo in tempo ad concludere i controlli che, con larghissimo anticipo sentiamo l'annuncio di apertura Gate.
+Non facciamo in tempo ad concludere i controlli che, con larghissimo anticipo, sentiamo l'annuncio di apertura Gate.
 
 Ancora una volta, il volo per Tallinn — parte dal Gate A14. Stesso gate per stessa destinazione, ormai da alcuni anni a questa parte.
 
@@ -48,13 +48,13 @@ Arriviamo a Tallinn che il mondo è già in movimento dal un bel pezzo, anche co
 L'[ultima visita a Tallinn]({{< ref "/racconti-di-viaggio/repubbliche-baltiche/tallinn-riga/ep-2-the-times-we-had/index.md" >}}) risale al Dicembre 2022 ma sembra comunque ieri. In quel giorno — nevicava.
 
 Dalla fermata dell'aeroporto il bus numero #2 ci porta direttamente a pochi passi dalla stazione dei bus.
-Poichè comunque in anticipo, nonostante ci fossimo dimenticati di calcolare l'ora extra nel layover necessario per commuttare dall'aeroporto alla stazione dei bus — ci rechiamo nel {{< external_link "https://maps.app.goo.gl/sKQsPKqH9kx1SoSq6" "Rimi nei pressi della Bussijam" >}} e acquistiamo un po' di cibaria (compresi cibi già pronti!) per il viaggio.
+Poichè comunque in anticipo ci rechiamo nel {{< external_link "https://maps.app.goo.gl/sKQsPKqH9kx1SoSq6" "Rimi nei pressi della Bussijam" >}} e acquistiamo un po' di cibaria (compresi cibi già pronti!) per il viaggio.
 
 ## La stazione dei bus: Bussijam
 
 E' come ce la ricordavamo, o forse un po' più bruttina. L'ultima volta oltre un metro di neve ricopriva i margini delle strade, e fuori regnava il buio ed il gelo — circa -20°C. Proprio per questo motivo eravamo rimasti all'interno — rimandando l'uscita nel piazzale dei bus all'ultimo minuto.
 
-Questa volta invece è diverso: fuori è una piacevolissima giornata, e decidiamo di attendere il bus nel piazzale esterno… che ricorda di una classica stazione dei bus sovietica — per struttura, colori, disposizione, organizzazione.
+Questa volta invece è diverso: fuori è una piacevolissima giornata, e decidiamo di attendere il bus nel piazzale esterno che ricorda una classica stazione dei bus sovietica — per struttura, colori, disposizione, organizzazione.
 
 Alle 11:20, dopo un accurato controllo passaporti, è tempo di partire.
 
@@ -64,7 +64,7 @@ In cui arriviamo alle 14 circa.
 
 ## La frontiera
 
-Ho già abbondantemente raccontato dell'esperienza della frontiera nel [primo post]({{< ref "/racconti-di-viaggio/russia/ep-0-intro/index.md" >}}).
+Ho già abbondantemente raccontato dell'esperienza della frontiera nel [primo post]({{< ref "/racconti-di-viaggio/russia/ep-0-preparativi-itinerario/index.md" >}}).
 
 Arriviamo che è già presente una piccola coda, apparentemente statica — ma che ci regala qualche passo in avanti ogni minuto.
 
@@ -110,19 +110,19 @@ Nel tragitto riposiamo; tra me e me spero di arrivare più tardi possibile: in b
 
 Finchè — a mezzanotte e mezza — **arriviamo a San Pietroburgo**.
 
-{{< image src="san_pietroburgo_arrivo.jpg" alt="Icrocio con strade bagnate e semaforo pedonale rosso" type="wide-screen" >}}
-
-### L'arrivo a San Pietroburgo
+## L'arrivo a San Pietroburgo
 
 Scendiamo dal bus con i nostri averi ancora sparsi tra sacchetti, mani, tasche, immondezza.
 
-Cerchiamo di riorganizzarci ma il via vai delle persone che frettolose di trafelano verso l'uscita ci mette un filo d'ansia.
+Cerchiamo di riorganizzarci ma il via vai delle persone che frettolose si trafelano verso l'uscita ci mette un filo d'ansia.
 
 Impacchettiamo quel che possiamo, zaino in spalla, valigia in mano — ed usciamo attraverso i tornelli.
 
 **Siamo a San Pietroburgo** — anche se avrei sperato un arrivo migliore — un po' più comodo e trionfale.
 
 Invece siamo stanchi, sporchi, male organizzati. E' tardi e l'ultima corsa della metro è già partita.
+
+{{< image src="san_pietroburgo_arrivo.jpg" alt="Incrocio con strade bagnate e semaforo pedonale rosso" type="wide-screen" >}}
 
 Ci incaminiamo comunque verso la stazione, e nel tragitto audacemente entro in un _grocery store_ e chiedo se mi possano cambiare dei soldi. Non siamo in Centrasia, dove queste cose sono fattibilissime, ma ci tento lo stesso.
 Dopo un po' di remore — riesco a cambiare 50€ in rubli — che ci permettono di acquistare almeno la cena.
