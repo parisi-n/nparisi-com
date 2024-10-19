@@ -18,10 +18,10 @@ Per maggiori informazioni sul _planning_ del viaggio fare riferimento a [quanto 
 {{< /box >}}
 
 {{< capital_letter_open >}}
-L'arrivo nella città degli Eroi di Leningrado non è dei più trionfali: a causa dei ritardi alla frontiera (di cui parlo in [questo post]({{< ref "/racconti-di-viaggio/russia/ep-0-preparativi-itinerario/index.md" >}})) ci ritroviamo letteralmente scaricati nel cuore della notte nella {{< external_link "https://maps.app.goo.gl/pBdD53nddh3WpPJB7" "Stazione dei Bus" >}}, su una via di mezzo tra il Centro e la Periferia, senza un rublo e senza potenzialmente essere sicuri che saremo stati accolti dall'hotel che avevamo prenotato.
+L'arrivo nella città degli Eroi di Leningrado non è dei più trionfali: a causa dei ritardi alla frontiera (di cui parlo in [questo post]({{< ref "/racconti-di-viaggio/russia/ep-0-preparativi-itinerario/index.md" >}})) ci ritroviamo letteralmente scaricati nel cuore della notte nella {{< external_link "https://maps.app.goo.gl/pBdD53nddh3WpPJB7" "Stazione dei Bus" >}}, su una via di mezzo tra il Centro e la Periferia, senza un rublo e senza la certezza di essere accolti dall'hotel che avevamo prenotato vista l'ora.
 {{< capital_letter_close >}}
 
-Il *grande ritardo* alla frontiera ha un po' scombussolato tutti i piani; avevamo già pensato che potessimo avere un ritardo tale per cui era bene cambiare qualche euro in rublo — e per questo eravamo stati tentati di fare lo scambio all'aeroporto di Tallinn — in cui i rubli venivano scambiati con uno spread prossimo al 20%.
+Il *grande ritardo* alla frontiera ha un po' scombussolato tutti i piani; avevamo già pensato che avremo potuto avere un ritardo tale per cui sarebbe stato bene cambiare qualche euro in rublo — e per questo eravamo stati tentati di fare lo scambio all'aeroporto di Tallinn — in cui i rubli venivano scambiati con uno spread prossimo al 20%.
 
 Ma procediamo con ordine.
 
@@ -33,7 +33,7 @@ Partiamo verso Bergamo ad un orario forse mai registrato prima: alle 3 siamo gi�
 
 L'autostrada è frequentata da pochi lavoratori e qualche mezzo pesante, il che ci permette di arrivare — nonostante la distanza — a Orio al Serio per le 4 e 15. Parcheggiamo come di consueto al P3 Smart (che per 9 giorni, considerato anche lo sconto in convenzione, ci è venuto meno di 5€ al giorno) — e tramite navetta siamo in aeroporto in poco meno di 10 minuti.
 
-Ai controlli di sicurezza la solita, lunga, pesante coda ai controlli di sicurezza.
+Ai controlli di sicurezza la solita, lunga, pesante coda.
 
 Decidiamo di attendere 10 minuti per transitare dal Fast Track attraverso la lounge landside, e ne approfittiamo per bere un caffè al volo.
 
@@ -72,7 +72,7 @@ Arriviamo che è già presente una piccola coda, apparentemente statica — ma c
 
 Ad allietare l'attesa un suonatore di armonica ci canta canzoni antiche, lontane, dei tempi passati.
 
-Il ricordo vola veloce lontano nel tempo al il suonatore d'arpa [incontrato a Kiev]({{< ref "/racconti-di-viaggio/ucraina/kiev/ep-2-museo-guerra-grotte/index.md" >}}). Le note erano le stesse, facevano vibrare le corde dei ricordi, della nostalgia, del sentimento.
+Il ricordo vola veloce lontano nel tempo al suonatore d'arpa [incontrato a Kiev]({{< ref "/racconti-di-viaggio/ucraina/kiev/ep-2-museo-guerra-grotte/index.md" >}}). Le note erano le stesse, facevano vibrare le corde dei ricordi, della nostalgia, del sentimento.
 Così è anche ora, se non fosse che siamo presi dall'attesa e dalla coda.
 
 {{< image src="suonatore_fisarmonica.jpg" alt="Suonatore di fisarmonica alla frontiera Narva-1" >}}
@@ -138,3 +138,9 @@ Troviamo l'hotel — con qualche difficoltà, visto che a San Pietroburgo è in 
 La receptionist — Alina — è cordialissima e squisita. Le spiego della difficoltà di poter pagare subito considerato che le nostre carte non funzionano e non ho trovato money exchange operativi all'arrivo. Nonostante l'ora, ci accoglie e ci da le informazioni del caso.
 
 Ci indirizza verso la stanza — ed è la cosa più bella che ci potesse capitare.
+
+<!-- * * * -->
+
+<!-- Puoi leggere l'[episodio #2 su San Pietroburgo qui]({{< ref "racconti-di-viaggio/russia/ep-2-san-pietroburgo/index.md" >}}). -->
+
+<!-- [//] <> Se invece vuoi leggere quali sono stati i preparativi per il viaggio in *Russia* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/russia/ep-0-preparativi-itinerario/index.md" >}}). -->
