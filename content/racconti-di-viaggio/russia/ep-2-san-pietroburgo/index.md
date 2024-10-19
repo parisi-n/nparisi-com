@@ -76,13 +76,13 @@ L'hotel è accogliente, e  lo è ancor di più lo staff — che al nostro arrivo
 
 {{< image src="center_hotel_welcome.jpg" alt="Bottiglia di spumante, due calici e messaggio di benvenuto" caption="Benvenuti all'Hotel Center" >}}
 
-Mentre, in partenza, una marmellatina ai frutti rossi.
+Mentre, in partenza, una confettura ai frutti rossi.
 
 {{< image src="stazione_moskovsky.jpg" alt="Stazione dei treni Moskovski" type="wide-screen" >}}
 
 A pochi passi la {{< external_link "https://maps.app.goo.gl/BUK2fHwkbeKcC8oC7" "Stazione dei Treni Moskovski" >}} — che si affaccia sulla gigantesca {{< external_link "https://maps.app.goo.gl/jwSTi4BaqPFWGG3P9" "Piazza degli Eroi di Leningrado" >}}.
 
-Le camere sono _basic_, per via dei lavori di ristrutturazione non l'aria condizionata non è funzionante e nemmeno è possibile aprire la finestra — onde evitare di ritrovarsi qualche delinquente in stanza attraverso l'impalcatura presente.
+Le camere sono _basic_. Per via dei lavori di ristrutturazione non l'aria condizionata non era funzionante e nemmeno era possibile aprire la finestra — onde evitare di ritrovarsi qualche delinquente in stanza attraverso l'impalcatura presente.
 
 {{< image src="center_hotel_stanza.jpg" alt="Stanza del Center Hotel a San Pietroburgo" type="wide-screen" >}}
 
@@ -110,7 +110,7 @@ Una via lunga oltre 2km che non ha bisogno di presentazioni. Ne hanno parlato gr
 
 {{< image src="nevsky_prospekt_2.jpg" alt="Cartello che indica nel muro la via Nevsky Prospekt" caption="Nevsky Prospekt" >}}
  
-Ogni volta che la percorrerete vi imbatterete in una serie di meraviglia, una dopo l'altra — per cui dovrete stare attenti ad ogni incrocio.
+Ogni volta che la percorrerete vi imbatterete in una serie di meravigliE, una dopo l'altra — per cui dovrete stare attenti ad ogni incrocio.
 
 {{< image src="nevsky_prospekt_3.jpg" alt="Panoramica delle sei corsie della Nevsky Prospekt" type="wide-screen" >}}
  
@@ -122,7 +122,7 @@ Il primo edificio in cui vi imbattererete — circa a metà percorso — sarà l
 
 {{< image src="palazzo_singer.jpg" alt="Casa del Libro" caption="Palazzo Singer - Casa del libro" >}}
 
-Situata ad angolo di fronte alla [cattedrale di Kazan](#la-cattedrale-di-kazan) il suo progetto originario prevedeva la costruzione di un grattacielo come sede locale della _Singer Co._, casa produttrice di macchine da cucire. Il progetto no nfu mai ultimato perchè in tutta San Pietroburgo non era concesso costruire palazzi più alti del [Palazzo d'Inverno](#palazzo-dinverno-e-lhermitage). Per questo motivo l'edificio venne coronato con una cupola in rame e vetro.
+Situata ad angolo di fronte alla [cattedrale di Kazan](#la-cattedrale-di-kazan) il suo progetto originario prevedeva la costruzione di un grattacielo come sede locale della _Singer Co._, casa produttrice di macchine da cucire. Il progetto non fu mai ultimato perchè in tutta San Pietroburgo non era concesso costruire palazzi più alti del [Palazzo d'Inverno](#palazzo-dinverno-e-lhermitage). Per questo motivo l'edificio venne coronato con una cupola in rame e vetro.
 
 {{< image src="palazzo_singer_2.jpg" alt="Dettaglio del Palazzo Singer" >}}
 
@@ -219,13 +219,13 @@ Programmate di trascorrere al suo interno **almeno 2 ore e mezza**. All'interno 
 
 Consiglio di prendere a noleggio l'audioguida per non perdervi i dettagli che il palazzo ha da offrire.
 
-Come l'incisura sul vetro scritta con l'anello di diamante dalla figlia di chicazzo era!!!???
+Come l'incisura sul vetro scritta con l'anello di diamante dalla principessa Caterina.
 
 All'interno stanze a tema, dall'arte francese, a quella tedesca, **a quella italiana**.
 
 {{< image src="hermitage_porta.jpg" alt="Cartello dorato indica la stanza italiana all'interno dell'hermitage" caption="Stanza italiana nell'Hermitage" type="wide-screen" >}}
 
-Nel novero della cultura italiana rientrano una intera stanza dedicata a Raffaello, una a chi cazzo erano gli altri??
+Nel novero della cultura italiana rientrano una intera stanza dedicata a Raffaello più varie stanze dedicate ad altri artisti italiani come Michelangelo, Canova, Caravaggio e Da Vinci.
 
 * * *
 
@@ -257,9 +257,14 @@ Il prezzo rispetto a 10 anni fa è solo leggermente aumentato (ricordo un 70 ₽
 * * *
 
 Alcune stazioni che vi consiglio di visitare sono:
-* A tadinnanta
-* B tadinnanta
-* C continua tu
+* {{< external_link "https://en.wikipedia.org/wiki/Ploshchad_Vosstaniya_(Saint_Petersburg_Metro)" "Ploshad Vosstaniya" >}} simbolo della metro di San Pietroburgo, è stata inaugurata nel 1955;
+* {{< external_link "https://en.wikipedia.org/wiki/Mayakovskaya_(Saint_Petersburg_Metro)" "Mayakovskaya"" >}} con le porte ad _ascensore orizzontale_, in metallo e cieche, tutta rossa;
+* {{< external_link "https://en.wikipedia.org/wiki/Avtovo_(Saint_Petersburg_Metro)" "Avtovo" >}} inserita dal Guardian nel 2014 tra le 12 stazioni metro più belle del mondo;
+* {{< external_link "https://en.wikipedia.org/wiki/Admiralteyskaya_(Saint_Petersburg_Metro)" "Admiralteskaya" >}} di recentissima costruzione (2011) costruita per alleviare il traffico sulle altre due fermate della Nevsky Prospekt; 
+* {{< external_link "https://en.wikipedia.org/wiki/Mezhdunarodnaya_(Saint_Petersburg_Metro)" "Mezhdunarodnaya" >}} anche questea di recentissima costruzione (2012), caratteristica per essere una stazione basata su colonne portanti;
+* {{< external_link "https://en.wikipedia.org/wiki/Kirovsky_Zavod_(Saint_Petersburg_Metro)" "Kirovsky Zavod" >}} nominata così in onore della fabbrica di armamenti del tempo, la **Kirov plant**.
+
+Potete trovare maggiori informazioni sulle migliori metro di San Pietroburgo (con tanto di foto) {{< external_link "https://www.backpackadventures.org/st-petersburg-metro-tour/" "a questo link" >}}
 
 * * *
 
@@ -267,7 +272,7 @@ Alcune stazioni che vi consiglio di visitare sono:
 
 Anche conosciuta come _Bastiglia russa_ — fu voluta da Pietro il Grande e costruita su un'isola lungo il decorso del fiume Neva.
 
-All'interno è presente l'omonima cattedrale in cui, nel progetto e desiderio originale, sarebbero dovute essere sepolti i resti di Pietro il Grande e dei suoi successori.
+All'interno è presente l'omonima cattedrale in cui, nel progetto e desiderio originale, sarebbero dovuti essere sepolti i resti di Pietro il Grande e dei suoi successori.
 
 {{< image src="cattedrale_fortezza_pietro_paolo.jpg" alt="Cattedrale di San Pietro e Paolo nell'omonima fortezza" caption="Cattedrale della Fortezza" >}}
 
@@ -277,7 +282,7 @@ Ci si può arrivare con due ponti, uno ad Est ed uno ad Ovest.
 
 {{< image src="fortezza_pietro_paolo.jpg" alt="Ponte Ovest che conduce alla Fortezza di Pietro e Paolo" caption="Ponte Ovest" type="wide-screen" >}}
 
-In caso non vogliate percorrere a piedi il tratto che dalla _Nevsky prospekt_ di separa dal ponte potrebbe essere una buona idea quella di arrivarci mediante un servizio di navetta nautica con {{< external_link "https://maps.app.goo.gl/qbwdFNPXtieBMJzv7?g_st=iw" "partenza da qui" >}} che, al costo di 100 ₽, vi porterà quasi in prossimità del ponte ad Ovest.
+In caso non vogliate percorrere a piedi il tratto che dalla _Nevsky prospekt_ vi separa dal _ponte Ovest_ potrebbe essere una buona idea quella di arrivarci mediante un servizio di navetta nautica con {{< external_link "https://maps.app.goo.gl/qbwdFNPXtieBMJzv7?g_st=iw" "partenza da qui" >}} che, al costo di 100 ₽, vi porterà quasi in prossimità del ponte ad Ovest.
 
 All'interno potrete decidere al costo di 400 ₽ di salire lungo il ballatoio in legno presente sulla sommità del muro di cinta che funge da protezione alla fortezza.
 
@@ -321,7 +326,7 @@ La notte i ponti prendono vita in un rituale programmato che ha luogo ogni notte
 
 {{< image src="palace_bridge_long_exp.jpg" alt="Lunga esposizione del Palace Bridge. Si apprezza una colonna rostrata" caption="Lunga esposizione. Notare una colonna rostrata" type="wide-screen" >}}
  
-Uno spettacolo che nè le parole nè dei video possono possono riprodurre in alcun modo.
+Uno spettacolo che nè le parole e nè dei video possono riprodurre in alcun modo.
 
 {{< youtube id="Y31LNeZrx5Q" caption="Traffico sulla Neva" >}}
 
@@ -337,7 +342,7 @@ Ogni ponte infatti ha un orario preciso di apertura e chiusura, che ogni notte v
 
 {{< youtube id="UrKRLc89IG8" caption="Traffico sulla Neva" >}}
 
-Non ci siamo posizionati in prossimità del {{< external_link "https://maps.app.goo.gl/YydhXRpwuwqiGnr79" "Palace bridge" >}}.
+Noi ci siamo posizionati in prossimità del {{< external_link "https://maps.app.goo.gl/YydhXRpwuwqiGnr79" "Palace bridge" >}}.
 
 {{< youtube id="M7ucVNIv3Bk" caption="">}}
 
@@ -465,11 +470,11 @@ Il nostro primo pranzo a San Pietroburgo si tiene proprio qui; un posto un po' m
 
 ### Stolovaja
 
-Decisamente carichi e con tante speranze, suggiogati dall'idea di mangiare in una tavola calda (_stolovaja_) come in piena tradizione socialista — ci fermiamo per cena presso la {{< external_link "https://maps.app.goo.gl/YaXf3vCJH1WN3d2R7" "Stolovaja n. 3" >}} nei pressi della [Stazione dei treni](#stazione-dei-treni) e vicino all'_money exchange_ di [Ligovsky]({{< ref "/racconti-di-viaggio/russia/ep-0-preparativi-itinerario/index.md#cambio-valuta--e-pagamenti-elettronici" >}}).
+Decisamente carichi e con tante speranze, soggiogati dall'idea di mangiare in una tavola calda (_stolovaja_) come in piena tradizione socialista — ci fermiamo per cena presso la {{< external_link "https://maps.app.goo.gl/YaXf3vCJH1WN3d2R7" "Stolovaja n. 3" >}} nei pressi della [Stazione dei treni](#stazione-dei-treni) e vicino all'_money exchange_ di [Ligovsky]({{< ref "/racconti-di-viaggio/russia/ep-0-preparativi-itinerario/index.md#cambio-valuta--e-pagamenti-elettronici" >}}).
 
 **Pessima idea**.
 
-All'interno una varietà umana e di odori che difficilmente si abbinano ad una cena, tra cui un intrinseco **odore di pipì** proveniente dalle sedie (in velluto) e dei senza fissa dimora che bivaccavano nei divanetti ai margini del locale.
+All'interno una varietà umana e di odori che difficilmente si abbinano ad una cena, tra cui un intrinseco **odore di urina** proveniente dalle sedie (in velluto) e dei senza fissa dimora che bivaccavano nei divanetti ai margini del locale.
 
 Un connubio di odori e visioni che hanno reso la cena difficile da concludere; quando ce ne siamo accorti, ormai, avevamo già preso il vassoio del _buffet_.
 
@@ -491,7 +496,7 @@ Inoltre uno stand con **ottima birra** da tutto il mondo.
 
 {{< posizione "https://maps.app.goo.gl/f4mcBSPE9TtGZ2FY9" >}}
 
-Una fritelleria in cui poter assaggiare le tradizionali frittelle sovietiche, fatte secondo la ricetta di una volta.
+Una frittelleria in cui poter assaggiare le tradizionali frittelle sovietiche, fatte secondo la ricetta di una volta.
 
 {{< image src="pishky_poster.jpg" alt="Poster sovietico" >}}
 
@@ -511,7 +516,7 @@ Di giorno non ha l'aspetto nemmeno così tanto terrificante come invece ci era p
 
 {{< image src="stazione_bus_ingresso.jpg" alt="Ingresso della stazione. Il termometro digitale all'esterno segna 20 gradi. La parte superiore è in vetrata" caption="Ingresso della stazione" >}}
 
-Va inoltre fatta una nota: le stazioni sono normalmente ricettacolo di gente senza fissa dimora, delinquenza e popolazione ai margini della società o addetta a sostanze stupefacenti. Ci ha stupito il fatto che, invece, l'area era ben pulita e senza nessuno nei paraggi.
+Va inoltre fatta una nota: le stazioni sono normalmente ricettacolo di gente senza fissa dimora, delinquenza e popolazione ai margini della società o addetta a sostanze stupefacenti. Ci ha stupito il fatto che, invece, l'area fosse ben pulita e senza nessuno nei paraggi.
 
 Per entrare dovrete passare attraverso un _metal detector_.
 
@@ -539,7 +544,7 @@ La stazione dei treni più importante di San Pietroburgo è quella di Moskovsky 
 
 {{< vimeo src="1019990039" type="horizontal" gif="1" >}}
 
-All'interno invece troverete **deposito bagagli** funzionante, automatizzato e con la possibilità di autogestire il locker.
+All'interno invece troverete un **deposito bagagli** funzionante, automatizzato e con la possibilità di autogestire il locker.
 
 {{< image src="stazione_treni.jpg" alt="Interno della stazione dei treni con la sala d'attesa e i tanti negozi" caption="Interno" type="wide-screen" >}}
 

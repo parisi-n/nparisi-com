@@ -448,7 +448,7 @@ Le sue funzioni di _hyperlapse_ e _timelapse_ con _focus tracking_ oltre alla fu
 Non è tra i più comodi, ed è stato condizionato da necessità lavorative non altrimenti derogabili, che ci hanno spinto anche questa volta verso una **tappa critica** — rappresentata dal doppio spostamento Mosca — San Pietroburgo — Tallinn senza permanenza in hotel.
 
 * [Giorno #1]({{< ref "/racconti-di-viaggio/russia/ep-1-viaggio-frontiera/index.md" >}}): arrivo a Tallinn all'alba e partenza in mattinata per San Pietroburgo (SPB) — con arrivo in serata e notte in città;
-* **Giorno #2 e #3** : San Pietroburgo;
+* [Giorno #2 e #3]({{< ref "racconti-di-viaggio/russia/ep-2-san-pietroburgo/index.md" >}}) : San Pietroburgo;
 * **Giorno #4**: partenza in serata per Mosca e notte in viaggio, in autobus;
 * **Giorno #5** e **#6**: Mosca; partenza la notte del secondo giorno per San Pietroburgo e notte in viaggio, in autobus;
 * **Giorno #7**: giornata a San Pietroburgo e di acquisti un po' pigri; partenza nel pomeriggio per Tallinn;
