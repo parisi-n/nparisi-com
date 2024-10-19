@@ -1,6 +1,6 @@
 ---
 title: "Russia // San Pietroburgo: dove soggiornare, come spostarsi, cosa vedere // Ep. 2"
-date: "2024-07-17"
+date: "2024-11-17"
 image: "images/spb_cover.jpg"
 
 summary : "Leningrado, Stalingrado, San Pietroburgo: tre nomi, tre storie, una sola città. Nella Nevsky Prospekt e nei suoi canali trovano rappresentazione i romanzi di famosi scrittori russi. Le notti bianche ne tengono vivo il ricordo."
@@ -66,15 +66,16 @@ Optiamo per il {{< external_link "https://maps.app.goo.gl/9ayGbeCKtTneu3TRA" "Ce
 
 A due passi dalla **Nevsky Prospekt** — appena varcata la sogli in uscita si è catapultati nel mondo iperdinamico e popoloso della vita pietroburghese (???).
 
-{{< image src="center_hotel_welcome.jpg" alt="Bottiglia di spumante, due calici e messaggio di benvenuto" caption="Benvenuti all'Hotel Center" >}}
+Tra l'altro a pochi metri da noi si trovava l'hotel in cui ero stato ormai dieci anni fa — il {{< external_link "https://maps.app.goo.gl/U1i2Mkwe347mWfzS8" "Graffiti Hostel" >}}. Ricordo una casa del libro — nei suoi pressi; oggi chiusa...
 
-Tra l'altro a pochi metri dall'hotel in cui ero stato ormai dieci anni fa — il {{< external_link "https://maps.app.goo.gl/U1i2Mkwe347mWfzS8" "Graffiti Hostel" >}}. Ricordo una casa del libro — nei suoi pressi; oggi chiusa...
-
-Il fatto però di essere lungo la **Nevsky Proskept** non è di per se un parametro da considerare per reputarsi in centro: il famoso viale è lungo oltre 2km. La fermata della metro però vi darà abbastanza libertà di spostamento.
+Il fatto però di essere lungo la **Nevsky Proskept** non è di per sé un parametro da considerare per reputarsi in centro: il famoso viale è lungo oltre 2km. La fermata della metro però vi darà abbastanza libertà di spostamento.
 
 {{< image src="piazza_eroi.jpg" alt="Piazza degli Eroi di Leningrado con l'obelisco al centro" type="wide-screen" >}}
 
 L'hotel è accogliente, e  lo è ancor di più lo staff — che al nostro arrivo ci ha fatto trovare una bottiglia di bollicine e due calici.
+
+{{< image src="center_hotel_welcome.jpg" alt="Bottiglia di spumante, due calici e messaggio di benvenuto" caption="Benvenuti all'Hotel Center" >}}
+
 Mentre, in partenza, una marmellatina ai frutti rossi.
 
 {{< image src="stazione_moskovsky.jpg" alt="Stazione dei treni Moskovski" type="wide-screen" >}}
@@ -129,7 +130,7 @@ Divenne presto sede della più importante e grande libreria della città tanto d
 
 {{< image src="palazzo_singer_3.jpg" alt="Palazzo Singer visto da un'altra angolatura" >}}
 
-Oggi è sede del quartier generale **VK** (il social network russo simile a Facebook)
+Oggi è sede del quartier generale **VK** (il social network russo simile a Facebook).
 
 {{< image src="palazzo_singer_sede_vk.jpg" alt="Store ufficiale di VK e sopra la casa del libro del Palazzo Singer" >}}
 
@@ -210,7 +211,7 @@ Dopo la Rivoluzione Russa del 1917 il palazzo venne occupato dalla guardie rosse
 
 Ovunque online troverete l'indicazione di acquistare il biglietto  {{< external_link "https://tickets.hermitagemuseum.org/?id=3&sid=1" "direttamente dal sito internet" >}}. Orbene: partendo dal presupposto che le nostre carte non dovrebbero funzionare — il sito non ha mai proposto l'acquisto di biglietti tanto che pensavamo fossero già prenotati ed esauriti!
 
-In verità è bastato presentarci poco dopo l'apertura e — dopo una fila di appena 5 persona — acquistare al costo di 500 ₽ a testa il biglietto di ingresso. A fronte di ulteriori 500 ₽ ed una cauzione di 1000 ₽ avrete la possibilità di noleggiare l'audioguida **in italiano** per poter navigare attraverso l'infinito palazzo con almeno qualche punto di riferimento.
+In verità è bastato presentarci poco dopo l'apertura e — dopo una fila di appena 5 persona — acquistate al costo di 500 ₽ a testa il biglietto di ingresso. A fronte di ulteriori 500 ₽ ed una cauzione di 1000 ₽ avrete la possibilità di noleggiare l'audioguida **in italiano** per poter navigare attraverso l'infinito palazzo con almeno qualche punto di riferimento.
 
 Programmate di trascorrere al suo interno **almeno 2 ore e mezza**. All'interno è presente una _cafeteria_ con insalate, sandwich e altre cibarie per cui potrete programmare un break a metà visita e rendervela più piacevole e non un _tour de force_.
 
