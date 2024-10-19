@@ -138,3 +138,9 @@ Troviamo l'hotel — con qualche difficoltà, visto che a San Pietroburgo è in 
 La receptionist — Alina — è cordialissima e squisita. Le spiego della difficoltà di poter pagare subito considerato che le nostre carte non funzionano e non ho trovato money exchange operativi all'arrivo. Nonostante l'ora, ci accoglie e ci da le informazioni del caso.
 
 Ci indirizza verso la stanza — ed è la cosa più bella che ci potesse capitare.
+
+* * *
+
+Puoi leggere l'[episodio #2 su San Pietroburgo qui]({{< ref "racconti-di-viaggio/russia/ep-2-san-pietroburgo/index.md" >}}).
+
+Se invece vuoi leggere quali sono stati i preparativi per il viaggio in *Russia* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/russia/ep-0-preparativi-itinerario/index.md" >}}).
