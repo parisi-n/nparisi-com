@@ -1,14 +1,6 @@
 {
     "array" : [
         {
-            "image" : "spb_cover.jpg" ,
-            "color_category": "#f4511e" ,
-            "category": "Russia" ,
-            "text_title" : "San Pietroburgo" ,
-            "text_description" : "Leningrado, Stalingrado, San Pietroburgo: tre nomi, tre storie, una sola città. Scopriamola insieme." ,
-            "url" : "racconti-di-viaggio/russia/ep-1-viaggio-frontiera/"
-        } ,
-        {
             "image" : "narva_cover.jpg" ,
             "color_category": "#f4511e" ,
             "category": "Russia" ,
