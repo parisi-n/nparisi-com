@@ -258,7 +258,7 @@ Il prezzo rispetto a 10 anni fa è solo leggermente aumentato (ricordo un 70 ₽
 
 Alcune stazioni che vi consiglio di visitare sono:
 * {{< external_link "https://en.wikipedia.org/wiki/Ploshchad_Vosstaniya_(Saint_Petersburg_Metro)" "Ploshad Vosstaniya" >}} simbolo della metro di San Pietroburgo, è stata inaugurata nel 1955;
-* {{< external_link "https://en.wikipedia.org/wiki/Mayakovskaya_(Saint_Petersburg_Metro)" "Mayakovskaya"" >}} con le porte ad _ascensore orizzontale_, in metallo e cieche, tutta rossa;
+* {{< external_link "https://en.wikipedia.org/wiki/Mayakovskaya_(Saint_Petersburg_Metro)" "Mayakovskaya" >}} con le porte ad _ascensore orizzontale_, in metallo e cieche, tutta rossa;
 * {{< external_link "https://en.wikipedia.org/wiki/Avtovo_(Saint_Petersburg_Metro)" "Avtovo" >}} inserita dal Guardian nel 2014 tra le 12 stazioni metro più belle del mondo;
 * {{< external_link "https://en.wikipedia.org/wiki/Admiralteyskaya_(Saint_Petersburg_Metro)" "Admiralteskaya" >}} di recentissima costruzione (2011) costruita per alleviare il traffico sulle altre due fermate della Nevsky Prospekt; 
 * {{< external_link "https://en.wikipedia.org/wiki/Mezhdunarodnaya_(Saint_Petersburg_Metro)" "Mezhdunarodnaya" >}} anche questea di recentissima costruzione (2012), caratteristica per essere una stazione basata su colonne portanti;
