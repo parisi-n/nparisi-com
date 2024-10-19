@@ -1,6 +1,6 @@
 ---
 title: "Russia // San Pietroburgo: dove soggiornare, come spostarsi, cosa vedere // Ep. 2"
-date: "2024-11-17"
+date: "2024-07-17"
 image: "images/spb_cover.jpg"
 
 summary : "Leningrado, Stalingrado, San Pietroburgo: tre nomi, tre storie, una sola città. Nella Nevsky Prospekt e nei suoi canali trovano rappresentazione i romanzi di famosi scrittori russi. Le notti bianche ne tengono vivo il ricordo."
