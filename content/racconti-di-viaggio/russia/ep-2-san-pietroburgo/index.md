@@ -142,7 +142,7 @@ In particolare il servizio bar vi permetterà di gustare un buon caffè (o espre
 
 {{< vimeo src="1021225184"  type="horizontal" gif="1" >}}
 
-Per accedervi però avrete necessità di un tagliandino che vi verrà rilasciato una volta consumato al bar.
+Per accedere alla toilette però avrete necessità di un tagliandino che vi verrà rilasciato una volta consumato al bar.
 
 [//]: # (Poichè dubito vengano sostituiti di frequente, lascio **per i carissimi lettori del blog** e solo per loro una foto del QR code necessario all'apertura dei tornelli.)
 
@@ -265,8 +265,6 @@ Alcune stazioni che vi consiglio di visitare sono:
 * {{< external_link "https://en.wikipedia.org/wiki/Kirovsky_Zavod_(Saint_Petersburg_Metro)" "Kirovsky Zavod" >}} nominata così in onore della fabbrica di armamenti del tempo, la **Kirov plant**.
 
 Potete trovare maggiori informazioni sulle migliori metro di San Pietroburgo (con tanto di foto) {{< external_link "https://www.backpackadventures.org/st-petersburg-metro-tour/" "a questo link" >}}
-
-* * *
 
 ### La fortezza di San Pietro e Paolo
 
@@ -456,7 +454,7 @@ Ad ogni angolo troverete escursioni sia sul Neva che fuori San Pietroburgo, come
 
 Come sempre il consiglio è di non precipitarsi al primo "butta-dentro" con megafono ma di farsi un'idea complessiva e fare confronti sfruttando anche Google per le recensioni.
 
-## Dove (e cosa) mangiare
+## Dove mangiare
 
 A San Pietroburgo avrete solo l'imbarazzo della scelta, sui luoghi in cui mangiare.
 
