@@ -28,10 +28,10 @@ Per maggiori informazioni sul _planning_ del viaggio fare riferimento a [quanto 
 {{< /box >}}
 
 {{< capital_letter_open >}}
-Mosca è distante circa 700km da San Pietroburgo e le due città sono collegate da un tratto autostradale a quattro corsie per l'intero percorso. Non troverete che poche curve, motivo per cui anche andando in bus vi sembrerà di essere in un treno. In bus la tratta richiederà 9 ore, ed e sono previste due brevi soste lungo il percorso — in delle stazioni di servizio.
+Mosca è distante circa 700km da San Pietroburgo e le due città sono collegate da un tratto autostradale a quattro corsie per l'intero percorso. Non troverete che poche curve, motivo per cui anche andando in bus vi sembrerà di essere in un treno. In bus la tratta richiederà 9 ore, e sono previste due brevi soste lungo il percorso — in delle stazioni di servizio.
 {{< capital_letter_close >}}
 
-Le stazioni di servizio lungo le autostrade russe hanno qualcosa di misto tra l'avvincente ed un degrado inesorabile. Troverete però tutto ciò che può coccolarvi, da bevande calde a cioccolati a hot dog di tutti i gusti e condimenti.
+Le stazioni di servizio lungo le autostrade russe hanno qualcosa di misto tra l'avvincente ed un degrado inesorabile. Troverete però tutto ciò che può coccolarvi, da bevande calde a cioccolati, a hot dog di tutti i gusti e condimenti.
 
 ## Il viaggio notturno
 
@@ -43,7 +43,7 @@ Inoltre l'idea di affidarci ad un intermediario non mi piace granchè. Da sempre
 Il sito delle ferrovie russe {{< external_link "https://eng.rzd.ru/" "lo trovate qui" >}} (sarà necessaria una VPN per accedervi).
 {{< /box >}}
 
-La nostra scelta ricade sul bus per   lfatto che — non potendo prenotare per tempo la tratta con un treno veloce da San Pietroburgo a Mosca — una volta valutati i possibili orari per la tratta presso la [stazione Moskovsky]({{< ref "/racconti-di-viaggio/russia/ep-2-san-pietroburgo/index.md#stazione-dei-treni" >}}) abbiamo realizzato come il biglietto arrivasse a costare fino a 150-190€ per singola tratta per percorrere, con l'alta velocità, il percorso in circa 3 ore.
+La nostra scelta ricade sul bus per il fatto che — non potendo prenotare per tempo la tratta con un treno veloce da San Pietroburgo a Mosca — una volta valutati i possibili orari per la tratta presso la [stazione Moskovsky]({{< ref "/racconti-di-viaggio/russia/ep-2-san-pietroburgo/index.md#stazione-dei-treni" >}}), abbiamo realizzato come il biglietto arrivasse a costare fino a 150-190€ per singola tratta per percorrere, con l'alta velocità, il percorso in circa 3 ore.
 Il treno più lento o notturno arrivava invece a costare non meno di 50/60€.
 
 A conti fatti decisamente non conveniente.
@@ -66,7 +66,7 @@ Presente una _coffe macchine_, una toilete (**addirittura profumata!** contro og
 
 {{< image src="ecolines_sedute.jpg" caption="Spazio per la gambe ✔️" type="wide-screen" >}}
 
-La seduta è abbondante, con possibilità di spostare lateralmente il sedile del corridoio e guadagnare qualche ulteriore centimetro.
+La seduta è spaziosa, con possibilità di spostare lateralmente il sedile del corridoio e guadagnare qualche ulteriore centimetro.
 
 {{< image src="ecolines_spb_msk.jpg" caption="Enterteinment di bordo" type="wide-screen" >}}
 
@@ -80,7 +80,7 @@ Fuori è ancora abbondantemente luminoso e ci si può orientare all'interno del 
 
 {{< vimeo src="1021149932" type="horizontal" gif="1" >}}
 
-Mangiamo in modo splendido, merito anche delle _pokè_ acquistare nel centro commerciale [Galerija]({{< ref "/racconti-di-viaggio/russia/ep-2-san-pietroburgo/index.md#Galerija" >}}).
+Mangiamo in modo splendido, merito anche delle _pokè_ acquistate nel centro commerciale [Galerija]({{< ref "/racconti-di-viaggio/russia/ep-2-san-pietroburgo/index.md#Galerija" >}}).
 
 {{< vimeo src="1021149841" type="horizontal" gif="1" >}}
 
@@ -92,7 +92,7 @@ I rumori circostanti sono stati controllati con successo grazie ai soliti [tappi
 
 {{< vimeo src="1021265585" type="vertical-9x16" gif="1" >}}
 
-Facciamo colazione a bordo con una cioccolata calda ed ua _napoleon cake_ ed arriviamo in stazione a Mosca poco prima delle 6.
+Facciamo colazione a bordo con una cioccolata calda ed una _napoleon cake_ ed arriviamo in stazione a Mosca poco prima delle 6.
 
 {{< image src="stazione_bus_mosca_esterno.jpg" alt="Esterno della stazione dei bus di Severnyye Vorota" type="wide-screen" >}}
 
@@ -108,17 +108,17 @@ Sia all'interno che all'esterno la struttura è moderna e pulita, lontana dallo 
 
 {{< image src="stazione_bus_mosca_sala_attesa.jpg" caption="Sala di attesa della Stazione bus Severnyye Vorota" type="wide-screen" >}}
 
-Emozionante poi vedere come, da queeella stessa sne, esistano dei bus che viaggiano per gli angoli più remoti ed inominabili di tutta la Federazione Russa.
+Emozionante poi vedere come, da quella stessa stazione, esistano dei bus che viaggiano per gli angoli più remoti ed innominabili di tutta la Federazione Russa.
 
 {{< image src="stazione_bus_mosca_destinazioni.jpg" caption="Destinazioni" type="wide-screen" >}}
 
 * * *
 
-Sono da poco passate le 6 del mattino, siamo stanchi come se avessimo percorso a piedi i 700km di strada che ci separavano da San Pietroburgo.
+Sono da poco passate le 6 del mattino. Siamo stanchi come se avessimo percorso a piedi i 700km di strada che ci separavano da San Pietroburgo.
 
 {{< image src="stazione_metro.jpg" caption="Stazione metro" type="wide-screen" >}}
 
-Ci incaminiamo verso la limitrofa fermata della metro ed in noi si accende solo una speranza: che in hotel ci permettano di fare l'_early check-in_.
+Ci incamminiamo verso la limitrofa fermata della metro ed in noi si accende solo una speranza: che in hotel ci permettano di fare l'_early check-in_.
 
 Staremo a Mosca per un totale di **appena 36 ore** e partire con già il desiderio di dormire non è effettivamente il massimo.
 
@@ -136,7 +136,7 @@ Che, soprattutto, di notte.
 
 {{< image src="hotel_vista_notte.jpg" alt="Vista notturna della camera di Azimut hotel su Moscow City" >}}
 
-Non solo accettano la nostra richiesta di _early check-in_ **senza sovrapprezzo** ma siamo così fortunati da poter scegliere il lato: _moscow city_ vs _ministero degli affari esterni_.
+Non solo accettano la nostra richiesta di _early check-in_ **senza sovrapprezzo** ma siamo così fortunati da poter scegliere il lato: _moscow city_ vs _ministero degli affari esteri_.
 
 {{< vimeo src="1021152338" type="horizontal" gif="1" >}}
 
@@ -144,11 +144,11 @@ La scelta è scontata.
 
 {{< youtube id="0ma_sHNrJVA" caption="Timelapse su Moscow City" >}}
 
-Avere una vista in camera al 17esimo piano ha tantissimi _pro_, primo tra tutti quello di poter godere di una vista in completa rilassatezza che difficilmente avreste avuto anche cercando appositamente dei ristoranti panoramici.
+Avere una vista in camera al 17esimo piano ha tantissimi _pro_, primo tra tutti quello di poter godere di una vista in completa rilassatezza che difficilmente avreste avuto, anche cercando appositamente dei ristoranti panoramici.
 
 {{< image src="moscow_city_sunset_hotel.jpg" alt="Skyline moscovita con Moscow city ed il Ministero del Lavoro di notte" type="wide-screen" >}}
 
-Ed è proprio conquistati dalla _night view_ di Mosca in tutta la sua maestosità, incrementata dall'infinito crepuscolo delle notti bianche, che decidiamo di consumare una cena comunque di qualitò, a base di **abbondante vodka russa e caviale scelto**.
+Ed è proprio conquistati dalla _night view_ di Mosca in tutta la sua maestosità, incrementata dall'infinito crepuscolo delle notti bianche, che decidiamo di consumare una cena comunque di qualità, a base di **abbondante vodka russa e caviale scelto**.
 
 {{< image src="moscow_city_crepuscolo.jpg" caption="Stazione di Kiev: treni e metro" type="wide-screen" >}}
 
@@ -176,8 +176,8 @@ In caso vogliate una guida più precisa, con possibilità di _input_ anche in in
 
 * * *
 
-I ticket per una **corsa di 90 minuti** che include una corsa singola di metro e multiple di bus per 90 minuti costa 65 ₽.
-A seconda di come pensate di organizzare il viaggio, in caso sappiate già in anticipo che il vostro itinerario presupporrà più di **quattro corse di metro** e/o uso di mezzi multipli potrete valutare il **ticket giornaliero** al costo di 265 ₽ al giorno.
+I biglietti per una **corsa di 90 minuti** che include una corsa singola di metro e multiple di bus per 90 minuti costa 65 ₽.
+A seconda di come pensate di organizzare il viaggio, sappiate già in anticipo che il vostro itinerario presupporrà più di **quattro corse di metro** e/o uso di mezzi multipli, in questo caso potreste valutare il **ticket giornaliero** al costo di 265 ₽ al giorno.
 
 Esiste anche un ticket dalla durata di _tre giorni_ al costo di 500 ₽.
 
@@ -189,7 +189,7 @@ Maggiori informazioni sul servizio pubblico moscovita potrete {{< external_link 
 
 ## Cosa vedere a Mosca?
 
-Riduttivo limitarsi ad un elenco di posto: **San Pietroburgo va vissuta nei suoi vibes** invece che nei luoghi di interesse, che comunque non mancano e meritano di essere visti — almeno una volta.
+Una città completamente diversa da San Pietroburgo: le statue, il neoclassicismo della città del Nord lascia il posto ad uno stile brutale, asettico, maestoso ed imponente che celebra ancor di più la maestosità della storia russa.
 
 ### Il cremlino e la Piazza Rossa
 
@@ -199,7 +199,7 @@ La famosissima **Piazza Rossa del Cremlino** — famosa in tutto il mondo. Un qu
 
 {{< image src="state_historical_museum.jpg" alt="State historical russian museum è un edificio della Piazza rossa di Mosca" caption="State historical russian museum" >}}
 
-La piazza in sè non è granchè, si tratta di una piazza a selciato.
+La piazza in sè non è granchè: si tratta di una piazza a selciato.
 
 La sua vera attrazione e nome deriva dalle strutture del **Cremlino** e del **Museo di Storia russa** che si affacciano.
 
@@ -228,9 +228,9 @@ E' aperto solo di mattina, con orari variabili: al momento della nostra visita l
 Per entrare dovrete fare una fila abbastanza lunga — **sperando di arrivare ai controlli prima delle 13 perchè altrimenti verrete respinti**.
 
 {{< box "orange" >}}
-All'interno è **tassativamente vietato** introdurre bottigliette d'acqua più grandi di 500cc e zaini. Fanno eccezione alcune borse da donna che, se voluminose, verranno intercettate e non vi sarà garantito l'acceso.
+All'interno è **tassativamente vietato** introdurre bottigliette d'acqua più grandi di 500cc e zaini. Fanno eccezione alcune borse da donna che, se voluminose, verranno intercettate e non vi sarà garantito l'accesso.
 
-Troverete dei _locker_ "poco più avanti dei Giardini di Alexander" — ci era stato detto.
+"Troverete dei _locker_ poco più avanti dei Giardini di Alexander" — ci era stato detto.
 
 In due — abbiamo concordato che saremo entrati a turno, per custodire lo zaino fotografico che la mattina portavo sulle spalle.
 {{< /box >}}
@@ -239,7 +239,7 @@ Passati i controlli entrerete all'interno della struttura, nei giardini. Seguite
 
 All'interno regna il buio con una sola lampada che illumina la teca centrale.
 
-In fila, uno dopo l'altro, in rispettoso silenzio, passerete di attorno alle reliquie di Lenin. Non vi sarà consentito nè fermarvi nè tantomeno fare foto. Sarà assolutamente vietato parlare e non potrete trattenervi oltre un certo tanto superiore al tempo strettamente necessario per la camminata attorno alla teca di vetro.
+In fila, uno dopo l'altro, in rispettoso silenzio, passerete attorno alle reliquie di Lenin. Non vi sarà consentito nè fermarvi nè tantomeno fare foto. Sarà assolutamente vietato parlare e non potrete trattenervi oltre un certo tanto superiore al tempo strettamente necessario per la camminata attorno alla teca di vetro.
 
 All'esterno costeggerete nuovamente le mura del cremlino con le sue piante ornamentarie ed aiuole estremamente curate.
 
@@ -263,7 +263,7 @@ Se non fosse una giornata soleggiata — queste strutture, così austere, simbol
 
 ### Cattedrale di San Basilio
 
-Forse è la chiesa più cattedrale **più famosa** di tutta la russia. Le sue cuspidi colorate nelle giornate di sole risplendono e contrastano ancora di più con il cielo celeste.
+Forse è la cattedrale **più famosa** di tutta la russia. Le sue cuspidi colorate nelle giornate di sole risplendono e contrastano ancora di più con il cielo celeste.
 
 {{< vimeo src="1021152300" type="horizontal" gif="1" >}}
 
@@ -287,7 +287,7 @@ Dalla Cattendrale di San Basilio camminate qualche passo verso Sud ed incontrere
 
 {{< panorama src="panorama_moskva_river.jpg" caption="Fiume Mosca" type="wide-screen" >}}
 
-Da qui camminando verso Est attraverso il {{< external_link "https://maps.app.goo.gl/DLk2c34r5sZcGkTBA" "Parco Zaryadye" >}} arriverete al **floating bridge**, una passeggiata a ponte sul fiume che come una lingua si protende sopra la sua superficie.
+Da qui camminando verso Est, attraverso il {{< external_link "https://maps.app.goo.gl/DLk2c34r5sZcGkTBA" "Parco Zaryadye" >}}, arriverete al **floating bridge**, una passeggiata "sospesa" sul fiume che come una lingua si protende sopra la sua superficie.
 
 {{< image src="moskva_fiume_floating_bridge.jpg" caption="Kotelnicheskaya Embankment Building" type="wide-screen" >}}
 
@@ -295,7 +295,7 @@ Da qui potrete godere della vista del **Kotelnicheskaya Embankment Building** (u
 
 {{< image src="moskva_7_sorelle_foto_artistica.jpg" alt="In lontananza Kotelnicheskaya Embankment Building, il fiume Mosca e la testa di una turista che fa una foto al panorama" type="wide-screen" >}}
 
-Siamo rimasti sorpresi del fatto che attualmente questa enorme architettura rappresenta non degli uffici dello stato ma **appartamenti privati**.
+Siamo rimasti sorpresi del fatto che, attualmente, questa enorme architettura rappresenta non degli uffici dello stato ma **appartamenti privati**.
 
 {{< image src="moskva_7_sorelle.jpg" alt="Kotelnicheskaya Embankment Building: una delle sette sorelle volute da Stalin" type="wide-screen" >}}
 
@@ -329,7 +329,7 @@ Il cambio guardia, che avviene ogni ora, è quanto di più scenografico e maesto
 
 {{< youtube id="xu-RROgAMNI" caption="Cambio guardia nella Tomba del Milite Ignoto" >}}
 
-Di lato alla fiacola ardente le città appartenenti a quella che era l'Unione delle Repubbliche Socialiste Sovietiche.
+Di lato alla fiaccola ardente le città appartenenti a quella che era l'Unione delle Repubbliche Socialiste Sovietiche.
 
 {{< vimeo src="1021150782" type="horizontal" >}}
 
@@ -342,13 +342,13 @@ All'interno sul versante Ovest troverete anche un ristorante ed un {{< external_
 I magazzini GUM stanno a Mosca come… Harrod's sta a Londra.
 
 Sono una grande struttura a piani, coperta e climatizzata — al cui interno sono presenti boutique di alta moda e di grandi marchi.
-All'ultimo piano troverete un ristorante con cui poter mangiare con relativamente poco e gustare l'atmosfera tipica della _stolovaja_ russa, con pranzo a buffet.
+All'ultimo piano troverete un ristorante in cui poter mangiare con relativamente pochi soldi e gustare l'atmosfera tipica della _stolovaja_ russa, con pranzo a buffet.
 
 {{< image src="gum_ristorante_spesa.jpg" alt="Scontrino del pranzo a Stolovaja 57" >}}
 
 Non a caso il posto si chiama appunto {{< external_link "https://maps.app.goo.gl/z7qZC8UKSVhVVAR89" "Stolovaja 57" >}}.
 
-In caso desideriato assaggiare del **caviale di Beluga** insieme all'omonima e famosa vodka potrete fare l'esperienza al {{< external_link "https://maps.app.goo.gl/mzLsjeznj1emEWzF8" "Beluga Caviar Bar" >}} presente all'interno.
+In caso desideriate assaggiare del **caviale di Beluga** insieme all'omonima e famosa vodka potrete fare l'esperienza al {{< external_link "https://maps.app.goo.gl/mzLsjeznj1emEWzF8" "Beluga Caviar Bar" >}} presente all'interno.
 
 {{< vimeo src="1021150616" type="horizontal" gif="1" >}}
 
@@ -363,7 +363,7 @@ Potrete arrivarci dalla [Piazza rossa](#il-cremlino-e-la-piazza-rossa) o a piedi
 
 Siamo capitati in orario di pranzo lungo questa via ed abbiamo avuto notevoli difficoltà nel trovare un ristorante che ci soddisfacesse.
 
-Alla fine abbiamo optato per {{< external_link "https://maps.app.goo.gl/94hpuDHorad5Yu7j9" "questo ristorante georgiano" >}} in cui però non abbiamo comunque mangiato comfortevoli: poche persone all'interno . All'interno molto carico, in stile medievale. Cibo comunque buono seppure porzioni ridotte e prezzi particolarmente elevati.
+Alla fine abbiamo optato per un {{< external_link "https://maps.app.goo.gl/94hpuDHorad5Yu7j9" "ristorante georgiano" >}} in cui però non abbiamo comunque mangiato comfortevoli: all'interno molto carino, in stile medievale. Poche persone ai tavoli. Cibo comunque buono seppure porzioni ridotte e prezzi particolarmente elevati.
 
 * * *
 
@@ -391,7 +391,7 @@ La struttura è maestosa. Capitiamo durante un crepuscolo infinito dato dalle no
 
 {{< external_link "https://maps.app.goo.gl/k8TXvnQkCjfu8sb39" "Da qui" >}} potrete godere del tramonto su Moscow City, il centro economico-commerciale di Mosca (una sorta di _world trade center_ russo).
 
-{{< image src="moscow_university_dettaglio.jpg" alt="Torri della Moscow State University" caption=";SU: Moscow State University" type="wide-screen" >}}
+{{< image src="moscow_university_dettaglio.jpg" alt="Torri della Moscow State University" caption="MSU: Moscow State University" type="wide-screen" >}}
 
 Da qui alla passeggiata panoramica su _Moscow city_ dovrete camminare altri 1.5km: distanze che sulla mappa possono sembrare irrisorie in Russia, ma a Mosca ancor di più — risultano infinite.
 
@@ -413,7 +413,6 @@ Siamo stati qui di domenica sera, ed i _vibes_ nell'aria erano quelli tipici: fa
 
 {{< image src="moscow_sunset.jpg" caption="_#summervibes_" >}}
 
-
 ### La Metro e le sue stazioni
 
 Aperta nel 1935 con una sola linea è in assoluto la metropolitana più antica della Russia.
@@ -428,7 +427,7 @@ Viene chiamata **V.I. Lenin Metro** anche se il suo nome ufficiale risulta esser
 
 Alcune stazioni che vi consiglio di visitare sono:
 * **Arbatskaya**: originariamente costruita come rifugio in caso di bombardamenti;
-* **Park Pobedi**: la metro più in profondita tra tutte quelle di Mosca, arrivando fino a 84metri sottoterra;
+* **Park Pobedi**: la metro più in profondità tra tutte quelle di Mosca, arrivando fino a 84 metri sottoterra;
 * **Kievskaya**: costruita per celebrare l'unità russo-ucraina;
 
 Un elenco con altre stazioni con tanto di foto potrete trovarlo {{< external_link "https://iamaileen.com/moscow-metro-stations/" "qui" >}}.
@@ -444,7 +443,7 @@ Attraverso una serie di scale si scende fino a **-52 piani sotto il suolo** pari
 
 Nasce come _Museo della Guerra Fredda_ ed all'interno sono contenuti tutti i presidi e le apparecchiature usate nel periodo della corsa agli armamenti nucleari.
 
-La struttura venne organizzata per poter ospitare 30 mila persone per oltre 90 giorni (**numeri da prendere con le molle, in quanto su altre fonti si parla di 600 persone per 30 giorni**) con all'interno tutti i servizi necessari a vivere: un complesso sistema di purificazione dell'aria, bagni, corrente elettrica, cibo e perfino combustibile.
+La struttura venne organizzata per poter ospitare un certo numero di persone per oltre 90 giorni con all'interno tutti i servizi necessari per vivere: un complesso sistema di purificazione dell'aria, bagni, corrente elettrica, cibo e perfino combustibile.
 
 {{< external_link "https://bunker42.com/" "Maggiori informazioni qui" >}}.
 
@@ -508,7 +507,7 @@ Se siete nei pressi della [Piazza Rossa](#il-cremlino-e-la-piazza-rossa) e la lu
 
 {{< posizione "https://yandex.com/maps/-/CDduILoF" >}}
 
-Nei pressi dell'[Azimut hotel](#dove-soggiornare): potrete acquistare di tutto dalle pokè alle insalate già pronte a...burro, pane e **caviale** oltre a dell'ottima **vodka russa** in caso decidiate, come abbiamo fatto noi, di godervi un'ottima cena ammirando le luci della città dal 17esimo piano dell hotel.
+Nei pressi dell'[Azimut hotel](#dove-soggiornare): potrete acquistare di tutto dalle pokè alle insalate già pronte al burro, pane e **caviale** oltre a dell'ottima **vodka russa** in caso decidiate, come abbiamo fatto noi, di godervi un'ottima cena ammirando le luci della città dal 17esimo piano dell'hotel.
 
 <!-- * * * -->
 

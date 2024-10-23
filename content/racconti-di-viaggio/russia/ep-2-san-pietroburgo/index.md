@@ -551,3 +551,9 @@ Il deposito si trova al **piano -1** rispetto a quello di ingresso; troverete le
 {{< image src="stazione_trenideposito_bagagli.jpg" caption="Deposito bagagli" type="wide-screen" >}}
 
 Paghiamo 720 ₽ per praticamente 8 ore: all'interno del locker trovano alloggio due trolley formato _cabin bag_ e due zaini da spalla.
+
+* * *
+
+Puoi leggere l'[episodio #3 su Mosca qui]({{< ref "racconti-di-viaggio/russia/ep-3-mosca/index.md" >}}).
+
+Se invece vuoi leggere quali sono stati i preparativi per il viaggio in *Russia* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/russia/ep-0-preparativi-itinerario/index.md" >}}).
