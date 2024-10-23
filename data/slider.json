@@ -1,6 +1,14 @@
 {
     "array" : [
         {
+            "image" : "mosca_cover.jpg" ,
+            "color_category": "#f4511e" ,
+            "category": "Russia" ,
+            "text_title" : "Mosca" ,
+            "text_description" : "Come arrivarci, dove stare e cosa vedere in 36 ore" ,
+            "url" : "racconti-di-viaggio/russia/ep-2-san-pietroburgo/"
+        } ,
+        {
             "image" : "spb_cover.jpg" ,
             "color_category": "#f4511e" ,
             "category": "Russia" ,
