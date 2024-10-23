@@ -12,15 +12,6 @@ type: "article"
 
 ---
 
-
-
-<!-- * * * -->
-
-<!-- Puoi leggere l'[episodio #3 sul viaggio verso Mosca qui]({{< ref "racconti-di-viaggio/russia/ep-3-mosca/index.md" >}}). -->
-
-<!-- Se invece vuoi leggere quali sono stati i preparativi per il viaggio in *Russia* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/russia/ep-0-preparativi-itinerario/index.md" >}}). -->
-
-
 {{< box "blue" >}}
 Le indicazioni fornite all'interno di quest post potrebbero non essere già più attuali al momento della pubblicazione, e si riferiscono alle informazioni raccolte in vista del viaggio avvenuto nella seconda metà di Giugno 2024.
 
@@ -30,6 +21,8 @@ Per maggiori informazioni sul _planning_ del viaggio fare riferimento a [quanto 
 {{< capital_letter_open >}}
 Mosca è distante circa 700km da San Pietroburgo e le due città sono collegate da un tratto autostradale a quattro corsie per l'intero percorso. Non troverete che poche curve, motivo per cui anche andando in bus vi sembrerà di essere in un treno. In bus la tratta richiederà 9 ore, e sono previste due brevi soste lungo il percorso — in delle stazioni di servizio.
 {{< capital_letter_close >}}
+
+{{< youtube id="J65wqEHeJ3w" caption="Sunrise su Moscow City" >}}
 
 Le stazioni di servizio lungo le autostrade russe hanno qualcosa di misto tra l'avvincente ed un degrado inesorabile. Troverete però tutto ciò che può coccolarvi, da bevande calde a cioccolati, a hot dog di tutti i gusti e condimenti.
 
@@ -125,8 +118,6 @@ Staremo a Mosca per un totale di **appena 36 ore** e partire con già il desider
 ## Dove soggiornare
 
 La scelta anche per Mosca è stata abbastanza combattuta: il desiderio era alloggiare in un hotel panoramico per poter beneficiare di una vista di una vista memorabile.
-
-{{< youtube id="J65wqEHeJ3w" caption="Sunrise su Moscow City" >}}
 
 La nostra scelta ricade sull' {{< external_link "https://maps.app.goo.gl/wrSP9AZU9esWo8ec9" "Azimut Hotel" >}}, un ⭐️⭐️⭐️⭐️ con una vista **mozzafiato**, sia di giorno...
 
