@@ -79,7 +79,7 @@ Mangiamo in modo splendido, merito anche delle _pokè_ acquistate nel centro com
 
 Il viaggio, che sulla carta si prospettava soprattutto per me un viaggio di lunghe dormite — si rivelerà alla fine molto più difficile di quanto aspettato: pensavo a distanza di anni di aver conservato una buona forma atletica e di resistenza, cosa che invece si è rivelata non essere 😁
 
-{{< vimeo src="1021150043" type="horizontal" gif="1" >}}
+{{< vimeo src="1021150043" type="vertical-9x16" gif="1" >}}
 
 I rumori circostanti sono stati controllati con successo grazie ai soliti [tappi in cera Calmor]({{< ref "/accessori/10-immancabili-accessori-da-viaggio/index.md" >}}) che ormai mi accompagnano in ogni viaggio. Il problema è stata invece **la luce**: dalle 3 del mattino è stato come viaggiare a mezzagiorno: luce intensa e fastidiosa, nonostante le varie tende.
 
