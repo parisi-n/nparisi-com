@@ -288,8 +288,6 @@ Da qui potrete godere della vista del **Kotelnicheskaya Embankment Building** (u
 
 Siamo rimasti sorpresi del fatto che, attualmente, questa enorme architettura rappresenta non degli uffici dello stato ma **appartamenti privati**.
 
-{{< image src="moskva_7_sorelle.jpg" alt="Kotelnicheskaya Embankment Building: una delle sette sorelle volute da Stalin" type="wide-screen" >}}
-
 Il rapporto tra il palazzo ed i palazzi circostanti ci fa solo lontanamente avere idea di quanto in verità il _Kotelnicheskaya Embankment_ sia imponente.
 
 {{< vimeo src="1021150104" type="horizontal" gif="1" >}}
