@@ -102,11 +102,15 @@ Quindi, cosa fare in 24 ore?
 
 L'abbiamo vista con la neve, ed ora la vediamo con il sole e completamente verde.
 
-Sembra quasi un altro posto, anche se non nego sia molto più affascinnante con la neve.
+Sembra quasi un altro posto, anche se non nego sia molto più affascinante con la neve.
 
-{{< vimeo src="1021267384" type="horizontal" >}}
+{{< vimeo src="1021267384" type="horizontal" gif="1">}}
 
 A malincuore osservo come la **famosissima scritta** nel cuore di Tallinn sia stata cambiata… è il fisiologico corso degli eventi, il nuovo che sostituisce il vecchio.
+
+{{< quote "The times we had" >}}
+
+La vista non è la stessa — senza l'ormai celeberrimo monito.
 
 {{< image src="old_town_view.jpg" alt="" caption="" type="wide-screen">}}
 
@@ -118,7 +122,7 @@ Il centro storico pullula di turisti.
 
 ### Pirita beach
 
-Controllato l'attimo di pazzia per cui stavamo per prenotare i biglietti per Helsinki — decidiamo comunque di trascorrere il pomeriggio in prossimità del pare.
+Superato l'attimo di pazzia per cui stavamo per prenotare i biglietti per Helsinki — decidiamo comunque di trascorrere il pomeriggio in prossimità del mare.
 
 Motivo per cui decidiamo di raggiungere la famosissima spiaggia di **Pirita**.
 
