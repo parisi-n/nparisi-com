@@ -1,6 +1,14 @@
 {
     "array" : [
         {
+            "image" : "tallinn_cover.jpg" ,
+            "color_category": "#f4511e" ,
+            "category": "Russia" ,
+            "text_title" : "Tallinn" ,
+            "text_description" : "Tallinn: la prima ed ultima tappa del viaggio" ,
+            "url" : "racconti-di-viaggio/russia/ep-4-tallinn/"
+        } ,
+        {
             "image" : "mosca_cover.jpg" ,
             "color_category": "#f4511e" ,
             "category": "Russia" ,
