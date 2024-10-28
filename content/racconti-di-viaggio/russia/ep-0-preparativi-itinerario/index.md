@@ -222,6 +222,9 @@ Dopo il nostro passaggio — pioveva ancora.
 #### Come rimanere informati
 
 Le mie fonti di informazione giornaliera sono state questi due gruppi telegram, ovviamente in russo, con aggiornamenti _live_ sullo stato della frontiera. La chat è molto vivace, con oltre 1000 messaggi al giorno — ed è facile possano sfuggire notizie rilevanti.
+
+Le comunicazioni avvengono, come intuibile, in russo. Per ovviare al problema potete valutare la **versione Pro di Telegram che garantisce traduzioni simultanee**.
+
 * {{< external_link "https://t.me/Transfer_SPB_Estonia1" "Frontiera Narva-Ivangorod _ Chat" >}} (RU)
 * {{< external_link "https://t.me/russia_estonia_transfer" "Frontiera Narva-Ivangorod _ Servizio transfer" >}} (RU)
 * {{< external_link "narvanews.com" "Narvanews.com" >}} nella versione in Russo da informazioni su eventuali novità del check-point _Narva-1_. Utile soprattuto nel caso di eventi inaspettati, come esempio una {{< external_link "https://narvanews.com/n/novosti/23_ijunja_ehstonsko_rossijskaja_granica_v_narve_zakroetsja_iz_za_parada/2-1-0-246" "qualche manifestazione" >}} che può comportare la chiusura momentanea del check-point.
