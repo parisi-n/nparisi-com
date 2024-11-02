@@ -480,7 +480,7 @@ Questa indicata è la più grande, eretta nel 1985.
 
 Nei pressi di una grossa arteria stradale che rappresenta la _circonvallazione interna_ di Mosca.
 
-{{< youtube id="eqThyMHAw2o" caption="Traffico della circonvallazione interna" >}}
+{{< youtube id="QnlacmYUMCU" caption="Traffico della circonvallazione interna" >}}
 
 ## Dove mangiare
 
@@ -498,8 +498,8 @@ Se siete nei pressi della [Piazza Rossa](#il-cremlino-e-la-piazza-rossa) e la lu
 
 Nei pressi dell'[Azimut hotel](#dove-soggiornare): potrete acquistare di tutto dalle pokè alle insalate già pronte al burro, pane e **caviale** oltre a dell'ottima **vodka russa** in caso decidiate, come abbiamo fatto noi, di godervi un'ottima cena ammirando le luci della città dal 17esimo piano dell'hotel.
 
-<!-- * * * -->
+* * *
 
-<!-- Puoi leggere l'[episodio #4 sul ritorno a Tallinn qui]({{< ref "racconti-di-viaggio/russia/ep-2-san-pietroburgo/index.md" >}}). -->
+Puoi leggere l'[episodio #4 sul ritorno a Tallinn qui]({{< ref "racconti-di-viaggio/russia/ep-4-tallinn/index.md" >}}).
 
-<!-- Se invece vuoi leggere quali sono stati i preparativi per il viaggio in *Russia* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/russia/ep-0-preparativi-itinerario/index.md" >}}). -->
+Se invece vuoi leggere quali sono stati i preparativi per il viaggio in *Russia* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/russia/ep-0-preparativi-itinerario/index.md" >}}).
