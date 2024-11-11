@@ -75,74 +75,6 @@ Segnalo anche la compagnia {{< external_link "https://www.balticshuttle.ee/en" "
 
 ## La frontiera
 
-Le frontiere sono luoghi dall'alto valore umano e sentimentale — simbologia fisica della distanza che due paesi che non si fidano l'un l'altro decidono di mettere in essere. Il valico di frontiera verso le terre del blocco sovietico che non si sono ancora del tutto emancipate dalla vecchia ideologia messa in essere durante la Guerra Fredda è qualcosa di sentimentalmente ed umanamente ingombrante: è faticoso sia umanamente, sia fisicamente, sia sentimentalmente.
-
-{{< vimeo src="1011435651" type="vertical-9x16" caption="Suonatore di fisarmonica allieta la fila per Narva-1" >}}
-
-Ogni giorno centinaia di persone passano attraverso questi imbuti di sentimenti in cui si viene scrutati, analizzati — messi a nudo come in un interrogatorio quelli che sono i motivi che spingono la persona a passare attraverso quel controllo, dopo ore e ore di fila.
-
-{{< image src="piazzale_narva.jpg" alt="Piazzale di Narva in prossimità di Narva-1" caption="Al sole il piazzale di Narva appare molto più friendly" type="wide-screen" >}}
-
-Ora, con l'atmosfera tesa tra Europa e Federazione Russa — con i check-point terresti che chiudono improvvisamente, uno dopo l'altro — passare una frontiera è come far passare un cammello per la crura di un ago. Forse ci passa, forse non ci passa — ma il solo provarci mette in atto uno sforzo emotivo, fisico, umano — a tratti logorante.
-
-{{< image src="filo_spinato.jpg" alt="Barriera contenitiva con filo spinato per bloccare l'accesso al ponte di Narva-Ivangorod. Nello sfondo la fortezza di Narva con la bandiera dell'Ucraina sulle mura" type="wide-screen" >}}
-
-Nella mia esperienza — già in passato i check-point terrestri ucraini erano duri da vivere e lunghi da raccontare. Passare in auto voleva dire fare anche otto ore di fila, quando si riusciva a passare la stessa giornata; altrimenti se ne parlava il giorno dopo. E quando finalmente si era al cospetto del funzionario di turno l'esperienza non era ancora conclusa: il milite con occhi da scrutatore cercava di leggere nell'anima il motivo per cui chiedevi di attraversare la frontiera — non senza aver dovuto letteralmente smontare l'auto e sottoporla allo studio attento e scrupoloso dei militari alla dogana.
-
-{{< image src="fortezza_ivangorod_3_con_sole.jpg" alt="Barriera contenitiva con filo spinato per bloccare l'accesso al ponte di Narva-Ivangorod. Nello sfondo la fortezza di Ivangorod" type="wide-screen" >}}
-
-Nel 2024 questo si replica in toto, ma con i russi invece che gli ucraini — maltrattati da file infinite, estenuanti, devastanti, logoranti — da militari con il loro stesso passaporto. E questa volta, il 19 giugno — io sono lì con loro, in una fila silenziosa; quando parlano tra di loro, non capisco tutto ciò che dicono. Paiono non lamentarsi. Bambini ed anziani hanno la precedenza. Tutti gli altri sostano silenziosi in fila, nel ponte (chiuso per lavori al passaggio veicolare) che collega _Narva_ ad _Ivangorod_ attraverso _il fiume Narva_.
-
-{{< image src="suonatore_fisarmonica.jpg" alt="Suonatore di fisarmonica all'ingresso di Narva-1" >}}
-
-Da un lato la torre di Narva, con la bandiera dell'Europa, dell'Estonia e dell'Ucraina. Danno colore alla parete grigia della fortezza; danno un senso di unione, fratellanza, di squadra.
-
-{{< image src="fortezza_narva.jpg" caption="Fortezza di Narva. Nello sfondo il ponte che collega Narva-Ivangorod" type="wide-screen" >}}
-
-Dall'altro lato la Fortezza di Ivangorod, con solo una bandiera russa che sventola sulla sommità. E la _casa verde_ al di sotto, in lontananza.
-
-{{< image src="fortezza_ivangorod.jpg" caption="Vecchio check-point automobilistico di Narva-1" type="wide-screen" >}}
-
-Il giorno del nostro passaggio il tempo si fa più incattivito: piove senza sosta ed il vento che soffia sul ponte, nella gola del fiume, lancia l'acqua nonostante l'ombrello e quasi ghiaccia il corpo. Ha colto un po' tutti di sorpresa. Una giornata iniziata con un sole tiepido si è trasformata, durante la nostra fila, in una giornata tempestosa. In fila con noi persone con pantaloncini corti ed in ciabatte, nel momento in cui letteralmente si gelava dal freddo.
-
-{{< image src="fortezza_ivangorod_2.jpg" alt="Fortezza di Narva" >}}
-
-Passiamo così dalle 14:20 alle 21, con piccoli passi ogni quarto d'ora. Piove di continuo; la giornata è fredda, autunnale.
-
-{{< image src="fortezza_narva_fiume_narva.jpg" alt="Fiume Narva con la fortezza di Narva a destra e la fortezza di Ivangorod a sinistra durante una bella giornata soleggiata" type="wide-screen" >}}
-
-Se ora l'attesa è così estenuante e siamo in estate, cosa sarà quando le temperature scenderanno a -20°, come è solito fare in queste zone in inverno?
-
-Durante l'attesa un gruppo di russofoni urla dalla torre di Ivangorod "rassyia! rassyia!". Ciò mi strappa un sorriso. Inneggiano ad uno stato che sta obbligando i suoi stessi concitadini ad attendere il loro turno al freddo, bagnati, su un ponte attraversato da violenti venti, incurante di loro e delle loro sofferenze, dei nostri sentimenti di Uomini. Il problema infatti è dal lato russo; mentre sul versante estone tramite il passaporto elettronico si passa agilmente ed i bagagli vengono passati allo scanner x-ray in pochi minuti — nella _casa verde_ sede del check-point russo si procede a rilento, e la coda si accumula sul ponte. All'interno — tre militari scrutano bagagli e passaporti, con un quarto che come un cerbero si assicura si mantenga un contegno adeguato, e si stia in silenzio.
-
-{{< image src="ponte_ee_ru.jpg" caption="Fila sul ponte al check-point russo vista dalla fortezza di Ivangorod" >}}
-
-Il checkpoint estone (nome: _Narva-1_) è una struttura moderna, con porte automatizzate, ordinata — apparentemente ristrutturata. Esternamente mostra i mattoni come decorazione.
-
-Il checkpoint russo è la già nominata _casa verde_, pochi servizi (nemmeno la toilet, presente invece nel lato estone) — piccola ed ingombra, con pochi dettagli.
-Sulla parete un orologio segna le 11:20 (o le 23:20) di un giorno del passato.
-
-* * *
-
-{{< vimeo src="1020003862" caption="Fortezza di Ivangorod" type="horizontal" gif="1" >}}
-
-Incontriamo anche una ragazza tedesca di 22 anni, che con voce discreta ma tremante ci chiede se può stare con noi durante l'attraversamento della frontiera, perchè è la sua prima esperienza, non sa come funzioni ed è da sola. E da soli le paure non si possono smezzare.
-E' diretta dal ragazzo, a San Pietroburgo.
-
-Mi rivedo un po' in lei, tanti anni fa, quando la frontiera era un luogo di passaggio — ma il cui transito andava pagato a suon di km percorsi via terra e attese in fila al freddo — ma con gli occhi carichi di sogni che solo la giovane età può dare.
-
-* * *
-
-Attraversare una frontiera ha un alto valore umano, e spesso ce lo dimentichiamo.
-Chi ci passa ha un bagaglio non solo fisico ma anche emotivo — che si porta dietro.
-
-{{< image src="ivangorod_green_house_percorso.jpg" caption="Check-point russo: la _green house_" >}}
-
-* * *
-
-In entrata nella Federazione Russa la fila si accalca sul ponte, in attesa del proprio verdetto.
-In uscita dalla Federazione Russa si trova solo un unico militare che da solo smaltisce abbastanza velocemente la coda.
-
 ### Quali sono aperte?
 
 {{< box "orange" >}}
@@ -169,7 +101,7 @@ Le varie compagnie di bus vi lasceranno in {{< external_link "https://maps.app.g
 
 #### Estonia: Narva-1
 
-Il checkpoint Narva-1 parrebbe essere stato soggetto a menutenzione recentemente. L'edificio è moderno, dotato di porte ad apertura automatica e con due godanieri al controllo passaporti manuali e tre e-gate — attraversabili in pochi secondi con passaporto elettronico.
+Il checkpoint Narva-1 parrebbe essere stato soggetto a manutenzione recentemente. L'edificio è moderno, dotato di porte ad apertura automatica e con due godanieri al controllo passaporti manuali e tre e-gate — attraversabili in pochi secondi con passaporto elettronico.
 
 {{< image src="coda_narva.jpg" caption="Coda in ingresso in Narva-1" >}}
 
@@ -247,6 +179,8 @@ Il giorno dopo il nostro passaggio, costatoci oltre 6 ore di attesa, i ritardi s
 
 In seguito alla chiusura inaspettata, i passeggeri di alcune compagnie (LuxExpress) sono {{< external_link "https://rus.postimees.ee/8045622/lux-express-problemy-na-granice-v-narve-nachalis-ne-posle-zakrytiya-kpp-na-noch" "stati aiutati a trovare alloggio" >}} nelle zone limitrofe. Questo forse potrebbe aiutarvi ad orientare la scelta su una compagnia rispetto ad un'altra, al di là della scelta da noi effettuata e riportata qui.
 
+Alcuni però sono rimasti truffati per aver scelto (e pagato in anticipo) alloggi fantasma.
+
 #### Cosa è vietato portare
 
 Dall'inizio del conflitto l'elenco degli oggetti importabili dalla Russia è variato in senso restrittivo; fino a prima del conflitto era possibile portare con se attraverso la dogana **fino ad 1L di super-alcolico** per persona. Dal 2022 l'elenco è cambiato, ed è fatto assoluto divieto di importare qualunque prodotto superalcolico o altro prodotto possa generare guadagno per la Russia.
@@ -254,6 +188,71 @@ Dall'inizio del conflitto l'elenco degli oggetti importabili dalla Russia è var
 Per chi se lo stesse chiedendo — nell'elenco è incluso **anche il caviale**.
 
 {{< external_link "https://www.emta.ee/en/private-client/prohibited-and-restricted-goods#russia" "Qui l'elenco completo" >}}.
+
+### La nostra esperienza
+
+Le frontiere sono luoghi dall'alto valore umano e sentimentale — simbologia fisica della distanza che due paesi che non si fidano l'un l'altro decidono di frapporre. Il valico di frontiera verso le terre del blocco sovietico che non si sono ancora del tutto emancipate dalla vecchia ideologia messa in essere durante la Guerra Fredda è qualcosa di sentimentalmente ed umanamente ingombrante: è faticoso sia umanamente, sia fisicamente, sia sentimentalmente.
+
+{{< vimeo src="1011435651" type="vertical-9x16" caption="Suonatore di fisarmonica allieta la fila per Narva-1" >}}
+
+Ogni giorno centinaia di persone passano attraverso questi imbuti di sentimenti in cui si viene scrutati, analizzati — messi a nudo come in un interrogatorio quelli che sono i motivi che spingono la persona a passare attraverso quel controllo, dopo ore e ore di fila.
+
+{{< image src="piazzale_narva.jpg" alt="Piazzale di Narva in prossimità di Narva-1" caption="Al sole il piazzale di Narva appare molto più friendly" type="wide-screen" >}}
+
+Ora, con l'atmosfera tesa tra Europa e Federazione Russa — con i check-point terresti che chiudono improvvisamente, uno dopo l'altro — passare una frontiera è come far passare un cammello per la crura di un ago. Forse ci passa, forse non ci passa — ma il solo provarci mette in atto uno sforzo emotivo, fisico, umano — a tratti logorante.
+
+{{< image src="filo_spinato.jpg" alt="Barriera contenitiva con filo spinato per bloccare l'accesso al ponte di Narva-Ivangorod. Nello sfondo la fortezza di Narva con la bandiera dell'Ucraina sulle mura" type="wide-screen" >}}
+
+Nella mia esperienza — già in passato i check-point terrestri ucraini erano duri da vivere e lunghi da raccontare. Passare in auto voleva dire fare anche otto ore di fila, quando si riusciva a passare la stessa giornata; altrimenti se ne parlava il giorno dopo. E quando finalmente si era al cospetto del funzionario di turno l'esperienza non era ancora conclusa: il milite con occhi da scrutatore cercava di leggere nell'anima il motivo per cui chiedevi di attraversare la frontiera — non senza prima aver anche dovuto letteralmente smontare l'auto e sottoporla allo studio attento e scrupoloso dei militari alla dogana.
+
+{{< image src="fortezza_ivangorod_3_con_sole.jpg" alt="Barriera contenitiva con filo spinato per bloccare l'accesso al ponte di Narva-Ivangorod. Nello sfondo la fortezza di Ivangorod" type="wide-screen" >}}
+
+Nel 2024 questo si replica in toto, ma con i russi invece che gli ucraini — maltrattati da file infinite, estenuanti, devastanti, logoranti — da militari con il loro stesso passaporto. E questa volta, il 19 giugno — io sono lì con loro, in una fila silenziosa; quando parlano tra di loro, non capisco tutto ciò che dicono. Paiono non lamentarsi. Bambini ed anziani hanno la precedenza. Tutti gli altri sostano silenziosi in fila, nel ponte (chiuso per lavori al passaggio veicolare) che collega _Narva_ ad _Ivangorod_ attraverso _il fiume Narva_.
+
+{{< image src="suonatore_fisarmonica.jpg" alt="Suonatore di fisarmonica all'ingresso di Narva-1" >}}
+
+Da un lato la torre di Narva, con la bandiera dell'Europa, dell'Estonia e dell'Ucraina. Danno colore alla parete grigia della fortezza; danno un senso di unione, fratellanza, di squadra.
+
+{{< image src="fortezza_narva.jpg" caption="Fortezza di Narva. Nello sfondo il ponte che collega Narva-Ivangorod" type="wide-screen" >}}
+
+Dall'altro lato la Fortezza di Ivangorod, con solo una bandiera russa che sventola sulla sommità. E la _casa verde_ al di sotto, in lontananza.
+
+{{< image src="fortezza_ivangorod.jpg" caption="Vecchio check-point automobilistico di Narva-1" type="wide-screen" >}}
+
+Il giorno del nostro passaggio della frontiera il tempo si fa più incattivito: piove senza sosta ed il vento che soffia sul ponte, nella gola del fiume, lancia l'acqua nonostante l'ombrello e quasi ghiaccia il corpo. Ha colto un po' tutti di sorpresa. Una giornata iniziata con un sole tiepido si è trasformata, durante la nostra fila, in una giornata tempestosa. In fila con noi persone con pantaloncini corti e in ciabatte, nel momento in cui letteralmente si gelava dal freddo.
+
+{{< image src="fortezza_ivangorod_2.jpg" alt="Fortezza di Narva" >}}
+
+Passiamo così dalle 14:20 alle 21, con piccoli passi ogni quarto d'ora. Piove di continuo; la giornata è fredda, autunnale.
+
+{{< image src="fortezza_narva_fiume_narva.jpg" alt="Fiume Narva con la fortezza di Narva a destra e la fortezza di Ivangorod a sinistra durante una bella giornata soleggiata" type="wide-screen" >}}
+
+Se ora l'attesa è così estenuante e siamo in estate, cosa sarà quando le temperature scenderanno a -20°, come è solito fare in queste zone in inverno?
+
+Durante l'attesa un gruppo di russofoni urla dalla torre di Ivangorod "rassyia! rassyia!". Ciò mi strappa un sorriso. Inneggiano ad uno stato che sta obbligando i suoi stessi concittadini ad attendere il loro turno al freddo, bagnati, su un ponte attraversato da violenti venti, incurante di loro e delle loro sofferenze, dei nostri sentimenti di Uomini. Il problema infatti è dal lato russo; mentre sul versante estone tramite passaporto elettronico si passa agilmente ed i bagagli vengono passati allo scanner x-ray in pochi minuti — nella _casa verde_ sede del check-point russo si procede a rilento, e la coda si accumula sul ponte. All'interno — tre militari scrutano bagagli e passaporti, con un quarto che come un cerbero si assicura si mantenga un contegno adeguato, e si stia in silenzio.
+
+{{< image src="ponte_ee_ru.jpg" caption="Fila sul ponte al check-point russo vista dalla fortezza di Ivangorod" >}}
+
+Il checkpoint estone (nome: _Narva-1_) è una struttura moderna, con porte automatizzate, ordinata — apparentemente ristrutturata. Esternamente mostra i mattoni come decorazione.
+
+Il checkpoint russo è la già nominata _casa verde_, pochi servizi (nemmeno la toilet, presente invece nel lato estone) — piccola ed ingombra, con pochi dettagli.
+Sulla parete un orologio segna le 11:20 (o le 23:20) di un giorno del passato.
+
+* * *
+
+{{< vimeo src="1020003862" caption="Fortezza di Ivangorod" type="horizontal" gif="1" >}}
+
+Incontriamo anche una ragazza tedesca di 22 anni, che con voce discreta ma tremante ci chiede se può stare con noi durante l'attraversamento della frontiera, perchè è la sua prima esperienza, non sa come funzioni ed è da sola. E da soli le paure non si possono smezzare.
+E' diretta dal ragazzo, a San Pietroburgo.
+
+Mi rivedo un po' in lei, tanti anni fa, quando la frontiera era un luogo di passaggio — ma il cui transito andava pagato a suon di km percorsi via terra e attese in fila al freddo — ma con gli occhi carichi di sogni che solo la giovane età può dare.
+
+{{< image src="ivangorod_green_house_percorso.jpg" caption="Check-point russo: la _green house_" >}}
+
+* * *
+
+In entrata nella Federazione Russa la fila si accalca sul ponte, in attesa del proprio verdetto.
+In uscita dalla Federazione Russa si trova solo un unico militare che da solo smaltisce abbastanza velocemente la coda.
 
 ## Dove prenotare
 
