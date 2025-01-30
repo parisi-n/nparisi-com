@@ -197,7 +197,7 @@
      * VIDEO - VIMEO
      */
     .block-video-vimeo iframe { border: 0; }
-    .block-video-vimeo.vertical-4x5, .block-video-vimeo.vertical-9x16 { display: block; position: relative; margin: 4.56% 0; }
+    .block-video-vimeo.vertical-4x5, .block-video-vimeo.vertical-9x16 { display: block; position: relative; margin: 4.56% 4.56% 0; }
     .block-video-vimeo.horizontal { display: block; position: relative; margin: 3% 4.56% 0; }
     
     /**
