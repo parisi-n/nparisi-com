@@ -14,7 +14,8 @@
         {{ template "_internal/shortcodes/vimeo_simple.html" . }}
     {{- else -}}
         <div class="block-video-vimeo {{ $type }}"> 
-            <iframe src="https://player.vimeo.com/video/{{ .Get "src" }}{{ if $gif }}?background=1&autoplay=1&loop=1&byline=0&title=0&muted=1{{ end }}" {{ if $caption }}title="{{ $caption }}"{{ else }}title="Video su Vimeo"{{ end }} allow="autoplay; fullscreen" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+            <!--background=1&autoplay=1&loop=1& -->
+            <iframe src="https://player.vimeo.com/video/{{ .Get "src" }}{{ if $gif }}?byline=0&title=0&muted=1{{ end }}" {{ if $caption }}title="{{ $caption }}"{{ else }}title="Video su Vimeo"{{ end }} allow="autoplay; fullscreen" webkitallowfullscreen mozallowfullscreen allowfullscreen>
             </iframe>
             
             {{ if $caption }}
