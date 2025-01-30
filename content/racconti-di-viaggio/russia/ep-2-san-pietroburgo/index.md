@@ -42,8 +42,6 @@ Storie di altri tempi, senza wifi e senza supporto linguistico che la tecnologia
 
 Altri tempi, altre persone.
 
-{{< vimeo src="1021069228"  type="vertical-9x16" gif="1" >}}
-
 * * *
 
 I vibes percepiti, però — a dieci anni di distanza — non sono gli stessi. Vedo una società più global, più omogenea, meno "sovieticante", più varia.
@@ -203,7 +201,7 @@ Si contano 1786 porte, 1945 finestre, 1500 stanze e 117 armadi (secondo {{< exte
 
 C'è una nota di italianità nell'architettura della struttura: tra i vari architetti che concorse alla sua progettazione si annovera _Bartolomeo Rastrelli_.
 
-{{< vimeo src="1019989821" type="horizontal" gif="1" >}}
+{{< vimeo src="1019989821" type="vertical-9x16" gif="1" >}}
 
 Dopo la Rivoluzione Russa del 1917 il palazzo venne occupato dalla guardie rosse dando inizio al periodo sovietico.
 
@@ -318,7 +316,7 @@ Il risultato è che vi ritroverete a dormire quattro, massimo cinque ore a notte
 
 C'è da rimanerne incantati e fissare per ore quello spettacolo, che di fatto non dura che pochi minuti (il tempo di sollevare i bracci del ponte).
 
-{{< vimeo src="1020003928" type="horizontal" gif="1" >}}
+{{< vimeo src="1020003928" type="vertical-9x16" gif="1" >}}
 
 La notte i ponti prendono vita in un rituale programmato che ha luogo ogni notte, da quando i ponti  furono costruiti: con precisione svizzera i ponti del Neva si alzano, permettendo il passaggio delle imbarcazioni dal Mar Baltico che risalgono così il fiume.
 
