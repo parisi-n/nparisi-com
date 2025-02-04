@@ -336,7 +336,7 @@ L'_e-visa_ ha un costo di circa 48€ (corrispondenti ad un pagamento di 191 AED
 
 La procedura è abbastanza snella, anche se richiede una buona quantità di dati tra cui il nome dei vostri genitori — per qualche particolare motivo a me apparentemente sconosciuto.
 
-Ricordatevi però che l'ottenimento del visto elettronico non vi da automaticamente diritto all'ingresso nella Federazione Russa, ma avverrà a discrezione del personale militare al momento del vostro arrivo nel check-point di competenza.
+Ricordatevi però che l'ottenimento del visto elettronico non vi da automaticamente diritto all'ingresso nella Federazione Russa, che avverrà a discrezione del personale militare al momento del vostro arrivo nel check-point di competenza.
 
 L'e-visa vi da la possibilità di poter stare nel territorio della Federazione Russa per un **periodo massimo di 16 giorni** dal **momento del vostro ingresso** che dovrà essere effettuato **all'interno di un periodo di validità pari a 60 giorni**.
 
@@ -411,9 +411,9 @@ Ho tentato un pagamento di un biglietto del bus a San Pietroburgo tramite GPay: 
 
 L'avere con voi dollari invece che rubli tuttavia potrebbe rendervi estremamente vulnerabili una volta arrivati a destinazione, soprattutto se arriverete nel cuore della notte, come è successo a noi (00:30 inoltrate) — senza possibilità nè di poter pagare la metropolinata nè tantomeno un taxi o poter comprare del cibo — poichè visto l'orario ogni banca era chiusa.
 
-Non ci siamo però dati per vinti. Lungo la strada dalla {{< external_link "https://maps.app.goo.gl/Xr79sZVFUu4uJ1N29" "Stazione dei Bus" >}} di San Pietroburgo alla fermata della metro più vicina notiamo un mini-market aperto 24/7 e ci fiondiamo dentro. Gli chiedo se mi può convertire una quota di dollari americani, anche piccola, per poter acquistare del cibo ed il biglietto della metro. Rifiuta. Insisto educamente — notando l'aria incerta con cui mi risponde, finchè una signora non accetta di cambiare rubli in euro — ad un cambio svantaggioso ma per noi salvifico.
+Non ci siamo però dati per vinti. Lungo la strada dalla {{< external_link "https://maps.app.goo.gl/Xr79sZVFUu4uJ1N29" "Stazione dei Bus" >}} di San Pietroburgo alla fermata della metro più vicina notiamo un mini-market aperto 24/7 e ci fiondiamo dentro. Gli chiedo se mi può convertire una quota di dollari americani, anche piccola, per poter acquistare del cibo ed il biglietto della metro. Rifiuta. Insisto educamente — notando l'aria incerta con cui mi risponde, finchè una signora non accetta di cambiare euro per rubli — ad un cambio svantaggioso ma per noi salvifico.
 
-Con quei 50€ in rubli possiamo acquistare la cena, e pure altro.
+Con quei 50€ in rubli possiamo acquistare la cena e tanto altro altro.
 
 * * *
 

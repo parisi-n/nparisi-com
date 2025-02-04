@@ -41,14 +41,6 @@
             "url" : "racconti-di-viaggio/russia/ep-0-intro/"
         } ,
         {
-            "image" : "bishkek_header.jpg" ,
-            "color_category": "#f4511e" ,
-            "category": "Kyrgyzstan" ,
-            "text_title" : "Esplorando Bishkek" ,
-            "text_description" : "Cosa vedere, dove dormire, dove andare in due giorni nella capitale del Kyrgyzstan." ,
-            "url" : "racconti-di-viaggio/kyrgyzstan/ep-6-bishkek/"
-        } ,
-        {
             "image" : "iurt_camp_songkul_nord_2_header.jpg" ,
             "color_category": "#f4511e" ,
             "category": "Kyrgyzstan" ,
@@ -65,22 +57,6 @@
             "url" : "racconti-di-viaggio/kyrgyzstan/ep-4-barksoon-skazka-bokonbayevo/"
         } ,
         {
-            "image" : "kyzylsuu_valley_header.jpg" ,
-            "color_category": "#f4511e" ,
-            "category": "Kyrgyzstan" ,
-            "text_title" : "La valle di Kyzyl-Suu" ,
-            "text_description" : "Alla scoperta della valle di Kyzyl-Suu in quel che rappresenta un Kyrgyzstan genuino, puro, incontaminato." ,
-            "url" : "racconti-di-viaggio/kyrgyzstan/ep-3-karakol-kyzyl-suu/"
-        } ,
-        {
-            "image" : "burana_header.jpg" ,
-            "color_category": "#f4511e" ,
-            "category": "Kyrgyzstan" ,
-            "text_title" : "Il nord del'Issyk-Kul" ,
-            "text_description" : "La frontiera da Almaty a Bishkek, poi Burana e infine Cholpon-Ata: i luoghi salienti della sponda nord dell'Issyk-Kul." ,
-            "url" : "racconti-di-viaggio/kyrgyzstan/ep-2-bishkek-burana-cholponata/"
-        } ,
-        {
             "image" : "almaty_header.jpg" ,
             "color_category": "#f4511e" ,
             "category": "Kyrgyzstan" ,
@@ -95,14 +71,6 @@
             "text_title" : "Itinerario di 9 giorni" ,
             "text_description" : "Come organizzare un viaggio in Kyrgyzstan dall'Italia dalla A alla Z." ,
             "url" : "racconti-di-viaggio/kyrgyzstan/ep-0-preparativi/"
-        } ,
-        {
-            "image" : "chisinau_cover.jpg" ,
-            "color_category": "#f4511e" ,
-            "category": "Moldova" ,
-            "text_title" : "Chisinau" ,
-            "text_description" : "Cosa vedere e cosa fare in un week-end a Chisinau." ,
-            "url" : "racconti-di-viaggio/moldova/chisinau/"
         } ,
         {
             "image" : "lowepro_photosport_cover.jpg" ,
@@ -127,30 +95,6 @@
             "text_title" : "Moynaq, le iurte, l'alba ed il Lago d'Aral" ,
             "text_description" : "In direzione del lago che muore alla scoperta di fasti e gloria di un'epoca passata." ,
             "url" : "racconti-di-viaggio/uzbekistan/ep-5-moynaq-lago-aral/"
-        } ,
-        {
-            "image" : "kyzyl_kum_cover.jpg" ,
-            "color_category": "#f4511e" ,
-            "category": "Uzbekistan" ,
-            "text_title" : "Il deserto del Kyzyl Kum e le cinque fortezze" ,
-            "text_description" : "Attraversiamo in auto il deserto del Kyzyl Kum e ci lanciamo in un tour delle cinque fortezze poco prima di arrivare a Khiva." ,
-            "url" : "racconti-di-viaggio/uzbekistan/ep-4-deserto-5-castelli/"
-        } ,
-        {
-            "image" : "bukhara_cover.jpg" ,
-            "color_category": "#f4511e" ,
-            "category": "Uzbekistan" ,
-            "text_title" : "Smarriti a Bukhara" ,
-            "text_description" : "Cosa vedere, cosa fare e dove mangiare per scoprire gli angoli più nascosti e genuini di Bukhara." ,
-            "url" : "racconti-di-viaggio/uzbekistan/ep-3-bukhara/"
-        } ,
-        {
-            "image" : "samarcanda_cover.jpg" ,
-            "color_category": "#f4511e" ,
-            "category": "Uzbekistan" ,
-            "text_title" : "La fiaba di Samarcanda" ,
-            "text_description" : "Basta il nome per evocare le fiabe più lontane ed antiche. Cosa vedere, cosa fare e dove mangiare." ,
-            "url" : "racconti-di-viaggio/uzbekistan/ep-2-samarcanda/"
         } ,
         {
             "image" : "uzbekistan_preparativi_cover.jpg" ,
@@ -183,22 +127,6 @@
             "text_title" : "Il Paradiso delle Lofoten" ,
             "text_description" : "Cosa vedere, cosa fare e dove mangiare nelle Isole delle Lofoten, immersi nella natura." ,
             "url" : "racconti-di-viaggio/norvegia/day-7-lofoten/"
-        } ,
-        {
-            "image" : "trolltunga_cover.jpg" ,
-            "color_category": "#f4511e" ,
-            "category": "Norvegia" ,
-            "text_title" : "Trolltunga" ,
-            "text_description" : "Come organizzare l'escursione a Trolltunga, dove alloggiare e come arrivarci." ,
-            "url" : "racconti-di-viaggio/norvegia/day-2-odda-trolltunga/"
-        } ,
-        {
-            "image" : "curve-cryptocom-cards-cover.jpg" ,
-            "color_category": "#048d79" ,
-            "category": "Accessori" ,
-            "text_title" : "Curve e Crypto: la mia esperienza" ,
-            "text_description" : "Le carte che uso in viaggio e perchè ne suggerisco il loro uso." ,
-            "url" : "lifestyle/curve-crypto-in-viaggio/"
         }
     ]
 }
