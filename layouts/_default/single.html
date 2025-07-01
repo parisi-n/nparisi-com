@@ -65,7 +65,9 @@
                         </div>
 
                         <!-- Social share bar -->
-                        {{ partial "share_bar_button.html" . }}
+                        <div id="top_share">
+                            {{ partial "share_bar_button.html" . }}
+                        </div>
 
                         <!-- Indice della pagina --> 
                         {{ if .Params.showToc }}
@@ -73,7 +75,7 @@
                         {{end}}
 
                         {{ .Content }}
-
+                        
                         <!-- Frecce laterali di navigazione -->
                         {{ partial "navigazione_tra_post.html" . }}
 
