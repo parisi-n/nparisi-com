@@ -1,55 +1,31 @@
 <!-- Altre icone: https://fontawesome.com/icons/ -->
 
 {{ $url := "." | absURL }}
-<div id="share_bar_button">
 
-    {{/* FACEBOOK */}}
-    <a href="https://www.facebook.com/sharer/sharer.php?u={{ $url }}" title="Condividi su Facebook" target="_blank">
-        <div class="fa-custom-button">
-            <i class="fab fa-facebook-f fab-center-bottom"></i>
-        </div>
-    </a>
+{{/* FACEBOOK */}}
+<a href="https://www.facebook.com/sharer/sharer.php?u={{ $url }}" title="Condividi su Facebook" target="_blank">
+    <div class="fa-custom-button">
+        <i class="fab fa-facebook-f fab-center-bottom"></i>
+    </div>
+</a>
 
-    {{/* LINKEDIN */}}
-    <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ $url }}&title=&summary=&source=" title="Condividi su Linkedin" target="_blank">
-        <div class="fa-custom-button">
-            <i class="fab fa-linkedin-in"></i>
-        </div>
-    </a>
-    
-    {{/* POCKET */}}
-    <a href="https://getpocket.com/save?url={{ $url }}&title={{ .Params.title }}" title="Trasferisci articolo su Pocket" target="_blank">
-        <div class="fa-custom-button">
-            <i class="fab fa-get-pocket"></i>
-        </div>
-    </a>
-    
-    {{/* PINTEREST */}}
-    <a href="https://pinterest.com/pin/create/button/?url={{ $url }}&media=&description={{ .Params.title }}" title="Condividi su Pinterest" target="_blank">
-        <div class="fa-custom-button">
-            <i class="fab fa-pinterest-p"></i>
-        </div>
-    </a>
-    
-    {{/* TWITTER */}}
-    <a href="https://twitter.com/home?status={{ $url }}" title="Condividi su Twitter" target="_blank">
-        <div class="fa-custom-button">
-            <i class="fab fa-twitter"></i>
-        </div>
-    </a>
-    
-    {{/* WHATSAPP */}}
-    <a href="whatsapp://send?text=Leggi questo post: {{ $url }}" data-action="share/whatsapp/share" title="Condividi su Whatsapp" target="_blank">
-        <div class="fa-custom-button">
-            <i class="fab fa-whatsapp"></i>
-        </div>
-    </a>
-    
-    {{/* KO-FI */}}
-    <a href="https://ko-fi.com/nparisi" style="text-decoration: none;" title="Offrimi un caffè" target="_blank">
-        <div class="fa-custom-button" style="width: 6em">
-            <i class="far fa-heart"></i>
-            <b class="ko-fi">Ko-Fi</b>
-        </div>
-    </a>
-</div>
+{{/* POCKET */}}
+<a href="https://getpocket.com/save?url={{ $url }}&title={{ .Params.title }}" title="Trasferisci articolo su Pocket" target="_blank">
+    <div class="fa-custom-button">
+        <i class="fab fa-get-pocket"></i>
+    </div>
+</a>
+
+{{/* TWITTER */}}
+<a href="https://twitter.com/home?status={{ $url }}" title="Condividi su Twitter" target="_blank">
+    <div class="fa-custom-button">
+        <i class="fab fa-twitter"></i>
+    </div>
+</a>
+
+{{/* WHATSAPP */}}
+<a href="whatsapp://send?text=Leggi questo post: {{ $url }}" data-action="share/whatsapp/share" title="Condividi su Whatsapp" target="_blank">
+    <div class="fa-custom-button">
+        <i class="fab fa-whatsapp"></i>
+    </div>
+</a>

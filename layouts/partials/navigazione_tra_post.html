@@ -1,14 +1,24 @@
+<div class="keep-reading-bottom"></div>
+
+<div id="bottom_share">
+    <div>
+        <!-- Social share bar -->
+        <div id="share_bar_button">
+            {{ partial "share_bar_button.html" . }}
+
+        </div>
+        <br/>
+        <div id="share_bar_button" style="margin-top: -0.3em;">
+            {{ partial "kofi_bar_button.html" . }}
+        </div>
+    </div>
+</div>
+
+
 <div id="tornaSu">
     <button onclick="scrollToTop()" title="Torna su" class="more-link" style="width: 13em; position: relative; left: calc(50% - 6.5em);"><i class="fas fa-chevron-up"></i> Torna su <i class="fas fa-chevron-up"></i></button>
 
     <div style="text-align: center; margin: 2.7em auto 0.3em; font-size: 10pt; color: #b8b8b8;" class="keep-reading">oppure</div>
-</div>
-
-<div class="keep-reading-bottom"></div>
-
-<div id="bottom_share">
-    <!-- Social share bar -->
-    {{ partial "share_bar_button.html" . }}
 </div>
 
 <div class="keep-reading">Continua a leggere</div>
