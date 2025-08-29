@@ -1,6 +1,6 @@
 ---
 title: "EuropeBirthdayTrip 20-23: l'itinerario e l'organizzazione"
-date: "2025-08-30"
+date: "2025-08-29"
 image: "images/intro_cover.jpg"
 
 summary : "Un viaggio inizia ancor prima di partire, quando si iniziano a decidere le date di partenza e di ritorno, le tappe e le tempistiche. Ma se invece il viaggio prendesse forma man mano che lo si vive, giorno dopo giorno? E' questo quel che è stato lo Europe Birthday Trip del 2023, il viaggio per le capitali europee a cavallo del mio compleanno!"
@@ -10,7 +10,7 @@ tags : [ "travel", "europe-birthday-trip" ]
 showToc : true
 type: "article"
 
-bozza: true
+bozza: false
 ---
 
 {{< box "orange" >}}
@@ -109,7 +109,7 @@ Create da un artigiano locale in legno di faggio e mogano — permettono di orga
 
 {{< image src="picnic_area_sosta_austria.jpg" alt="Tavolo allestito su una piazzola di servizio austriaca ad ora di pranzo" class="" caption="Cibo dalla Sardegna" >}}
 
-Ci hanno permesso di mangiare nei posti più strani, durante questo viaggio: da una __fermata dei bus__ in Lituania (causa moscerini e zanzare non appena ci si addentrava nella vegetazione) ad __un cavalcazia__ della Czechia ad un __pranzo con view__ sotto un fresco albero con vista sul ponte dell'Oresund.
+Ci hanno permesso di mangiare nei posti più strani, durante questo viaggio: da una __fermata dei bus__ in Lituania (causa moscerini e zanzare non appena ci si addentrava nella vegetazione) ad __un cavalcavia__ della Czechia ad un __pranzo con view__ sotto un fresco albero con vista sul ponte dell'Oresund.
 
 {{< image src="picnic.jpg" alt="Tavolo da pic-nic allestito e pronto per il pranzo" class="" caption="Cibo semplice ma essenziale" >}}
 
