@@ -100,6 +100,9 @@ Per quanto l'assorbimento dichiarato per questo specifico apparecchio sia di 70-
 Nel nostro caso abbiamo voluto essere previdenti e l'abbiamo azionato sempre o in marcia o tenendo il motore acceso — onde evitare scherzi dati dalla batteria: __non si può mai sapere come risponderà la batteria soprattutto se non più nuovissima!__
 {{< /box >}}
 
+Un esempio di funzionamento:
+{{< video src="thermos_12v_caffè.mp4" class="" caption="" type="vertical_9x16" >}}
+
 ### Sedie e tavolo da campeggio
 
 Create da un artigiano locale in legno di faggio e mogano — permettono di organizzare velocemente una tavola imbandita con due sedie e di poter comodamente mangiare (quasi) ovunque — natura ed ambiente permettendo.
