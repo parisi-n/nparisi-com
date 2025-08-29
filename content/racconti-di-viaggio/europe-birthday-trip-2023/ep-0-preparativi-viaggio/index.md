@@ -33,7 +33,7 @@ Un viaggio con i tempi di un viaggio, senza frenesia, con tanta strada in mezzo.
 
 Un viaggio — oserei dire — quasi d'altri tempi.
 
-{{< image src="cruscotto_auto.jpg" alt="Cruscotto della BMW Serie 1 con Waze attivo in navigazione" class="" caption="Waze co-pilota fidato" type="wide-screen">}}
+{{< image src="cruscotto_auto.jpg" alt="Cruscotto della BMW Serie 1 con Waze attivo in navigazione" caption="Waze co-pilota fidato" type="wide-screen">}}
 
 ## #EuropeBirthdayTrip #20-23
 
@@ -51,17 +51,15 @@ Questa volta però c'è una novità: un colpo di testa preso sulla via del ritor
 
 Il resto è la storia di questo post.
 
-{{< image src="bmw_prateria_margherite.jpg" alt="Prato di margherite in Repubblica Ceca con il cofano posteriore della BMW Serie 1 in vicinanza " class="" caption="Repubblica Ceca" type="wide-screen">}}
+{{< image src="bmw_prateria_margherite.jpg" alt="Prato di margherite in Repubblica Ceca con il cofano posteriore della BMW Serie 1 in vicinanza " caption="Repubblica Ceca" type="wide-screen">}}
 
 ## Il programma
 
-Non è che pochi mesi prima che siamo stati a Vilnius: al tempo un metro abbondante di neve e -10 C° presenziavano le strade, le giornate cortissime, e non si stava bene che nel calore dell'appartamento. C'era poco spazio per spostarsi e per sognare... però, __che spettacolo!__
+Non era che pochi mesi prima che siamo stati a Vilnius: al tempo un metro abbondante di neve e -10 C° presenziavano le strade, le giornate cortissime, e non si stava bene che nel calore dell'appartamento. C'era poco spazio per spostarsi e per sognare... però, __che spettacolo!__
 
 L'obiettivo di questo nuovo viaggio era...tornare a Vilnius e rivederla nel suo abito estivo, rigogliosa di verde e fresca, vivace. L'ultima volta che son stato a Vilnius nel periodo estivo era all'epoca di quel viaggio, nel 2016.
 
-Questa volta, però, percorriamo una strada diversa, segnalata come la più rapida: l'__Austria__ con __Vienna__, __Varsavia__ con la __Polonia__ attraverso la __Czekia__  ed i suoi sterminati prati pianeggianti.
-
-{{< image src="bmw_navigatore.jpg" alt="" class="Navigatore della BMW serie 1 con Waze in modalità navigazione" caption="" type="wide-screen">}}
+Questa volta, però, percorriamo una strada diversa, segnalata come la più rapida: l'__Austria__ con __Vienna__, la __Polonia__ con __Varsavia__ attraverso la __Czekia__  ed i suoi sterminati prati pianeggianti.
 
 Dopodichè puntiamo verso Est, verso la _repubblica di Belarus_, percorrendo la strada che costeggia il suo confine e ammirando nuovamente __i nidi delle cicogne__ e la Natura profonda, __verde__, che rinasce dopo essersi assopita sotto la neve ed il ghiaccio dei mesi invernali, in un ciclo infinito; infine __Augustow__ ed il __confine lituano__ — ma con poco tempo per ammirarlo e contemplarlo perchè la meta è ancora lontana, e Vilnius dista ancora più di due ore.
 
@@ -79,6 +77,8 @@ Il ritorno, poi, è quanto di più fantasioso: __in traghetto__ da Klaipeda a _K
 
 Un viaggio diverso, in auto, che merita di essere organizzato diversamente dai canonici viaggi in aereo con autonoleggio. Questa volta avevamo un imperativo categorico: __essere autonomi ed indipendenti__ negli spostamenti, nel lifestyle e nel cibo.
 
+{{< image src="bmw_navigatore.jpg" alt="" class="Navigatore della BMW serie 1 con Waze in modalità navigazione" caption="" type="wide-screen">}}
+
 Per questo, nel cofano dell'auto, abbiamo caricato, oltre alle due valigie:
 
 ### Thermos a 12V
@@ -90,7 +90,7 @@ Possiamo convenire sul fatto che i caffè solubili non possano essere considerat
 
 Quindi — perchè non un thermos per il caffè solubile o un cappuccino o un tè in viaggio, mentre vi sgranchite le gambe in una piazzola dell'Austria, all'ombra di un albero?
 
-{{< image src="bollitore_12v.jpg" alt="Bollitore a 12V" class="" caption="Thermos a 12V" >}}
+{{< image src="bollitore_12v.jpg" alt="Bollitore a 12V" caption="Thermos a 12V" >}}
 
 Potete trovare quello {{< affiliate_link "thermos-12v" "usato nel viaggio qui" >}}.
 
@@ -101,27 +101,27 @@ Nel nostro caso abbiamo voluto essere previdenti e l'abbiamo azionato sempre o i
 {{< /box >}}
 
 Un esempio di funzionamento:
-{{< video src="thermos_12v_caffè.mp4" class="" caption="" type="vertical_9x16" >}}
+{{< video src="thermos_12v_caffè.mp4" caption="" type="vertical_9x16" >}}
 
 ### Sedie e tavolo da campeggio
 
 Create da un artigiano locale in legno di faggio e mogano — permettono di organizzare velocemente una tavola imbandita con due sedie e di poter comodamente mangiare (quasi) ovunque — natura ed ambiente permettendo.
 
-{{< image src="picnic_area_sosta_austria.jpg" alt="Tavolo allestito su una piazzola di servizio austriaca ad ora di pranzo" class="" caption="Cibo dalla Sardegna" >}}
+{{< image src="picnic.jpg" alt="Tavolo da pic-nic allestito e pronto per il pranzo" caption="Cibo semplice ma essenziale" >}}
 
 Ci hanno permesso di mangiare nei posti più strani, durante questo viaggio: da una __fermata dei bus__ in Lituania (causa moscerini e zanzare non appena ci si addentrava nella vegetazione) ad __un cavalcavia__ della Czechia ad un __pranzo con view__ sotto un fresco albero con vista sul ponte dell'Oresund.
 
-{{< image src="picnic.jpg" alt="Tavolo da pic-nic allestito e pronto per il pranzo" class="" caption="Cibo semplice ma essenziale" >}}
+{{< image src="picnic_area_sosta_austria.jpg" alt="Tavolo allestito su una piazzola di servizio austriaca ad ora di pranzo" caption="Cibo dalla Sardegna" >}}
 
 ### Bevande e cibo
 
 La stagione lo permette e noi non siamo persone vergognose: un set composto da __tavolo e due seggiole pieghevoli__ (prodotte da un artigiano sardo che si firma _PP_) diventa il nostro tavolo regale per consumare il pranzo nei posti più disparati, che sia una piazzola per i bus, sotto un cavalcavia o un'area di sosta nel mezzo del nulla.
 
-Il cofano posteriore, meticolosamente organizzato, offre ad inizio viaggio salsiccia di Macomer, vino rosso di San Nicolò d'Arcidano, Bistoccu di Montresta, spianata di Desulo ed altre prelibatezze dalla Sardegna; man mano che il viaggio prosegue, invece, quanto di più buono lo stato che ci ospita in quel momento ha da offrire: tappa quasi obbligatoria, giornalmente, è stato fare visita al negozio di alimentari più vicino al punto d'appoggio per la notte, così da poter prendere sempre cibo tipico, del luogo.
+Il cofano posteriore, meticolosamente organizzato, offre ad inizio viaggio salsiccia di Oliena, vino rosso di San Nicolò d'Arcidano, Bistoccu di Montresta, spianata di Desulo ed altre prelibatezze dalla Sardegna; man mano che il viaggio prosegue, invece, quanto di più buono lo stato che ci ospita in quel momento ha da offrire: tappa quasi obbligatoria, giornalmente, è stato fare visita al negozio di alimentari più vicino al punto d'appoggio per la notte, così da poter prendere sempre cibo tipico, del luogo.
 
 Ovviamente non è mancato formaggio e salsiccia per gli aperitivi più improvvisati ma anche più belli.
 
-{{< image src="viadotto_picnic.jpg" alt="Pic-nic al di sotto di un viadotto autostradale in Repubblica Ceca" class="" caption="Rifugio in emergenza per il pranzo" >}}
+{{< image src="viadotto_picnic.jpg" alt="Pic-nic al di sotto di un viadotto autostradale in Repubblica Ceca" caption="Rifugio in emergenza per il pranzo" >}}
 
 {{< box ""orange"" >}}
 In tutto il viaggio abbiamo subito una grave mancanza: un frigo portatile.
@@ -139,7 +139,7 @@ Il veicolo scelto per la traversata questa volta è più "massiccio" e ci permet
 
 Si tratta di un BMW Serie 1 (F40) 118D con tanto di tettuccio panoramico per non perderci nemmeno un raggio di sole. E, per fortuna, il meteo è stato clemente: e mentre in Italia diluviava e pareva di vivere un Novembre inoltrato — varcati i confini (ma ad onor del vero già da Venezia) — si riconosceva quel che sembrava la bella stagione.
 
-{{< image src="bmw_fermata.jpg" alt="BMW Serie 1 in sosta momentanea" class="" caption="" type="wide-screen">}}
+{{< image src="bmw_fermata.jpg" alt="BMW Serie 1 in sosta momentanea" caption="" type="wide-screen">}}
 
 * * *
 
@@ -147,17 +147,17 @@ L'auto è stato anche l'elemento che ci ha condizionato maggiormente nelle scelt
 
 In questo modo ci siamo evitati brutte sorprese al risveglio...
 
-Dopo questa esperienza posso affermare con ragionevole esperienza che il prezzo medio, a notte, per un parcheggio si aggira sui __20€/notte__, con picchi di __30€/notte__ (Copenhagen) e minimi di __2€/notte__ (Riga).
+Dopo questa esperienza posso affermare con ragionevole certezza che il prezzo medio, a notte, per un parcheggio si aggira sui __20€/notte__, con picchi di __30€/notte__ (Copenhagen) e minimi di __2€/notte__ (Riga).
 
 Nelle varie città però, di volta in volta, vi darò qualche suggerimento per alloggiare l'auto in massima sicurezza e risparmiare qualche euro.
 
 ### Controllo pre-partenza
 
-Seppur si da per scontato che chi voglia cimentarsi in un viaggio on-the-road come questo sia anche abbastanza _confident_ per quanto riguarda il veicolo che andrà a guidare, non è male ribadire alcuni concetti e controlli da effettuare prima della partenza:
+Seppure si dia per scontato che chi voglia cimentarsi in un viaggio on-the-road come questo sia anche abbastanza _confident_ per quanto riguarda il veicolo che andrà a guidare, non è male ribadire alcuni concetti e controlli da effettuare prima della partenza:
 
 1. controllare i livelli dei liquidi del motore: olio, liquido refrigerante e --- perchè no --- liquido lavavetri. Non dimenticate __AdBlue__ (nei casi in cui la vostra auto ne faccia uso). Controllateli di frequente, anche durante il viaggio --- perchè la sorpresa è dietro l'angolo! __Mai dare per scontato che, poichè l'auto è nuova, non andrà a consumare nè olio nè liquido refrigerante__.
 2. controllare che i quattro pneumatici siano in __condizioni adeguate__ a percorrere __parecchi km__, siano __gonfiati adeguatamente__ e non presentino "bolle" o "ernie" sulle spalle degli pneumatici
-3. assicuratevi di avere nel cofano uno spray rimuovi-moscerini --- soprattutto se viaggiate a ridosso della bella stagione: almeno avrete un parabrezza (quasi) sempre pulito;
+3. assicurarsi di avere nel cofano uno spray rimuovi-moscerini --- soprattutto se viaggiate a ridosso della bella stagione: almeno avrete un parabrezza (quasi) sempre pulito;
 4. partire con il pieno di carburante è sempre una cosa buona e giusta, tuttavia avrete necessità — prima o poi — di fermarvi per far carburante.
 
 ### Carburante
@@ -172,7 +172,7 @@ E' stato anche divertente andare alla ricerca della pompa di gasolio più econom
 
 Abbiamo percorso prevalentemente, se non esclusivamente, autostrada nel nostro percorso da Milano a Vilnius.
 
-{{< image src="bmw_plancia.jpg" alt="Cruscotto con compute di bordo della BMW Serie 1 con navigazione con Waze attiva in direzione confine polacco-lituano" class="" caption="Direzione: confine Polonia-Lituania" type="wide-screen">}}
+{{< image src="bmw_plancia.jpg" alt="Cruscotto con compute di bordo della BMW Serie 1 con navigazione con Waze attiva in direzione confine polacco-lituano" caption="Direzione: confine Polonia-Lituania" type="wide-screen">}}
 
 #### Austria
 
@@ -191,16 +191,16 @@ Potrete semplicemente acquistarla nell'ultima Stazione di Servizio del confine i
 {{< box "blue" >}}
 Ad oggi è invece possibile acquistare la vignetta direttamente dal sito ufficiale delle autostrade austriache.
 
-Maggiori informazioni {{< external_link "https://shop.asfinag.at/it/" "qui" >}}.
+[Maggiori informazioni qui](https://shop.asfinag.at/it/).
 {{</box>}}
 
 #### Repubblica Ceca
 
 Per viaggiare nelle __Autostrade lla Repubblica Ceca__ è necessaria __una vignetta__. 
 
-Potete trovare {{< external_link "https://digitale-vignette-online.cz/it#:~:text=Quanto%20costa%20una%20vignetta%20di,partire%20da%2032%2C90%E2%82%AC." "maggiori informazioni qui" >}} (non sembra essere un sito ufficiale).
+Potete trovare {{< external_link "https://digitale-vignette-online.cz/it#:~:text=Quanto%20costa%20una%20vignetta%20di,partire%20da%2032%2C90%E2%82%AC." "maggiori informazioni qui" >}} (non sembra però essere il sito ufficiale).
 
-{{< image src="repceca.jpg" alt="Prateria sconfinata in fiore della repubblica ceca" class="" caption="Repubblica Ceca in fiore" type="wide-screen" >}}
+{{< image src="repceca.jpg" alt="Prateria sconfinata in fiore della repubblica ceca" caption="Repubblica Ceca in fiore" type="wide-screen" >}}
 
 #### La Polonia
 
@@ -222,7 +222,7 @@ La strada suggerita è stata: **Udine** - **Tarvisio** - **Graz** - **Vienna** -
 
 Questo è stato invece il nostro calendario; forse saremmo riusciti ad arrivare a Vilnius in due giorni pieni, ma non ci saremmo goduti i momenti e le deviazioni che invece, essendo _anche e soprattutto un viaggio di piacere_ --- ci siam voluti prendere.
 
-* Giorno #1: partenza da Pavia con arrivo in serata a Vienna;
+* [Giorno #1]({{< ref "/racconti-di-viaggio/europe-birthday-trip-2023/ep-1-austria/index.md" >}}): partenza da Pavia con arrivo in serata a Vienna;
 * Giorno #2: partenza (con _molta_ calma) da Vienna ed arrivo a Varsavia in serata;
 * Giorno #3: partenza all'alba da Varsavia ed arrivo (dopo vari stop ed avendo deciso di prendere strade alternative) in serata a Vilnius;
 * Giorno #4: assaporato per alcune ore Vilnius — ci tuffiamo nella natura selvaggia lituana e ci spingiamo fino ai suoi confini marini, attraversandoli, e ci spingiamo fino alle __Dune di Nida__;
