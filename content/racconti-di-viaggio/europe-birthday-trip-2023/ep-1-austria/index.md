@@ -76,7 +76,7 @@ Rallentiamo nei pressi di Graz, in cui una serie di biforcazioni ci obbligano a 
 
 ### L'arrivo a Vienna
 
-Ci troviamo alle 19 a pochi km da Vienna, con un traffico intenso serale della domenica — che ci obbliga ad incolonnarci ed andare a passo d'uomo per mezz'ora abbondnate.
+Ci troviamo alle 19 a pochi km da Vienna, con un traffico intenso serale della domenica — che ci obbliga ad incolonnarci ed andare a passo d'uomo per mezz'ora abbondante.
 
 Il sole è già basso ed ha quel colore arancione, caldo — quasi romantico — dei tramonti tipici dell'estate dell'Est.
 
@@ -167,7 +167,7 @@ Infine, partiamo.
 
 Da Vienna viaggiamo verso Nord, direzione **Brno** — in Repubblica Ceca.
 
-Notiamo però che il tempo di percorrenza effettivo rispetto ai km sia decisamente maggiore.
+Notiamo però come il tempo di percorrenza effettivo sia decisamente maggiore...
 
 A circa 40km dal confine, l'autostrada a due corsie per senso di marcia lascia spazio ad una strada a singola corsia, _estremamente trafficata_ ambo i sensi di marcia soprattutto da camion e mezzi pesanti.
 
@@ -228,6 +228,8 @@ Mangiamo bigos, cetriolini, pirogi e, come antipasto, scegliamo un ottimo lardo 
 Dopo aver mangiato il lardo e bevuto la vodka, decido per un qualche motivo di voler assaggiare anche i peperoncini a contorno del tagliere e...**qui si consuma il misfatto**: mi ustiono violentemente la bocca, in una maniera incoercibile ed impossibile da gestire. Inizia una incontrollabile scialorrea che mi porta a dover scappare all'esterno per poter in qualche modo gestire l'improvvisa inondazione — fatto che sarebbe durato per oltre 30 minuti rendendomi complesso anche poter tornare a casa :( 
 
 {{< image src="pierogi_bigos_cetrioli.jpg" alt="" class="" caption="Piatti tipici polacchi: pierogi, bigos, cetrioli. Vodka." >}}
+
+A fine pasto gentilmente ci è stato perfino offerto una vodka aromatizata finale, che però non ho potuto consumare; in compenso {{< affiliate_link "washington-instagram" "@whashington_giò" >}} mi ha confermato fosse davvero gustosa, tanto da aver fatto il bis...con la mia razione.
 
 ### Warsaw by night
 
