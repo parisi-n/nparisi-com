@@ -10,7 +10,7 @@ tags : [ "travel", "europe-birthday-trip", "austria" ]
 showToc : true
 type: "article"
 
-bozza: true
+bozza: false
 ---
 
 {{< box "orange" >}}
