@@ -222,7 +222,7 @@ La strada suggerita è stata: **Udine** - **Tarvisio** - **Graz** - **Vienna** -
 
 Questo è stato invece il nostro calendario; forse saremmo riusciti ad arrivare a Vilnius in due giorni pieni, ma non ci saremmo goduti i momenti e le deviazioni che invece, essendo _anche e soprattutto un viaggio di piacere_ --- ci siam voluti prendere.
 
-* [Giorno #1](#): partenza da Pavia con arrivo in serata a Vienna;
+* [Giorno #1]({{< ref "/racconti-di-viaggio/europe-birthday-trip-2023/ep-1-austria/index.md" >}}): partenza da Pavia con arrivo in serata a Vienna;
 * Giorno #2: partenza (con _molta_ calma) da Vienna ed arrivo a Varsavia in serata;
 * Giorno #3: partenza all'alba da Varsavia ed arrivo (dopo vari stop ed avendo deciso di prendere strade alternative) in serata a Vilnius;
 * Giorno #4: assaporato per alcune ore Vilnius — ci tuffiamo nella natura selvaggia lituana e ci spingiamo fino ai suoi confini marini, attraversandoli, e ci spingiamo fino alle __Dune di Nida__;
@@ -237,6 +237,8 @@ Questo è stato invece il nostro calendario; forse saremmo riusciti ad arrivare 
 ## Un lavoro a quattro mani 🙏
 
 Anche in questa sequenza di post {{< affiliate_link "washington-instagram" "@washington_giò" >}} oltrechè essere stata questa volta co-pilota ha anche aiutato nel lavoro di revisione e aggiunta di dettagli sfuggiti alla memoria dello scrittore.
+
+* * *
 
 Se hai piacere puoi seguire questa avventura atipica, tappa per tappa, nei prossimi post.
 
