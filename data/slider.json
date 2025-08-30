@@ -1,6 +1,14 @@
 {
     "array" : [
         {
+            "image" : "intro_cover.jpg" ,
+            "color_category": "#f4511e" ,
+            "category": "Racconti di Viaggio" ,
+            "text_title" : "#EuropeBirthdayTrip 20-23" ,
+            "text_description" : "#EuropeBirthdayTrip: il giro d'Europa in 10 giorni" ,
+            "url" : "racconti-di-viaggio/europe-birthday-trip-2023/ep-0-preparativi-viaggio/"
+        } ,
+        {
             "image" : "tallinn_cover.jpg" ,
             "color_category": "#f4511e" ,
             "category": "Russia" ,
