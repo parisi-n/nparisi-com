@@ -22,7 +22,7 @@ Per questo motivo trovano pubblicazione solo in questi tempi.
 {{< /box >}}
 
 {{< capital_letter_open >}}
-Il primo giorno è quello in cui ci prefiggiamo più km in assoluto: da Pavia a Vienna Google Maps segna oltre 900km ed è categorica una partenza all'alba. Partiamo un po' più tardi dell'alba, alle 7:30 — ma siamo cronicamente pigri ed anche se corriamo — lo facciamo comunque senza fretta — tanto che ogni occasione è buona per fermarsi.
+Il primo giorno è quello in cui ci prefiggiamo più km in assoluto: da Pavia a Vienna Google Maps segna oltre 900km ed è categorica una partenza all'alba. Partiamo un po' più tardi dell'alba, alle 7:30 — ma siamo cronicamente pigri e anche se corriamo — lo facciamo comunque senza fretta — tanto che ogni occasione è buona per fermarsi.
 {{< capital_letter_close >}}
 
 Una volta manca l'acqua nell'abitacolo, un'altra ci fermiamo per qualcosa da sgranocchiare in viaggio, altre volte il _necessaire_ per far partire il circo del [caffè]({{< ref "/racconti-di-viaggio/europe-birthday-trip-2023/ep-0-preparativi-viaggio/index.md#Thermos-a-12V" >}}).
@@ -241,4 +241,4 @@ Domani ci aspetta la sveglia all'alba.
 
 * * *
 
-{{/*Curiosi di come procede il viaggio e di quale sarà la prossima tappa? Continua a leggere il [prossimo post](#)*/}}
+[//]: # "(Curiosi di come procede il viaggio e di quale sarà la prossima tappa? Continua a leggere il [prossimo post](#)"
