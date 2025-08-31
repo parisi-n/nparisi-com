@@ -3,7 +3,7 @@ title: "EuropeBirthdayTrip 20-23: le cicogne, il confine bielorusso, Vilnius // 
 date: "2025-08-31"
 image: "images/vilnius_cover.jpg"
 
-summary : "Vilnius! Come sei bella, pur non avendo nulla da mostrare al turista superficiale? Quanta storia vissuta in silenzio è possibile riconoscere tra le tue vie, testimoni del tempo trascorso ma della tua imperitura presenza?"
+summary : "Vilnius! Come sei bella, pur non avendo nulla da mostrare al turista superficiale? Quanta storia vissuta in silenzio è possibile riconoscere tra le tue vie, testimoni del tempo trascorso?"
 categories : [ "racconti-di-viaggio", "europe-birthday-trip", "repubbliche-baltiche", "" ]
 tags : [ "travel", "europe-birthday-trip" ]
 
