@@ -37,7 +37,7 @@ Lo facevamo con un po' di coraggio e timore per quello che sulla carta era un vi
 
 Al tempo, alla guida, c'era mio padre.
 
-{{< image src="cartello_confine_lituania.jpg" alt="Cartello di inizio stradale lituano" class="" caption="Cartello stradale di confine" >}}
+{{< image src="punto_2016.jpg" alt="Cartello di confine della Repubblica di Lituania con la Fiat Punto 1.2" class="" caption="Giugno 2016" type="wide-screen">}}
 
 E questo viaggio ha un po' il sapore dei ricordi.
 
@@ -110,6 +110,8 @@ Nulla è lasciato al caso, e per l'occasione mi vesto come a suo tempo, ma con q
 
 Facciamo le foto del caso, ci tratteniamo un attimo a commentare la _milestone_ — di fatto fine e, parrà banale ai più, obiettivo del viaggio — e puntiamo verso Vilnius, ma non passando dall'autostrada ma da una strada statale a singola carregiata, con una corsia per senso di marcia.
 
+{{< image src="cartello_confine_lituania.jpg" alt="Cartello di inizio stradale lituano" class="" caption="Cartello stradale di confine" >}}
+
 Superiamo Alytus ed **arriviamo a Vilnius**
 
 ## Il crepuscolo di Vilnius
@@ -148,9 +150,9 @@ E dove cenare, se non da [Etno dvaras](#etno-dvaras)?
 
 {{< image src="etno_dvaras_cena.jpg" alt="" class="" caption="Cepelinai e pane fritto" >}}
 
-Il tutto accompagnato da un'ottima birra _baltas_, chiara, con limone — come da tradizione.
+Il tutto accompagnato da un'ottima birra _baltas_, chiara, con limone — come da tradizione — e la **frase di rito**.
 
-{{< video src="welcome_vilnius.mp4" class="" caption="Frase di rito" type="vertical_9x16" >}}
+{{< vimeo src="1114604699" type="vertical-9x16" >}}
 
 * * *
 
@@ -232,7 +234,7 @@ Nel 2015 l'ingresso era vicariato da tre guardiani, giorno e notte, e l'accesso 
 
 Un po' per scherzare, un po' per anticipare i tempi che — non ci credevo nemmeno io — sarebbero trascorsi, ero solito dire a costoro, con il mio russo molto maccheronico ma comprensibile, che un giorno sarei tornato — un giorno a distanza di tanto tempo, ed avrei fatto vedere a mia moglie o ai miei figli dove avevo vissuto e dove avevo sognato nei miei giorni di permanenza in una terra tanto sconosciuta tanto affascinante. E, come lo dicevo, ricordo la punta di amarezza o melanconia che mi spezzava le parole, proferite invece con spavalderia.
 
-Ebbene, dopo dieci anni, quel giorno è arrivato e ci ho portato {{< affiliate_link "washington-instagram" "@washington_giò" >}}.
+Ebbene, dopo dieci anni, quel giorno è arrivato e ci ho portato _@washington_giò_.
 
 Peccato che i protagonisti alla guardiania siano ovviamente cambiati, forse addirittura morti considerata l'età.
 
