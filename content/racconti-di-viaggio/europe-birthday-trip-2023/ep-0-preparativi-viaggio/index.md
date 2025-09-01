@@ -224,8 +224,8 @@ Questo è stato invece il nostro calendario; forse saremmo riusciti ad arrivare 
 
 * [Giorno #1-2]({{< ref "/racconti-di-viaggio/europe-birthday-trip-2023/ep-1-austria/index.md" >}}): partenza da Pavia con arrivo in serata a Vienna; il giorno dopo affrontiamo (con _molta_ calma) la strada che ci separa da Varsavia.
 * [Giorno #3]({{< ref "/racconti-di-viaggio/europe-birthday-trip-2023/ep-2-vilnius/index.md" >}}): partenza all'alba da Varsavia ed arrivo (dopo vari stop ed avendo deciso di prendere strade alternative) in serata a Vilnius;
-* Giorno #4: assaporato per alcune ore Vilnius — ci tuffiamo nella natura selvaggia lituana e ci spingiamo fino ai suoi confini marini, attraversandoli, e ci spingiamo fino alle __Dune di Nida__;
-* Giorno #5: è il giorno del mio compleanno — e ci regaliamo un giro in kayak per il fiume Vilnia ed un __pranzo georgiano__ sulle rive di un lago poco lontano da Vilnius;
+* [Giorno #4]({{< ref "/racconti-di-viaggio/europe-birthday-trip-2023/ep-3-la-lituania/index.md" >}}): assaporato per alcune ore Vilnius — ci tuffiamo nella natura selvaggia lituana e ci spingiamo fino ai suoi confini marini, attraversandoli, e ci spingiamo fino alle __Dune di Nida__;
+* [Giorno #5]({{< ref "/racconti-di-viaggio/europe-birthday-trip-2023/ep-2-vilnius/index.md" >}}): è il giorno del mio compleanno — e ci regaliamo un giro in kayak per il fiume Vilnia ed un __pranzo georgiano__ sulle rive di un lago poco lontano da Vilnius;
 * Giorno #6: dopo una lenta passeggiata per il centro — partiamo alla volta di __Riga__;
 * Giorno #7: è una Riga diversa da quella invernale che portavamo nei ricordi: esplode di vivacità e le sue strade strette del centro storico straripano di turisti;
 * Giorno #8: ritorniamo sui nostri passi, verso l'Italia, ma invece che via terra — lo facciamo via mare: da Klaipeda (il porto della Lituania) con un traghetto notturno DFDS arriviamo a Karlshamn, in Svezia;
