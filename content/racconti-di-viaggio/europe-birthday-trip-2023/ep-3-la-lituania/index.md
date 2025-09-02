@@ -259,7 +259,7 @@ Al di fuori di questa strada si trovano solo altre strade che potremmo definire 
 
 Se non siete di fretta, apprezzerete le strade lituane che entrano ed escono da villaggi anonimi, più o meno poveri, ma sempre dignitosi, che mantengono ancora una forte identità e rapporto con il passato sovietico in cui furono costruiti.
 
-## La vigilia del mio compleanno
+## La vigilia del mio compleanno 🎂
 
 Abbiamo però altri programmi: ci rechiamo nella {{< external_link "https://maps.app.goo.gl/JYs2RapDHHPP2CiZ7" "stazione di Servizio nei pressi di Olandu g." >}} e ceniamo con due hotdog appena preparati!
 
