@@ -265,7 +265,7 @@ Abbiamo però altri programmi: ci rechiamo nella {{< external_link "https://maps
 
 E' la vigilia del mio compleanno, e sto facendo e vivendo tante esperienze che ho desiderato a lungo di poter realizzare, al mio rientro a Vilnius.
 
-Ceniamo ma non c'è tempo da perdere: prendiamo una bottiglia di bollicine conservata per l'occasione e ci rechiamo (a piedi) lungo il fiume Neris, non lontano dallo {{< external_link "Baltasis tiltas" "https://maps.app.goo.gl/NUDNH3eC2vhdrjK88" >}}.
+Ceniamo ma non c'è tempo da perdere: prendiamo una bottiglia di bollicine conservata per l'occasione e ci rechiamo (a piedi) lungo il fiume Neris, non lontano dallo {{< external_link "https://maps.app.goo.gl/NUDNH3eC2vhdrjK88" "Baltasis tiltas" >}}.
 
 Alla mezzanotte (con molta discrezione, un po' nascosti, un po' imboscati) un **Pommery champagne** (meno buono di quanto atteso) ci ha tenuto compagnia, brindando al nuovo traguardo giovanile.
 
