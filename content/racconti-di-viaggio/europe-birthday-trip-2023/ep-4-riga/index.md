@@ -1,6 +1,6 @@
 ---
 title: "EuropeBirthdayTrip 20-23: Riga // Ep. 4"
-date: "2023-08-02"
+date: "2025-09-02"
 image: "images/riga_cover.jpg"
 
 summary : "Destinazione inaspettata e non prevista. Riga nella stagione primaverile ha un aspetto diverso rispetto a come ce la si immagina, avvolta nella neve e nella morsa del freddo inverno. Diventa una capitale fresca, vivace — ed il centro si popola di vivaci persone."
@@ -36,17 +36,17 @@ Ossequiosi dei limiti e timorosi degli autovelox veniamo più volte però supera
 
 La strada scorre serena, un po' troppo lentamente, finchè non scorgiamo l'equivalente di una _casa cantonale_, con la pietra miliare di demarcazione internazionale; molto discreta, ma tanto bella quanto insignificante.
 
-{{< image src="frontiera_lettonia_lituania.jpg" alt="" class="" caption="" >}}
+{{< image src="frontiera_lettonia_lituania.jpg" alt="" class="" caption="Altro confine" >}}
 
 ## Il confine 🇱🇹—🇱🇻
 
 Usciamo dall'auto per fare alcune foto, ed un clima quasi ostile ci accoglie; ben diverso da quello lasciato a Vilnius. Il vento come lame taglienti si insinua tra il nostro abbigliamento estivo; iniziamo a preoccuparsi per le temperature a cui stiamo andando incontro.
 
-{{< image src="confine_lettonia_macchina_me.jpg" alt="" class="" caption="" type="wide-screen">}}
+{{< image src="confine_lettonia_macchina_me.jpg" alt="" class="Foto di me e della macchina con dietro il Cartello di confine di stato della Lettonia" caption="" type="wide-screen">}}
 
 Nel frattempo il sole inizia la sua discesa verso l'orizzonte, e la terra lettone inizia a sfreddarsi. Decidiamo di velocizzarci per evitare di dover percorrere troppa strada al buio: in fondo sono strade che non conosciamo, e l'agguato e l'imprevvisto possono essere sempre dietro l'angolo.
 
-{{< image src="confine_lettonia_macchina_me_2.jpg" alt="" class="" caption="Pietra di demarcazione del confine di stato" >}}
+{{< image src="confine_lettonia_macchina_me_2.jpg" alt="Confine di stato Lituano dal lato Lettone" class="" caption="Pietra di demarcazione del confine di stato" >}}
 
 ## Riga
 
@@ -120,7 +120,7 @@ Questa volta invece, considerato il clima mite e piacevole, ci affidiamo ad un _
 Già nel rigido inverno del 2016 mi ero affidato ad un walking tour, ed in quell'occasione avevo conosciuto {{< external_link "https://www.rigafreetours.com/" "Toms" >}}.
 Ritrovarlo a distanza di così tanti anni, con la sua grinta e voglia di spiegarti Riga in ogni singolo dettaglio è stato un bellissimo regalo.
 
-{{< image src="toms_guida_riga.jpg" alt="" class="" caption="" >}}
+{{< image src="toms_guida_riga.jpg" alt="" class="" caption="Guida di Riga Toms ed il suo comizio" >}}
 
 Ovviamente non mi ha riconosciuto, ma a fine tour sono andato a ripresentarmi.
 
@@ -132,37 +132,37 @@ Se passate da Riga vi consiglio caldamente i suoi tour: in poche ore vi farà fa
 
 Concludiamo il _walking tour_ con Thoms ad orario perfetto per fare aperitivo; optiamo quindi per una tradizionalissima birra (locale) e _pane fritto_.
 
-{{< image src="aperitivo_dettaglio.jpg" alt="" class="" caption="" >}}
+{{< image src="aperitivo_dettaglio.jpg" alt="Due birre e pane fritto" class="" caption="" >}}
 
 Qualcosa però va storto e, forse la stanchezza, forse l'alcolosità della birra, forse la pesantezza del pane fritto e...
 
-{{< image src="aperitivo_dettaglio_2.jpg" alt="" class="" caption="" >}}
+{{< image src="aperitivo_dettaglio_2.jpg" alt="Birra, pane fritto e fiori sullo sfondo; in lontananza si vede la Porta Svedese" class="" caption="" >}}
 
 Invece di dirigerci a pranzo ci dirigiamo in hotel a riposare 😁
 
-{{< image src="aperitivo_riga.jpg" alt="" class="" caption="" >}}
+{{< image src="aperitivo_riga.jpg" alt="Due birre e pane fritto visto dall'alto" class="" caption="Aperitivo lettone" >}}
 
 * * *
 
 Ristorati e riposati decidiamo di approfittare del pomeriggio e ci facciamo una passeggiata.
 
-{{< image src="campanile_san_giovanni.jpg" alt="" class="" caption="" type="wide-screen" >}}
+{{< image src="campanile_san_giovanni.jpg" alt="" class="" caption="Riga" type="wide-screen" >}}
 
 L'Old Town come detto già in altre occassioni non è grandissima e tutto è a _walking distance_.
 
-{{< image src="campanile_san_giovanni_2.jpg" alt="" class="" caption="" >}}
+{{< image src="campanile_san_giovanni_2.jpg" alt="Campanile della Chiesa di San Giovanni Battista (St. John) che svetta tra le case nella Old Town di Riga" class="" caption="" >}}
 
 Già in passato, ma in autunno inoltrato — ero salito sul campanile della chiesa di S. Giovanni (St. John's church); in occasione dell'estate il campanile permetteva la visita ben oltre le 17 — orario di chiusura canonica.
 
-{{< image src="campanile_san_giovanni_4.jpg" alt="" class="" caption="" >}}
+{{< image src="campanile_san_giovanni_4.jpg" alt="Altra inquadratura del Campanile di San Giovanni" class="" caption="" >}}
 
 Per questo motivo decidiamo di salire (ma questa è un'altra storia [di cui parlerò meglio più tardi](#chiesa-di-st.-john-giovanni)).
 
-{{< image src="campanile_san_giovanni_3.jpg" alt="" class="" caption="" >}}
+{{< image src="campanile_san_giovanni_3.jpg" alt="" class="" caption="Casa delle Teste Nere" >}}
 
 La **Casa delle Teste** è l'edificio più importante e si trova nella **Piazza del Municipio**. Il nome è legato al fatto che ospitava al confraternita di mercanti e commercianti riconoscibili per gli abiti ed i capelli neri.
 
-{{< image src="casa_teste_nere.jpg" alt="" class="" caption="" type="wide-screen" >}}
+{{< image src="casa_teste_nere.jpg" alt="" class="" caption="Scorcio urbano" type="wide-screen" >}}
 
 A loro probabilmente si deve la realizzazione del primo albero di Natale: in una notte gelida presi dai fumi dell'alcol addobarono un albero, lo posizionarono nel centro della piazza e gli diedero fuoco.
 
@@ -193,15 +193,15 @@ La più curiosa narra di un commerciante locale che, per non pagare i dazzi doga
 
 Il leone rappresenterebbe la monarchia svedese. Dalla parte esterna delle mura il leone ha la porta chiusa; dalla parte interna il leone stringe un anello tra i denti.
 
-{{< image src="dettagli_edificio_riga_2.jpg" alt="" class="" caption="" >}}
+{{< image src="dettagli_edificio_riga_2.jpg" alt="" caption="Case della _old town_" >}}
 
 Durante uno dei tour precedenti ci è stato spiegato la ragione, che al momento della stesura di questo blog mi sfugge; se qualcuno dei lettori, più esperto, lo sapesse — mi farebbe piacere mi scrivesse così che possa aggiungere questo dettaglio — apparentemente insignificante ma sicuramente ricco di significato.
 
-{{< image src="riga_centro_storico.jpg" alt="" class="" caption="" >}}
+{{< image src="riga_centro_storico.jpg" alt="" class="" caption="Dettagli urbani" >}}
 
 L'_old town_ è un micro-cosmo: non faticherete a trovare un luogo a voi congeniale in cui poter mangiare o anche solo fermarvi per apprezzare il tempo che passa, con le persone, nelle vie.
 
-{{< image src="vie_riga.jpg" alt="" class="" caption="" >}}
+{{< image src="vie_riga.jpg" alt="" class="" caption="Scorcio della Porta Svedese" >}}
 
 ### La biblioteca nazionale
 
@@ -209,43 +209,39 @@ L'_old town_ è un micro-cosmo: non faticherete a trovare un luogo a voi congeni
 
 Al di là del fiume _Daugava_ e dell'_Akmas tiltas_ si trova la **Biblioteca nazionale lettone**.
 
-{{< image src="altra_sponda_akmes_tiltas.jpg" alt="" class="" caption="" type="wide-screen" >}}
+{{< image src="altra_sponda_akmes_tiltas.jpg" alt="" class="" caption="Riga dal fiume Dougava" type="wide-screen" >}}
 
 Vale la pena visitarla, e questa era la nostra idea, se non fosse stata chiusa al pubblico causa festa nazionale.
 
-{{< image src="interno_libreria_nazionale.jpg" alt="" class="" caption="" >}}
+{{< image src="interno_libreria_nazionale.jpg" alt="" class="" caption="Interno della Biblioteca Nazionale" type="wide-screen" >}}
 
-### Il campanile della Chiesa di St. John (Giovanni)
+### Il campanile della Chiesa di St. John (S. Giovanni)
 
 {{< posizione "https://maps.app.goo.gl/2hGZ66LkqzWtF2829" >}}
 
 La sua cupola in bronzo vi terrà compagnia ovunque vi troviate, a Riga.
 
-{{< image src="campanile_san_giovanni.jpg" alt="" class="" caption="" >}}
-
 Normalmente è visitabile in orari diurni e fino al primo pomeriggio, ma per le **notti bianche** l'orario viene prolungato fino alle 22!
 Quale migliore, occasione, dunque per ammirare il tramonto da una vista privilegiata?
 
-{{< image src="campanile_san_giovanni_2.jpg" alt="" class="" caption="" >}}
-
 Questa era la nostra idea, se non fosse che siamo stati brutalmente cacciati dopo appena 20 minuti poichè, a dire del ragazzo, non eravamo autorizzati ad eseguire timelapse del tramonto (indicazione assolutamente non contenuta nel Regolamento sottoscritto implicitamente al momento dell'acquisto del biglietto, ed esposto nel _ticket office_).
 
-{{< image src="vista_riga_san_giovanni.jpg" alt="" class="" caption="" type="wide-screen" >}}
+{{< image src="vista_riga_san_giovanni.jpg" alt="" class="" caption="Sunset sul Dougava dal Campanile di St. John" type="wide-screen" >}}
 
 Dopo alcuni minuti di discussione frivole, compreso l'inutilità di star a discutere e la poca voglia di farlo, ci avviamo verso l'ascensore e chiediamo il rimborso del biglietto nell'ufficio all'ingresso, che ci viene corrisposto **interamente**.
 
-{{< image src="vista_riga_san_giovanni_2.jpg" alt="" class="" caption="" >}}
+{{< image src="vista_riga_san_giovanni_2.jpg" alt="" class="" caption="Dettagli" >}}
 
 La visita sulla cupola è comunque consigliata, a prescindere che si tratti di estate o inverno, perchè il panorama sarà completamente diverso e sempre **magico**.
 
 ### Il tramonto dall'Akmes tiltas
 
 Sfumato il sogno di attendere il tramonto dalla sommità del campanile andiamo alla ricerca di una nuova _location_.
-{{< image src="tramonto_campanile_chiesa_san_giovanni.jpg" alt="" class="" caption="" >}}
+{{< image src="tramonto_campanile_chiesa_san_giovanni.jpg" alt="" class="" caption="View dal Campanile" >}}
 
 Non tardiamo nella ricerca e la troviamo nel mezzo del lunghissimo **Ponte di Akmes** — anche conosciuto con il nome locale di _Akmes tiltas_ — che suona decisamente meglio.
 
-{{< image src="tramonto_akmes_tiltas.jpg" alt="" class="" caption="" >}}
+{{< image src="tramonto_akmes_tiltas.jpg" alt="" class="" caption="Sunset sull Dougava dall'Akmes tiltas" >}}
 
 Il resto è in questo timelapse:
 
@@ -261,7 +257,7 @@ Però...avviene l'improbabile: **decidiamo di tornare in Italia attraverso la Ge
 
 Parlerò per bene delle modalità e dell'itinerario **nel prossimo pos**; quel che importa ora ai fini narrativi è che ci lasciamo Riga alle spalle con **Klaipeda** come nuova destinazione.
 
-{{< image src="villaggio_lettonia.jpg" alt="" class="" caption="" type="wide-screen" >}}
+{{< image src="villaggio_lettonia.jpg" alt="" class="" caption="Paese lettone" type="wide-screen" >}}
 
 E per farlo attraversiamo numerosi paesi lettoni, anonimi ai nostri occhi, ma familiari e rifugio sicuri per molte altre persone.
 
@@ -271,7 +267,7 @@ Ci lasciamo Riga alle spalle e decidiamo, nell'itinerario verso Klaipeda, di toc
 
 Il primo è **Jurmala**.
 
-{{< image src="direzione_jurmala.jpg" alt="" class="" caption="" >}}
+{{< image src="direzione_jurmala.jpg" alt="" class="Segnaletica stradale verso Jurmala" caption="" >}}
 
 ### Jurmala 🌊
 
@@ -279,23 +275,25 @@ La spiaggia della capitale, a pochi km, dotata non solo di collegamento diretto 
 
 Passato il casello una enorme scritta ci da il benvenuto alla località turistica lettone per eccellenza, meta delle vacanze estive.
 
-{{< image src="jurmala_scritta.jpg" alt="" class="" caption="" type="wide-screen" >}}
+{{< image src="jurmala_scritta.jpg" alt="" class="" caption="Benvenuti a Jurmala" type="wide-screen" >}}
 
 Rimaniamo ancora una volta delusi dalla spiaggia, dalla sabbia, dal colore dell'acqua. L'acqua del mare è più dolce della nostra del Mediterraneo.
 
-{{< image src="jurmala_spiaggia.jpg" alt="" class="" caption="" type="wide-screen" >}}
+Altra particolarità piacevole è che per accedere alla spiaggia si attraversa una serie di alberi forse centenari cresciuti a ridosso del mare.
+
+{{< image src="jurmala_spiaggia.jpg" alt="" class="" caption="Spiaggia" type="wide-screen" >}}
 
 Molto bello invece l'ambiente nel complesso, con case di legno variamente pitturate, curate, sventolanti il vessillo della Repubblica di Latvia.
 
-{{< image src="cartelli_indicazioni.jpg" alt="" class="" caption="" >}}
+{{< image src="cartelli_indicazioni.jpg" alt="" class="" caption="Segnaletica" >}}
 
 ### Skrunda-2 ⛔
 
-{{< image src="edificio_villaggio_lettone.jpg" alt="" class="" caption="" type="wide-screen" >}}
+{{< image src="edificio_villaggio_lettone.jpg" alt="" class="" caption="Edificio" type="wide-screen" >}}
 
 Questo paese è nella mia _to be visited list_ da **quasi dieci anni**.
 
-{{< image src="fermata_skrunda.jpg" alt="" class="" caption="" >}}
+{{< image src="fermata_skrunda.jpg" alt="" class="" caption="Fermata bus di Skrunda-II" >}}
 
 Vecchio paese disabitato di epoca sovietica, abbandonato in seguito allo spopolamento della regione secondario anche a motivi economici, era fino a qualche anno fa visitabile seppur illegalmente perchè recintato.
 
@@ -303,7 +301,7 @@ Una sorta di _Chernobyl europea_ ma senza il pericolo di radiazioni nonchè meta
 
 Invece, nel frattempo, è accaduto l'irreversibile.
 
-{{< image src="ingresso_skrunda.jpg" alt="" class="" caption="" type="wide-screen" >}}
+{{< image src="ingresso_skrunda.jpg" alt="" class="" caption="Ingresso di Skrunda-II" type="wide-screen" >}}
 
 Il paese è diventato postazione di una base militare lettone e non solo non è più visitabile ma è addirittura vietato l'avvicinamento.
 
@@ -311,7 +309,7 @@ Grossi cartelli avvertono del divieto, da noi rispettato.
 
 Nel mentre che mi accingevo a fare due foto all'ambiente circostante capita però un evento che ci desta profonda preoccupazione e turbamento: un militare in età avanzata si avvicina con un _quad_ e ci invita — credo — ad andarcene. A nulla valgono le scuse; gira con sospetto attorno all'auto e ne prende il numero di targa.
 
-{{< image src="ingresso_skrunda_2.jpg" alt="" class="" caption="" type="wide-screen" >}}
+{{< image src="ingresso_skrunda_2.jpg" alt="" class="" caption="Sosta nei pressi dell'ingresso di Skrunda-II" type="wide-screen" >}}
 
 Non arriverà mai alcuna contravvenzione, anche perchè obiettivamente non ci sarebbe stato motivo; sicuramente la targa è servito a titolo di controllo.
 
