@@ -208,6 +208,18 @@ Nel tratto da noi percorso non ci è stato richiesto pedaggio.
 
 Alcune tratte tuttavia sono soggette a pagamento, eseguibile al momento dell'attraversamento del _check-point_.
 
+#### Svezia e Danimarca
+
+Non è necessario munirsi di vignetta in quanto a pedaggio gratuito.
+
+L'attraversamento del ponte dell'Øresund ha però un pedaggio pari a circa 65€, in base al cambio del giorno con DKK-SEK, in base alla vostra direzione di percorrenza.
+
+{{< image src="oresund_view_2.jpg" alt="" class="" caption="" >}}
+
+Per gli amanti di architettura ed ingegneria potrebbe considerarsi come il biglietto di ingresso ad un museo, vista la sua imponente struttura ed ingegno umano.
+
+{{< image src="oresund_stralli.jpg" alt="" class="" caption="" >}}
+
 ## L'itinerario
 
 Nel dettaglio, questo è stato l'itinerario.
@@ -226,8 +238,7 @@ Questo è stato invece il nostro calendario; forse saremmo riusciti ad arrivare 
 * [Giorno #3]({{< ref "/racconti-di-viaggio/europe-birthday-trip-2023/ep-2-vilnius/index.md" >}}): partenza all'alba da Varsavia ed arrivo (dopo vari stop ed avendo deciso di prendere strade alternative) in serata a Vilnius;
 * [Giorno #4]({{< ref "/racconti-di-viaggio/europe-birthday-trip-2023/ep-3-la-lituania/index.md" >}}): assaporato per alcune ore Vilnius — ci tuffiamo nella natura selvaggia lituana e ci spingiamo fino ai suoi confini marini, attraversandoli, e ci spingiamo fino alle __Dune di Nida__;
 * [Giorno #5]({{< ref "/racconti-di-viaggio/europe-birthday-trip-2023/ep-2-vilnius/index.md" >}}): è il giorno del mio compleanno — e ci regaliamo un giro in kayak per il fiume Vilnia ed un __pranzo georgiano__ sulle rive di un lago poco lontano da Vilnius;
-* Giorno #6: dopo una lenta passeggiata per il centro — partiamo alla volta di __Riga__;
-* Giorno #7: è una Riga diversa da quella invernale che portavamo nei ricordi: esplode di vivacità e le sue strade strette del centro storico straripano di turisti;
+* [Giorno #6-7]({{< ref "/racconti-di-viaggio/europe-birthday-trip-2023/ep-4-riga/index.md" >}}): dopo una lenta passeggiata per il centro — partiamo alla volta di __Riga__; è una Riga diversa da quella invernale che portavamo nei ricordi: esplode di vivacità e le sue strade strette del centro storico straripano di turisti;
 * Giorno #8: ritorniamo sui nostri passi, verso l'Italia, ma invece che via terra — lo facciamo via mare: da Klaipeda (il porto della Lituania) con un traghetto notturno DFDS arriviamo a Karlshamn, in Svezia;
 * Giorno #9: da Karlshamn — in due ore arriviamo all'immenso ponte lungo 16 km (__il più grande d'Europa!__) che collega Malmo a Copenhagen e poi a Copenhagen nel primo pomeriggio, giusto in tempo per il check-in;
 * Giorno #10: da Copenhagen puntiamo verso Sud e — dopo 1000 km di corsa nelle autobahn tedesche ci fermiamo a Francoforte;
