@@ -1,6 +1,6 @@
 ---
 title: "EuropeBirthdayTrip 20-23: il traghetto nel Mar Baltico, Malmö, il ponte dell'Øresund, Copenhagen // Ep. 5"
-date: "2025-09-05"
+date: "2025-09-06"
 image: "images/oresund_cover.jpg"
 
 summary : "Dalla Lituania alla Svezia attraverso il Mar Bianco, quindi in Danimarca e la sua capitale Copenhagen —  attraverso il maestoso ponte dell'Øresund."
