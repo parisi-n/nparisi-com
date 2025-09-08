@@ -14,7 +14,7 @@ bozza: false
 ---
 
 {{< box "orange" >}}
-I fatti avvenuti e narrati in questo post sono avvenuti tra **26 ed il 27 Maggio del 2023** e sono stati poi raccolti nei mesi successivi.
+I fatti narrati in questo post sono avvenuti tra **26 ed il 27 Maggio del 2023** e sono stati poi raccolti nei mesi successivi.
 
 Mancavano però i documenti fotografici che dovevano essere organizzati e processati.
 
