@@ -14,7 +14,7 @@ bozza: false
 ---
 
 {{< box "orange" >}}
-I fatti avvenuti e narrati in questo post sono avvenuti tra il **28 ed il 29 Maggio del 2023** e sono stati poi raccolti nei mesi successivi.
+I fatti narrati in questo post sono avvenuti tra il **28 ed il 29 Maggio del 2023** e sono stati poi raccolti nei mesi successivi.
 
 Mancavano però i documenti fotografici che dovevano essere organizzati e processati.
 
@@ -22,7 +22,7 @@ Per questo motivo trovano pubblicazione solo in questi tempi.
 {{< /box >}}
 
 {{< capital_letter_open >}}
-Se mi avessero detto che, invece di tornare via terra dalla Lituania, sarei tornato via mare — è probabile che non ci avrei creduto. Invece, così è stato. Peraltro il tutto è partito dall'idea di prendere un traghetto da _Klaipeda_ a _Kiel_ (in Germania) che è una tratta sfruttata da molti pendolari dei Paesi Baltici che dall'Italia salgono in giornata a Kiel per poi dormire in traghetto e risvegliarsi in Lituania, riducendo così sia il tempo necessario ad arrivarci sia il numero di chilometri da percorrere.
+Se mi avessero detto che, invece di tornare via terra dalla Lituania, sarei tornato via mare — è probabile che non ci avrei creduto. Invece, così è stato. Peraltro il tutto è partito dall'idea di prendere un traghetto da _Klaipeda_ a _Kiel_ (in Germania) — tratta sfruttata da molti pendolari dei Paesi Baltici che dall'Italia salgono in giornata a Kiel per poi dormire in traghetto e risvegliarsi in Lituania, riducendo così sia il tempo necessario sia il numero di chilometri da percorrere.
 {{< capital_letter_close >}}
 
 {{< image src="adv_dk.jpg" alt="" class="" caption="#ADV Danimarca" style="" >}}
@@ -31,8 +31,8 @@ Ma alla fine, come nella maggior parte dei casi, anche la modifica dell'idea ori
 
 ## Klaipeda 🇱🇹 — Karlshamn 🇸🇪
 
-La tratta prescelta è quella che porta da Klaipeda a Karlshamn in XXX ore.
-Due passeggeri, cabina per la notte e auto al seguito per un totale di YYY €.
+La tratta prescelta è quella che porta da Klaipeda a Karlshamn in 12 ore e mezza circa.
+Due passeggeri, cabina per la notte e auto al seguito per un totale di 359 €.
 
 {{< image src="mappa_maps_attraversata.jpg" alt="Screenshot di Google Maps con i dettagli sulla traversata" class="" caption="" >}}
 
@@ -52,7 +52,8 @@ Contestualmente all'accettazione al _gate_ ci vengono fornite anche le chiavi di
 
 {{< image src="biglietto_traghetto.jpg" alt="Ingresso al garage del traghetto con indicazione luminosa che indica Karlshamn" class="" caption="" >}}
 
-Per ottenere i lbiglietto, però, non siamo dovuti passare prima in reception.
+Esperienza piacevole, poco stressante.
+Operazioni di _boarding_ promosse √
 
 {{< image src="traghetto_reception.jpg" alt="Biglietto-pass con cui accedere alla cabina" class="" caption="" >}}
 
@@ -85,6 +86,8 @@ La nave è nuova, pulita ma — soprattutto — silenziosa. Sul ponte non si res
 Al bar una serie di avventori poliglotti (come usanza in queste zone ai confini d'Europa) — che interscambiano russo, lituano, ucraino, inglese con la stessa abilità con cui io invece preparo un piatto di spaghetti — sono seduti al bar di bordo già dai primi istanti di permanenza a bordo. E, non sorprendentemente, si incuriosiscono alla mia esplicita richiesta di poter avere il _discount pack_ delle celeberrime birre artigianali lituane {{< external_link "https://www.raudonuplytu.lt/" "Raudonu plitu" >}}, di cui ad onor del vero avevo assaggiato anni fa solo la _rossa_ mentre ignoravo l'esistenza delle restanti.
 
 {{< image src="birre_lt.jpg" alt="" class="" caption="Pacchetto di birre Raudonu plitu" >}}
+
+Me le aggiudico per 12€.
 
 Semplicemente eccellenti.
 
