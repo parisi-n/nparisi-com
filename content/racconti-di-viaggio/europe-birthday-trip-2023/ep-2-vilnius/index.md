@@ -45,7 +45,7 @@ E questo viaggio ha un po' il sapore dei ricordi.
 
 * * *
 
-Waze tuttavia ci indica un percorso estremamente rapido, da lì intuisco che che abbiano costruito un autostrada di collegamento — cosa che nel 2016 non era presente.
+Waze tuttavia ci indica un percorso estremamente rapido, da lì intuisco che abbiano costruito un autostrada di collegamento — cosa che nel 2016 non era presente.
 Il mio obiettivo però è ripercorrere la stessa strada, per un motivo: ricordo un lungo rettilineo contornato da alberi secolari, altissimi, testimoni imperituri degli spostamenti di due popoli — nonchè dei miei sentimenti sulla strada del ritorno da Vilnius in quello stesso anno; ricordo le cicogne e i loro nidi, lungo il lontano confine bielorusso; ricordo una strada con numerosi croci nei giardini delle case.
 
 Questi ed altri motivi ci spingono ad allungare il percorso e puntare **verso Byalistok**.
