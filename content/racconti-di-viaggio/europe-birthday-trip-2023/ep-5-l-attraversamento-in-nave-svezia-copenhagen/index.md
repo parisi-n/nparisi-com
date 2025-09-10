@@ -29,6 +29,8 @@ Se mi avessero detto che, invece di tornare via terra dalla Lituania, sarei torn
 
 Ma alla fine, come nella maggior parte dei casi, anche la modifica dell'idea originaria viene ulteriormente rielaborata: ed è così che da un traghetto innocente per accorciare i km del tragitto del rientro finiamo per aggiungere ulteriori chilometri.
 
+Forse il tutto è stato architettato per non ripassare in quel lungo viale alberato, che collega e lega in modo biunivoco Lituania e Polonia, nel cui percorso a ritroso verso l'Italia, nel 2016, una lacrima venne soffocata.
+
 ## Klaipeda 🇱🇹 — Karlshamn 🇸🇪
 
 La tratta prescelta è quella che porta da Klaipeda a Karlshamn in 12 ore e mezza circa.
