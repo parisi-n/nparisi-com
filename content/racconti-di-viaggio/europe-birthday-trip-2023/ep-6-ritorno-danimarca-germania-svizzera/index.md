@@ -129,7 +129,7 @@ Ma, in fondo, questi sono gli imprevisti di chi viaggia _on the road_ e non prog
 
 Qui il timelapse dell'intero, infinito, stancante viaggio:
 
-{{< youtube id="UTAgFjhsQ0A" caption="🇩🇰 ➖ 🇩🇪"> }}
+{{< youtube id="UTAgFjhsQ0A" caption="🇩🇰 ➖ 🇩🇪" >}}
 
 ## Il giorno dopo
 
@@ -199,3 +199,7 @@ Ed in fondo, questo era l'obiettivo dei padri fondatori, di cui il motto rappres
 
 Concludiamo il viaggio con all'attivo 5626 km, 76 ore di viaggio, migliaia e migliaia di foto — ed un diario cartaceo che, ammetto, non abbiamo più aggiornato dopo i primi giorni.
 Nel dettaglio — un **consumo medio di 20,2km/L** ed una **velocità media di 77km/h**.
+
+* * *
+
+Curioso di sapere quali sono stati i preparativi per il viaggio? Puoi leggerli su [questo post]({{< ref "/racconti-di-viaggio/europe-birthday-trip-2023/ep-0-preparativi-viaggio/index.md" >}}).

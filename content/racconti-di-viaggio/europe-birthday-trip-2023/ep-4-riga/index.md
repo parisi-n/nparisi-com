@@ -319,4 +319,10 @@ Arriviamo a Klaipeda alle 16 del pomeriggio di Domenica 28 Maggio e ci fermiamo 
 
 All'interno, la doccia fredda: **la legge lituana vieta la vendita di alcolici oltre le 15 della domenica**.
 
+{{< youtube id="leOAaBozDAs" caption="Viaggio da Riga a Klaipeda">}}
 
+* * *
+
+Curioso di sapere come procede il viaggio e di quale sarà la prossima tappa? Continua a leggere il [prossimo post]({{< ref "/racconti-di-viaggio/europe-birthday-trip-2023/ep-5-l-attraversamento-in-nave-svezia-copenhagen/index.md" >}}).
+
+Se invece vuoi leggere quali sono stati i preparativi per il viaggio puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/europe-birthday-trip-2023/ep-0-preparativi-viaggio/index.md" >}}).

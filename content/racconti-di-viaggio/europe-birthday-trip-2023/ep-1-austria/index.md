@@ -243,4 +243,6 @@ Domani ci aspetta la sveglia all'alba.
 
 * * *
 
-[//]: # "(Curiosi di come procede il viaggio e di quale sarà la prossima tappa? Continua a leggere il [prossimo post](#)"
+Curioso di sapere come procede il viaggio e di quale sarà la prossima tappa? Continua a leggere il [prossimo post]({{< ref "/racconti-di-viaggio/europe-birthday-trip-2023/ep-2-vilnius/index.md" >}}).
+
+Se invece vuoi leggere quali sono stati i preparativi per il viaggio puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/europe-birthday-trip-2023/ep-0-preparativi-viaggio/index.md" >}}).

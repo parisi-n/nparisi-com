@@ -383,3 +383,9 @@ Da {{< external_link "https://maps.app.goo.gl/XycEFcStLutUH8NW8" "Subačiaus Obs
 Percorrendo la via vi ritroverete peraltro nel cuore di Vilnius, nei pressi del {{< external_link "https://maps.app.goo.gl/ueJ313tp1qhAfPcw5" "Municipio di Vilnius" >}}.
 
 {{< image src="vilnius_skyline_2.jpg" alt="" class="" caption="Vista sulla nuova Città di Vilnius" type="wide-screen" >}}
+
+* * *
+
+Curioso di sapere come procede il viaggio e di quale sarà la prossima tappa? Continua a leggere il [prossimo post]({{< ref "/racconti-di-viaggio/europe-birthday-trip-2023/ep-3-la-lituania/index.md" >}}).
+
+Se invece vuoi leggere quali sono stati i preparativi per il viaggio puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/europe-birthday-trip-2023/ep-0-preparativi-viaggio/index.md" >}}).
