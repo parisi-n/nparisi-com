@@ -240,7 +240,11 @@ Peccato che i protagonisti alla guardiania siano ovviamente cambiati, forse addi
 
 L'accesso non è più libero ed ad interrompere lo spazio di ingresso antistante la reception svetta un tornello, altissimo, azionato da tessere magnetiche.
 
+{{< image src="olandu_52_2.jpg" alt="" class="" caption="Ingresso con tornello - Foto archivio 2022" >}}
+
 Parlo con la guardiana, racconto un po' di me, racconto del mio passato lì e chiedo di poter fare un giro, anche con lei, per salire fino al quinto piano — nella cui stanza 517 in compagnia di _Albanino_ e _Simoncino_, ho trascorso i momenti più sereni della mia all'epoca giovine vita.
+
+{{< image src="olandu_52_1.jpg" alt="" class="" caption="Sala studio rinnovata - Foto archivio 2022" >}}
 
 La risposta è stata categorica ed irremovibile: **no**.
 
