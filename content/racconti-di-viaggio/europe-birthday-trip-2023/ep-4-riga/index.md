@@ -319,7 +319,7 @@ Arriviamo a Klaipeda alle 16 del pomeriggio di Domenica 28 Maggio e ci fermiamo 
 
 All'interno, la doccia fredda: **la legge lituana vieta la vendita di alcolici oltre le 15 della domenica**.
 
-{{< youtube id="wT43O9aoLVU" caption="Viaggio da Riga a Klaipeda">}}
+{{< youtube id="K81-GbiLofs" caption="Viaggio da Riga a Klaipeda">}}
 
 * * *
 
