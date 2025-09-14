@@ -96,6 +96,20 @@ Nel 2022 le cose non sono granchè cambiate: troviamo tuttavia un __grazioso app
 
 Il tanto di arrivare — e riconosco la strada: __ci passavo quasi una volta a settimana, di ritorno il sabato sera__!
 
+L'arrivo però non è stato dei più brillanti.
+
+Il portone segnalato come principale è un ingresso condominiale lato strada e, nonostante nell'annuncio sia indicato il numero, abbiamo estrema difficoltà a capire quale effettivamente sia.
+
+{{< image src="portone_via.jpg" alt="" caption="Un portone della via Bokšto" >}}
+
+Una volta identificato il numero, non siamo tuttavia convinti sia effettivamente quello, semplicemente perchè **non vediamo alcuna keybox** da aprire con il codice fornito.
+
+Passa il tempo, ed iniziamo ad avere **freddissimo**. Seppur mattina di un giorno lavorativo, l'agenzia non è solerte nelle risposte via _Booking.com Messenger_ e non risponde al telefono. Arriviamo quasi al limite della sopportazione per cui **abbiamo necessità di un ambiente caldo**.
+
+E lo troviamo all'interno di un altro condominio, lasciato aperto, all'interno del giardino di un altro complesso abitativo. Qui un grosso termosifone ci da un attimo di beneficio e ristoro, soprattutto alle mani, e ci permette di affrontare un po' più serenamente la ricerca — che si concluderà poco dopo con la scoperta della **keybox**.
+
+* * *
+
 {{< image src="vilnius_flat_1.jpg" alt="Interni dell'appartamento di Vilnius scelto per la nostra permamenza, con letto matrimoniale" caption="" >}}
 
 La neve rende l'atmosfera più romantica e fiabesca, è indubbio.
@@ -479,3 +493,17 @@ Non è un dolce esclusivo della Pasqua, quanto invece un dolce tradizionale, con
 Viene cucinato allo spiego.
 
 {{< image src="torta_pasquale.jpg" alt="" caption="Torta ad albero" >}}
+
+## Souvenirs 🎁
+
+La via **Piles g.** (via Castello) è sede di numerosi negozi di souvenirs e di ambra per cui varrebbe la pena fare un giro.
+
+Da quel che è peraltro la mia esperienza, in caso vogliate acquistare qualche ricordo a base di _ambra_, varrebbe la pena prenderlo in questa via in quanto, man mano che andrete nelle successive Repubbliche Baltiche, a Riga e poi a Tallinn — troverete prezzi via via maggiori.
+
+In caso però _l'ambra_ non sia il genere di souvenir che fa per voi, vi consiglio {{< external_link "https://maps.app.goo.gl/2FXFefP4FjYzXpNr6" "7 levos namai" >}} ({{< external_link "https://7ievosnamai.lt/" "qui il sito internet" >}}) che vi offrirà una scelta sconfinata di tè, puri e mix, altamente selezionati, per tutti i gusti e tutte le tasche.
+
+Un'esperienza assolutamente da fare, soprattutto se vi piacciono i tè.
+
+Se invece la _boutique_ dei tè potrebbe risultare un po' troppo per le vostre necessità, vi basterà recarvi presso un qualunque [Iki](#iki-maxima-e-rimi) e prendere dei tè, anche qui puri o in mix, per poter assaggiare dei gusti estremamente nuovi.
+
+Il tè nella cultura sovietica era ben radicato e ben visto, motivo per il quale troverete una varietà tanto ampia di scelta.
