@@ -166,6 +166,13 @@ Altre app, più _local_, con cui chiamare un taxi sono:
 
 A Vilnius c'è niente o molto da vedere, a seconda dei punti di vista o, meglio, __a seconda degli occhi di chi guarda__.
 
+{{< box "blue" "Summer edition" >}}
+
+Se invece cercate alcune informazioni su **cosa fare a Vilnius** nella stagione estiva vi consiglio la lettura di [questo post]({{< ref "/racconti-di-viaggio/europe-birthday-trip-2023/ep-2-vilnius/index.md" >}}).
+
+Se invece cercate qualche idea, sempre estiva, su **cosa fare in Lituania** potrete trovare interessante [questo post]({{< ref "/racconti-di-viaggio/europe-birthday-trip-2023/ep-3-la-lituania/index.md" >}})
+{{</box>}}
+
 ### Užupis
 
 {{< posizione "https://goo.gl/maps/eiSTAWW1UxWSSSbg8" >}}
@@ -296,6 +303,10 @@ Nel periodo di Natale potrete ammirare l'albero di Natale, diverso ogni anno e _
 
 {{< image src="albero_natale_arkikatedra.jpg" alt="Albero di Natale" caption="" >}}
 
+L'atmosfera che si respira, con la musica tipica del momento ed i colori — il tutto esaltato dalla neve e dal freddo — **è magico**.
+
+{{< vimeo src="1119120098" type="vertical-9x16" >}}
+
 ### Old Town
 
 La Old Town offre numerosissimi locali e ristoranti in cui poter consumare un piatto tradizionale o poter fare conoscenze: l'inglese è parlato praticamente da tutti i giovani (ma ormai anche meno giovani) e non mancherà di stupirvi.
@@ -331,6 +342,8 @@ Il **Municipio di Vilnius**, al vertice della piazza.
 ### Il Neris e Balta Tilta
 
 Nei mesi di Gennaio - Febbraio, quando la temperatura notturna non fatica ad arrivare fino a -26°C/-29°C, vi potrà capitare che il fiume Neris sia completamente gelato: __non fatevi però fregare dalle lastre di ghiaccio che solo apparentemente sembrano resistenti__, in verità con il peso del corpo sono facilmente sfondabili!
+
+{{< video src="neris_ghiacciato.mp4" caption="Neris" type="vertical_9x16" >}}
 
 In corrispondenza del _Baltas tilta_ o _Ponte bianco_ troverete oltre un Iki anche vari ristoranti gourmet/vegan per tutti i gusti.
 
