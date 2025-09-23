@@ -11,6 +11,7 @@ showToc : true
 type: "article"
 
 ---
+
 * * *
 **_Portogallo, 2019_** : i crediti per la foto di copertina vanno a {{< affiliate_link "sevenseph-instagram" "@sevenseph" >}}.
 ` `
