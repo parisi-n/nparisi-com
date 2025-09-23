@@ -158,7 +158,7 @@ timeout = 300000
     weight = 6
 
 [params.social]
-    twitter       = "nparisicom"
+    twitter       = "npmelanogaster"
     instagram     = "npmelano"
     youtube       = "UCz_ZsgGRbD4tC8_-4Ni78hQ"
     rss           = true
