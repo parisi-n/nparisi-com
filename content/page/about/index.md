@@ -38,6 +38,6 @@ Sognatore, perfezionista.
 
 * * *
 
-La memoria in fondo è così corta!
+Da sempre sostengo **time flies — not memories**. In verità più passa il tempo e più mi rendo conto che la memoria in fondo è così corta!
 
 Mi piace pensare che --- un giorno --- questo blog possa diventare come il libro che il Noah legge all'anziana e malata Allie: __le pagine della mia vita__.
