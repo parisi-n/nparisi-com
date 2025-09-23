@@ -27,6 +27,10 @@ Per visitare — per vivere — Vilnius non basterebbe una vita (e di ciò ne so
 
 La nostra attenzione viene attirata da Klaipeda.
 
+* * *
+
+Se cercate alcune idee nei pressi di Vilnius in cui trascorrere una giornata, invece, ma durante la **stagione invernale**, [vi consiglio la lettura di questo post]({{< ref "/racconti-di-viaggio/repubbliche-baltiche/vilnius-riga/ep-2-lithuania-winter/index.md" >}}).
+
 ## Klaipeda
 
 {{< posizione "https://maps.app.goo.gl/k15PMP3DJMkMVh1YA" >}}

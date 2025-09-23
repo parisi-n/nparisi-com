@@ -111,9 +111,15 @@ L'aeroporto si raggiunge in 30 minuti con un tram, in caso siate arrivati o ripa
 
 ## Cosa vedere
 
-Ho già parlato ampiamente in passato di [Riga]({{< ref "/racconti-di-viaggio/repubbliche-baltiche/tallinn-riga/ep-3-riga/index.md" >}}).
+{{< box "blue" "Winter edition" >}}
 
-Tuttavia, a causa anche il grande freddo e attratti da mercatini locali natalizzi — non ci eravamo cimentati nella visita della restante parte della _old town_.
+Ho già parlato ampiamente in passato di Riga sia [in questo post]({{< ref "/racconti-di-viaggio/repubbliche-baltiche/tallinn-riga/ep-3-riga/index.md" >}}) (del 2021) che in [quest'altro post]({{< ref "/racconti-di-viaggio/repubbliche-baltiche/tallinn-riga/ep-3-riga/index.md" >}}) (del 2022).
+
+Vi rimando dunque a quei post se cercate ispirazione per il periodo invernale.
+
+{{</box>}}
+
+Nei post di cui sopra in versione "winter edition", causa anche il grande freddo e attratti da mercatini locali natalizzi — non ci eravamo cimentati nella visita della restante parte della _old town_.
 
 Questa volta invece, considerato il clima mite e piacevole, ci affidiamo ad un _free walking tour_.
 

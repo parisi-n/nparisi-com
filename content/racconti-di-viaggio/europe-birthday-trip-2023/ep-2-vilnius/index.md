@@ -192,7 +192,7 @@ La gita è stata estremamente piacevole; il fiume non è mai profondo, raramente
 
 Per pranzo ci rechiamo da [Stirnių malūnas](#stirni-malnas).
 
-Sono stato la prima volta in questo posto con dei colleghi la mia prima volta a Vilnius, e da quel momento ho desiderato ritornarci.
+Sono stato la prima volta in questo posto con dei colleghi la mia prima volta a Vilnius, nel 2015, e da quel momento ho desiderato ritornarci.
 
 E quale migliore occasione se non quella di festeggiarci il mio compleanno?
 
@@ -345,6 +345,10 @@ In assenza di alternativa (ma anche come prima scelta!) si mangia abbastanza ben
 Quello indicato nella _posizione_ è quello da me più volte provato nel tempo, e la qualità rimane sempre molto alta.
 
 ### Cosa fare (in estate)
+
+Ho raccontato di alcune idee da realizzare a Vilnius, **in inverno**, [in questo post]({{< ref "/racconti-di-viaggio/repubbliche-baltiche/vilnius-riga/ep-1-vilnius-winter/index.md" >}}).
+
+Ad integrazione di quello, vista la stagione estiva, vi consiglio caldamente le seguenti attrattive.
 
 #### Rafting
 
