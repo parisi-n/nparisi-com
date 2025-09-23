@@ -4,7 +4,7 @@ date: "2023-01-11"
 image: "images/kyzyl_kum_cover.jpg"
 
 summary : "Sapevamo che tra Bukhara e Khiva si trovava il deserto, ma mai avremmo creduto fosse così vasto, così infinito, così spietato. E pensare che secoli fa veniva percorso regolarmente da squadre di carovanieri non fa che rendere l'impresa ancora più eroica e leggendaria."
-categories : [ "uzbekistan", "", "" ]
+categories : [ "racconti-di-viaggio", "uzbekistan", "", "" ]
 tags : [ "travel" ]
 
 showToc : true

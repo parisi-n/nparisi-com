@@ -5,7 +5,7 @@ image: "images/intro_cover.jpg"
 
 summary : "Un viaggio inizia ancor prima di partire, quando si iniziano a decidere le date di partenza e di ritorno, le tappe e le tempistiche. Ma se invece il viaggio prendesse forma man mano che lo si vive, giorno dopo giorno? E' questo quel che è stato lo Europe Birthday Trip del 2023, il viaggio per le capitali europee a cavallo del mio compleanno!"
 categories : [ "racconti-di-viaggio", "europe-birthday-trip", "", "accessori" ]
-tags : [ "travel", "europe-birthday-trip" ]
+tags : [ "travel", "europe-birthday-trip-2023" ]
 
 showToc : true
 type: "article"

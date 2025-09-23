@@ -5,7 +5,7 @@ image: "images/lithuania_cover.jpg"
 
 summary : "Molte persone faticano a collocarla nella cartina geografica, relegata nel canto nord-orientale dell'Europa, vicino al suo immenso e grosso passato chiamato Russia. Alcuni addirittura la confondono. Eppure la contraddistingue una cultura inestimabile, terre sconfinate che — nel vostro vagabondare — vi faranno sorgere il dubbio di trovarvi — esattamente — nel mezzo del nulla."
 categories : [ "racconti-di-viaggio", "europe-birthday-trip", "repubbliche-baltiche", "" ]
-tags : [ "travel", "europe-birthday-trip" ]
+tags : [ "travel", "europe-birthday-trip-2023" ]
 
 showToc : true
 type: "article"

@@ -4,7 +4,7 @@ date: "2023-01-25"
 image: "images/moynaq_cover.jpg"
 
 summary : "Alla ricerca delle sponde del Lago scomparso, ci lasciamo alle spalle chilometri di terra inospitale a bordo del nostro 4x4. Arriviamo in tempo per il tramonto, ed assaporiamo un'esperienza differente, surreale; però tutto troppo veloce per renderci conto della fortuna per essere lì, quel giorno."
-categories : [ "uzbekistan", "", "" ]
+categories : [ "racconti-di-viaggio", "uzbekistan", "", "" ]
 tags : [ "travel" ]
 
 showToc : true

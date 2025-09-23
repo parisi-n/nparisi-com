@@ -5,7 +5,7 @@ image: "images/oresund_cover.jpg"
 
 summary : "Dalla Lituania alla Svezia attraverso il Mar Bianco, quindi in Danimarca e la sua capitale Copenhagen —  attraverso il maestoso ponte dell'Øresund. Qui prendiamo fiato, riordiniamo le idee, visitiamo la città...iniziamo a programmare il ritorno in Italia."
 categories : [ "racconti-di-viaggio", "europe-birthday-trip", "", "" ]
-tags : [ "travel", "europe-birthday-trip" ]
+tags : [ "travel", "europe-birthday-trip-2023" ]
 
 showToc : true
 type: "article"

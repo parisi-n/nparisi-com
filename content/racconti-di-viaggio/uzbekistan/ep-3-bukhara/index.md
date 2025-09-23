@@ -4,7 +4,7 @@ date: "2023-01-06"
 image: "images/bukhara_cover.jpg"
 
 summary : "Meno presente rispetto a Samarcanda nell'immaginario collettivo --- racchiude al suo interno edifici millenari, monumenti nascosti e protetti dalle sue spesse mura dal tarlo del tempo. Spoglia di decorazioni --- è forse la destinazione più suggestiva di tutto l'itinerario."
-categories : [ "uzbekistan", "", "" ]
+categories : [ "racconti-di-viaggio", "uzbekistan", "", "" ]
 tags : [ "travel", "liquorideuropa" ]
 
 showToc : true

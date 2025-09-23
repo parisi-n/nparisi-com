@@ -5,7 +5,7 @@ image: "images/vienna_cover.jpg"
 
 summary : "La prima tappa necessaria per raggiungere la destinazione finale è Vienna, a quasi dieci ore di guida da Pavia. Il giorno trascorre tranquillo, l'arrivo al tramonto ci evita il traffico della domenica sera ma ci mette di fronte alla difficoltà di trovare, in tempi brevi, dove cenare."
 categories : [ "racconti-di-viaggio", "europe-birthday-trip", "", "" ]
-tags : [ "travel", "europe-birthday-trip", "austria" ]
+tags : [ "travel", "europe-birthday-trip-2023", "austria" ]
 
 showToc : true
 type: "article"

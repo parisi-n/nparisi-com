@@ -4,7 +4,7 @@ date: "2022-11-28"
 image: "images/capire_uzbekistan_cover.jpg"
 
 summary : "Prima del viaggio è necessario mettere a fuoco alcuni pilastri storici su cui fonda la società uzbeka --- per meglio comprenderne l'attuale società ed i motivi nascosti dietro precise scelte culturali."
-categories : [ "uzbekistan", "lifestyle", "" ]
+categories : [ "racconti-di-viaggio", "uzbekistan", "lifestyle", "" ]
 tags : [ "travel" ]
 
 showToc : true

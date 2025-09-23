@@ -4,7 +4,7 @@ date: "2022-12-05"
 image: "images/tashkent_cover.jpg"
 
 summary : "Per alcuni il capolinea del viaggio; nel nostro caso è stata la prima tappa. Tashkent non ha nulla da invidiare alle comuni metropoli occidentali, fondendo modernità ed uno sguardo verso il futuro alla tradizione del passato --- ancora avvistabile negli angoli"
-categories : [ "uzbekistan", "", "" ]
+categories : [ "racconti-di-viaggio", "uzbekistan", "", "" ]
 tags : [ "travel" ]
 
 showToc : true

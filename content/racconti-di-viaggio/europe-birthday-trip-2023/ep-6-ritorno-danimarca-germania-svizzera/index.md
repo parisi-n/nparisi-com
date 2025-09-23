@@ -5,7 +5,7 @@ image: "images/swiss_cover.jpg"
 
 summary : "Da Copenhagen a Francoforte e da qui a Pavia: il ritorno, di appena 1600km — che forse andava organizzato meglio. O forse andava organizzato. Sapevate che per entrare in auto all'interno del confine cittadino della maggior parte delle città tedesche serve una vignetta? Noi no."
 categories : [ "racconti-di-viaggio", "europe-birthday-trip", "", "" ]
-tags : [ "travel", "europe-birthday-trip" ]
+tags : [ "travel", "europe-birthday-trip-2023" ]
 
 showToc : true
 type: "article"

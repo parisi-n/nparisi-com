@@ -4,7 +4,7 @@ date: "2019-04-17"
 image: "images/20190107_180835-1.jpg"
 
 summary : "Porto ha una sua identità che non si risparmia di mostrare in ogni angolo, in ogni strada. In ogni stagione. Tutto inizia come ormai la maggior parte dei viaggi, anche se la prima volta che son arrivato a Porto è stato su una orgogliosissima Fiat Punto partita da Cagliari ― sbarcata a Barcellona ― ed arrivata fino a Porto dopo <strong>tre giorni e 1600km."
-categories : [ "racconti-di-viaggio" ]
+categories : [ "racconti-di-viaggio", "portogallo" ]
 tags : [ "travel" ]
 
 showToc : true

@@ -5,7 +5,7 @@ image: "images/riga_cover.jpg"
 
 summary : "Destinazione inaspettata e non prevista. Riga nella stagione primaverile ha un aspetto diverso rispetto a come ce la si immagina, avvolta nella neve e nella morsa del freddo inverno. Diventa una capitale fresca, vivace — ed il centro si popola di vivaci persone."
 categories : [ "racconti-di-viaggio", "europe-birthday-trip", "repubbliche-baltiche", "" ]
-tags : [ "travel", "europe-birthday-trip" ]
+tags : [ "travel", "europe-birthday-trip-2023" ]
 
 showToc : true
 type: "article"

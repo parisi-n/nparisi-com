@@ -4,7 +4,7 @@ date: "2022-12-26"
 image: "images/samarcanda_cover.jpg"
 
 summary : "Samarcanda è la città dell'Uzbekistan più famosa in tutto il mondo: il solo nome rievoca ambienti fiabeschi, madrase colorate e immense, mercanti lontani che parlano lingue misteriose che si incontravano (e ristoravano) nei caravanserragli. "
-categories : [ "uzbekistan", "", "" ]
+categories : [ "racconti-di-viaggio", "uzbekistan", "", "" ]
 tags : [ "travel" ]
 
 showToc : true

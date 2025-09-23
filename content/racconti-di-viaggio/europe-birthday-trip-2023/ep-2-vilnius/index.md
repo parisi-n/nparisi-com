@@ -5,7 +5,7 @@ image: "images/vilnius_cover.jpg"
 
 summary : "Vilnius! Come sei bella, pur non avendo nulla da mostrare al turista superficiale? Quanta storia vissuta in silenzio è possibile riconoscere tra le tue vie, testimoni del tempo trascorso?"
 categories : [ "racconti-di-viaggio", "europe-birthday-trip", "repubbliche-baltiche", "" ]
-tags : [ "travel", "europe-birthday-trip" ]
+tags : [ "travel", "europe-birthday-trip-2023" ]
 
 showToc : true
 type: "article"

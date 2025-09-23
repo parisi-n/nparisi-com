@@ -4,7 +4,7 @@ date: "2023-02-06"
 image: "images/khiva_cover.jpg"
 
 summary : "Una bomboniera: così potrebbe essere definito il centro storico di Khiva. Tra bancarelle che rievocano l'antica arte della compra-vendita e della contrattazione e gli sguardi della gente del posto --- Khiva sorprende letteralmente ad ogni angolo ed ad ogni passo che farete."
-categories : [ "uzbekistan", "", "" ]
+categories : [ "racconti-di-viaggio", "uzbekistan", "", "" ]
 tags : [ "travel" ]
 
 showToc : true
