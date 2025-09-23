@@ -14,7 +14,7 @@ bozza: false
 ---
 
 {{< box "blue" >}}
-I fatti narrati, seppur pubblicati in Aprile 2023, si riferiscono al viaggio di metà Dicembre 2022.
+I fatti narrati, seppur raccolti in Aprile 2023 e pubblicati in Settembre 2025, si riferiscono ad un viaggio di metà Dicembre 2022.
 
 La neve, il freddo, l'atmosfera natalizia ne sono testimoni.
 {{< /box >}}
