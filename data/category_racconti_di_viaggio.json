@@ -9,6 +9,14 @@
                         "series" :  1
                     } ,
                     {
+                        "title" :   "Europe Birthday Trip" ,
+                        "subtitle"  :   "In auto per capitali europee" ,
+                        "href"  :   "europe-birthday-trip/" ,
+                        "url"   :   "racconti-di-viaggio/europe-birthday-trip-2023/ep-0-preparativi-viaggio" ,
+                        "img"   :   "intro_cover.jpg" ,
+                        "series" :  1
+                    } ,
+                    {
                         "title" :   "Moldova" ,
                         "subtitle"  :   "Chisinau" ,
                         "href"  :   "racconti-di-viaggio/moldova/chisinau" ,
