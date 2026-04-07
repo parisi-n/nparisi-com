@@ -1,6 +1,6 @@
 ---
 title: "Il blog diventa social: Instagram, TikTok, Youtube. #whatsnext?"
-date: "2026-02-04"
+date: "2026-01-21"
 image: "images/cover_social.png"
 
 summary : "Sono ormai alcune settimane che pubblico quasi quotidianamente contenuti fotografici o video nei vari canali social. Perché? Perché no? Qui spiego i motivi di questo cambio di rotta (e di quanto mi stia divertendo!)"
