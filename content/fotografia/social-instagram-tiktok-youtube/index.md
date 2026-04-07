@@ -10,7 +10,6 @@ tags : [ "travel", "social" ]
 showToc : true
 type: "article"
 
-bozza: true
 ---
 
 {{< box "blue" >}}
