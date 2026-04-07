@@ -123,6 +123,7 @@
             {{ if and (isset .Params "image") .Params.image }}
                 {{/* Mostra sempre e solo l'immagine */}}
                 {{ $cover := .Resources.GetMatch .Params.image }}
+                {{ with $cover }}
                     {{ $scaled := $cover.Resize "webp 1280x q70" }}
                     <a class="featured-image-link" href="{{ .Permalink }}" alt="Leggi {{ .Title }}">
                         <div class='featured-image lazy lazy-bg-image' data-background="{{ $scaled.Permalink }}" style="top: -1px;">
@@ -134,6 +135,7 @@
                         {{ end }}
                         </div>
                     </a>
+                {{ end }}
             {{ end }}
             <div class="excerpt-container">
                 <div class="excerpt-meta">

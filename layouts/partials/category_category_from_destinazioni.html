@@ -1,5 +1,5 @@
 {{/* $paginator è presente anche su seo.html; però lo ripeto affinchè TUTTI I POST funzioni e mostri tutti i post */}}
-{{ $paginator := .Paginate (where (where .Data.Pages "Type" "article").ByDate "IsPage" true) }}
+{{ $paginator := .Paginate (where (where .Data.Pages "Type" "article").ByDate.Reverse "IsPage" true) }}
 <div class="category-list-container">
     <div class="entry-header">
         <h1 class="entry-title">{{ humanize .Title }}</h1>
