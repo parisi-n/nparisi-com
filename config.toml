@@ -159,8 +159,9 @@ timeout = 300000
 
 [params.social]
     twitter       = "npmelanogaster"
-    instagram     = "npmelano"
-    youtube       = "UCz_ZsgGRbD4tC8_-4Ni78hQ"
+    instagram     = "nparisicom"
+    youtube       = "@nparisicom"
+    tiktok        = "nparisicom"
     rss           = true
     contatti      = "email/"
     telegram      = "nparisi"
