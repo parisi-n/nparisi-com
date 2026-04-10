@@ -13,21 +13,21 @@ type: "article"
 ---
 
 {{< capital_letter_open >}}
-Quando ho prenotato per  l'Armenia, ma aveva creduto di ritrovarmi in un paese così affascinante.
-L'avessi saputo — avrei prenotato molto prima e non avrei fatto passare quasi sei anni dall'ultima mia visita nel Caucaso.
+Quando ho prenotato per  l'Armenia mai avrei immaginato di ritrovarmi in un paese così affascinante.
+L'avessi saputo prima non avrei fatto passare quasi sei anni dall'ultima mia visita nel Caucaso.
 {{< capital_letter_close >}}
 
-Dopo aver visto le altre due nazioni del Caucaso — Georgia e Azerbaigian — nel 2019, ero rimasto con la curiosità di visitare l'Armenia. Curiosità però non sufficiente a prenotare prima di oggi.
+Dopo aver visto le altre due nazioni del Caucaso — Georgia e Azerbaigian — nel 2019, ero rimasto con la curiosità di visitare l'Armenia. Curiosità però non sufficiente a spingermi a partire prima di oggi.
 
 {{< image src="people_of_yerevan.jpg" caption="People of Yerevan" >}}
 
-Da Tblisi già si trovavano a prezzi modici day-trip per If, però un po' più ignoranza, un po' per mancanza di tempo avevano deciso di trascurare il terzo Stato in favore degli altri due.
+Da Tblisi già si trovavano a prezzi modici day-trip per Yerevan però — un po' più ignoranza, un po' per mancanza di tempo avevano deciso di trascurare il terzo Stato in favore degli altri due.
 
-Peraltro, sempre per ignoranza e forse ingannato dalle similitudini grafiche che accomuna alfabeto georgiano con quello armeno (similitudine grafiche solo apparenti, perché poi gli alfabeti sono completamente differenti)-a lungo sono stato ingannato la mia curiosità è stata avvolta altrove.
+Peraltro, sempre per ignoranza e forse ingannato dalle similitudini grafiche che accomunano alfabeto georgiano e armeno (similitudini grafiche solo apparenti, perché poi gli alfabeti sono completamente differenti) — per lungo tempo ho volto la mia curiosità esplorativa altrove.
 
 {{< image src="yerevan_tower_2.jpg" alt="Torre della TV di Yerevan" >}}
 
-Ho recentemente rinnovato il passaporto che aveva il desiderio, a distanza di quasi un anno dal rinnovo, di usarlo per stampare in modo indelebile il mio primo timbro: un po' per noia e un po' per completare quella regione geografica - prendiamo al volo un'offerta WizzAir e dopo quasi quattro ore di volo e +3 ore di fuso orario ci troviamo immersi con grande sorpresa in quella che è una cultura è la società che ci stupisce già dai primi minuti.
+Ho recentemente rinnovato il passaporto che avevo il desiderio, a distanza di quasi un anno dal rinnovo, di usare per stampare in modo indelebile il mio primo timbro: un po' per noia e un po' per completare quella regione geografica - prendiamo al volo un'offerta WizzAir e dopo quasi quattro ore di volo e +3 ore di fuso orario ci troviamo immersi con grande sorpresa in quella che è una cultura e una società che ci stupisce già dai primi minuti.
 
 {{< image src="yerevan_detail.jpg" alt="" caption="Moderno ed passato si incontrano" >}}
 
@@ -40,28 +40,28 @@ Yerevan, soprattutto in centro, è quella che si potrebbe definire una bombonier
 Simbolo dell'Armenia, della sua storia, della sua tradizione. La troverete in tutte le forme, dal souvenir in legno a quello in ceramica alla pietra lavica lavorata con cura. La troverete pressoché ad ogni angolo ad ogni luogo che visiterete sotto forma di succo fresco, un po' asprigno un po' genuino, spremuto nel momento. Un toccasana per salute e per l'anima.
 
 {{< box "blue" >}}
-Al momento del viaggio, non lo sapevo, ma il succo di melograno ha tantissime proprietà: è ricco in polifenoli e antiossidanti, aiutando a contrastare i radicali liberi prodotti fisiologicamente dal nostro organismo — ed è per questo motivo per cui può considerarsi "salutare".
+Al momento del viaggio, non lo sapevo, ma il succo di melograno ha tantissime proprietà: è ricco in polifenoli e antiossidanti, aiutando a contrastare i radicali liberi prodotti fisiologicamente dal nostro organismo — ed è per questo motivo che può considerarsi "salutare".
 
 Ma al di là dei suoi effetti benefici, il gusto del succo appena spremuto, fresco e genuino — leggermente asprigno — è quanto di più piacevole e benefico potrete mai bere.
 {{< /box >}}
 
-Per le vie del centro troverete vari punti  che vi venderanno un bicchiere appena spremuto di succo per 2500-3000֏ — mentre nei bazar e nei paesi dell'Armenia lo troverete tra i 1200֏ e i 1500֏ per un bicchiere da 250mL o in bottiglia da passeggio.
+Per le vie del centro troverete vari punti  che vi venderanno un bicchiere appena spremuto per 2500-3000֏ (6-7€) — mentre nei bazar e nei paesi dell'Armenia lo troverete tra i 1200֏ e i 1500֏ (meno di 3.5€) per un bicchiere da 250mL o in bottiglia da passeggio.
 
 ### Il monte Ararat
 
 {{< youtube id="KqanHJAV_PM" caption="Monte Ararat - Timelapse 36 ore">}}
 
-Il celeberrimo e mitologico vulcano dormiente noto a tutti per per le vicende bibliche dell'**Arca di Noè** si trova in verità sul territorio della **Turchia orientale** e che sancirebbe il confine con l'Armenia a nord e l'Iran a Est.
+Il celeberrimo e mitologico vulcano dormiente noto a tutti per per le vicende bibliche dell'**Arca di Noè** si trova in verità sul territorio della **Turchia orientale** e sancirebbe il confine con l'Armenia a nord e l'Iran a Est.
 
 E' alto 5137 metri ed è **il monte più alto della Turchia** — venerato e idolatrato dalla cultura armena che a più riprese ne rivendicherebbe la proprietà ideologica e storico-culturale.
 
 ## Yerevan
 
-È una città in cui il nuovo e vecchio si compenetrano e si mischiano in modo quasi inconfondibile, ma un attento studio del dell'orizzonte e degli edifici permette facilmente di riconoscere quel che era da quel che è di quel che ieri Evan vuole essere.
+È una città in cui il nuovo e vecchio si compenetrano e si mischiano con indifferenza, ma un attento studio dell'orizzonte e degli edifici permette facilmente di riconoscere quel che era da quel che è (e di quel che Yerevan vuole essere).
 
 {{< image src="yerevan_view.jpg" alt="Skyline di edifici sulla collina" caption="" type="wide-screen">}}
 
-All'orizzonte all'alba il grande e il piccolo ara ci danno il buongiorno, immenso, imperituro si staglia sul cielo con la testa sospesa tra le nuvole e quella nebbiolina del mattino che rende tutto più magico.
+E' l'alba e all'orizzonte il Grande e il Piccolo Ararat ci danno il buongiorno, immensi, imperituri si stagliano sul cielo con la testa sospesa tra le nuvole e sospesi nella nebbiolina del mattino che rende tutto più magico.
 
 Ma la somma maestosità si rende visibile per pochissimo, perché poi una spessa coltre di nebbia e di nuvole lo avvolge prendendolo poi non visibile per i prossimi giorni della nostra permanenza. Ma lui è lì, come da sempre.
 
@@ -69,34 +69,35 @@ Ma la somma maestosità si rende visibile per pochissimo, perché poi una spessa
 
 ## I preparativi
 
-Il viaggio è stato organizzato in quattro giorni — ovvero tre notti.
+Il viaggio è stato organizzato su quattro giorni — ovvero tre notti.
 
-* Day #1: arrivo a sera inoltrata, per cui non c'è rimasto altro che cercare un posto in cui mangiare e fare una passeggiata in centro; per l'occasione natalizia la città era adibita a festa e con i mercatini di Natale;
+* Day #1: arrivo a sera inoltrata, per cui non c'è rimasto altro che cercare un posto in cui mangiare e fare una passeggiata in centro; per l'occasione natalizia la città era addobbata a festa e con i mercatini di Natale;
 * Day #2: esploriamo Yerevan ed il suo centro, spingendoci anche verso la periferia — vera faccia autentica della città;
 * Day #3: partiamo per un tour organizzato verso il lago Sevan, Sevanavank e il Parco Nazionale di Dilijan — con visita ai monasteri di Haghartsin e Goshavan;
-* Day #4: con l'aereo per tornare in Italia in tarda serata ne approfittiamo per esplorare la periferia a sud della città — e ci rechiamo in quelli che sono i veri spaccati di vita reale armena, girando entrambi i bazar (con una missione da portare a termine)
+* Day #4: con l'aereo per tornare in Italia in tarda serata ne approfittiamo per esplorare la periferia a sud della città — e ci rechiamo in quelli che sono i veri spaccati di vita reale armena, i bazar (con una missione da portare a termine)
 
 {{< image src="tl_in_progress.jpg" alt="Pocket 3 adesa al vetro mentre esegue un Timelapse" caption="" >}}
 
 
 ## L'aeroporto
 
-Mia opinione: l'aeroporto di Yerevan rappresenta nel pieno il concetto per cui tutto può cambiare da un momento all'altro e sia necessario essere pronti ad affrontare il futuro, sia in meglio — sia in peggio.
+Mia opinione: l'aeroporto di Yerevan rappresenta pienamente il concetto per cui tutto può cambiare da un momento all'altro e sia necessario essere pronti ad affrontare il futuro, sia in meglio — che in peggio.
 
 Un piccolo aeroporto di uno Stato confinato sulle montagne a sud del Caucaso che la dividono fisicamente dalla Turchia — eppure diventato un aeroporto strategico negli scambi internazionali di merci e persone a causa del mutato clima geopolitico dopo l'inizio del conflitto Russia-Ucraina.
 
 {{< image src="yerevan_aeroflot.jpg" alt="Insegna aeroflot di un'agenzia viaggi a Yerevan" caption="" >}}
 
-Ed è così che da piccolo aeroporto gestisce ora delle comunicazioni tra l'Europa e la Federazione Russa.
+Ed è così che da piccolo aeroporto gestisce ora le comunicazioni tra l'Europa e la Federazione Russa.
 Da qui passano persone, sogni, desideri aspirazioni di tantissime persone innocenti in tutto se non per il fatto di avere un passaporto invece di un altro.
 
 * * *
-All'esterno dell'aeroporto, non è poi così tanto diverso dagli altri aeroporti, le nazioni post sovietiche, e forse nemmeno dei nostri aeroporti: usciti materialmente attraverso le porte vi troverete più volte fermati da persone che vi proporranno un taxi verso la città alle cifre più disparate, solitamente intorno ai 15 €.
+
+All'esterno l'aeroporto non è poi così tanto diverso dagli altri aeroporti delle nazioni post sovietiche (ma forse nemmeno dei nostri aeroporti): usciti materialmente attraverso le porte vi troverete più volte fermati da persone che vi proporranno un taxi verso la città alle cifre più disparate, solitamente intorno ai 15 €.
 
 Di per sé il prezzo non è poi così elevato, però va notato come in caso abbiate una connessione ad Internet — che abbiate Yandex Go installato sul telefono — riuscirete a prenotare una corsa a meno della metà del prezzo che vi verrà suggerito, con tutte le garanzie del caso.
 
 {{< box "orange" >}}
-A tal proposito, va segnalato come, soprattutto sul {{< external_link "https://www.reddit.com/r/armenia/" "r/armenia" >}} (Reddit sull'Armenia) siano stati segnalati in più post degli autisti disonesti che prima vi attirano lusinga ano con un certo prezzo dopodiché in viaggio in extraurbano ti diranno che vi accompagneranno nel posto che desiderate solo in cambio di un ulteriore tariffa; alcuni utenti hanno addirittura segnalato come siano stati rubato loro i bagagli.
+A tal proposito, va segnalato come, soprattutto sul {{< external_link "https://www.reddit.com/r/armenia/" "r/armenia" >}} (Reddit sull'Armenia) siano stati segnalati in più post degli autisti disonesti che prima attirano e lusingano con un certo prezzo poi, una volta in viaggio extraurbano, diranno che vi accompagneranno a destinazione solo in cambio di un ulteriore tariffa; alcuni utenti hanno addirittura segnalato come siano stati rubato loro i bagagli.
 
 È importante, quindi diffidare ancor di più di chiunque vi fermi all'esterno della aerostazione.
 
@@ -116,7 +117,7 @@ Tutto ciò contro quel che mi piace fare di più in queste situazioni, ovvero pa
 
 In aeroporto, prima dell'uscita dal terminal, incapperete inevitabilmente in un cambio valuta che, seppur indichi FX 0%, in verità vi ricarica tutto sullo spread di cambio rendendolo notevolmente sconveniente.
 
-Il mio consiglio è tuttavia di cambiare un manciata di euro (50€ nel nostro caso) giusto per assicurarvi di poter arrivare in città poter eventualmente mangiare qualcosa in ristorante per la sera.
+Il mio consiglio è tuttavia di cambiare un manciata di euro (50€ nel nostro caso) giusto per assicurarvi di poter arrivare in città e poter eventualmente mangiare qualcosa in ristorante per la sera.
 
 Per conversioni di maggiore entità troverete in giro per la città i {{< external_link "https://www.sas.am/" "SAS supermarket" >}} al cui interno troverete anche dei _money exchange_.
 
@@ -142,11 +143,11 @@ Con 3000 ֏ (circa 7€) arriverete addirittura in aeroporto (a patto di sceglie
 
 ### Metro
 
-La città è servita anche da un sistema di vagoni metropolitani, ma per prendere la metro vi servirà un numero armeno per registrarvi al servizio: senza numero armeno, noi potete registrare all'App e quindi non potete usufruire della metro. Un vero peccato!
+La città è servita anche da un sistema di vagoni metropolitani, ma per prendere la metro vi servirà un numero armeno per registrarvi al servizio: senza numero armeno non potrete registrarvi all'App e quindi non potrete acquistare il biglietto. Un vero peccato!
 
 {{< image src="yerevan_metro_entrance.jpg" alt="" caption="Entrata della stazione Piazza Repubblica a Yerevan" type="wide-screen">}}
 
-Nel nostro caso avevamo una eSIM virtuale con solo dati attivati senza il numero di riferimento per cui c'è stato impossibile registrarci al servizio… 😞
+Nel nostro caso avevamo una eSIM virtuale con solo dati attivati senza il numero di riferimento per cui è stato impossibile registrarci al servizio… 😞
 
 {{< image src="yerevan_metro_station.jpg" alt="Dettaglio della stazione di Yerevan" caption="" >}}
 
@@ -158,7 +159,7 @@ Maggiori informazioni sulla metro {{< external_link "https://www.yerevan.am/en/m
 
 ### Auto
 
-Un'altra alternativa che noi per poco tempo non avevamo valutato per esplorare l'Armenia (e per cui si ringrazia {{< external_link "https://www.instagram.com/medicalpirates/" "@medical_pirates" >}}) è noleggiare un'auto.
+Un'altra alternativa che noi per il poco tempo non avevamo valutato per esplorare l'Armenia (e per cui si ringrazia {{< external_link "https://www.instagram.com/medicalpirates/" "@medical_pirates" >}}) è noleggiare un'auto.
 
 Utile sicuramente nel caso in cui decidiate di spostarvi fuori da Yerevan verso specifiche tappe — con tutta la comodità di essere indipendenti negli spostamenti — un vero suicidio programmato in caso decidiate di usarla per spostarvi al suo interno.
 
@@ -170,7 +171,7 @@ Il traffico è estremamente caotico e pesante, senza contare la problematica ann
 
 La scelta è stata tra le più difficili.
 
-Anche perché è stato necessario scegliere tra degli hotel moderni, esteticamente validi ma senza vista è un hotel un po' meno curato all'interno ma con una vista spettacolare.
+Anche perché è stato necessario scegliere tra degli hotel moderni, esteticamente validi, ma senza vista e un hotel un po' meno curato all'interno ma con una vista spettacolare.
 
 L'ultimo giorno in cui era possibile la cancellazione gratuita offerta da Booking il colpo di testa: cambiamo e prenotiamo il {{< external_link "https://www.booking.com/hotel/am/fourteenth-floor.it.html" "14th Floor Hotel" >}}, meno curato nell'_interior design_ ma con la possibilità di scegliere una stanza con vista al 14º piano, da cui sperare di vedere il Monte Ararat, vera attrazione millenaria e leggendaria di Yerevan.
 
@@ -180,7 +181,7 @@ Va detto che l'ha vista soprattutto la notte non era nulla di particolare, anche
 
 {{< image src="14-floor_vista.jpg" alt="" caption="View notturna su Yerevan" >}}
 
-Il balcone in camera però può fare la differenza, e l'avrebbe fatta giornata soleggiata successiva permettendoci di fare aperitivo con un buon bicchiere di vino rosso armeno al cospetto del Monte Ararat.
+Il balcone in camera però può fare la differenza, e l'avrebbe fatta durante giornata soleggiata successiva permettendoci di fare aperitivo con un buon bicchiere di vino rosso armeno al cospetto del Monte Ararat.
 
 Dall'ultimo piano dell'Hotel, in cui viene servita giornalmente la colazione (per niente male), avrete una vista privilegiata sulla città che vi permetterà di iniziare a prendere confidenza con il suo stile e la sua alternanza di **moderno alternato al brutalismo decadente**.
 
@@ -286,13 +287,13 @@ Ogni volta che menziono questo parco, non posso che fare altro che pensare al gi
 
 {{< image src="parco_vittoria.jpg" alt="" caption="Viewpoint della Cascata su Yerevan" >}}
 
-Eppure il nome del parco è estremamente ricorrente in tutto il territorio sovietico e non solo si riferisce alla vittoria della grande guerra patriottica portata a casa dall'Urss dalla seconda guerra mondiale.
+Eppure il nome del parco è estremamente ricorrente in tutto il territorio sovietico e si riferisce alla vittoria della Grande Guerra Patriottica (ovvero la Seconda Guerra Mondiale) portata a casa dall'Urss dalla seconda guerra mondiale.
 
 La sua attrazione principale, la **Statua della Madre Armenia** svetta dal suo punto più alto ed è visibile anche da lontano, man mano che vi avvicinerete al **Complesso della Cascata**
 
 {{< image src="yerevan_madrepatria.jpg" alt="" caption="Scorcio urbano" >}}
 
-Peccato all'interno statuto decadente, ogni cosa rimanda un'epoca di splendore ormai cessata, con rovine-abbrutito ulteriormente da graffiti urbani e dalla noncuranza delle strutture all'interno.
+Peccato all'interno sia tutto decadente, ogni cosa rimanda un'epoca di splendore ormai cessata, con rovine abbrutite ulteriormente da graffiti urbani e in stato di abbandono delle strutture all'interno.
 Anche all'interno troverete tantissimi cani randagi, mai aggressivi e sempre molto amichevoli.
 
 {{< image src="parco_vittoria_dettagli_2.jpg" alt="" caption="Parco della Vittoria // Winter edition" type="wide-screen">}}
@@ -301,11 +302,11 @@ Lungo il percorso varie iscrizioni e rappresentazioni sono evocative del sacrifi
 
 {{< image src="parco_vittoria_dettagli_3.jpg" alt="Memoriale ai caduti della II guerra mondiale" caption="" >}}
 
-Ricorda molto il parco della Vittoria di Kyiv con la statua della madrepatria Ucraina al centro austera che si erge e con attorno le varie macchine militari, mezzo ormai sembra sempre più necessario per tutelare la propria identità e proprie diritti come popolo.
+Ricorda molto il parco della Vittoria di Kyiv con la statua della madrepatria Ucraina al centro che si erge austera con attorno le varie macchine militari, mezzo che ormai sembra essere sempre più necessario per tutelare la propria identità e proprie diritti come popolo.
 
 {{< image src="parco_vittoria_dettagli.jpg" alt="Edificio all'interno del Parco della Vittoria vandalizzato" caption="" >}}
 
-Dopo una lunga camminata all'interno di un parco che sembra abbandonato ed in cui alberi schelettrici contornano i sentieri al suo interno arriverete al suo centro, e vi accorgerete del vostro progressivo avvicinamento perchè vedrete spuntare e sempre più vicina una grande statua dagli arbusti rinsecchiti degli alberi.
+Dopo una lunga camminata all'interno de un parco che sembra abbandonato ed in cui alberi schelettrici contornano i sentieri al suo interno, arriverete nel suo centro. Vi accorgerete del vostro progressivo avvicinamento perchè vedrete spuntare dagli arbusti rinsecchiti e provati dall'inverno armeno, sempre più vicina, una grande statua.
 
 E' la Statua della **Madre Armenia**, collocata sul basamento in sostituizione a quella di Stalin ({{< external_link "https://it.wikipedia.org/wiki/Madre_Armenia" "fonte" >}}), dopo la vittoria della _Grande guerra patriotica_ (la Seconda Guerra Mondiale).
 
@@ -331,7 +332,7 @@ Vista dall'alto la città assume tratti romantici.
 
 {{< posizione "https://maps.app.goo.gl/bZ1E6SGAPE38hCFK6" >}}
 
-Il vero centro della città e cuore pulsante è invece la **Piazza della Repubblica** che per l'occasione natalizia è un brulicare di gente, con nostra sorpresa **anche durante la settimana e ben oltre la mezzanotte**, che adibita a festa 
+Il vero centro della città e cuore pulsante è invece la **Piazza della Repubblica** che per l'occasione natalizia è un brulicare di gente, con nostra sorpresa **anche durante la settimana e ben oltre la mezzanotte**, addobbata a festa.
 
 {{< image src="yerevan_natale.jpg" alt="" caption="Edificio governatico dell'Armenia" >}}
 
@@ -339,7 +340,7 @@ Nella Piazza troverete sia le **Poste armene** sia il **Marriott hotel**.
 
 {{< image src="yerevan_natale_3.jpg" alt="Piazza della repubblica addobbata con le luminarie di natale" caption="" >}}
 
-Da qui si diparte il {{< external_link "https://maps.app.goo.gl/yeekMdxLfrhvSmCT6" "Viale del 2750esimo anniversario" >}} che per l'occasione era stato adibito a **viale della salivazione** con vari chischio di cibo per soddisfare ogni desiderio alimentare, dal grano turco bollito all'hot dog alle pattatine alla carne alla griglia.
+Da qui parte il {{< external_link "https://maps.app.goo.gl/yeekMdxLfrhvSmCT6" "Viale del 2750esimo anniversario" >}} che per l'occasione era stato adibito a **viale della salivazione** con vari chischio di cibo per soddisfare ogni desiderio alimentare, dal grano turco bollito all'hot dog, alle pattatine, alla carne alla griglia.
 
 {{< image src="2720anniversario.jpg" alt="Via del 2750°esimo anniversario" caption="" >}}
 
