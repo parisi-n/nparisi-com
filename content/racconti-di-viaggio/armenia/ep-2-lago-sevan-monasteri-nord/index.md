@@ -217,6 +217,8 @@ Per rispetto — invece che divenir legna da ardere — è stato posizionato ed 
 
 Ultima tappa.
 
+{{< image src="goshavank_monastery_hyur_marshrutka.webp" alt="" caption="" >}}
+
 La giornata inizia a volgere al termine ed anche noi iniziamo ad essere obiettivamente stanchi...se non altro di vedere monasteri e chiese 😁
 
 {{< image src="goshavank_monastery.webp" alt="" caption="" >}}
@@ -262,7 +264,7 @@ Sono le 17:30 circa e — con un po' di sollievo — partiamo per tornare a Yere
 
 * * *
 
-{{< image src="goshavank_monastery_hyur_marshrutka.webp" alt="" caption="" >}}
+{{< image src="foto_gruppo.webp" alt="" caption="" >}}
 
 Un ringraziamento a **Monia** e **Spartak** per averci introdotto ad un pizzico di cultura armena.
 
