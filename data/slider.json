@@ -1,6 +1,22 @@
 {
     "array" : [
         {
+            "image" : "sevan-monastery-copertina.jpg" ,
+            "color_category": "#f4511e" ,
+            "category": "Armenia" ,
+            "text_title" : "II monasteri, la storia, la tradizione in estinzione" ,
+            "text_description" : "Alla scoperta delle tradizioni e della storia perduta del popolo armeno" ,
+            "url" : "racconti-di-viaggio/armenia/ep-2-lago-sevan-monasteri-nord/"
+        } ,
+        {
+            "image" : "monte_ararat_armenia_copertina.jpg" ,
+            "color_category": "#f4511e" ,
+            "category": "Armenia" ,
+            "text_title" : "Yerevan: la capitale armena" ,
+            "text_description" : "La terza repubblica del Caucaso, la meno famosa ma la più bella e suggestiva." ,
+            "url" : "racconti-di-viaggio/armenia/ep-1-yerevan-natale"
+        } ,
+        {
             "image" : "lithuania_december_cover.jpg" ,
             "color_category": "#f4511e" ,
             "category": "Repubbliche Baltiche" ,
@@ -73,14 +89,6 @@
             "url" : "racconti-di-viaggio/kyrgyzstan/ep-4-barksoon-skazka-bokonbayevo/"
         } ,
         {
-            "image" : "almaty_header.jpg" ,
-            "color_category": "#f4511e" ,
-            "category": "Kyrgyzstan" ,
-            "text_title" : "Esplorando Almaty" ,
-            "text_description" : "Cosa vedere, cosa fare, e dove mangiare per esplorare Almaty." ,
-            "url" : "racconti-di-viaggio/kyrgyzstan/ep-1-almaty/"
-        } ,
-        {
             "image" : "kyrgyzstan_intro_header.jpg" ,
             "color_category": "#f4511e" ,
             "category": "Kyrgyzstan" ,
@@ -135,14 +143,6 @@
             "text_title" : "#worldseaschallange" ,
             "text_description" : "La mia challange personale: riuscire a fotografarmi con i piedi in acqua in tutti i mari (e laghi!) del mondo." ,
             "url" : "lifestyle/worldseaschallange/"
-        } ,
-        {
-            "image" : "lofoten_cover.jpg" ,
-            "color_category": "#f4511e" ,
-            "category": "Norvegia" ,
-            "text_title" : "Il Paradiso delle Lofoten" ,
-            "text_description" : "Cosa vedere, cosa fare e dove mangiare nelle Isole delle Lofoten, immersi nella natura." ,
-            "url" : "racconti-di-viaggio/norvegia/2021/day-7-lofoten/"
         }
     ]
 }
