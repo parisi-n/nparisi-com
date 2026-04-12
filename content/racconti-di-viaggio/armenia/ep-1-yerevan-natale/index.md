@@ -340,7 +340,7 @@ Nella Piazza troverete sia le **Poste armene** sia il **Marriott hotel**.
 
 {{< image src="yerevan_natale_3.webp" alt="Piazza della repubblica addobbata con le luminarie di natale" >}}
 
-Da qui parte il {{< external_link "https://maps.app.goo.gl/yeekMdxLfrhvSmCT6" "Viale del 2750esimo anniversario" >}} che per l'occasione era stato adibito a **viale della salivazione** con vari chischio di cibo per soddisfare ogni desiderio alimentare, dal grano turco bollito all'hot dog, alle pattatine, alla carne alla griglia.
+Da qui parte il {{< external_link "https://maps.app.goo.gl/yeekMdxLfrhvSmCT6" "Viale del 2750esimo anniversario" >}} che per l'occasione era stato adibito a **viale della salivazione** con vari chischio di cibo per soddisfare ogni desiderio alimentare, dal grano turco bollito all'hot dog, alle patatine, alla carne alla griglia.
 
 {{< image src="2720anniversario.webp" alt="Via del 2750°esimo anniversario" >}}
 
@@ -390,7 +390,7 @@ E' qui che abbiamo comprato la valigia — protagonista della narrazione a fine 
 
 {{< posizione "https://maps.app.goo.gl/f4E6A6dGVB2GwcMe6" >}}
 
-Centro commericale nastosto all'interno di un edificio storico di Yerevan, aperto h24 e 7/7, al suo interno troverete sia un _exchange money_ (anch'esso operativo h24 7/7), una _food court_ ed un supermercato alimentare con all'interno qualunque cosa possa servirvi, dal cibo alle specialità locali ai cosmetici.
+Centro commericale nascosto all'interno di un edificio storico di Yerevan, aperto h24 e 7/7, al suo interno troverete sia un _exchange money_ (anch'esso operativo h24 7/7), una _food court_ ed un supermercato alimentare con all'interno qualunque cosa possa servirvi, dal cibo alle specialità locali ai cosmetici.
 
 E' qui che avviene il fattaccio che ci complicherà i giorni a seguire ed acquistiamo (con {{< affiliate_link "washington-instagram" "@washington_giò" >}} complice silenziosa) tantissimi prodotti tipici locali cosmetici da provare, alcuni introvabili sul nostro mercato — oltre a frutta secca, cioccolati vari, patatine, bottiglie di _spirito_ e _vino_ per un peso eccedente i 20kg che ci obbligherà a risolvere un altro problema: come portare tutta questa roba in Italia?
 
@@ -402,26 +402,26 @@ Tra monasteri, leggende e antiche tradizioni.
 
 {{< image src="yerevan_guided_tours.webp" caption="Alcuni dei tour possibili da Yerevan" >}}
 
-Non vi sarà difficile trovare un tour operator in grado di soddisfare i vostri desideri di esplorazione. Nel nostro caso, avendo pochi giorni è un tempo risicato, era importante prenotare tutto fin dal principio-dall'Italia, per cui ci siamo affidati ai servizi di Year service non dubitavo tuttavia che trovarne uno sarebbe stato più facile che trovare un fioraio in un paese ex sovietico.
+Non vi sarà difficile trovare un tour operator in grado di soddisfare i vostri desideri di esplorazione. Nel nostro caso, avendo pochi giorni e un tempo risicato, era importante prenotare tutto fin dal principio-dall'Italia, per cui ci siamo affidati ai servizi di Year service non dubitavo tuttavia che trovarne uno sarebbe stato più facile che trovare un fioraio in un paese ex sovietico.
 
-Ovunque nelle strade troverete cartelloni, auto, poster che vi proporranno servizi di guida e di tour per l'Armenia e non solo, anche alla Georgia.
+Ovunque nelle strade troverete cartelloni, auto, poster che vi proporranno servizi di guida e di tour per l'Armenia e non solo, anche per la Georgia.
 
 E questa esperienza è protagonista del nostro secondo giorno in Armenia, di cui parlerò nel prossimo post
 
 ## Inviare pacchi in Italia
 
-Dopo la spesa folle fatta nel [Supermercato di Yerevan](#il-supermercato-di-yerevan)ci siamo trovati di fronte ad un nuovo problema, che ci ha tenuto mentalmente occupati ed affaccendati in modo divertende ed alternativo: come portare in Italia tutti i nostri acquisti?
+Dopo la spesa folle fatta nel [Supermercato di Yerevan](#il-supermercato-di-yerevan) ci siamo trovati di fronte ad un nuovo problema, che ci ha tenuto mentalmente occupati ed affaccendati in modo divertende ed alternativo: come portare in Italia tutti i nostri acquisti?
 
-Dopo varie ricerche online ed una visita serale nelle **Poste armene** (che come in occasione della visita a Budapest avevano orari di chiusura oltre le 23 di sera) per cui ogni kg di pacco ci sarebbe venuto a costare quasi 25 € — decidiamo di prendere una scatola di cartone sempre alle poste di rinforzarla con del nastro adesivo una volta riempita con tutti i nostri averi (ed acquitata in loco per quasi 3€).
+Dopo varie ricerche online ed una visita serale nelle **Poste armene** (che come in occasione della visita a [Budapest]({{< ref "/racconti-di-viaggio/budapest/ep-1-cosa-fare-dove-andare/index.md" >}}) avevano orari di chiusura oltre le 23 di sera) la situazione era chiara: ogni kg di pacco ci sarebbe venuto a costare quasi 25 €. Decidiamo quindi di prendere una scatola di cartone, sempre alle poste (ed acquistata per quasi 3€), e di rinforzarla con del nastro adesivo una volta riempita con tutti i nostri averi (ed acquitata in loco per quasi 3€).
 
 Peccato che una volta chiusa la scatola non si è dimostrata all'altezza delle aspettative, mostrandosi estremamente fragile e inadeguata all'obiettivo che c'eravamo prefissati, ovvero imbarcarla in aereo.
 
 {{< video src="scatola_souvenir.webm" caption="Scatola delle poste armene" type="vertical_9x16" >}}
 
-Per questo motivo, abbiamo deciso di di fare uno sforzo economico ulteriore e di acquistare una valigia.
+Per questo motivo, abbiamo deciso di fare uno sforzo economico ulteriore e acquistare una valigia.
 
-E quale posto migliore di trovare una valigia se non il [Patek bazar](#patek-bazar)? Per questo motivo la nostra visita in quel bazar non era esclusivamente turistica ma soprattutto di natura commerciale perché il nostro obiettivo era trovare una valigia al minor prezzo possibile capace di accogliere tutti i nostri nuovi acquisti.
+E quale posto migliore per trovare una valigia se non il [Patek bazar](#patek-bazar)? La nostra visita in quel bazar non era quindi esclusivamente turistica, ma soprattutto di natura commerciale perché il nostro obiettivo era trovare una valigia al minor prezzo possibile capace di accogliere tutti i nostri nuovi acquisti.
 
-È stato simpatico e divertente contrattare con i vari venditori, che poi si è dimostrato essere uno solo che controllava e gestiva i vari negozi di valigie di tutto il bazar, per cui portiamo a casa una valigia per un prezzo comunque accettabile ma sicuramente ancora ottimizzabile se non fosse che il commerciante non ha voluto sentire ragioni per scendere ulteriormente di prezzo.
+È stato simpatico e divertente contrattare con i vari venditori, che poi si è dimostrato essere uno solo che controllava e gestiva i vari negozi di valigie di tutto il bazar. Portiamo a casa una valigia per un prezzo comunque accettabile, ma sicuramente ancora ottimizzabile se non fosse che il commerciante non ha voluto sentire ragioni per scendere ulteriormente di prezzo.
 
-E la contrattazione avvenuta prevalentemente in russo è stata a tratti divertente, a tratti seriosa, che si è conclusa con una stretta di mano ed un sorriso da entrambe le parti 😁
+La contrattazione avvenuta prevalentemente in russo è stata a tratti divertente, a tratti seriosa, e che si è conclusa con una stretta di mano ed un sorriso da entrambe le parti 😁
