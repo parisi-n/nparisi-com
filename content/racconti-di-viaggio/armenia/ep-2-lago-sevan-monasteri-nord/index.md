@@ -13,14 +13,14 @@ type: "article"
 ---
 
 {{< capital_letter_open >}}
-Ammetto tutta la mia ignoranza: al momento di prenotare il tour, mi sono basato quasi esclusivamente sul prezzo sul fatto che ci avrebbe occupato l'intera giornata. Prima della prenotazione non avevo la minima idea di quanto l'Armenia fosse ricca in storia in tradizioni e in cultura.
+Ammetto tutta la mia ignoranza: al momento di prenotare il tour, mi sono basato quasi esclusivamente sul prezzo e sul fatto che ci avrebbe occupato l'intera giornata. Non avevo la minima idea di quanto l'Armenia fosse ricca in storia in tradizioni e in cultura.
 {{< capital_letter_close >}}
 
 Sì, ovviamente sapevo che c'erano tantissimi monasteri dispersi per il territorio (un po' come per la Georgia), ma il fatto di non conoscerne neanche uno era ulteriore elemento per cui un tour era sostanzialmente identico ad un altro.
 
-La nostra esperienza con i tour organizzati e è sempre stata positiva — anche quando forse non lo sarebbe dovuta essere completamente (vedi quanto capitatoci durante il [tour del Gobustan in Azerbaijan]({{< ref "/racconti-di-viaggio/georgia-azerbaijan/day-7-qobustan/index.md" >}})).
+La nostra esperienza con i tour organizzati è sempre stata positiva — anche quando forse non lo avrebbe dovuto esserlo completamente (vedi quanto capitatoci durante il [tour del Gobustan in Azerbaijan]({{< ref "/racconti-di-viaggio/georgia-azerbaijan/day-7-qobustan/index.md" >}})).
 
-Non è stato quindi difficile, una volta identificato il posto in cui ci sarebbe piaciuto andare, risalire tramite un incrocio di informazioni e dettagli tra i tour tra i siti {{< external_link "TripAdvisor.it" "www.tripadvisor.it" >}} e {{< external_link "GetYourGuide.com" "www.getyourguide.com" >}}, dopo verifica delle recensioni su GMaps — al sito del tour operator e prenotare direttamente tramite la loro funzione, risparmiando anche qualche euro.
+Non è stato quindi difficile, una volta identificato il posto in cui ci sarebbe piaciuto andare, risalire, tramite un incrocio di informazioni e dettagli tra i tour dai siti {{< external_link "TripAdvisor.it" "www.tripadvisor.it" >}} e {{< external_link "GetYourGuide.com" "www.getyourguide.com" >}}, dopo verifica delle recensioni su GMaps — al sito del tour operator e prenotare direttamente tramite la loro funzione, risparmiando anche qualche euro.
 
 I nostri occhi ancora non lo sapevano — ma si preparano per vedere una realtà che altro non è che un riflesso del modo di scrivere, di pensare, di essere del popolo armeno.
 
@@ -34,21 +34,21 @@ Purtroppo per noi, però, non siamo riusciti a vederne neanche una... forse ques
 
 ## Tour operator
 
-Per il ci appoggiamo all'{{< external_link "https://hyurservice.com/en/group-tours-armenia" "Agenzia Hyur" >}} con sede operativa in _Nalbandyan Steet, 96_.
+Per l'organizzazione ci appoggiamo all'{{< external_link "https://hyurservice.com/en/group-tours-armenia" "Agenzia Hyur" >}} con sede operativa in _Nalbandyan Steet, 96_.
 
-Già da quanto ho letto online, la nostra idea era positiva in quanto lamentele rivolte ai loro servizi erano pressoché inesistenti. Questo ci ha portato ad approcciarci alla giornata anche con una certa spensieratezza.
+Già da quanto ho letto online ci eravamo fatti un'idea era positiva in quanto le lamentele rivolte ai loro servizi erano pressoché inesistenti. Questo ci ha portato ad approcciarci alla giornata anche con una certa spensieratezza.
 
 {{< image src="map_armenia.webp" caption="Tour dell'Armenia" >}}
 
-Anche la quota per il tour completo, escluso il pranzo, è stata talmente modica che anche in caso fossimo stati imbrogliate, non avremmo perso granché soldi.
+Anche la quota per il tour completo, escluso il pranzo, è stata talmente modica che anche in caso fossimo stati imbrogliate, non avremmo perso granché.
 
 {{< image src="hyur_marshrutka.webp" caption="La marshrutka dell'Agenzia Hyur" >}}
 
-Arrivati nel loro sede, abbiamo semplicemente detto che eravamo e c'è stata indicata la nostra marshrutka per la giornata in cui volevamo potevamo già iniziare ad accomodarci.
+Arrivati nella loro sede, abbiamo semplicemente detto chi eravamo e ci è stata indicata la nostra marshrutka per la giornata in cui avremo già potuto iniziare ad accomodarci.
 
-Ci veniva anche indicata quella che sarebbe stata alla guida per la nostra giornata, **Monia**.
+Ci veniva anche indicata quella che sarebbe stata la guida per la nostra giornata: **Monia**.
 
-Passano dieci minuti che poi si avvicina anche il nostro autista, il silenzioso **Spartak**.
+Passano dieci minuti e poi si avvicina anche il nostro autista, il silenzioso **Spartak**.
 
 Sono le 8:30 circa quando partiamo alla scoperta dell'Armenia e dei suoi monasteri millenari 🇦🇲
 
@@ -56,7 +56,9 @@ Sono le 8:30 circa quando partiamo alla scoperta dell'Armenia e dei suoi monaste
 
 ## La vera armenia
 
-Ben presto ci lasciamo dietro le case moderne e i palazzi a più piani del centro città e le case diventano via via sempre più vecchie e sempre meno curate finché lo spazio urbano non cede il passo a un ambiente rurale, montuoso, da esplorare.
+{{< youtube id="qiMxO4TFNlg" caption="Periferia di Yerevan" >}}
+
+Ben presto ci lasciamo dietro le case moderne e i palazzi a più piani del centro città e le case diventano via via sempre più vecchie e sempre meno curate finché lo spazio urbano cede il passo a un ambiente rurale, montuoso, da esplorare.
 
 {{< image src="montagne_lontane.webp" alt="Montagne armene con cime innevate" >}}
 
@@ -90,29 +92,29 @@ I _khachkar_ sono elementi iconici della cultura armena e non sono altro che pie
 
 Secondo {{< external_link "https://ich.unesco.org/en/RL/armenian-cross-stones-art-symbolism-and-craftsmanship-of-khachkars-00434" "il sito dell'UNESCO" >}} ne esistono attualmente circa 50'000 in totale variamente distribuiti su tutto il territorio.
 
-Nel khachkar raffigurato in alto nello specifico assistiamo ad una raffigurazione cronologica della antività di Cristo, dalla sua nascita, ai re magi che portano i doni per l'occasione, alla sua morte in croce — scopo ultimo quello di redimere il mondo dal peccato originale (raffigurazione in basso, centrale — in cui Dio cerca di sottrarre Adamo ed Eva dal peccato raffigurato come un serpente).
+Nel khachkar raffigurato in alto nello specifico assistiamo ad una raffigurazione cronologica della natività di Cristo, dalla sua nascita, all'arrivo dei re magi che portano i doni, alla sua morte in croce — scopo ultimo quello di redimere il mondo dal peccato originale (raffigurazione in basso, centrale — in cui Dio cerca di sottrarre Adamo ed Eva dal peccato raffigurato come un serpente).
 
 {{< image src="sevanavank_monastery_inside.webp" alt="Altare all'interno di un monastero di Sevanavank" >}}
 
 Gli interni delle due strutture sono estremamente ben conservati, organizzati quasi fosse imminente una funzione religiosa.
 
-Sono sostanzialmente simili all'interno, forse fatta eccezione per alcune lacune adibite ai monaci amanuensi, il cui compito era trascrivere su fogli di legno i libri sacri.
+Sono sostanzialmente simili all'interno, forse fatta eccezione per alcune nicchie adibite ai monaci amanuensi, il cui compito era trascrivere su fogli di legno i libri sacri.
 
 {{< image src="sevanavank_monastery_inside_3.webp" alt="Ornamenti interni ad uno dei monasteri del complesso di Sevanavank" >}}
 
-Per questo motivo, in prossimità di queste lacune vi era sempre un fuoco acceso — così che in caso di incursioni nemiche e in caso la struttura fosse stata espugnata, avessero potuto bruciare il prodotto dei loro lavoro, invece che consegnarlo al nemico.
+Per questo motivo, in prossimità di queste nicchie vi era sempre un fuoco acceso — così che in caso la struttura fosse stata espugnata da un incursione nemica i monaci avessero potuto bruciare il prodotto dei loro lavoro, invece che consegnarlo al nemico.
 
 {{< image src="sevanavank_monastery_inside_4.webp" alt="Candelabro all'interno di un monastero di Sevanavank" >}}
 
-Siamo l'unico gruppo di turisti in visita quella mattina; sono le 10:30 circa e l'atmosfera è piacevole, non fredda. Il silenzio in cui si è immersi rende ulteriormente più piacevole l'esperienza sensoriale di vagare per quelle mura di tuffo millenarie.
+Siamo l'unico gruppo di turisti in visita quella mattina; sono le 10:30 circa e l'atmosfera è gradevole, non fredda. Il silenzio in cui si è immersi rende ulteriormente più piacevole l'esperienza sensoriale di vagare per quelle mura di tuffo millenarie.
 
 {{< image src="sevanavank_monastery.webp" caption="Monastero di Sevanavank" >}}
 
-Motivo ci tratteniamo forse oltre il necessario, per godere della piacevole e silenziosa giornata e scattare qualche bella foto ricordo.
+Per questo motivo ci tratteniamo forse oltre il necessario, per godere della piacevole e silenziosa giornata e scattare qualche bella foto ricordo.
 
 {{< image src="sevanavank_monastery_2.webp" alt="Retro di uno dei monasteri di Sevanavank" >}}
 
-E' in mezzo a queste rovine millenarie che sono spettatrici dello spettacolo del lago che consumiamo un merendina dataci precedentemente dalla guida Monia; ci viene detto sia uan merendina tradizionale armena che veniva data tempo fa ai bambini per andare a scuola...la conservazione non è il massimo, mala mangiamo comunque.
+E' in mezzo a queste rovine millenarie e davanti allo spettacolo del lago che consumiamo un merendina dataci precedentemente dalla guida Monia; ci viene detto sia una merendina tradizionale armena che veniva data tempo fa ai bambini per andare a scuola...la conservazione non è il massimo, mala mangiamo comunque.
 
 {{< image src="sevanavank_monastery_5.webp" alt="Foto artistica di uno dei monasteri del complesso di Sevanavank" >}}
 
@@ -145,6 +147,7 @@ In particolare la _old town_ è stata preservata per essere vetrina e sede di ar
 {{< image src="old_dilijan_street_2.webp" caption="Via degli artisti, degli artigiani e dei souvenir shop" >}}
 
 Per le vie fantasma del centro vi capiterà di osservare, attraverso qualche finestra, delle persone all'opera nella lavorazione dell'argilla, del legname, del pellame. Sentitevi liberi di girare e di esplorare le antiche case in legno a più piani con i loro terrazzi scricchiolanti.
+Attraverso le finestre o, per i più coraggiosi direttamente all'interno, potrete osservare gli artisti direttamente a lavoro, come fossero in vetrina.
 
 {{< image src="old_dilijan_street_3.webp" alt="Via della Old Dilijan" >}}
 
@@ -154,7 +157,7 @@ E se dopo il giro vi verrà voglia di trasferirvi definitivamente in mezzo a que
 
 * * *
 
-A questo punto vi sarà venuta anche un certo appetito.
+A questo punto vi sarà venuto anche un certo appetito.
 
 All'arrivo a Dilijan ci venivano date due possibilità: o mangiare con street food nella _old town_ o recarci in una casa in cui eravamo attesi per il pranzo organizzato.
 
@@ -167,9 +170,9 @@ Ancora una volta è lei il co-protagonista di ogni storia.
 
 ## Il pranzo
 
-Veniamo condotti con da Spartak con la _marshrutka_ a cui ormai iniziamo ad essere affezionati nella sala da pranzo di un ostello nella periferia di Dilijan. L'ambiente è carico, curato, molto moderno.
+Veniamo condotti da Spartak con la _marshrutka_, a cui ormai iniziamo ad essere affezionati, nella sala da pranzo di un ostello nella periferia di Dilijan. L'ambiente è carico, curato, molto moderno.
 
-Per 6€ ci viene offerto un secondo a base di pollo (cotto a vapore — povero pollo!) e patate, varie bevande aromatizzate (sidro di mele, di pere, basilico ed altre erbe locali) ed un entrè vegetariano.
+Per 6€ ci viene offerto un secondo a base di pollo (cotto a vapore — povero pollo!) e patate, varie bevande aromatizzate (sidro di mele, di pere, basilico ed altre erbe locali) ed un entrè vegetariano con verdure e frittate.
 
 Concludiamo il tutto con una buonissima **grappa** locale e particolarmente alcolica che mette a dura prova la mia resistenza post-prandiale.
 
@@ -199,13 +202,13 @@ Certo che non dev'essere male sposarsi in mezzo alla natura più profonda armena
 
 {{< image src="haghartsin_monastery_2.webp" alt="Tetti antichi" >}}
 
-Non ci tratteniamo eccessivamente, appena il tempo di contemplate e gustarci quelle mura millenarie e quegli alberi che, probabilmente, hanno visto almeno tanta vita quanto quelle stesse mura.
+Non ci tratteniamo eccessivamente, appena il tempo di contemplare e gustarci quelle mura millenarie e quegli alberi che, probabilmente, hanno visto almeno tanta vita quanto quelle stesse mura.
 
 {{< image src="haghartsin_monastery_inside.webp" caption="Libro sacro" >}}
 
-L'attenzione viene focalizzata su un vecchio albero, che si diceva esistesse lì da quando il monastero era stato eretto ma che — a causa di una funesta tempesta si ruppe e cadde al suolo.
+L'attenzione viene focalizzata su un vecchio albero, che si diceva fosse lì da quando il monastero era stato eretto ma che — a causa di una funesta tempesta e cadde al suolo.
 
-Per rispetto — invece che divenir legna da ardere — è stato posizionato ed aggiustato nelle dimensioni nel retro del giardino del complesso — a memoria della sua esistenza.
+Per rispetto — invece che divenir legna da ardere — è stato posizionato ed aggiustato (nelle dimensioni) nel giardino del complesso — a memoria della sua esistenza.
 
 ## Goshavank ed il monastero
 
