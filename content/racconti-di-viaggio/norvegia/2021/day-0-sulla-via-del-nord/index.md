@@ -9,6 +9,8 @@ tags : [ "travel" ]
 
 showToc : true
 type: "article"
+
+url: "/racconti-di-viaggio/norvegia/day-0-sulla-via-del-nord/"
 ---
 
 {{<quote "Un viaggio lo vivi tre volte: quando lo organizzi, quando lo vivi, quando lo ricordi." >}}
@@ -145,23 +147,23 @@ L'esperienza data dall'auto ({{< external_link "www.sixt.com" "noleggiata a Berg
 
 {{<image src="norvegia_itinerario.png" caption="Itinerario con tappe" alt="Itinerario a tappe" >}}
 
-[Giorno #1]({{< ref "/racconti-di-viaggio/norvegia/day-1-bergen/index.md" >}}): arriviamo a Bergen con {{< external_link "www.norwegian.com/it/" "Norwegian Air" >}} alla sera. Notte a Bergen.
+[Giorno #1]({{< ref "/racconti-di-viaggio/norvegia/2021/day-1-bergen/index.md" >}}): arriviamo a Bergen con {{< external_link "www.norwegian.com/it/" "Norwegian Air" >}} alla sera. Notte a Bergen.
 
-[Giorno #2 e #3]({{< ref "/racconti-di-viaggio/norvegia/day-2-odda-trolltunga/index.md" >}}): noleggio dell'auto e partenza verso Odda ― per poter essere in albergo all'ora di cena e partecipare al meeting propedeutico all'escursione di Trolltunga. Notte a Odda.
+[Giorno #2 e #3]({{< ref "/racconti-di-viaggio/norvegia/2021/day-2-odda-trolltunga/index.md" >}}): noleggio dell'auto e partenza verso Odda ― per poter essere in albergo all'ora di cena e partecipare al meeting propedeutico all'escursione di Trolltunga. Notte a Odda.
 
-[Giorno #4]({{< ref "/racconti-di-viaggio/norvegia/day-3-stavanger/index.md" >}}): riposo dopo la fatica di Trolltunga ― poi partenza per Stavanger. Notte a Stavanger.
+[Giorno #4]({{< ref "/racconti-di-viaggio/norvegia/2021/day-3-stavanger/index.md" >}}): riposo dopo la fatica di Trolltunga ― poi partenza per Stavanger. Notte a Stavanger.
 
-[Giorno #5]({{< ref "/racconti-di-viaggio/norvegia/day-4-preikestolen/index.md" >}}): escursione a Preikestolen. Poi partenza verso Bergen (*non fatelo*) e notte a Bergen.
+[Giorno #5]({{< ref "/racconti-di-viaggio/norvegia/2021/day-4-preikestolen/index.md" >}}): escursione a Preikestolen. Poi partenza verso Bergen (*non fatelo*) e notte a Bergen.
 
-[Giorno #6]({{< ref "/racconti-di-viaggio/norvegia/day-5-sognefjord/index.md" >}}): partenza per Lavik. Notte a Lavik.
+[Giorno #6]({{< ref "/racconti-di-viaggio/norvegia/2021/day-5-sognefjord/index.md" >}}): partenza per Lavik. Notte a Lavik.
 
-[Giorno #7]({{< ref "/racconti-di-viaggio/norvegia/day-6-bodo/index.md" >}}): ritorno a Bergen ed aereo per Bodo. A poche centinaia di metri dal porto ― un imprevisto ci ha obbligato a dirigerci al **pronto soccorso** ― e modificare l'itinerario prestabilito. __Notte a Bodo__ ― quindi ― invece che alle Lofoten.
+[Giorno #7]({{< ref "/racconti-di-viaggio/norvegia/2021/day-6-bodo/index.md" >}}): ritorno a Bergen ed aereo per Bodo. A poche centinaia di metri dal porto ― un imprevisto ci ha obbligato a dirigerci al **pronto soccorso** ― e modificare l'itinerario prestabilito. __Notte a Bodo__ ― quindi ― invece che alle Lofoten.
 
 **Giorno #8**: traghetto per Moskenes e notte ad Hamnoy.
 
-[Giorno #9]({{< ref "/racconti-di-viaggio/norvegia/day-7-lofoten/index.md" >}}): tour delle Lofoten ― da A a Leknes. Notte ad Hamnoy.
+[Giorno #9]({{< ref "/racconti-di-viaggio/norvegia/2021/day-7-lofoten/index.md" >}}): tour delle Lofoten ― da A a Leknes. Notte ad Hamnoy.
 
-[Giorno #10]({{< ref "/racconti-di-viaggio/norvegia/day-8-oslo/index.md" >}}): partenza all'alba per Moskenes ― traghetto per Bodo ed infine aereo per Oslo. Pomeriggio in giro per Oslo. Notte a Oslo.
+[Giorno #10]({{< ref "/racconti-di-viaggio/norvegia/2021/day-8-oslo/index.md" >}}): partenza all'alba per Moskenes ― traghetto per Bodo ed infine aereo per Oslo. Pomeriggio in giro per Oslo. Notte a Oslo.
 
 **Giorno #11**: l'indomani partenza da Oslo TURP Sandefjord.
 

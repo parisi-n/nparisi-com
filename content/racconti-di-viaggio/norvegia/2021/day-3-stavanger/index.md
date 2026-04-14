@@ -9,6 +9,8 @@ tags : [ "travel" ]
 
 showToc : true
 type: "article"
+
+url: "/racconti-di-viaggio/norvegia/day-3-stavanger/"
 ---
 
 {{< box "blue" >}}
@@ -108,7 +110,7 @@ La view dal balconcino non è tra le più entusiasmanti.
 
 L'hotel non dispone di parcheggio proprio ma troverete parcheggio (sia a pagamento sia lungo strada) proprio dietro la struttura.
 
-Qualora decidiate di parcheggiare lungo strada ― prestate attenzione ai cartelli ed ai segnali integrativi (come raccontato nella sezione [Guidare in Norvegia]({{< ref "/racconti-di-viaggio/norvegia/day-1-bergen/index.md#guidare-in-norvegia" >}}).
+Qualora decidiate di parcheggiare lungo strada ― prestate attenzione ai cartelli ed ai segnali integrativi (come raccontato nella sezione [Guidare in Norvegia]({{< ref "/racconti-di-viaggio/norvegia/2021/day-1-bergen/index.md#guidare-in-norvegia" >}}).
 
 Al momento del viaggio il parcheggio lungo strada era permesso solo durante l'orario notturno ― dalle 20 alle 8.
 
@@ -218,6 +220,6 @@ Il tutto accompagnato da birra locale.
 
 * * *
 
-Puoi leggere il [day #4 qui]({{< ref "/racconti-di-viaggio/norvegia/day-4-preikestolen/index.md" >}}).
+Puoi leggere il [day #4 qui]({{< ref "/racconti-di-viaggio/norvegia/2021/day-4-preikestolen/index.md" >}}).
 
-Se invece vuoi leggere quali sono stati i preparativi per la *Norvegia* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/norvegia/day-0-sulla-via-del-nord/index.md" >}}).
+Se invece vuoi leggere quali sono stati i preparativi per la *Norvegia* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/norvegia/2021/day-0-sulla-via-del-nord/index.md" >}}).

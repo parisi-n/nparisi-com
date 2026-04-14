@@ -9,6 +9,8 @@ tags : [ "travel" ]
 
 showToc : true
 type: "article"
+
+url: "/racconti-di-viaggio/norvegia/day-4-preikestolen/"
 ---
 
 {{< capital_letter_open >}}
@@ -160,6 +162,6 @@ Mi risveglio alle porte di Bergen intorno all'una di notte ― *sorpreso* ma anc
 
 * * *
 
-Puoi leggere il [day #5 qui]({{< ref "/racconti-di-viaggio/norvegia/day-5-sognefjord/index.md" >}}).
+Puoi leggere il [day #5 qui]({{< ref "/racconti-di-viaggio/norvegia/2021/day-5-sognefjord/index.md" >}}).
 
-Se invece vuoi leggere quali sono stati i preparativi per la *Norvegia* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/norvegia/day-0-sulla-via-del-nord/index.md" >}}).
+Se invece vuoi leggere quali sono stati i preparativi per la *Norvegia* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/norvegia/2021/day-0-sulla-via-del-nord/index.md" >}}).

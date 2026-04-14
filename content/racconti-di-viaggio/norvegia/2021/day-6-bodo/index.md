@@ -9,6 +9,8 @@ tags : [ "travel" ]
 
 showToc : true
 type: "article"
+
+url: "/racconti-di-viaggio/norvegia/day-6-bodo/"
 ---
 
 {{< box "orange" "Disclaimer" >}}
@@ -230,6 +232,6 @@ Quel che il giorno prima sembrava impossibile invece è accaduto: il viaggio ―
 
 * * *
 
-Puoi leggere il [day #7 qui]({{< ref "/racconti-di-viaggio/norvegia/day-7-lofoten/index.md" >}}).
+Puoi leggere il [day #7 qui]({{< ref "/racconti-di-viaggio/norvegia/2021/day-7-lofoten/index.md" >}}).
 
-Se invece vuoi leggere quali sono stati i preparativi per la *Norvegia* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/norvegia/day-0-sulla-via-del-nord/index.md" >}}).
+Se invece vuoi leggere quali sono stati i preparativi per la *Norvegia* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/norvegia/2021/day-0-sulla-via-del-nord/index.md" >}}).

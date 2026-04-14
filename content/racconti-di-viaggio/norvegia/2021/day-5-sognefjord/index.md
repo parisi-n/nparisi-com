@@ -9,6 +9,8 @@ tags : [ "travel" ]
 
 showToc : true
 type: "article"
+
+url: "/racconti-di-viaggio/norvegia/day-5-sognefjord/"
 ---
 
 {{< vimeo src="737951347" >}}
@@ -30,7 +32,7 @@ L'obiettivo originario di raggiungere quindi l'_Atlantic Road_ e tornare a Berge
 
 * * *
 
-Ci tratteniamo una giornata in più per esplorare Bergen (trovate tutte le informazioni del caso nel [post del Day #1]({{<ref "racconti-di-viaggio/norvegia/day-1-bergen/index.md" >}}) e, mangiato e sazi dei _#bryggenvibes_ prendiamo _Corollina_ e puntiamo verso Nord.
+Ci tratteniamo una giornata in più per esplorare Bergen (trovate tutte le informazioni del caso nel [post del Day #1]({{<ref "racconti-di-viaggio/norvegia/2021/day-1-bergen/index.md" >}}) e, mangiato e sazi dei _#bryggenvibes_ prendiamo _Corollina_ e puntiamo verso Nord.
 
 Direzione e meta ragionevoli, questa volta; destinazione: *Lavik*.
 
@@ -65,7 +67,7 @@ Il costo sarà appena _il doppio dell'auto_ ma potreste risparmiare parecchio su
 
 Il viaggio a *Lavik* ci dà anche un'altra possibilità: quella di visitare il nostro *terzo fjordo*: il *Sognefjord*.
 
-Dopo l'_Hardangenfjord_ ― attraversato nel viaggio verso [Odda]({{< ref "/racconti-di-viaggio/norvegia/day-2-odda-trolltunga/index.md" >}}) ed il _Lysefjord_ ― visto dall'alto della _puplit rock_ di [Preikestolen]({{< ref "/racconti-di-viaggio/norvegia/day-4-preikestolen/index.md" >}})
+Dopo l'_Hardangenfjord_ ― attraversato nel viaggio verso [Odda]({{< ref "/racconti-di-viaggio/norvegia/2021/day-2-odda-trolltunga/index.md" >}}) ed il _Lysefjord_ ― visto dall'alto della _puplit rock_ di [Preikestolen]({{< ref "/racconti-di-viaggio/norvegia/2021/day-4-preikestolen/index.md" >}})
 
 {{<image src="sognefjord.jpg" alt="Sognefjord" caption="Sognefjord" type="wide-screen" >}}
 
@@ -172,6 +174,6 @@ Poco meno di due ore e siamo a Bodo.
 
 * * *
 
-Puoi leggere il [day #6 qui]({{< ref "/racconti-di-viaggio/norvegia/day-6-bodo/index.md" >}}).
+Puoi leggere il [day #6 qui]({{< ref "/racconti-di-viaggio/norvegia/2021/day-6-bodo/index.md" >}}).
 
-Se invece vuoi leggere quali sono stati i preparativi per la *Norvegia* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/norvegia/day-0-sulla-via-del-nord/index.md" >}}).
+Se invece vuoi leggere quali sono stati i preparativi per la *Norvegia* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/norvegia/2021/day-0-sulla-via-del-nord/index.md" >}}).

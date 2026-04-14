@@ -150,7 +150,7 @@ La parte difficile è effettivamente togliere i guanti per mangiare, con le mani
 
 La zuppa di pesce (di cui poi farò il bis) e liquori locali, però, ci aiutano e ci tengono caldi.
 
-Ha un sapore diverso da quella mangiata da [Anita's sulle Lofoten]({{< ref "/racconti-di-viaggio/norvegia/day-7-lofoten/index.md" >}}) in Norvegia, ma è comunque squisita, forte, intensa.
+Ha un sapore diverso da quella mangiata da [Anita's sulle Lofoten]({{< ref "/racconti-di-viaggio/norvegia/2021/day-7-lofoten/index.md" >}}) in Norvegia, ma è comunque squisita, forte, intensa.
 
 L'atmosfera è però diversa e quasi unica: sembra una festa di paese!
 

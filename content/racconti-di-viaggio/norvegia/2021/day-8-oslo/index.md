@@ -10,6 +10,8 @@ tags : [ "travel" ]
 
 showToc : true
 type: "article"
+
+url: "/racconti-di-viaggio/norvegia/day-8-oslo/"
 ---
 
 {{< capital_letter_open >}}
@@ -29,7 +31,7 @@ Arriviamo ad Oslo nel primo pomeriggio ― giusto in tempo per il check-in dell'
 
 ## Gli aeroporti
 
-Prestate attenzione e badate bene al fatto che ad Oslo ― come già detto [nelle premesse]({{< ref "racconti-di-viaggio/norvegia/day-0-sulla-via-del-nord/index.md" >}}) ― sono presenti *due aeroporti*: *Gardermoen* e *TORP*.
+Prestate attenzione e badate bene al fatto che ad Oslo ― come già detto [nelle premesse]({{< ref "racconti-di-viaggio/norvegia/2021/day-0-sulla-via-del-nord/index.md" >}}) ― sono presenti *due aeroporti*: *Gardermoen* e *TORP*.
 
 Il primo, {{< external_link "https://goo.gl/maps/P7WNqCYrStvFpckWA" "Godermoen" >}} è ben collegato con la città di Oslo.
 
@@ -92,7 +94,7 @@ Troverete utili le solite app: *Bolt* e *Taxifix*.
 
 ### Monopattino
 
-Le già nominate app usate [a Bodo]({{< ref "racconti-di-viaggio/norvegia/day-6-bodo/index.md" >}}) funzioneranno anche a Oslo.
+Le già nominate app usate [a Bodo]({{< ref "racconti-di-viaggio/norvegia/2021/day-6-bodo/index.md" >}}) funzioneranno anche a Oslo.
 
 L'abbondanza di piste apposite renderanno l'esperienza e l'esplorazione di Oslo molto più divertente e piacevole.
 
@@ -156,9 +158,9 @@ Le ultime del viaggio.
 
 Dopo la tappa obbligata all'[Hard Rock](#Hard_Rock_Oslo) ci dirigiamo in hotel.
 
-Cena nell'elegante suite *al 23esimo piano* ― con ordine piazzato su Wolt ― già usato in passato (a [Stavanger]({{< ref "racconti-di-viaggio/norvegia/day-3-stavanger/index.md" >}})).
+Cena nell'elegante suite *al 23esimo piano* ― con ordine piazzato su Wolt ― già usato in passato (a [Stavanger]({{< ref "racconti-di-viaggio/norvegia/2021/day-3-stavanger/index.md" >}})).
 
-Ci affidiamo a {{< external_link "https://g.page/Fiskeriet?share" "Fiskeriet Youngstorget" >}} ― nella speranza di riassaggiare un burger di bromio come quello di [Anita's seafood]({{< ref "racconti-di-viaggio/norvegia/day-7-lofoten/index.md" >}}) oppure una zuppetta di pesce [come quella di Bryggeloftet & Stuene Restaurant]({{< ref "racconti-di-viaggio/norvegia/day-1-bergen/index.md" >}}) oppure come quella
+Ci affidiamo a {{< external_link "https://g.page/Fiskeriet?share" "Fiskeriet Youngstorget" >}} ― nella speranza di riassaggiare un burger di bromio come quello di [Anita's seafood]({{< ref "racconti-di-viaggio/norvegia/2021/day-7-lofoten/index.md" >}}) oppure una zuppetta di pesce [come quella di Bryggeloftet & Stuene Restaurant]({{< ref "racconti-di-viaggio/norvegia/2021/day-1-bergen/index.md" >}}) oppure come quella
 
 {{< image src="hamburger.jpg" alt="Vie di oslo" alt="La cena" >}}
 
@@ -174,7 +176,7 @@ Per un attimo il mood è quello di partecipare e prendere parte all'ultimo spraz
 
 ## Bilanci e conclusioni
 
-Un viaggio diverso da tutti gli altri. Un viaggio nelle emozioni, nel piacere di esplorare *in sicurezza* ― degli ambienti naturali in una nazione socialmente ed economicamente avanzata rispetto alla mia ― seppur con [le dovute differenze e criticità]({{< ref "racconti-di-viaggio/norvegia/day-6-bodo/index.md" >}}).
+Un viaggio diverso da tutti gli altri. Un viaggio nelle emozioni, nel piacere di esplorare *in sicurezza* ― degli ambienti naturali in una nazione socialmente ed economicamente avanzata rispetto alla mia ― seppur con [le dovute differenze e criticità]({{< ref "racconti-di-viaggio/norvegia/2021/day-6-bodo/index.md" >}}).
 
 Un viaggio adatto a tutti, a misura di tutti *ed estremamente democratico*. Certo ― il costo è rilevante in un viaggio ― ed in Norvegia siamo partiti con una rassegnazione: *spendiamo quel che c'è da spendere*.
 
@@ -182,7 +184,7 @@ Perchè si viaggia una volta e i soldi sono una buona merce di scambio quando da
 
 Torniamo più poveri economicamente ma più ricchi in ricordi, esperienza, voglia di sognare.
 
-E con un desiderio: [tornare alle Lofoten]({{< ref "racconti-di-viaggio/norvegia/day-7-lofoten/index.md" >}}).
+E con un desiderio: [tornare alle Lofoten]({{< ref "racconti-di-viaggio/norvegia/2021/day-7-lofoten/index.md" >}}).
 
 Grazie per avermi letto e seguito in questo _memorandum_.
 Spero di non avervi annoiato e ― anzi ― ispirato e portato al fatidico momento: *prenotare*.
@@ -193,4 +195,4 @@ _Un grazie speciale a {{< affiliate_link "washington-instagram" "@washington_gi�
 
 * * *
 
-Se vuoi leggere quali sono stati i preparativi per la *Norvegia* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/norvegia/day-0-sulla-via-del-nord/index.md" >}}).
+Se vuoi leggere quali sono stati i preparativi per la *Norvegia* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/norvegia/2021/day-0-sulla-via-del-nord/index.md" >}}).

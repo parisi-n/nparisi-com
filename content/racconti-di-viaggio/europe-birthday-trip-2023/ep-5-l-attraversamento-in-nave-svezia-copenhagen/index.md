@@ -164,7 +164,7 @@ Puntiamo lì.
 
 ## Il Pranzo
 
-Da amante dei picnic con vista, riconosco che questo posto — dopo l'esperienza della [Norvegia]({{< ref "/racconti-di-viaggio/norvegia/day-0-sulla-via-del-nord/index.md" >}}) — è uno dei migliori in cui abbiamo avuto l'occasione di mangiare.
+Da amante dei picnic con vista, riconosco che questo posto — dopo l'esperienza della [Norvegia]({{< ref "/racconti-di-viaggio/norvegia/2021/day-0-sulla-via-del-nord/index.md" >}}) — è uno dei migliori in cui abbiamo avuto l'occasione di mangiare.
 
 {{< image src="oresund_view.jpg" alt="" class="" caption="Il Ponte dell'Øresund" type="wide-screen" >}}
 

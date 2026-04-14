@@ -4,7 +4,7 @@ date: "2018-12-11"
 image: "images/saunalapland.jpg"
 
 summary : "Alla scoperta della Lapponia, tra renne. gare con gli husky, paesaggi spettacolari e momenti di riflessioni emozionanti. Questo e tanto altro in Lapponia, riviviamo il viaggio attraverso questo phototrip!"
-categories : [ "racconti-di-viaggio" ]
+categories : [ "racconti-di-viaggio", "finlandia" ]
 tags : [ "travel" ]
 
 showToc : true

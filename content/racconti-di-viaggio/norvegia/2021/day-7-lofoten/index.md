@@ -9,6 +9,8 @@ tags : [ "travel" ]
 
 showToc : true
 type: "article"
+
+url: "/racconti-di-viaggio/norvegia/day-7-lofoten/"
 ---
 
 {{< box "blue" >}}
@@ -380,7 +382,7 @@ Le _Lofotenvaggen_ o _Lofoten Wall_ sono le montagne a punte di origine vulcanic
 
 La più famosa nei pressi di Reine è sicuramente quella di {{< external_link "https://goo.gl/maps/G32Pxi9nkYbFnby98" "Reinebringen" >}} ― al momento della nostra visita inagibile perché in corso di manutenzione ad opera di *sherpa nepalesi* giunti appositamente per la manutenzione.
 
-Per noi sarebbe comunque stato impossibile avventurarci lungo il percorso considerato [quanto ci è accaduto a Bodø]({{<ref "/racconti-di-viaggio/norvegia/day-6-bodo/index.md" >}}).
+Per noi sarebbe comunque stato impossibile avventurarci lungo il percorso considerato [quanto ci è accaduto a Bodø]({{<ref "/racconti-di-viaggio/norvegia/2021/day-6-bodo/index.md" >}}).
 
 {{<image src="lofoten_trees.jpg" alt="Vegetazione delle Lofoten" type="wide-screen" >}}
 
@@ -432,6 +434,6 @@ Prossima tappa: _aeroporto di Bodø_; direzione: *Oslo*.
 
 * * *
 
-Puoi leggere il [day #8 qui]({{< ref "/racconti-di-viaggio/norvegia/day-8-oslo/index.md" >}}).
+Puoi leggere il [day #8 qui]({{< ref "/racconti-di-viaggio/norvegia/2021/day-8-oslo/index.md" >}}).
 
-Se invece vuoi leggere quali sono stati i preparativi per la *Norvegia* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/norvegia/day-0-sulla-via-del-nord/index.md" >}}).
+Se invece vuoi leggere quali sono stati i preparativi per la *Norvegia* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/norvegia/2021/day-0-sulla-via-del-nord/index.md" >}}).

@@ -302,7 +302,7 @@ Per la {{< affiliate_link "gopro5" "Go Pro 5" >}} ho anche questa volta portato 
 
 Fuori dallo zaino, appeso, il {{< affiliate_link "manfrotto-travel-tripod" "Manfrotto Element Traveller" >}} (appena 1.1kg di peso) che questa volta è stato usato sia per autoscatti sia per immortalare **la milky way**, prevalentemente sulle rive del _Lago Issyk-Kul_.
 
-Ma la vera _new entry_ dello [zaino fotografico]({{< ref "/racconti-di-viaggio/uzbekistan/ep-0-preparativi/index.md##lo-zaino-" >}}) è stato il drone {{< affiliate_link "DJI Mini Pro 3" "dji-mini-pro-3" >}}; avevo già il desiderio di fare l'acquisto ai tempi del [viaggio in Norvegia]({{< ref "/racconti-di-viaggio/norvegia/day-0-sulla-via-del-nord/index.md" >}}) ma non a sufficienza da comprarlo (con grande mio pentimento!).
+Ma la vera _new entry_ dello [zaino fotografico]({{< ref "/racconti-di-viaggio/uzbekistan/ep-0-preparativi/index.md##lo-zaino-" >}}) è stato il drone {{< affiliate_link "DJI Mini Pro 3" "dji-mini-pro-3" >}}; avevo già il desiderio di fare l'acquisto ai tempi del [viaggio in Norvegia]({{< ref "/racconti-di-viaggio/norvegia/2021/day-0-sulla-via-del-nord/index.md" >}}) ma non a sufficienza da comprarlo (con grande mio pentimento!).
 
 Non volevo perdere un'altra occasione per fotografare, da una vista inedita, la meravigliosa potenza della Natura e la sua immensa vastità — ed il Kyrgyzstan era il teatro giusto per il suo ingresso in scena.
 

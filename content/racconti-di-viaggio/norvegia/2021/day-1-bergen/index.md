@@ -9,6 +9,8 @@ tags : [ "travel" ]
 
 showToc : true
 type: "article"
+
+url: "/racconti-di-viaggio/norvegia/day-1-bergen/"
 ---
 
 ## Il viaggio
@@ -356,6 +358,6 @@ Contrariamente a quanto potreste pensare la periferia est di Bergen offre svaria
 
 * * *
 
-Puoi leggere il [day #2 qui]({{< ref "/racconti-di-viaggio/norvegia/day-2-odda-trolltunga/index.md" >}}).
+Puoi leggere il [day #2 qui]({{< ref "/racconti-di-viaggio/norvegia/2021/day-2-odda-trolltunga/index.md" >}}).
 
-Se invece vuoi leggere quali sono stati i preparativi per la *Norvegia* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/norvegia/day-0-sulla-via-del-nord/index.md" >}}).
+Se invece vuoi leggere quali sono stati i preparativi per la *Norvegia* puoi farlo su [questo post]({{< ref "/racconti-di-viaggio/norvegia/2021/day-0-sulla-via-del-nord/index.md" >}}).

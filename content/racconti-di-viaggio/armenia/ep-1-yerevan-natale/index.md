@@ -29,7 +29,7 @@ Peraltro, sempre per ignoranza e forse ingannato dalle similitudini grafiche che
 
 Ho recentemente rinnovato il passaporto che avevo il desiderio, a distanza di quasi un anno dal rinnovo, di usare per stampare in modo indelebile il mio primo timbro: un po' per noia e un po' per completare quella regione geografica - prendiamo al volo un'offerta WizzAir e dopo quasi quattro ore di volo e +3 ore di fuso orario ci troviamo immersi con grande sorpresa in quella che è una cultura e una società che ci stupisce già dai primi minuti.
 
-{{< image src="yerevan_detail.webp" caption="Moderno ed passato si incontrano" >}}
+{{< image src="yerevan_detail.webp" caption="Moderno e passato si incontrano" >}}
 
 Yerevan, soprattutto in centro, è quella che si potrebbe definire una bomboniera in stile sovietico, come so le città sovietiche ci hanno abituato a vedere il centro-sempre curato e ordinato.
 
