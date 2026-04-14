@@ -12,7 +12,7 @@ type: "article"
 ---
 
 {{< capital_letter_open >}}
-Lo ammetto: con questo zaino è stato amore a prima vista. Dai momenti successivi al [viaggio in Norvegia]({{< ref "racconti-di-viaggio/norvegia/day-0-sulla-via-del-nord/index.md" >}}), soprattutto dopo la lunga camminata [verso Trolltunga]({{< ref "racconti-di-viaggio/norvegia/day-2-odda-trolltunga/index.md" >}}) --- ho capito che avevo bisogno di un qualcosa di più **pro**, che mi permettesse di portare dietro la mia mirrorless e gli obiettivi ma, soprattutto --- **di accedervi rapidamente, comodamente e di poter cambiare obiettivo con velocità** e senza l'aiuto di una seconda persona.
+Lo ammetto: con questo zaino è stato amore a prima vista. Dai momenti successivi al [viaggio in Norvegia]({{< ref "racconti-di-viaggio/norvegia/2021/day-0-sulla-via-del-nord/index.md" >}}), soprattutto dopo la lunga camminata [verso Trolltunga]({{< ref "racconti-di-viaggio/norvegia/2021/day-2-odda-trolltunga/index.md" >}}) --- ho capito che avevo bisogno di un qualcosa di più **pro**, che mi permettesse di portare dietro la mia mirrorless e gli obiettivi ma, soprattutto --- **di accedervi rapidamente, comodamente e di poter cambiare obiettivo con velocità** e senza l'aiuto di una seconda persona.
 Il viaggio in [Uzbekistan dell'ultimo autunno]({{< ref "racconti-di-viaggio/uzbekistan/ep-0-preparativi/index.md" >}}), da questo punto di vista, è stato affrontato invece in modo più "tecnico e consapevole".
 {{< capital_letter_close >}}
 
