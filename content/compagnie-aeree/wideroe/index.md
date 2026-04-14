@@ -99,4 +99,4 @@ Interessante la possibilità ― con un proprio device ― di collegarsi al wifi
 
 Questo post è un'appendice **ai post del viaggio in Norvegia**.
 
-Puoi trovare [l'indice completo del viaggio qui]({{< ref "racconti-di-viaggio/norvegia/day-0-sulla-via-del-nord/index.md" >}})
+Puoi trovare [l'indice completo del viaggio qui]({{< ref "racconti-di-viaggio/norvegia/2021/day-0-sulla-via-del-nord/index.md" >}})

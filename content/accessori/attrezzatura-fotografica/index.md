@@ -1,4 +1,4 @@
-—
+---
 title: "Zaino fotografico: l'essenziale per la fotografia da viaggio"
 date: "2022-11-07"
 image: "images/attrezzatura_cover.jpg"
@@ -9,7 +9,7 @@ tags : [ "travel" ]
 
 showToc : true
 type: "article"
-—
+---
 [//]: # "{{<box "green" "Aggiornamenti" >}}* **Novembre 2022**: pubblicazione post{{</box>}}"
 
 {{< box "blue" "Informazione importante" >}}
@@ -32,7 +32,7 @@ Doverosa premessa: *non sono un fotografo*. Sono solo uno con una fotocamera in 
 
 Dividerò l'articolo in due filoni: *uno contenente gli elementi essenziali* ed *un altro contenente attrezzatura per foto più varie ed elaborate*.
 
-La scelta del gruppo è abbastanza semplice: *dipende dalla destinazione*. Per un viaggio di un weekend [come quello a Riga e Tallinn]({{< ref "racconti-di-viaggio/repubbliche-baltiche/tallinn-riga/ep-1-ritorno-a-casa/index.md" >}}) sicuramente porterò il minimo per fare un po' di _street photography_. Per un viaggio più lungo e complesso, con magari qualche pausa naturalistica (come quello in [Georgia ed in Azerbaijan]({{< ref "racconti-di-viaggio/georgia-azerbaijan/day-0-preparativi/index.md" >}}) oppure in [Norvegia]({{< ref "racconti-di-viaggio/norvegia/day-0-sulla-via-del-nord/index.md" >}}) ) prediligerò il gruppo con più attrezzatura.
+La scelta del gruppo è abbastanza semplice: *dipende dalla destinazione*. Per un viaggio di un weekend [come quello a Riga e Tallinn]({{< ref "racconti-di-viaggio/repubbliche-baltiche/tallinn-riga/ep-1-ritorno-a-casa/index.md" >}}) sicuramente porterò il minimo per fare un po' di _street photography_. Per un viaggio più lungo e complesso, con magari qualche pausa naturalistica (come quello in [Georgia ed in Azerbaijan]({{< ref "racconti-di-viaggio/georgia-azerbaijan/day-0-preparativi/index.md" >}}) oppure in [Norvegia]({{< ref "racconti-di-viaggio/norvegia/2021/day-0-sulla-via-del-nord/index.md" >}}) ) prediligerò il gruppo con più attrezzatura.
 
 {{< image src="accessori.jpg" alt="Accessori da viaggio" caption="Alcuni accessori" >}}
 
@@ -114,7 +114,7 @@ Con tre batterie non dovrete aver timore di non arrivare a fine giornata. Una vo
 
 Ormai siamo alla {{< affiliate_link "gopro-11" "versione 11" >}} della famosa _action cam_ — ma a questo oltre ad essere particolarmente affezionato a questo modello, continua anche a funzionare dignitosamente — motivi per il quale non ho intenzione nel breve di cambiarla.
 
-La uso prevalentemente per **timelapse** [notturni]({{< ref "racconti-di-viaggio/norvegia/day-7-lofoten/index.md" >}}) e [diurni]({{< ref "racconti-di-viaggio/norvegia/day-5-sognefjord/index.md" >}}), ma all'occorrenza — montata [sul gimbal]({{< ref "#yi-gimbal" >}}) — produce anche video fluidi e stabilizzati di alta qualità 💪
+La uso prevalentemente per **timelapse** [notturni]({{< ref "racconti-di-viaggio/norvegia/2021/day-7-lofoten/index.md" >}}) e [diurni]({{< ref "racconti-di-viaggio/norvegia/2021/day-5-sognefjord/index.md" >}}), ma all'occorrenza — montata [sul gimbal]({{< ref "#yi-gimbal" >}}) — produce anche video fluidi e stabilizzati di alta qualità 💪
 
 {{< image src="gopro.jpg" alt="GoPro Hero 5" caption="GoPro Hero 5 in azione" >}}
 

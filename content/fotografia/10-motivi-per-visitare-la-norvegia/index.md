@@ -116,7 +116,7 @@ Nessuna strada è meglio di un'altra per arrivare a destinazione, perché rimarr
 * * *
 ` `  
 
-Questo post fa da riepilogo finale ai [racconti del viaggio alla scoperta della Norvegia]({{< ref "racconti-di-viaggio/norvegia/day-0-sulla-via-del-nord/index.md" >}}).
+Questo post fa da riepilogo finale ai [racconti del viaggio alla scoperta della Norvegia]({{< ref "racconti-di-viaggio/norvegia/2021/day-0-sulla-via-del-nord/index.md" >}}).
 
 Nei vari post ― oltre ad informazioni utili ed indicazioni ― troverai numerose altre foto spettacolari.
 
