@@ -1,6 +1,6 @@
 <!-- implementare type="rounded" -->
 {{ $caption := ( .Get "caption" | markdownify ) }}
-{{ $src := ( printf "%s/%s" "video" (.Get "src") ) }}
+{{ $src := ( printf "%s%s/%s" .Page.RelPermalink "video" (.Get "src") ) }}
 
 {{ $class := .Get "class"}}
 {{ $style := .Get "style" }}

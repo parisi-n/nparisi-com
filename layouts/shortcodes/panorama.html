@@ -1,7 +1,7 @@
 <!-- implementare type="rounded" -->
 {{ $title := ( .Get "title" | markdownify ) }}
 {{ $caption := ( .Get "caption" | markdownify ) }}
-{{ $src := ( printf "%s/%s" "images" (.Get "src") ) }}
+{{ $src := ( printf "%s%s/%s" .Page.RelPermalink "images" (.Get "src") ) }}
 
 <figure class="panorama-block-image" style="display: block;">
 
