@@ -27,15 +27,15 @@
 
         <script>
         ( function() {
-          const video = document.getElementById('{{ $id }}');
-          const canPlayWebm = video.canPlayType('video/webm; codecs="vp9,opus"');
+            const video = document.getElementById('{{ $id }}');
+            const canPlayWebm = video.canPlayType('video/webm; codecs="vp9,opus"');
 
-          if (canPlayWebm) {
-            video.src = '{{ $src }}';
-          } else {
-            video.src = '{{ replace $src ".webm" ".mp4"  }}';
-          }
-        })();
+            if (canPlayWebm) {
+              video.src = '{{ $src }}';
+            } else {
+              video.src = '{{ replace $src ".webm" ".mp4"  }}';
+            }
+            })();
         </script>
     </div>
 
