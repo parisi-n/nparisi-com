@@ -23,7 +23,14 @@
         
         <div title="Più di 1500 foto scattate in giro per il mondo!">
             <p class="icon"><i class="fas fa-camera"></i></p>
-            <p class="icon_title">2000+ foto</p>
+            {{ $count := 0 }}
+            {{ range .Site.RegularPages }}
+              {{ $count = add $count (len (.Resources.ByType "image")) }}
+            {{ end }}
+
+            {{ $rounded := mul (div $count 100) 100 }}
+
+            <p class="icon_title">{{ $rounded }}+ foto</p>
         </div>
     </div>
     
