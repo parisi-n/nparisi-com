@@ -2,3 +2,4 @@
 #/post/* https://nparisi.netlify.com/:splat 200!
 /in-viaggio-verso-georgia-azerbaijan-night-train-day-5/ /racconti-di-viaggio/georgia-azerbaijan/day-5-night-train/ 200!
 /racconti-viaggio/* /racconti-di-viaggio/:splat 200!
+/racconti-di-viaggio/norvegia/ /racconti-di-viaggio/:splat 200!
