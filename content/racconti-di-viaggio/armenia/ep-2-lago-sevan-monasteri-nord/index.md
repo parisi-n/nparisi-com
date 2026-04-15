@@ -125,11 +125,11 @@ Ci viene fatto notare da Monia come solo l'ossidiana sia tipica dell'Armenia; qu
 
 ## Dilijan: la Svizzera armena
 
-{{< image src="old_dilijan_rent.webp" alt="Casa a Dilijan" caption="Tattativa privata" >}}
+{{< video src="dilijan_spectre.webm" caption="Khachkar con all'interno un volto" type="vertical_9x16" >}}
 
 Dopo circa un'ora di marshrutka arriviamo a Dilijan, e per la precisione nella sua **Old Town**.
 
-{{< video src="dilijan_spectre.webm" caption="Khachkar con all'interno un volto" type="vertical_9x16" >}}
+{{< image src="old_dilijan_rent.webp" alt="Casa a Dilijan" caption="Tattativa privata" >}}
 
 Dilijan è famosa in Armenia per essere il paese dei resort e delle SPA, trovandosi all'interno del _Dilijan National Park_.
 
