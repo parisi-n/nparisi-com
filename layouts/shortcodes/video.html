@@ -21,22 +21,11 @@
 
 <figure class="block-image {{$parentclass}}" style="display: block;{{ $parentstyle }}">
     
-    {{ $id := printf "video-%d" now.UnixNano }}
     <div class="{{if $type }} {{$type}}{{end}}">
-        <video id="{{ $id }}" autoplay loop muted playsinline style="width: 100%; height: {{ .Scratch.Get "height" }}" poster="{{ .Scratch.Get "poster" }}"></video>
-
-        <script>
-        ( function() {
-            const video = document.getElementById('{{ $id }}');
-            const canPlayWebm = video.canPlayType('video/webm; codecs="vp9,opus"');
-
-            if (canPlayWebm) {
-              video.src = '{{ $src }}';
-            } else {
-              video.src = '{{ replace $src ".webm" ".mp4"  }}';
-            }
-            })();
-        </script>
+        <video autoplay loop muted playsinline style="width: 100%; height: {{ .Scratch.Get "height" }}" poster="{{ .Scratch.Get "poster" }}">
+          <source src="{{ $src }}" type="video/webm">
+          <source src="{{ replace $src ".webm" ".mp4"  }}" type="video/mp4">
+        </video>
     </div>
 
     {{ if $caption }}
