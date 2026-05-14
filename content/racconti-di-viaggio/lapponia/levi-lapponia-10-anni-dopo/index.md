@@ -285,6 +285,8 @@ Esploriamo i dintorni nella **speranza di vedere nuovamente l'_Aurora boreale_**
 
 Ne approfittiamo per ripristinare le riserve di cibo in vista dell'avventura che ci aspettava il giorno dopo.
 
+{{< image src="centro_levi.webp" alt="" caption="Via di Levi" >}}
+
 In centro — optiamo per spendere la cena da {{< external_link "https://maps.app.goo.gl/NAPkE9yKvNCN8mWr7" "Nili-Poro" >}}, un ristorantino tradizionale e tipico in centro; ammetto però che il mio desiderio principale non era mangiare né cervo né renna, ma bere una buonissima birra locale.
 
 {{< image src="cena_levi.webp" alt="" caption="Renna e mirtillo" >}}
@@ -361,15 +363,21 @@ Appena arriviamo in stazione, la prima grande delusione: non è una stazione con
 "Non è un buon inizio" — penso tra me e me.
 Mi viene anche il dubbio che sia il posto giusto, però i documenti riportano esattamente quella via e a più controlli effettuati sul momento sia su GMaps sia su Internet, sembrerebbe siamo effettivamente nel posto corretto.
 
+{{< image src="stazione_bus_oulu.webp" alt="" caption="Stazione dei bus di Oulu" >}}
+
 Finché alle 23 non arriva il Flixbus e tiriamo un sospiro di sollievo 😁
 
 Dopo i primi iscritti con gli autisti, per cui ci viene detto che i posti in prima fila erano occupati — avendo invece noi pagato appositamente per quei posti — ci mettiamo in posizione e finalmente ceniamo.
 
 {{< image src="bus_notte.webp" alt="" caption="Strada vista dal bus" >}}
 
+Mangiamo prelibatezze locali.
+
+{{< video src="cibo_bus.webm" caption="In viaggio" >}}
+
 La notte non passa comunque liscia, tra frequenti interruzioni e incontri di terzo tipo inaspettati su strada.
 
-{{< youtube id="Oev7cejdQGM" caption="Casa su un tir">}}
+{{< youtube id="PmkYEeF0Pb4" caption="Casa su un tir">}}
 
 Il mio pensiero non può che essere rivolto a quando, parecchi anni prima, esploravo l'Europa a bordo di bus e percorrere anche 10 - 12 - 16 ore di tratta era la normalità e mi riempiva il cuore di gioia.
 A parte il mal di schiena e la scomodità però devo ammettere come viaggiare la notte sui bus sia comunque un'esperienza che non solo mantiene i giovani, ma fa anche sognare, e illude in qualche modo di essere ancora all'altezza di fronteggiare l'imprevisto e la scomodità.
