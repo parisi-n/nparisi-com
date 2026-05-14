@@ -17,6 +17,14 @@
             "url" : "racconti-di-viaggio/armenia/ep-1-yerevan-natale"
         } ,
         {
+            "image" : "lapland_levi_cover.webp" ,
+            "color_category": "#f4511e" ,
+            "category": "Lapland" ,
+            "text_title" : "Torno in Lapponia: 10 anni dopo" ,
+            "text_description" : "Tra renne, corse con gli husky e paesaggi fiabeschi" ,
+            "url" : "racconti-di-viaggio/lapponia/levi-lapponia-10-anni-dopo/"
+        } ,
+        {
             "image" : "lithuania_december_cover.jpg" ,
             "color_category": "#f4511e" ,
             "category": "Repubbliche Baltiche" ,
